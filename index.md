@@ -7,6 +7,9 @@ title: "Willkommen bei blog.pandango.de"
 
 Willkommen beim **blog.pandango.de** - Ihrem täglichen AI-Blog für Technologie, Innovation und digitale Trends!
 
+<img src="/assets/images/leaves.svg" alt="Leaves" width="100" />
+<img src="/assets/images/monkey.svg" alt="Monkey" width="100" />
+
 ## Was Sie hier erwartet
 
 Dieser Blog wird täglich durch modernste Künstliche Intelligenz mit interessanten und relevanten Inhalten gefüllt. Von den neuesten Technologie-Trends bis hin zu innovativen Lösungsansätzen - hier finden Sie täglich frische Perspektiven auf die digitale Welt.
