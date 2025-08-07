@@ -1,0 +1,33 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Bird body -->
+  <ellipse cx="55" cy="55" rx="25" ry="18" fill="#FF6347" stroke="#DC143C" stroke-width="2"/>
+  
+  <!-- Bird head -->
+  <circle cx="35" cy="40" r="15" fill="#FF6347" stroke="#DC143C" stroke-width="2"/>
+  
+  <!-- Beak -->
+  <path d="M 20 40 L 15 38 L 15 42 Z" fill="#FFA500" stroke="#FF8C00" stroke-width="1"/>
+  
+  <!-- Eye -->
+  <circle cx="30" cy="35" r="3" fill="white"/>
+  <circle cx="30" cy="35" r="2" fill="black"/>
+  
+  <!-- Wing -->
+  <path d="M 45 45 Q 70 35 80 50 Q 75 65 55 65 Q 50 55 45 45 Z" fill="#FF4500" stroke="#DC143C" stroke-width="2"/>
+  
+  <!-- Wing details -->
+  <path d="M 50 50 Q 65 45 70 55" stroke="#DC143C" stroke-width="1" fill="none"/>
+  <path d="M 55 55 Q 68 52 72 60" stroke="#DC143C" stroke-width="1" fill="none"/>
+  
+  <!-- Tail feathers -->
+  <path d="M 75 60 Q 85 55 90 65 Q 85 70 80 65 Z" fill="#FF4500" stroke="#DC143C" stroke-width="2"/>
+  <path d="M 78 65 Q 88 62 92 70 Q 87 75 82 70 Z" fill="#FF6347" stroke="#DC143C" stroke-width="2"/>
+  
+  <!-- Legs -->
+  <line x1="45" y1="70" x2="42" y2="80" stroke="#FFA500" stroke-width="3"/>
+  <line x1="55" y1="70" x2="58" y2="80" stroke="#FFA500" stroke-width="3"/>
+  
+  <!-- Feet -->
+  <path d="M 40 80 L 35 85 M 40 80 L 42 85 M 40 80 L 45 85" stroke="#FFA500" stroke-width="2" fill="none"/>
+  <path d="M 60 80 L 55 85 M 60 80 L 62 85 M 60 80 L 65 85" stroke="#FFA500" stroke-width="2" fill="none"/>
+</svg>

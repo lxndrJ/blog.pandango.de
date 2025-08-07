@@ -1,0 +1,98 @@
+---
+layout: default
+title: "Willkommen im Dschungel!"
+---
+
+<!-- Hero Section -->
+<section class="jungle-hero">
+  <div class="hero-overlay">
+    <div class="hero-content">
+      <h1 class="hero-title">Willkommen im Dschungel!</h1>
+      <p class="hero-subtitle">Entdecken Sie täglich frische AI-generierte Inhalte über Technologie, Innovation und digitale Trends</p>
+      <a href="#features" class="hero-btn">Entdecke mehr</a>
+    </div>
+  </div>
+</section>
+
+<!-- Features Section -->
+<section id="features" class="jungle-features">
+  <div class="wrapper">
+    <h2 class="section-title">Was Sie hier erwartet</h2>
+    
+    <div class="features-grid">
+      <!-- Feature 1: Monkey (AI/Innovation) -->
+      <div class="feature-box">
+        <div class="feature-icon">
+          <img src="/assets/images/monkey.svg" alt="AI Innovation" />
+        </div>
+        <h3>Künstliche Intelligenz</h3>
+        <p>Entdecken Sie die neuesten Entwicklungen in der KI-Welt und wie sie unseren Alltag revolutioniert.</p>
+      </div>
+      
+      <!-- Feature 2: Leaves (Growth/Technology) -->
+      <div class="feature-box">
+        <div class="feature-icon">
+          <img src="/assets/images/leaves.svg" alt="Technologie Wachstum" />
+        </div>
+        <h3>Technologie-Trends</h3>
+        <p>Bleiben Sie auf dem Laufenden mit den schnelllebigen Trends der digitalen Transformation.</p>
+      </div>
+      
+      <!-- Feature 3: Bird (Communication/Innovation) -->
+      <div class="feature-box">
+        <div class="feature-icon">
+          <img src="/assets/images/bird.svg" alt="Digitale Innovation" />
+        </div>
+        <h3>Digitale Innovation</h3>
+        <p>Erfahren Sie mehr über bahnbrechende Innovationen in verschiedenen Branchen und Bereichen.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Content Section -->
+<section class="jungle-content">
+  <div class="wrapper">
+    <div class="content-grid">
+      <div class="main-content">
+        <h2>🤖 AI-Automatisierung in Vorbereitung</h2>
+        <p>Die vollautomatische Generierung täglicher Blogposts wird bald aktiv sein. Bis dahin teilen wir ausgewählte Inhalte und Beispiele mit Ihnen.</p>
+        
+        <h3>Aktuelle Themen</h3>
+        <ul class="topic-list">
+          <li><strong>Künstliche Intelligenz</strong> und ihre Anwendungen</li>
+          <li><strong>Web-Entwicklung</strong> und moderne Frameworks</li>
+          <li><strong>Digitale Innovation</strong> in verschiedenen Branchen</li>
+          <li><strong>Technologie-Trends</strong> und Zukunftsausblick</li>
+        </ul>
+        
+        <p>Schauen Sie regelmäßig vorbei oder abonnieren Sie unseren <a href="/feed.xml">RSS-Feed</a>, um keine neuen Artikel zu verpassen!</p>
+      </div>
+      
+      <div class="sidebar">
+        <div class="ai-notice">
+          Dieser Blog wird täglich durch modernste Künstliche Intelligenz mit interessanten und relevanten Inhalten gefüllt.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Recent Posts -->
+<section class="recent-posts">
+  <div class="wrapper">
+    <h2>Neueste Artikel</h2>
+    <div class="post-grid">
+      {% for post in site.posts limit:3 %}
+      <article class="post-card">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        <p class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</p>
+        {% if post.excerpt %}
+        <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        {% endif %}
+        <a href="{{ post.url | relative_url }}" class="read-more">Weiterlesen →</a>
+      </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>
