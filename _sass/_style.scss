@@ -1,0 +1,24 @@
+body {
+  min-height: 100vh;
+  background:
+    linear-gradient(rgba(34,193,195,0.25), rgba(253,187,45,0.15)),
+    url('/assets/images/jungle-bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  color: #222;
+}
+
+/* 
+ * Jungle background styling for blog.pandango.de
+ * 
+ * Features:
+ * - Gradient overlay for better text readability
+ * - Fixed jungle background image with leaves, monkey, and bird
+ * - Responsive background sizing
+ * 
+ * Note: The jungle-bg.jpg image is currently a placeholder.
+ * Please replace with an actual jungle illustration containing:
+ * - Tropical leaves and foliage
+ * - A small monkey
+ * - A bird
+ */
