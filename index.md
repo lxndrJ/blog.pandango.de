@@ -1,28 +1,30 @@
 ---
 layout: home
-title: "Willkommen bei blog.pandango.de"
+title: "Blog.pandango.de - Inhaltsverzeichnis"
 ---
 
-# Täglich frische AI-generierte Inhalte
+# Inhaltsverzeichnis
 
-Willkommen beim **blog.pandango.de** - Ihrem täglichen AI-Blog für Technologie, Innovation und digitale Trends!
+Willkommen bei **blog.pandango.de**! Hier finden Sie alle verfügbaren Blogposts sortiert nach Veröffentlichungsdatum.
 
-<img src="/assets/images/leaves.svg" alt="Leaves" width="100" />
-<img src="/assets/images/monkey.svg" alt="Monkey" width="100" />
+## Alle Blogposts
 
-## Was Sie hier erwartet
+### 2025-08-22
 
-Dieser Blog wird täglich durch modernste Künstliche Intelligenz mit interessanten und relevanten Inhalten gefüllt. Von den neuesten Technologie-Trends bis hin zu innovativen Lösungsansätzen - hier finden Sie täglich frische Perspektiven auf die digitale Welt.
+- [Arbeitsmarkttrends in Neuseeland](_posts/2025-08-22-arbeitsmarkttrends-in-neuseeland.md) - 22. August 2025
+- [Gebirge und Wanderwege in Vanuatu](_posts/2025-08-22-gebirge-und-wanderwege-in-vanuatu.md) - 22. August 2025
+- [Sprachbarrieren überwinden in Thailand](_posts/2025-08-22-sprachbarrieren-überwinden-in-thailand.md) - 22. August 2025
+- [Wälder und Forstwirtschaft in Osttimor](_posts/2025-08-22-wälder-und-forstwirtschaft-in-osttimor.md) - 22. August 2025
 
-## AI-Automatisierung in Vorbereitung
+### 2025-08-21
 
-🤖 **In Kürze:** Die vollautomatische Generierung täglicher Blogposts wird bald aktiv sein. Bis dahin teilen wir ausgewählte Inhalte und Beispiele mit Ihnen.
+- [Fakaofo: Ein Geheimtipp für Familien auf Entdeckungsreise](_posts/20250821_Familienfreundliche_Reiseziele_in_Tokelau.md) - 21. August 2025
+- [Minsk: Eine geologische Zeitreise im Herzen Weißrusslands](_posts/20250821_Geologische_Besonderheiten_in_Weissrussland.md) - 21. August 2025
 
-## Aktuelle Themen
+### 2025-01-20
 
-- **Künstliche Intelligenz** und ihre Anwendungen
-- **Web-Entwicklung** und moderne Frameworks  
-- **Digitale Innovation** in verschiedenen Branchen
-- **Technologie-Trends** und Zukunftsausblick
+- [Test Post für Synchronisation](_posts/2025-01-20-test-synchronisation.md) - 20. Januar 2025
 
-Schauen Sie regelmäßig vorbei oder abonnieren Sie unseren [RSS-Feed](/feed.xml), um keine neuen Artikel zu verpassen!
+---
+
+*Insgesamt **7 Blogposts** verfügbar. Schauen Sie regelmäßig vorbei für neue Inhalte!*
