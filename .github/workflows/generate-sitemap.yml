@@ -1,0 +1,174 @@
+name: Generate Sitemap and Robots.txt
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-sitemap:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
+          
+      - name: Install dependencies
+        run: |
+          bundle install
+          
+      - name: Generate sitemap.xml and robots.txt
+        run: |
+          # Create sitemap generation script
+          cat > generate_sitemap.rb << 'EOF'
+          #!/usr/bin/env ruby
+          require 'time'
+          require 'date'
+          
+          # Site configuration
+          base_url = "https://lxndrj.github.io/blog.pandango.de"
+          
+          # Start building sitemap XML
+          sitemap_content = <<~XML
+            <?xml version="1.0" encoding="UTF-8"?>
+            <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+          XML
+          
+          # Add homepage
+          sitemap_content += <<~XML
+              <url>
+                <loc>#{base_url}/</loc>
+                <lastmod>#{Time.now.strftime('%Y-%m-%d')}</lastmod>
+                <changefreq>daily</changefreq>
+                <priority>1.0</priority>
+              </url>
+          XML
+          
+          # Process all markdown files in _posts
+          posts_dir = "_posts"
+          if Dir.exist?(posts_dir)
+            Dir.glob("#{posts_dir}/*.md").each do |post_file|
+              begin
+                content = File.read(post_file)
+                
+                # Extract front matter
+                if content.match(/\A---\s*\n(.*?)\n---\s*\n/m)
+                  front_matter = $1
+                  
+                  # Extract title and date manually
+                  title_match = front_matter.match(/^title:\s*["']?(.*?)["']?\s*$/m)
+                  date_match = front_matter.match(/^date:\s*(\d{4}-\d{2}-\d{2})\s*$/m)
+                  
+                  title = title_match ? title_match[1] : File.basename(post_file, '.md')
+                  date_str = date_match ? date_match[1] : Time.now.strftime('%Y-%m-%d')
+                  
+                  # Parse date string
+                  begin
+                    date = Date.parse(date_str)
+                  rescue
+                    date = Date.today
+                  end
+                  
+                  # Generate URL based on Jekyll default permalink structure
+                  filename = File.basename(post_file, '.md')
+                  if filename.match(/(\d{4}-\d{2}-\d{2})-(.*?)$/)
+                    post_date = $1
+                    post_slug = $2
+                    year, month, day = post_date.split('-')
+                    post_url = "#{base_url}/#{year}/#{month}/#{day}/#{post_slug}.html"
+                  else
+                    # Fallback for files that don't follow date format
+                    post_url = "#{base_url}/#{filename}.html"
+                  end
+                  
+                  # Add to sitemap
+                  sitemap_content += <<~XML
+              <url>
+                <loc>#{post_url}</loc>
+                <lastmod>#{date.strftime('%Y-%m-%d')}</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.8</priority>
+              </url>
+                  XML
+                  
+                  puts "Added: #{post_url}"
+                end
+              rescue => e
+                puts "Error processing #{post_file}: #{e.message}"
+              end
+            end
+          end
+          
+          # Process other markdown files in root
+          Dir.glob("*.md").each do |md_file|
+            next if md_file == "README.md"
+            
+            begin
+              content = File.read(md_file)
+              filename = File.basename(md_file, '.md')
+              
+              # Check if it has front matter (Jekyll page)
+              if content.match(/\A---\s*\n(.*?)\n---\s*\n/m)
+                page_url = "#{base_url}/#{filename}.html"
+                
+                sitemap_content += <<~XML
+              <url>
+                <loc>#{page_url}</loc>
+                <lastmod>#{Time.now.strftime('%Y-%m-%d')}</lastmod>
+                <changefreq>monthly</changefreq>
+                <priority>0.6</priority>
+              </url>
+                XML
+                
+                puts "Added: #{page_url}"
+              end
+            rescue => e
+              puts "Error processing #{md_file}: #{e.message}"
+            end
+          end
+          
+          # Close sitemap XML
+          sitemap_content += "</urlset>\n"
+          
+          # Write sitemap.xml
+          File.write('sitemap.xml', sitemap_content)
+          puts "Generated sitemap.xml with #{sitemap_content.scan(/<url>/).length} URLs"
+          
+          # Generate robots.txt
+          robots_content = <<~ROBOTS
+            User-agent: *
+            Allow: /
+            
+            Sitemap: #{base_url}/sitemap.xml
+          ROBOTS
+          
+          File.write('robots.txt', robots_content)
+          puts "Generated robots.txt"
+          EOF
+          
+          # Run the sitemap generation script
+          ruby generate_sitemap.rb
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add generated files
+          git add sitemap.xml robots.txt
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generate sitemap.xml and robots.txt"
+            git push
+          fi
