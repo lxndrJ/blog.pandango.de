@@ -34,7 +34,7 @@ jobs:
           require 'date'
           
           # Site configuration
-          base_url = "https://lxndrj.github.io/blog.pandango.de"
+          base_url = "https://blog.pandango.de"
           
           # Start building sitemap XML
           sitemap_content = <<~XML
