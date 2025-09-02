@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://blog.pandango.de/</loc>
-  <lastmod>2025-09-01</lastmod>
+  <lastmod>2025-09-02</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
@@ -109,8 +109,14 @@
   <priority>0.8</priority>
 </url>
 <url>
+  <loc>https://blog.pandango.de/2025/09/02/exportprodukte-in-antarktis.html</loc>
+  <lastmod>2025-09-02</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
   <loc>https://blog.pandango.de/index.html</loc>
-  <lastmod>2025-09-01</lastmod>
+  <lastmod>2025-09-02</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.6</priority>
 </url>
