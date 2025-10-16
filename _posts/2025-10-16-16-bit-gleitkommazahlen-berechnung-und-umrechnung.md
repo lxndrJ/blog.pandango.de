@@ -56,9 +56,11 @@ Wobei:
 
 ### 3. Wertebereiche
 
-- **Kleinste positive normalisierte Zahl**: 2^(-14) ≈ 6.10 × 10^(-5)
-- **Größte normalisierte Zahl**: (2 - 2^(-10)) × 2^15 = 65504
+- **Kleinste positive normalisierte Zahl**: 2^(-14) ≈ 6.104 × 10^(-5) (Exponent = 1, Mantisse = 0)
+- **Größte normalisierte Zahl**: (2 - 2^(-10)) × 2^15 = 65504 (Exponent = 30, Mantisse = alle 1en)
 - **Genauigkeit**: ca. 3-4 Dezimalstellen
+
+**Hinweis**: Der Exponent 0 ist für denormalisierte Zahlen reserviert, der Exponent 31 für ±∞ und NaN.
 
 ---
 
