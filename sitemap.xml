@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://blog.pandango.de/</loc>
-  <lastmod>2026-03-23</lastmod>
+  <lastmod>2026-03-24</lastmod>
   <changefreq>daily</changefreq>
   <priority>1.0</priority>
 </url>
@@ -1225,8 +1225,14 @@
   <priority>0.8</priority>
 </url>
 <url>
+  <loc>https://blog.pandango.de/2026/03/24/bildung-und-innovation-in-färöer-inseln.html</loc>
+  <lastmod>2026-03-24</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
   <loc>https://blog.pandango.de/index.html</loc>
-  <lastmod>2026-03-23</lastmod>
+  <lastmod>2026-03-24</lastmod>
   <changefreq>monthly</changefreq>
   <priority>0.6</priority>
 </url>
