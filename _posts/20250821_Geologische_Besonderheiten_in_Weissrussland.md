@@ -62,3 +62,4 @@ Minsk steht für mehr als moderne Urbanität - es ist ein lebendiges Dokument de
 **Weitere Informationen:**
 - Geologisches Institut Weißrusslands
 - Nationale Akademie der Wissenschaften
+image: https://upload.wikimedia.org/wikipedia/commons/0/0f/All_administrative_divisions_of_Belarus_%282009%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original

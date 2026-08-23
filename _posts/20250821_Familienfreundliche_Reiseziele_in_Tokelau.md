@@ -41,3 +41,4 @@ Die Tokelauische Kultur prägt Fakaofo:
 **Fazit:** Fakaofo ist mehr als nur ein Reiseziel - es ist ein Abenteuer für die ganze Familie! 🌴🌊
 
 *Vergiss nicht: Die schönsten Erinnerungen entstehen abseits ausgetretener Pfade.*
+image: https://upload.wikimedia.org/wikipedia/commons/0/01/Constitution_of_Tokelau_%28Tokelauan_language%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
