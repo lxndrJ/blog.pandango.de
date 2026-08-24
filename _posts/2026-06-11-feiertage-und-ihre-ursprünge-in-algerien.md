@@ -3,7 +3,8 @@ layout: post
 title: "Feiertage und ihre Ursprünge in Algerien"
 date: 2026-06-11 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Feiertage und ihre Ursprünge in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Feiertage und ihre Ursprünge in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Algiriens Feiertage: Zwischen Tradition und Geschichte
 

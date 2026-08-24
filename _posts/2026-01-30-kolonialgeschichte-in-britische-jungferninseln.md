@@ -3,7 +3,8 @@ layout: post
 title: "Kolonialgeschichte in Britische Jungferninseln"
 date: 2026-01-30 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Kolonialgeschichte in Britische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Kolonialgeschichte in Britische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Vergessene Geschichten: Die Britischen Jungferninseln zwischen Kolonialzeit und Gegenwart
 

@@ -3,7 +3,8 @@ layout: post
 title: "Wälder und Forstwirtschaft in Benin"
 date: 2026-07-17 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/4/4d/Benin_Ireland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Wälder und Forstwirtschaft in Benin](https://upload.wikimedia.org/wikipedia/commons/4/4d/Benin_Ireland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Wälder und Forstwirtschaft in Benin](https://upload.wikimedia.org/wikipedia/commons/4/4d/Benin_Ireland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die grünen Lungen Benins: Zwischen Tradition und Waldschutz
 

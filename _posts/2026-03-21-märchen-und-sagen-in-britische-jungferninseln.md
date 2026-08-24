@@ -3,7 +3,8 @@ layout: post
 title: "Märchen und Sagen in Britische Jungferninseln"
 date: 2026-03-21 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Märchen und Sagen in Britische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Märchen und Sagen in Britische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Märchen aus der Karibik: Die geheimnisvollen Geschichten der Britischen Jungferninseln
 

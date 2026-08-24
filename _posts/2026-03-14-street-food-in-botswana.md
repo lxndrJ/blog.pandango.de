@@ -3,7 +3,8 @@ layout: post
 title: "Street Food in Botswana"
 date: 2026-03-14 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/2/26/Cabbage_on_display_shelf_at_a_local_supermarket_in_Palapye%2C_Botswana_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Street Food in Botswana](https://upload.wikimedia.org/wikipedia/commons/2/26/Cabbage_on_display_shelf_at_a_local_supermarket_in_Palapye%2C_Botswana_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Street Food in Botswana](https://upload.wikimedia.org/wikipedia/commons/2/26/Cabbage_on_display_shelf_at_a_local_supermarket_in_Palapye%2C_Botswana_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Street Food in Botswana: Geschmäcker und Geschichten auf der Straße
 

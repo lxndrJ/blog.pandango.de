@@ -3,7 +3,8 @@ layout: post
 title: "Handwerkskunst in Französisch-Polynesien"
 date: 2026-06-22 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/f/fb/039_Sunset_at_Tikehau_%28French_Polynesia%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Handwerkskunst in Französisch-Polynesien](https://upload.wikimedia.org/wikipedia/commons/f/fb/039_Sunset_at_Tikehau_%28French_Polynesia%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Handwerkskunst in Französisch-Polynesien](https://upload.wikimedia.org/wikipedia/commons/f/fb/039_Sunset_at_Tikehau_%28French_Polynesia%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Handwerk mit Herzschlag: Die lebendige Kunstkultur Französisch-Polynesiens
 

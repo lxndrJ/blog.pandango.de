@@ -3,7 +3,8 @@ layout: post
 title: "Religiöse Rituale in Jemen"
 date: 2026-06-29 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/aa/Checkpoint_and_soldiers_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Religiöse Rituale in Jemen](https://upload.wikimedia.org/wikipedia/commons/a/aa/Checkpoint_and_soldiers_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Religiöse Rituale in Jemen](https://upload.wikimedia.org/wikipedia/commons/a/aa/Checkpoint_and_soldiers_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Seele des Jemen: Religiöse Rituale in Sana'a
 

@@ -3,7 +3,8 @@ layout: post
 title: "Entdecker und Reisende in Georgien"
 date: 2026-01-29 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Entdecker und Reisende in Georgien](https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Entdecker und Reisende in Georgien](https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Georgien: Eine Reise durch Zeit und Geschichten
 

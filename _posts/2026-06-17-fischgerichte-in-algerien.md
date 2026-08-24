@@ -3,7 +3,8 @@ layout: post
 title: "Fischgerichte in Algerien"
 date: 2026-06-17 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Fischgerichte in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Fischgerichte in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wenn das Mittelmeer auf den Teller kommt: Fischgerichte in Algerien
 

@@ -3,7 +3,8 @@ layout: post
 title: "Backpacking-Routen in Macao"
 date: 2026-08-05 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Backpacking-Routen in Macao](https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Backpacking-Routen in Macao](https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mit dem Rucksack durch Macau: Zwischen Glitzer und Geheimtipps
 

@@ -3,7 +3,8 @@ layout: post
 title: "Sicherheit auf Reisen in Trinidad und Tobago"
 date: 2026-02-01 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/e/ed/02.Trinidad_%2859%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Sicherheit auf Reisen in Trinidad und Tobago](https://upload.wikimedia.org/wikipedia/commons/e/ed/02.Trinidad_%2859%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Sicherheit auf Reisen in Trinidad und Tobago](https://upload.wikimedia.org/wikipedia/commons/e/ed/02.Trinidad_%2859%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Sicher unterwegs in Trinidad und Tobago: Ein Reiseabenteuer zwischen Karibik und Vorsicht
 

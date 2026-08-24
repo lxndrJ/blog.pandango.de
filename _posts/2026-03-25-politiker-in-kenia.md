@@ -3,7 +3,8 @@ layout: post
 title: "Politiker in Kenia"
 date: 2026-03-25 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/b/b5/2017_22_Inauguration_Ceremony_-3_%2832895812172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Politiker in Kenia](https://upload.wikimedia.org/wikipedia/commons/b/b5/2017_22_Inauguration_Ceremony_-3_%2832895812172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Politiker in Kenia](https://upload.wikimedia.org/wikipedia/commons/b/b5/2017_22_Inauguration_Ceremony_-3_%2832895812172%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Gesichter der Macht: Kenias Politiker und ihre faszinierende Geschichte
 

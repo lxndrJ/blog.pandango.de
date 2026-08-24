@@ -16,7 +16,8 @@ sources:
   - https://web.arbeitsagentur.de/berufenet/beruf/129348
   - https://www.deutschesee.de/manufaktur/fisch-experten/unser-raeuchermeister/
   - https://www.deutschesee.de/manufaktur/raeucherei/
----![Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt](https://upload.wikimedia.org/wikipedia/commons/1/17/Hexenbuche_mit_Kreuzberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt](https://upload.wikimedia.org/wikipedia/commons/1/17/Hexenbuche_mit_Kreuzberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt
 
