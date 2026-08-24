@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visionäre und Erfinder in Barbados"
-date: 2026-04-24 08:00:00 +0200
+date: 2026-04-24
 image: https://images.unsplash.com/photo-1773218370247-df79a8a91317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWaXNpb24lQzMlQTRyZSUyMHVuZCUyMEVyZmluZGVyJTIwQmFyYmFkb3N8ZW58MHwwfHx8MTc3NzAwODM2N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -32,5 +32,7 @@ Heute sind es Unternehmer und Wissenschaftler, die Barbados in neue Zeiten führ
 Was Barbados besonders macht, ist die Verbindung zwischen Geschichte und Zukunft. In den Straßen von Bridgetown triffst du auf Kunstgalerien, Start-ups und junge Menschen, die die nächste Generation von Erfindern sein werden. Die kulturelle Vielfalt – geprägt durch afrikanische, europäische und indigene Einflüsse – schafft einen einzigartigen Nährboden für kreatives Denken.
 
 Barbados lehrt uns, dass Visionen nicht immer große, spektakuläre Erfindungen sein müssen. Manchmal sind es kleine Veränderungen im Denken, die eine ganze Insel transformieren können. Und genau das macht diese Nation so inspirierend zu besuchen.
+
+---
 
 *Hast du auch eine Geschichte über inspirierende Menschen oder Orte, die dich bewegt haben? Die Welt ist voll von Visionären – man muss sie nur entdecken.*

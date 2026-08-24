@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Symbolik in der Kultur in Guinea-Bissau"
-date: 2026-05-04 08:00:00 +0200
+date: 2026-05-04
 image: https://images.unsplash.com/photo-1708513428322-1f56b3d1f3bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTeW1ib2xpayUyMGluJTIwZGVyJTIwS3VsdHVyJTIwR3VpbmVhLUJpc3NhdXxlbnwwfDB8fHwxNzc3ODczOTkzfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -34,5 +34,7 @@ In Guinea-Bissau existieren traditionelle Initiationszeremonien, besonders in de
 ## Ein Land im Fluss
 
 Das Besondere an Guinea-Bissau ist, dass Tradition und Moderne hier eine eigenartige, wunderbare Liaison eingehen. In Bissau trifft man auf junge Menschen, die ihre symbolische Kultur bewahren wollen, während sie gleichzeitig in die Zukunft blicken. Diese Balance ist fragil und kostbar.
+
+---
 
 Guinea-Bissau lehrt uns, dass Kultur nicht in Museen gehört – sie lebt auf den Straßen, in den Herzschlägen der Menschen, in den Farben und Klängen des Alltags. Wer dieses kleine, oft übersehene Land besucht, entdeckt nicht nur Sehenswürdigkeiten, sondern einen Zugang zu einer tieferen Wahrheit: dass Symbole die Brücken sind, die Menschen, Generationen und Träume verbinden.

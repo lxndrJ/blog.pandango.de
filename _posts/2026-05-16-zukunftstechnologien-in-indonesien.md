@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zukunftstechnologien in Indonesien"
-date: 2026-05-16 08:00:00 +0200
+date: 2026-05-16
 image: https://images.unsplash.com/photo-1736523075712-398e8a18767a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxadWt1bmZ0c3RlY2hub2xvZ2llbiUyMEluZG9uZXNpZW58ZW58MHwwfHx8MTc3ODkxMDI1NHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -38,6 +38,8 @@ Die Startups in Jakarta wachsen schneller, iterieren schneller und verstehen ihr
 ## Das menschliche Gesicht der Tech-Revolution
 
 Aber am wichtigsten ist vielleicht das: Indonesien vergisst nicht, woher es kommt. Die Technologien, die hier entstehen, sollen Menschen helfen – nicht ersetzen. Es geht um finanzielle Inklusion für Millionen, die bisher keinen Zugang zu Bankdienstleistungen hatten. Es geht um Bildung für Kinder in abgelegenen Dörfern. Es geht um die Bewahrung einer Kultur, die Jahrtausende alt ist, während man gleichzeitig ins 22. Jahrhundert schreitet.
+
+---
 
 Jakarta ist nicht das nächste Silicon Valley, und das ist genau sein Vorteil. Es ist Jakarta – laut, bunt, chaotisch, menschlich und voller Möglichkeiten. Die Zukunftstechnologien, die hier entstehen, werden nicht nur Indonesien verändern, sondern zeigen der Welt, wie Innovation wirklich aussieht: wenn sie nicht abstrakt bleibt, sondern mit Kultur, Tradition und vor allem mit Menschen verbunden ist.
 

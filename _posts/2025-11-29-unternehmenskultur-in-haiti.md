@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unternehmenskultur in Haiti"
-date: 2025-11-29 08:00:00 +0200
+date: 2025-11-29
 image: https://images.unsplash.com/photo-1602027333786-373a1b858831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxVbnRlcm5laG1lbnNrdWx0dXIlMjBIYWl0aXxlbnwwfDB8fHwxNzY0Mzg3NTM0fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -52,5 +52,7 @@ Trotz wirtschaftlicher Herausforderungen zeigt Haiti eine beeindruckende unterne
 ### Fazit
 
 Haitis Unternehmenskultur ist ein lebendes Beispiel dafür, dass wahre Innovation nicht von äußeren Ressourcen, sondern von innerer Kraft abhängt.
+
+---
 
 *Dieser Einblick entstand während einer Recherchereise durch Haiti - mit offenen Augen und einem Herzen für unerwartete Geschichten.*

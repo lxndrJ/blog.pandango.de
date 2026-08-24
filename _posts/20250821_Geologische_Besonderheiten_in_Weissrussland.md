@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geologische Besonderheiten in Weissrussland"
-date: 2025-08-21 02:00:00 +0200
+date: 2025-08-21
 image: https://upload.wikimedia.org/wikipedia/commons/7/72/1712._Russie_noire%2C_Russie_blanche_ou_polonoise%2C_Volhinie%2C_Podolie.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 author: lxndrJ
 ai_assisted: true
@@ -66,6 +66,8 @@ Die Weißrussen haben eine tiefe Verbindung zu ihrer Landschaft:
 Minsk steht für mehr als moderne Urbanität - es ist ein lebendiges Dokument der Erdgeschichte, das Millionen Jahre Entwicklung in sich trägt.
 
 *Eine geologische Zeitkapsel mitten in Osteuropa.*
+
+---
 
 **Weitere Informationen:**
 - Geologisches Institut Weißrusslands

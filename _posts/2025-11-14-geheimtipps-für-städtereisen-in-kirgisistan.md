@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geheimtipps für Städtereisen in Kirgisistan"
-date: 2025-11-14 08:00:00 +0200
+date: 2025-11-14
 image: https://images.unsplash.com/photo-1592220746339-37c227a6a687?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWhlaW10aXBwcyUyMGYlQzMlQkNyJTIwU3QlQzMlQTRkdGVyZWlzZW4lMjBLaXJnaXNpc3RhbnxlbnwwfDB8fHwxNzYzMDkxNTc4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

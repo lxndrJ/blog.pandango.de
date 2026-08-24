@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essensetikette in Norwegen"
-date: 2026-06-28 08:00:00 +0200
+date: 2026-06-28
 image: https://images.unsplash.com/photo-1544085311-11a028465b03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFc3NlbnNldGlrZXR0ZSUyME5vcndlZ2VufGVufDB8MHx8fDE3ODI2Mjk0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

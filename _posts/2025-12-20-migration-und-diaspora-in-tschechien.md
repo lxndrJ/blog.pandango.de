@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migration und Diaspora in Tschechien"
-date: 2025-12-20 08:00:00 +0200
+date: 2025-12-20
 image: https://upload.wikimedia.org/wikipedia/commons/c/c3/Border_Austria-Czech_Republic_%28Schrattenberg_-_Valtice%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

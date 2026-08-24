@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophen in Eritrea"
-date: 2025-10-10 08:00:00 +0200
+date: 2025-10-10
 image: https://images.unsplash.com/photo-1635188499893-8d1e64742ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEVyaXRyZWF8ZW58MHwwfHx8MTc2MDA2NjgwNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -41,5 +41,7 @@ Die eritreische Philosophie ist keine akademische Abhandlung, sondern gelebte We
 ### Reisende Gedanken
 
 Wer Eritrea besucht, sollte die Ohren spitzen. Zwischen Kaffeezeremonie und Marktgesprächen verbergen sich Philosophien, die keine Universitäten je dokumentieren werden.
+
+---
 
 *Eine Reise ist mehr als eine geografische Bewegung - sie ist eine Bewegung des Geistes.*

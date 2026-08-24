@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiges Reisen in Afghanistan"
-date: 2025-10-07 08:00:00 +0200
+date: 2025-10-07
 image: https://images.unsplash.com/photo-1607451174678-3b79cfb3a6ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXMlMjBSZWlzZW4lMjBBZmdoYW5pc3RhbnxlbnwwfDB8fHwxNzU5ODA3NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -43,5 +43,7 @@ Afghanistans Landschaften erzählen Geschichten von Widerstandsfähigkeit. Die H
 Es geht um Respekt, Verbundenheit und das Verständnis, dass jede Reise eine Begegnung ist - nicht nur mit einer Landschaft, sondern mit lebendigen Kulturen.
 
 *Reisen heißt, mit Herz und Verstand zu entdecken.*
+
+---
 
 **Wichtiger Hinweis**: Aktuelle Reisehinweise und Sicherheitsempfehlungen sind unbedingt vor einer Reise zu konsultieren.

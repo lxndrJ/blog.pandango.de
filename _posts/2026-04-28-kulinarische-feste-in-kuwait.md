@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kulinarische Feste in Kuwait"
-date: 2026-04-28 08:00:00 +0200
+date: 2026-04-28
 image: https://images.unsplash.com/photo-1765743618149-fe382d719d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBGZXN0ZSUyMEt1d2FpdHxlbnwwfDB8fHwxNzc3MzU1Mjk5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Und dann sind da noch die Süßspeisen: **Basboosa** (Kokosnuss-Grießkuchen), *
 Was Kuwait von vielen anderen Reisezielen unterscheidet, ist die Wärme, mit der Essen geteilt wird. Kulinarische Feste sind hier nicht nur Events – sie sind Momente, in denen Fremde zu Freunden werden. An einem Tisch zu sitzen, gemeinsam zu essen und zu lachen, das ist die wahre kuwaiter Gastfreundschaft.
 
 Wenn Sie Kuwait besuchen, planen Sie Ihren Trip um eines dieser Feste herum. Ihr Gaumen wird es Ihnen danken, und Ihr Herz wird eine neue Liebe entdecken – die Liebe zu den Geschmäckern der Wüste.
+
+---
 
 *Die kuwaiter Küche wartet darauf, entdeckt zu werden. Lassen Sie sich von den Aromen verführen.*

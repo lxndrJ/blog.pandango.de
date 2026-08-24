@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Musiker und Komponisten in Mayotte"
-date: 2026-08-17 08:00:00 +0200
+date: 2026-08-17
 image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Musiker und Komponisten in Mayotte](https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Musiker und Komponisten in Mayotte](https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Klänge von Mayotte: Musik zwischen Tradition und Moderne
 
@@ -35,5 +34,7 @@ Was diese Musiker besonders macht, ist ihre Fähigkeit, Tradition nicht als Muse
 Wenn du wirklich verstehen möchtest, wie Musik entsteht, wenn verschiedene Kulturen aufeinandertreffen – Mayotte ist dein Ziel. Hier ist Musik keine Unterhaltung, sondern Identität. Sie ist Widerstand, Freude, Trauer und Feier gleichzeitig.
 
 Die Insel mag klein sein, aber ihre musikalische Stimme ist kraftvoll und verdient, gehört zu werden. Die nächste Generation von Musikern aus Mamoudzou könnte sehr wohl die Weltbühne erobern.
+
+---
 
 *Mayotte erinnert uns daran, dass großartige Kunst nicht immer von den größten Orten kommt – manchmal kommt sie von den Orten, deren Herzen am lautesten schlagen.*

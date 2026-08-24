@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unternehmer in Namibia"
-date: 2026-07-22 08:00:00 +0200
+date: 2026-07-22
 image: https://upload.wikimedia.org/wikipedia/commons/5/5a/Matthias_Wittenburg_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -39,5 +39,7 @@ Natürlich ist der Weg nicht immer einfach. Infrastruktur, Zugang zu Kapital und
 Das Unternehmertum in Namibia ist noch jung und wächst. Die Kombination aus natürlichen Ressourcen, kulturellem Reichtum und einer zunehmend vernetzten Bevölkerung schafft ein enormes Potenzial. Windhoek ist nur der Anfang – in kleinen Städten und ländlichen Gebieten entstehen ebenfalls innovative Projekte.
 
 Wer Namibia bereist und mit Einheimischen spricht, merkt schnell: Hier gibt es eine besondere Art von Optimismus. Die Menschen verstehen, dass sie die Architekten ihrer eigenen Zukunft sind. Und genau das macht das Unternehmertum in diesem wunderschönen Land so inspirierend.
+
+---
 
 *Namibia erinnert uns daran, dass große Träume nicht großer Ressourcen bedürfen – sondern großer Herzen.*

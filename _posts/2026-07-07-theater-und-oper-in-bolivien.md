@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Theater und Oper in Bolivien"
-date: 2026-07-07 08:00:00 +0200
+date: 2026-07-07
 image: https://images.unsplash.com/photo-1783254118596-17e5d34eff1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUaGVhdGVyJTIwdW5kJTIwT3BlciUyMEJvbGl2aWVufGVufDB8MHx8fDE3ODM0MDYwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -34,5 +34,7 @@ Die **Diablada** während des Karnevals in Oruro ist vielleicht die beste Beschr
 Was mich am meisten bewegt hat, ist die Zugänglichkeit. Theater in Bolivien ist nicht elitär. Es findet in Gemeindezentren statt, auf Straßen, in Parks. Jeder kann teilnehmen, jeder kann schauen, und die Grenzen zwischen Publikum und Künstler sind fließend.
 
 Sucre und andere Städte Boliviens zeigen: Theater muss nicht in Gold und Marmor stattfinden, um bedeutsam zu sein. Manchmal ist die intensivste Performance diejenige, die mit einfachen Mitteln, großem Herzen und echter Geschichte erzählt wird.
+
+---
 
 *Falls du nach Sucre reist – nimm dir Zeit, die lokale Kunstszene zu erkunden. Frag die Locals, wo gerade etwas los ist. Du wirst überrascht sein, wie lebendig und weltoffen diese Kultur ist.*

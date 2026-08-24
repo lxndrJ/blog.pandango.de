@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Street Food in Gabun"
-date: 2026-01-10 08:00:00 +0200
+date: 2026-01-10
 image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Bulletin_r%C3%A9f%C3%A9rendum_Gabon_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fischgerichte in Bahamas"
-date: 2026-06-30 08:00:00 +0200
+date: 2026-06-30
 image: https://images.unsplash.com/photo-1523659945955-fe95eb9bc70b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGaXNjaGdlcmljaHRlJTIwQmFoYW1hc3xlbnwwfDB8fHwxNzgyODAxNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -44,5 +44,7 @@ Jedes Essen ist ein kleines Fest, eine Gelegenheit, zusammenzukommen und Geschic
 Wenn du die Bahamas besuchst, solltest du die lokalen Fischrestaurants aufsuchen – nicht die großen Touristenketten. Frag die Einheimischen, wo sie selbst essen. Die besten Gerichte findest du oft an den einfachsten Orten.
 
 Beste Zeit zum Essen: nachmittags, wenn der Fang des Tages gerade zubereitet wird. Und vergiss nicht: Ein kaltes Getränk und ein Sonnenuntergang machen jedes Fischgericht zum perfekten Moment.
+
+---
 
 Die Fischküche der Bahamas ist eine Einladung, die Inselwelt mit allen Sinnen zu erleben. Sie schmeckt nach Freiheit, nach Sonne, nach Wasser und vor allem nach dem reinen Genuss, den nur die besten Zutaten und viel Liebe zum Detail geben können.

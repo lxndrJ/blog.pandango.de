@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seen und Flüsse in Turkmenistan"
-date: 2026-07-01 08:00:00 +0200
+date: 2026-07-01
 image: https://images.unsplash.com/photo-1551668117-9fb91ab2aae6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTZWVuJTIwdW5kJTIwRmwlQzMlQkNzc2UlMjBUdXJrbWVuaXN0YW58ZW58MHwwfHx8MTc4Mjg4OTI1Nnww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -44,5 +44,7 @@ Traditionelle turkmenische Gastfreundschaft wird oft mit Tee und frischem Wasser
 Turkmenistan ist ein Land, das ständig zwischen seinen Extremen navigiert – zwischen Wüstenhitze und kühlen Bergbächen, zwischen der modernen Pracht Ashgabats und den traditionellen Dörfern entlang der Flüsse. Die Seen und Flüsse sind nicht nur geografische Merkmale, sondern die Adern, durch die das Leben dieses beeindruckenden Landes fließt.
 
 Wer Turkmenistan wirklich verstehen möchte, sollte Zeit am Wasser verbringen. Ob beim Betrachten der Kaspischen Küste, beim Wandern entlang des Amu-Darja oder beim Erkunden der künstlichen Seen Ashgabats – das Wasser offenbart die wahre Seele dieses faszinierenden Landes.
+
+---
 
 *Turkmenistan wartet darauf, entdeckt zu werden. Seine Wasserlandschaften erzählen Geschichten aus Jahrtausenden.*

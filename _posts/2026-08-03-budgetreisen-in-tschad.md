@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Budgetreisen in Tschad"
-date: 2026-08-03 08:00:00 +0200
+date: 2026-08-03
 image: https://upload.wikimedia.org/wikipedia/commons/3/3a/Festival_dary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Budgetreisen in Tschad](https://upload.wikimedia.org/wikipedia/commons/3/3a/Festival_dary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Budgetreisen in Tschad](https://upload.wikimedia.org/wikipedia/commons/3/3a/Festival_dary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mit kleinem Budget groß raus: Budgetreisen im Tschad
 
@@ -47,5 +46,7 @@ Die traditionelle **Musik und Tanz** sind in die DNA des Landes eingewoben. Fall
 Der Tschad ist kein Land für Massentourismus, und das ist sein größter Vorteil. Du wirst nicht in vorgekauten Touristenrouten herumgeführt, sondern erlebst echte Momente mit echten Menschen. Deine 30 Euro am Tag werden dich weiter bringen als anderswo, und deine Erfahrungen werden unbezahlbar sein.
 
 Pack leicht, bleib offen und vertrau deinem Instinkt. Der Tschad wartet darauf, entdeckt zu werden – von Reisenden wie dir, die bereit sind, abseits der Pfade zu gehen.
+
+---
 
 *Die Welt ist größer, wenn du sie mit kleinerem Budget erkundest. Manchmal sind die besten Abenteuer die, die dich nicht bankrott machen.*

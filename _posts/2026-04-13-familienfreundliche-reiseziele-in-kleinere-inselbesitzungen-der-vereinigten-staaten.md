@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Familienfreundliche Reiseziele in Kleinere Inselbesitzungen der Vereinigten Staaten"
-date: 2026-04-13 08:00:00 +0200
+date: 2026-04-13
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Florenz._2%2C_Bargello_Domopera_Akademie_Kleinere_Sammlungen_1903_%28150670589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Familienfreundliche Reiseziele in Kleinere Inselbesitzungen der Vereinigten Staaten](https://upload.wikimedia.org/wikipedia/commons/e/e6/Florenz._2%2C_Bargello_Domopera_Akademie_Kleinere_Sammlungen_1903_%28150670589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Familienfreundliche Reiseziele in Kleinere Inselbesitzungen der Vereinigten Staaten](https://upload.wikimedia.org/wikipedia/commons/e/e6/Florenz._2%2C_Bargello_Domopera_Akademie_Kleinere_Sammlungen_1903_%28150670589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Inselparadiese mit Sternenbanner: Familiengeheimtipps der USA
 
@@ -49,5 +48,7 @@ Was macht diese Reiseziele so besonders für Familien? Es ist die Kombination au
 Ob deine Kinder erste Schnorchelerfahrungen sammeln, historische Museen erkunden oder einfach im warmen Wasser spielen – diese Inseln bieten für jedes Alter etwas. Und zwischen all dem Inselhopping kannst du die beeindruckende Geschichte und Kultur Washingtons erleben.
 
 Die USA haben so viel mehr zu bieten, als die meisten denken. Zeit, diese Geheimtipps zu entdecken!
+
+---
 
 *Welche dieser Inseln reizt dich am meisten? Ich freue mich auf deine Gedanken!*

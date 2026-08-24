@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Theater und Oper in Armenien"
-date: 2026-04-26 08:00:00 +0200
+date: 2026-04-26
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/2014_Erywa%C5%84%2C_Ormia%C5%84ski_Akademicki_Teatr_Opery_i_Baletu_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Theater und Oper in Armenien](https://upload.wikimedia.org/wikipedia/commons/8/87/2014_Erywa%C5%84%2C_Ormia%C5%84ski_Akademicki_Teatr_Opery_i_Baletu_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Theater und Oper in Armenien](https://upload.wikimedia.org/wikipedia/commons/8/87/2014_Erywa%C5%84%2C_Ormia%C5%84ski_Akademicki_Teatr_Opery_i_Baletu_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Magie der Bühne: Theater und Oper in Armenien
 
@@ -35,5 +34,7 @@ Besucher berichten oft, dass sie von der Leidenschaft auf der Bühne überwälti
 Wenn du nach Yerevan kommst, buche ein Ticket für eine Vorstellung – egal ob Oper, Ballett oder klassisches Drama. Selbst wenn du kein großer Kulturliebhaber bist, wird dich diese Erfahrung berühren. Du wirst verstehen, warum Kultur für die Armenier nicht nur Freizeit ist, sondern eine Form des Überlebens, des Widerstands und der Liebe.
 
 ![Ein Fenster in die Seele Armeniens](https://upload.wikimedia.org/wikipedia/commons/6/67/1920_Republic_of_Armenia_Armenia_Ararat_stamp_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+---
 
 *Die nächste Vorstellung wartet auf dich. Komm und lass dich verzaubern.*

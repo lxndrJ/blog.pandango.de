@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flora und Fauna in Dominica"
-date: 2026-05-07 08:00:00 +0200
+date: 2026-05-07
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/1884_2half_red-brown_Dominica_unused_Yv20_SG15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -41,5 +41,7 @@ Die beste Art, die Flora und Fauna kennenzulernen, ist eine Wanderung. Der Emera
 ## Ein Vermächtnis bewahren
 
 Was Dominica besonders macht, ist der Fokus auf Nachhaltigkeit. Die Insel hat sich zum Ziel gesetzt, bis 2050 klimaneutral zu sein. Das ist nicht nur eine politische Aussage, sondern ein echtes Engagement für die Bewahrung dieser natürlichen Schätze.
+
+---
 
 Dominica erinnert dich daran, dass Natur nicht etwas ist, das man in Museen oder Dokumentationen studiert – sie ist lebendig, dynamisch und dich umgebend. Wenn du hierher kommst, wirst du nicht nur Fotos machen, sondern echte Erinnerungen schaffen, die dich verändern.

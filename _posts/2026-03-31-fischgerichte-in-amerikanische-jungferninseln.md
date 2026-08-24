@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fischgerichte in Amerikanische Jungferninseln"
-date: 2026-03-31 08:00:00 +0200
+date: 2026-03-31
 image: https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Fischgerichte in Amerikanische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Fischgerichte in Amerikanische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Fischgenuss auf den Amerikanischen Jungferninseln: Wo das Meer auf den Teller kommt
 
@@ -37,5 +36,7 @@ Die umgebenden Gewässer sind reich an Fischbeständen. Das macht die Fischgeric
 Besucht die lokalen Märkte in Charlotte Amalie früh morgens. Hier seht ihr den Fang des Tages, könnt mit Fischern plaudern und versteht, warum die Inselbewohner ihre Fischgerichte mit solcher Leidenschaft zubereiten. Manche Restaurants kaufen direkt hier ein – das ist echte Farm-to-Table-Philosophie, nur eben Fish-to-Table.
 
 ![Charlotte Amalie: Kulinarisches Herz der Inseln](https://upload.wikimedia.org/wikipedia/commons/0/0f/A_Tuareg_in_northern_Mali_prepares_a_fire_for_making_tea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+---
 
 Die Amerikanischen Jungferninseln zeigen uns: Große Küche braucht keine komplizierten Rezepte. Sie braucht frische Zutaten, Respekt vor der Tradition und Menschen, die ihre Kultur auf dem Teller zum Leben erwecken. Und ja, auch ein bisschen Meeresluft schadet nicht.

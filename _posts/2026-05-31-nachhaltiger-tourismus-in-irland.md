@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiger Tourismus in Irland"
-date: 2026-05-31 08:00:00 +0200
+date: 2026-05-31
 image: https://images.unsplash.com/photo-1518005068251-37900150dfca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBJcmxhbmR8ZW58MHwwfHx8MTc4MDIwOTg5Nnww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -38,5 +38,7 @@ Die Samhain-Festivals, die Wanderwege der Mönche zu den alten Klöstern – die
 **Essen:** Besucht lokale Restaurants, Pubs und Märkte. Irische Küche basiert auf fantastischen Rohprodukten – nutzt das!
 
 **Respekt:** Die Natur Irlands ist kostbar. Bleibt auf den Wegen, nehmt Müll mit und verhaltet euch so, dass die nächsten Generationen die gleiche Magie erleben können.
+
+---
 
 Irland zeigt, dass Tourismus nicht Natur zerstören muss. Es braucht nur ein bisschen Bewusstsein, Geduld und die Bereitschaft, langsamer zu reisen. Dann wird aus einer Reise eine echte Begegnung – mit dem Land, seinen Menschen und sich selbst.

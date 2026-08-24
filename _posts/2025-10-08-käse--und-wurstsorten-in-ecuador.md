@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Käse- und Wurstsorten in Ecuador"
-date: 2025-10-08 08:00:00 +0200
+date: 2025-10-08
 image: https://images.unsplash.com/photo-1611460415343-523ee381bbff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUE0c2UtJTIwdW5kJTIwV3Vyc3Rzb3J0ZW4lMjBFY3VhZG9yfGVufDB8MHx8fDE3NTk4OTM3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophen in Bermuda"
-date: 2026-05-03 08:00:00 +0200
+date: 2026-05-03
 image: https://images.unsplash.com/photo-1692459163473-83c40756a1a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEJlcm11ZGF8ZW58MHwwfHx8MTc3Nzc4NzI4M3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -34,5 +34,7 @@ Vielleicht ist das Geheimnis Bermudas philosophisch ganz einfach: Das Meer lehrt
 Bermuda laden uns ein, innezuhalten und zu fragen: Was macht ein gutes Leben aus? Wie gehen wir mit unseren Wurzeln um? Wie schaffen wir Gemeinschaft in einer fragmentierten Welt?
 
 Vielleicht sollten wir alle ein bisschen mehr Zeit auf Bermuda verbringen – nicht nur wegen der Strände, sondern um unsere eigenen Gedanken klarer zu sehen.
+
+---
 
 *Hast du schon mal darüber nachgedacht, wie Orte unsere Philosophie beeinflussen? Teile deine Gedanken gerne mit mir!*

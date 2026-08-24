@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Wellness und Erholung in Sudan"
-date: 2026-05-09 08:00:00 +0200
+date: 2026-05-09
 image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Kimotong%2C_Sud%C3%A1n_del_Sur%2C_2024-01-23%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Wellness und Erholung in Sudan](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kimotong%2C_Sud%C3%A1n_del_Sur%2C_2024-01-23%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Wellness und Erholung in Sudan](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kimotong%2C_Sud%C3%A1n_del_Sur%2C_2024-01-23%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wellness im Herzen Afrikas: Entspannung im Sudan
 
@@ -49,5 +48,7 @@ Die traditionelle **sudanesische Massage** mit Ölen und Kräutern bietet echte 
 Was den Sudan für Wellness-Reisende so wertvoll macht, ist die Möglichkeit, echte Langsamkeit zu erleben. In einer Welt, die ständig schneller wird, bietet dieser oft übersehene Teil Afrikas das Gegengift: Zeit, Raum und die Chance, sich selbst wiederzufinden.
 
 Die Wellness hier kommt nicht aus einer Flasche oder einem Behandlungskatalog. Sie wächst aus den Gesprächen mit Fremden, die zu Freunden werden, aus dem Rauschen des Nils und aus der Erkenntnis, dass manchmal das Einfachste das Wertvollste ist.
+
+---
 
 *Der Sudan wartet darauf, wiederentdeckt zu werden – nicht als Destination, sondern als Erfahrung.*

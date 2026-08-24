@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tanzformen in Slowenien"
-date: 2026-07-31 08:00:00 +0200
+date: 2026-07-31
 image: https://images.unsplash.com/photo-1662076717703-e7a00400eb96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwU2xvd2VuaWVufGVufDB8MHx8fDE3ODU0NzcyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -46,5 +46,7 @@ Die Tänzer in ihren handgestickten Kostümen, die Frauen mit ihren aufwendigen 
 Wenn du jemals die Gelegenheit hast, nach Slowenien zu reisen, vergiss nicht, eine traditionelle Tanzaufführung zu besuchen. Noch besser: Versuche selbst zu tanzen! Die Slowenen sind unglaublich gastfreundlich und werden dir gerne ihre Schritte beibringen. Du wirst merken, dass Sprache hier keine Rolle spielt – der Tanz spricht eine universelle Sprache.
 
 Ljubljana wartet auf dich mit seinen Festivals, seinen Bühnen und seiner pulsierenden Energie. Und wer weiß – vielleicht findest du dort nicht nur eine neue Tanzform, sondern auch ein Stück deiner eigenen Seele.
+
+---
 
 *Slowenien tanzt. Und wer diesen Rhythmus einmal spürt, wird ihn sein Leben lang nicht mehr vergessen.*

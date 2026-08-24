@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Symbolik in der Kultur in Kleinere Inselbesitzungen der Vereinigten Staaten"
-date: 2026-07-30 08:00:00 +0200
+date: 2026-07-30
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Florenz._2%2C_Bargello_Domopera_Akademie_Kleinere_Sammlungen_1903_%28150670589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

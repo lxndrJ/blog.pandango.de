@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Geheimtipps für Städtereisen in Turks-und Caicosinseln"
-date: 2026-04-14 08:00:00 +0200
+date: 2026-04-14
 image: https://upload.wikimedia.org/wikipedia/commons/e/ef/Burrfish_from_Turks_%26_Caicos_Islands.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Geheimtipps für Städtereisen in Turks-und Caicosinseln](https://upload.wikimedia.org/wikipedia/commons/e/ef/Burrfish_from_Turks_%26_Caicos_Islands.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Geheimtipps für Städtereisen in Turks-und Caicosinseln](https://upload.wikimedia.org/wikipedia/commons/e/ef/Burrfish_from_Turks_%26_Caicos_Islands.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Abseits der Strände: Geheimtipps für Turks und Caicos
 
@@ -41,5 +40,7 @@ Die beste Zeit? Dezember bis April, wenn die Wale durchwandern. Es gibt nichts M
 Turks und Caicos ist kein Geheimtipp, weil es schlecht ist – im Gegenteil. Es ist ein Geheimtipp, weil die meisten Reisenden nur die großen Resorts sehen und die echte Inselkultur verpassen. Nimm dir Zeit, sprich mit den Menschen, probiere das lokale Essen und erkunde die kleineren Inseln. Das ist es, worum es beim Reisen wirklich geht.
 
 Die Karibik wartet nicht auf deine Ankunft – aber Cockburn Town und die Menschen dort werden sich freuen, dich zu empfangen.
+
+---
 
 *Hast du noch andere Lieblingsorte in der Karibik? Ich freue mich auf deine Geschichten!*

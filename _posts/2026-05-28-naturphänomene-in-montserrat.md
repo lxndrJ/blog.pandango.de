@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naturphänomene in Montserrat"
-date: 2026-05-28 08:00:00 +0200
+date: 2026-05-28
 image: https://images.unsplash.com/photo-1571037288111-a4d130100fd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYXR1cnBoJUMzJUE0bm9tZW5lJTIwTW9udHNlcnJhdHxlbnwwfDB8fHwxNzc5OTUwNDgxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Die lokale Kultur ist durchdrungen von dieser Geschichte. Kunsthandwerk, Musik u
 Montserrat ist keine klassische Traumdestination, aber es ist eine Insel, die dich verändert. Sie lehrt dich Demut vor der Natur, Bewunderung für menschliche Ausdauer und Respekt vor den Kräften, die unseren Planeten formen. Die Naturphänomene hier sind nicht Postkartenkulisse – sie sind lebendig, real und beeindruckend.
 
 Wenn du dich nach einer Reise sehnst, die nicht nur deine Kamera füllt, sondern auch dein Herz und deinen Verstand berührt, dann ist Montserrat genau der richtige Ort. Bring festes Schuhwerk mit, eine Neugier auf Naturwissenschaften und die Bereitschaft, deine Perspektive zu erweitern.
+
+---
 
 *Die Natur schreibt die interessantesten Geschichten – auf Montserrat kannst du sie hautnah erleben.*

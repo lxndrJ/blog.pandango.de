@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bildung und Innovation in Australien"
-date: 2026-07-02 08:00:00 +0200
+date: 2026-07-02
 image: https://images.unsplash.com/photo-1724018305000-616597f21304?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCaWxkdW5nJTIwdW5kJTIwSW5ub3ZhdGlvbiUyMEF1c3RyYWxpZW58ZW58MHwwfHx8MTc4Mjk3MzY2MXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -34,5 +34,7 @@ Die Universitäten spielen hier die Schlüsselrolle. Sie bilden nicht nur Fachkr
 Mein wichtigster Eindruck: Australien zeigt, dass Innovation nicht nur in Kalifornien oder Berlin passiert. Sie entsteht dort, wo Neugier auf Ressourcen trifft, wo Menschen unterschiedlicher Herkunft zusammenkommen und wo es eine echte Bereitschaft gibt, traditionelle Wege zu verlassen.
 
 Die Sonne über Canberra scheint auf ein Land, das seine Zukunft selbst gestaltet – und dazu braucht es eben nicht nur gute Ideen, sondern auch Menschen, die darin ausgebildet werden, diese Ideen umzusetzen.
+
+---
 
 *Australien erinnert uns daran, dass Innovation eine Kultur ist, die man kultivieren muss – in Schulen, Universitäten und in der Gesellschaft insgesamt.*

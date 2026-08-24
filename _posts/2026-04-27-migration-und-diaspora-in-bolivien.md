@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migration und Diaspora in Bolivien"
-date: 2026-04-27 08:00:00 +0200
+date: 2026-04-27
 image: https://images.unsplash.com/photo-1650700311346-dd9ad9e77114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNaWdyYXRpb24lMjB1bmQlMjBEaWFzcG9yYSUyMEJvbGl2aWVufGVufDB8MHx8fDE3NzcyNjg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ In den letzten Jahren zeichnet sich ein neuer Trend ab: Einige Migranten kehren 
 Die Geschichte Boliviens und seiner Diaspora ist noch lange nicht zu Ende geschrieben. Sie ist eine Geschichte von Widerstandskraft, von Familien, die Nähe über Distanz schaffen, und von einer Nation, die ihre Söhne und Töchter in die Welt entlässt, ohne sie je wirklich loszulassen.
 
 Wer durch Sucres Straßen geht und die Häuser sieht, in denen einst Generationen lebten, kann diese unsichtbare Verbindung spüren – ein Faden, der sich über Kontinente hinweg zieht und Heimat neu definiert.
+
+---
 
 *Habt ihr Verbindungen zu Bolivien oder kennt ihr Geschichten aus der Diaspora? Ich freue mich auf eure Perspektiven in den Kommentaren.*

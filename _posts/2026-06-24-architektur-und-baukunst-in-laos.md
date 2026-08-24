@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architektur und Baukunst in Laos"
-date: 2026-06-24 08:00:00 +0200
+date: 2026-06-24
 image: https://images.unsplash.com/photo-1628601883607-6d0c5e0d8881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwTGFvc3xlbnwwfDB8fHwxNzgyMjgyODI5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -42,5 +42,7 @@ Besonders beeindruckend finde ich die **Ventilation durch Architektur**. In eine
 Vientiane lädt nicht zum Hetzen ein. Die Stadt möchte erlebt werden – in der Geschwindigkeit eines Spaziergangs, beim Verweilen in einem Café unter einer alten französischen Veranda, beim stillen Betrachten eines Tempels in der Dämmerung.
 
 Die Architektur Laos' ist letztlich eine Einladung, innezuhalten und zu verstehen, dass Schönheit nicht in Perfektion liegt, sondern in der authentischen Erzählung eines Ortes.
+
+---
 
 *Hast du schon die versteckten Schätze Vientiane's entdeckt? Die Stadt offenbart ihre wahre Magie denen, die Zeit für sie aufbringen.*

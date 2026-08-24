@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Religiöse Rituale in Jemen"
-date: 2026-06-29 08:00:00 +0200
+date: 2026-06-29
 image: https://upload.wikimedia.org/wikipedia/commons/a/aa/Checkpoint_and_soldiers_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Religiöse Rituale in Jemen](https://upload.wikimedia.org/wikipedia/commons/a/aa/Checkpoint_and_soldiers_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Religiöse Rituale in Jemen](https://upload.wikimedia.org/wikipedia/commons/a/aa/Checkpoint_and_soldiers_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Seele des Jemen: Religiöse Rituale in Sana'a
 
@@ -39,5 +38,7 @@ Das Opferfest (Eid al-Adha) bringt noch mehr Farbe: traditionelle Kleidung, geme
 Was mich am meisten fasziniert hat, ist die Authentizität dieser Rituale. Sie sind nicht inszeniert für Touristen – sie sind gelebt, gefühlt, weitergegeben. In Sana'a begegnet man nicht nur religiösen Praktiken, sondern der direkten Verbindung zwischen Menschen und ihrem Glauben.
 
 Wenn du jemals die Gelegenheit hast, diese Momente selbst zu erleben, nimm sie an. Beobachte, lerne, respektiere – und du wirst verstehen, warum der Jemen ein Land ist, in dem die Seele zu Hause ist.
+
+---
 
 *Der Jemen lehrt uns, dass Spiritualität kein stilles, privates Gefühl sein muss – sie kann die ganze Welt um uns herum durchdringen und verbinden.*

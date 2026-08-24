@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Finanzwesen in Nauru"
-date: 2026-06-15 08:00:00 +0200
+date: 2026-06-15
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Finanzwesen in Nauru](https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Finanzwesen in Nauru](https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Finanzwesen auf Nauru: Wenn Inselträume auf wirtschaftliche Realität treffen
 
@@ -45,5 +44,7 @@ Die finanzielle Stabilität hängt stark von internationaler Unterstützung und 
 Naurus Finanzwesen ist ein Lehrbuch darüber, wie man sich reinventet. Es ist nicht perfekt, aber es ist authentisch und voller Entschlossenheit. Wenn eine Insel mit weniger als 10.000 Einwohnern es schafft, ihre wirtschaftliche Zukunft aktiv zu gestalten, dann gibt uns das allen Hoffnung.
 
 Manchmal sind die kleinsten Orte die besten Lehrer.
+
+---
 
 *Habt ihr Interesse an anderen Inselwirtschaften? Oder möchtet ihr mehr über nachhaltige Finanzmodelle erfahren?*

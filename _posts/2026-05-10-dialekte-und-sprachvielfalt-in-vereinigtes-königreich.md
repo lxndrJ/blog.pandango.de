@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dialekte und Sprachvielfalt in Vereinigtes Königreich"
-date: 2026-05-10 08:00:00 +0200
+date: 2026-05-10
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/Bev%C3%B6lkerungspyramide_Vereinigtes_K%C3%B6nigreich_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Dialekte und Sprachvielfalt in Vereinigtes Königreich](https://upload.wikimedia.org/wikipedia/commons/8/87/Bev%C3%B6lkerungspyramide_Vereinigtes_K%C3%B6nigreich_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Die faszinierende Welt der britischen Dialekte: Mehr als nur "The Queen's English"

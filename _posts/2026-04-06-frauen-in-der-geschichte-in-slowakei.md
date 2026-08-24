@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frauen in der Geschichte in Slowakei"
-date: 2026-04-06 08:00:00 +0200
+date: 2026-04-06
 image: https://upload.wikimedia.org/wikipedia/commons/7/72/000_Sllovakia_harta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -35,5 +35,7 @@ Bratislava beherbergt heute Museen und kulturelle Institutionen, die dieses Erbe
 Was mich hoffnungsvoll stimmt: Die slowakischen Frauen von heute setzen diese Tradition fort. Sie sind Politikerinnen, Künstlerinnen, Wissenschaftlerinnen und Unternehmerinnen. Sie schreiben ihre eigenen Geschichten, während sie gleichzeitig die Geschichten ihrer Vorfahrinnen ehren.
 
 Die Slowakei hat noch immer viel zu erzählen. Jedes Mal, wenn ich durch Bratislava gehe, denke ich daran, dass unter den Kopfsteinen dieser Stadt unzählige Geschichten verborgen sind – Geschichten von Frauen, deren Mut und Kreativität ihre Zeit geprägt haben.
+
+---
 
 **Ein Tipp für Reisende:** Besucht das Stadtmuseum in Bratislava und fragt nach Ausstellungen zu weiblichen Persönlichkeiten der slowakischen Geschichte. Die Mitarbeiter dort haben oft faszinierende Anekdoten zu erzählen, die man in keinem Reiseführer findet.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flora und Fauna in Nordkorea"
-date: 2026-07-28 08:00:00 +0200
+date: 2026-07-28
 image: https://images.unsplash.com/photo-1601734327281-438e2fa9930b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGbG9yYSUyMHVuZCUyMEZhdW5hJTIwTm9yZGtvcmVhfGVufDB8MHx8fDE3ODUyMTY5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Was macht diese Tierwelt besonders? Sie ist weitgehend unerforscht und dokumenti
 Nordkoreas Natur ist ein Paradoxon: Sie ist gleichzeitig geschützt durch Isolation und gefährdet durch Umweltveränderungen. Die wenigen Reisenden, die das Land besuchen dürfen, berichten von atemberaubenden Berglandschaften und einer Stille in der Natur, die anderswo schwer zu finden ist.
 
 Die Flora und Fauna Nordkoreas erinnert uns daran, dass Natur sich ihre eigenen Wege sucht – unabhängig von Grenzen, Politik oder menschlichen Systemen. Sie wartet geduldig darauf, wiederentdeckt zu werden.
+
+---
 
 *Die Natur kennt keine Grenzen – sie gedeiht überall dort, wo sie die Chance bekommt.*

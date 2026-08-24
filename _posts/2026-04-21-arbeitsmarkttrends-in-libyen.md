@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Arbeitsmarkttrends in Libyen"
-date: 2026-04-21 08:00:00 +0200
+date: 2026-04-21
 image: https://upload.wikimedia.org/wikipedia/commons/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Arbeitsmarkttrends in Libyen](https://upload.wikimedia.org/wikipedia/commons/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Arbeitsmarkttrends in Libyen](https://upload.wikimedia.org/wikipedia/commons/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Zwischen Tradition und Aufbruch: Libyens neuer Arbeitsmarkt
 

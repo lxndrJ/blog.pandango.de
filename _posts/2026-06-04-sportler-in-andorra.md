@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sportler in Andorra"
-date: 2026-06-04 08:00:00 +0200
+date: 2026-06-04
 image: https://images.unsplash.com/photo-1675645937702-11c5a7c9fc33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTcG9ydGxlciUyMEFuZG9ycmF8ZW58MHwwfHx8MTc4MDU1NzE0MHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -42,5 +42,7 @@ Sport in Andorra ist nicht glamourös inszeniert wie in anderen Ländern. Es geh
 Die nächsten Jahre werden spannend für andorranische Athleten. Mit verbesserter Infrastruktur und wachsendem internationalen Interesse könnte dieses kleine Land zu einem echten Kraftzentrum im europäischen Sport werden. Schon jetzt zeigen sich talentierte junge Menschen aus Andorra bei internationalen Meisterschaften – oft überraschend und beeindruckend.
 
 Die Pyrenäen haben immer schon etwas Magisches. Und wenn man genau hinschaut, entdeckt man dort oben nicht nur atemberaubende Berge, sondern auch Sportler mit großen Träumen und noch größeren Herzen.
+
+---
 
 *Hast du schon von andorranischen Athleten gehört? Welche Sportler inspirieren dich? Schreib mir gerne deine Gedanken in die Kommentare!*

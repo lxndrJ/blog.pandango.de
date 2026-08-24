@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Architektur und Baukunst in Kongo"
-date: 2026-01-18 08:00:00 +0200
+date: 2026-01-18
 image: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Architektur und Baukunst in Kongo](https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Architektur und Baukunst in Kongo](https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Architektur zwischen Tradition und Moderne: Eine Reise durch Kongos Baukunst
 

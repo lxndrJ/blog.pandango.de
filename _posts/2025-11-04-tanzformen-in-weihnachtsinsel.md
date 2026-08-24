@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tanzformen in Weihnachtsinsel"
-date: 2025-11-04 08:00:00 +0200
+date: 2025-11-04
 image: https://images.unsplash.com/photo-1613987420654-dd36450b9f44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwV2VpaG5hY2h0c2luc2VsfGVufDB8MHx8fDE3NjIyMjczNzh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

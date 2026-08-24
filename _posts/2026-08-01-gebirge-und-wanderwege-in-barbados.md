@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gebirge und Wanderwege in Barbados"
-date: 2026-08-01 08:00:00 +0200
+date: 2026-08-01
 image: https://images.unsplash.com/photo-1664927758079-6ce4c1037fca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyMEJhcmJhZG9zfGVufDB8MHx8fDE3ODU1NjMwNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -48,5 +48,7 @@ Starte früh morgens, wenn es noch kühl ist und die Luft besonders frisch riech
 ## Ein Abschied in Bridgetown
 
 Nach deinen Wanderungen kannst du in Bridgetown noch wunderbar ausklingen lassen. Spaziere durch die Garrison Historic Area, besuche das Bridgetown Garrison Museum oder gönne dir ein kaltes Drink an der Promenade während du die Sonne untergehen siehst. Die lokale Küche – Cou-Cou, Macaroni Pie, frischer Fisch – wird dich begeistern.
+
+---
 
 Barbados zeigt dir, dass Abenteuer nicht immer gigantisch und wild sein müssen. Manchmal sind es die grünen Wege zwischen Palmen, die Vogelstimmen in der Schlucht und das authentische Lächeln der Menschen, die eine Reise unvergesslich machen. Pack deine Wanderschuhe ein und entdecke die andere Seite dieser wunderbar vielfältigen Insel.

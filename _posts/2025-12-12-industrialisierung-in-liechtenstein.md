@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrialisierung in Liechtenstein"
-date: 2025-12-12 08:00:00 +0200
+date: 2025-12-12
 image: https://images.unsplash.com/photo-1625138385193-bca1f03448ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBMaWVjaHRlbnN0ZWlufGVufDB8MHx8fDE3NjU1MTE0Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

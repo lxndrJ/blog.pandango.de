@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wirtschaftspolitik in Slowenien"
-date: 2025-10-16 08:00:00 +0200
+date: 2025-10-16
 image: https://images.unsplash.com/photo-1680617380110-1668fb588443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXaXJ0c2NoYWZ0c3BvbGl0aWslMjBTbG93ZW5pZW58ZW58MHwwfHx8MTc2MDU4NTQxNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

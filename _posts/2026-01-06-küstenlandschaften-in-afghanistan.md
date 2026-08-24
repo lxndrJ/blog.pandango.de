@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Küstenlandschaften in Afghanistan"
-date: 2026-01-06 08:00:00 +0200
+date: 2026-01-06
 image: https://images.unsplash.com/photo-1673701348866-eaa57db8aba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUJDc3RlbmxhbmRzY2hhZnRlbiUyMEFmZ2hhbmlzdGFufGVufDB8MHx8fDE3Njc2NzE4MjB8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

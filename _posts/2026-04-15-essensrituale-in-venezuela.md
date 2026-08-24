@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essensrituale in Venezuela"
-date: 2026-04-15 08:00:00 +0200
+date: 2026-04-15
 image: https://images.unsplash.com/photo-1699123104797-8e4f9cfef1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFc3NlbnNyaXR1YWxlJTIwVmVuZXp1ZWxhfGVufDB8MHx8fDE3NzYyMzAwNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -44,5 +44,7 @@ Was viele übersehen: Das Ritual endet nicht mit dem letzten Bissen. In Venezuel
 Die Essensrituale Venezuelas sind mehr als nur kulinarische Traditionen – sie sind ein Spiegelbild einer Gesellschaft, die Wert auf Zusammenhalt, Familie und die Schönheit des gegenwärtigen Moments legt. Caracas, mit all seiner Energie und Widersprüchlichkeit, bewahrt diese Rituale wie kostbare Schätze.
 
 Wer Venezuela verstehen möchte, sollte nicht nur die Sehenswürdigkeiten sehen, sondern sich an einen Tisch setzen und essen. Denn dort, wo das Essen geteilt wird, beginnt echte Verbindung.
+
+---
 
 *Die venezolanische Küche erzählt Geschichten – man muss nur zuhören.*

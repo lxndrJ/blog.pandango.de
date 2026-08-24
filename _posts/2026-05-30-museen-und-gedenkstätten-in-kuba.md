@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museen und Gedenkstätten in Kuba"
-date: 2026-05-30 08:00:00 +0200
+date: 2026-05-30
 image: https://images.unsplash.com/photo-1590778197061-083bf2ded20f?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TXVzZWVuJTIwdW5kJTIwR2VkZW5rc3QlQzMlQTR0dGVuJTIwaW4lMjBLdWJhfGVufDB8MHx8fDE3ODc0MzM1NDR8MA&ixlib=rb-4.1.0
 ---
 ![Museen und Gedenkstätten in Kuba](https://images.unsplash.com/photo-1590778197061-083bf2ded20f?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TXVzZWVuJTIwdW5kJTIwR2VkZW5rc3QlQzMlQTR0dGVuJTIwaW4lMjBLdWJhfGVufDB8MHx8fDE3ODc0MzM1NDR8MA&ixlib=rb-4.1.0)# Kubas Museen: Wo Geschichte lebendig wird
@@ -35,5 +35,7 @@ Die Gedenkstätten Kubas sind nicht immer groß oder touristisch erschlossen. Ma
 Museen in Kuba sind mehr als Sammlungen von Objekten. Sie sind Fenster in eine Gesellschaft, die ihre Identität aktiv gestaltet und reflektiert. Egal ob man die kubanische Revolution romantisiert oder kritisiert – diese Orte ermöglichen einen direkten Dialog mit der Geschichte, ohne Filter.
 
 Wer Kuba besucht, sollte sich Zeit für diese Orte nehmen. Sie gehören zu den wertvollsten Erfahrungen, die die Insel zu bieten hat. Denn Geschichte verstehen bedeutet, die Gegenwart besser zu begreifen.
+
+---
 
 *Tipp: Viele Museen in Havana haben ermäßigte Eintrittspreise für Studenten und Einheimische. Die beste Zeit für einen Besuch ist morgens, wenn es noch nicht zu heiß ist und die Menschenmengen überschaubar bleiben.*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saisonale Küche in Wallis und Futuna"
-date: 2026-04-01 08:00:00 +0200
+date: 2026-04-01
 image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Carcasse_de_voiture_abandonn%C3%A9e_%C3%A0_Futuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

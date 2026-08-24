@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wälder und Forstwirtschaft in Guadeloupe"
-date: 2026-06-05 08:00:00 +0200
+date: 2026-06-05
 image: https://images.unsplash.com/photo-1734184563614-0955668f583a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXJUMzJUE0bGRlciUyMHVuZCUyMEZvcnN0d2lydHNjaGFmdCUyMEd1YWRlbG91cGV8ZW58MHwwfHx8MTc4MDY0MjU1OHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Der höchste Punkt der Insel, die Soufrière, ist ebenfalls von Wäldern umgeben
 Guadeloupe steht an einem Wendepunkt. Der Klimawandel stellt neue Herausforderungen dar – intensivere Hurrikane gefährden die Wälder, während gleichzeitig die wirtschaftlichen Ansprüche wachsen. Doch es gibt Hoffnung: Umweltschutzorganisationen, lokale Gemeinschaften und die Regionalregierung arbeiten zusammen, um die Wälder zu schützen und gleichzeitig nachhaltige Einkommensquellen zu schaffen.
 
 Agrarökologie und Öko-Tourismus bieten neue Perspektiven. Immer mehr Menschen erkennen, dass ein lebendiger Wald mehr wert ist als gefällte Bäume – nicht nur wirtschaftlich, sondern auch für die Seele.
+
+---
 
 Die Wälder Guadeloupes sind kein Museum der Vergangenheit, sondern ein lebendes Projekt für die Zukunft. Wer die Insel besucht, sollte sich Zeit nehmen, diese grüne Welt zu entdecken – nicht als Tourist, sondern als Gast in einem Ökosystem, das uns alle verbindet.

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Landwirtschaftliche Regionen in Niger"
-date: 2026-07-18 08:00:00 +0200
+date: 2026-07-18
 image: https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Landwirtschaftliche Regionen in Niger](https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Landwirtschaftliche Regionen in Niger](https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Grüne Oasen in der Sahara: Landwirtschaft in Niger
 
@@ -33,5 +32,7 @@ Die Fulani und Hausa, zwei der größten ethnischen Gruppen, haben ihre eigenen 
 Die Realität ist nicht romantisch. Die Dürren werden häufiger, die Niederschläge unberechenbarer. Doch genau das macht die Bauern Nigers zu stillen Helden. Sie experimentieren mit neuen Sorten, teilen Wissen und bauen Wasserspeicher. Rund um Niamey entstehen innovative Projekte, die zeigen: Es gibt Lösungen.
 
 Die Natur Nigers lehrt eine wichtige Lektion – dass Schönheit und Reichtum nicht immer offensichtlich sind. Man muss genauer hinschauen, um die grünen Wunder zwischen Wüstensand zu erkennen. Die Landwirtschaft dieses Landes ist ein Beweis für menschliche Widerstandskraft und die unglaubliche Kraft der Natur.
+
+---
 
 Wer Niger besucht, sollte nicht nur die Hauptstadt erkunden, sondern auch hinaus in diese faszinierenden Agrarlandschaften fahren. Es ist eine Reise, die die Augen öffnet und das Herz berührt.

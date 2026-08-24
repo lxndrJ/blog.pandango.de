@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Historische Persönlichkeiten in Rumänien"
-date: 2026-01-27 08:00:00 +0200
+date: 2026-01-27
 image: https://images.unsplash.com/photo-1692017553452-a38d0f4af4ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIaXN0b3Jpc2NoZSUyMFBlcnMlQzMlQjZubGljaGtlaXRlbiUyMFJ1bSVDMyVBNG5pZW58ZW58MHwwfHx8MTc2OTQ4NjU3MXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Was macht diese historischen Persönlichkeiten so faszinierend? Sie zeigen uns, 
 Rumänien ist mehr als ein Reiseziel - es ist ein Narrativ, geschrieben von Generationen von Visionären, Kämpfern und Träumern.
 
 *Tauche ein in diese faszinierende Welt zwischen Mythos und Realität!*
+
+---
 
 **Reisetipp:** Besuche historische Museen in Bukarest und erkunde die mittelalterlichen Festungen in Siebenbürgen, um diese Geschichten zum Leben zu erwecken.

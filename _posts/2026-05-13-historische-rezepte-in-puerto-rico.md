@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Historische Rezepte in Puerto Rico"
-date: 2026-05-13 08:00:00 +0200
+date: 2026-05-13
 image: https://images.unsplash.com/photo-1734883930471-e89f08052cc2?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8SGlzdG9yaXNjaGUlMjBSZXplcHRlJTIwaW4lMjBQdWVydG8lMjBSaWNvfGVufDB8MHx8fDE3ODc0MzM1MzJ8MA&ixlib=rb-4.1.0
 ---
 ![Historische Rezepte in Puerto Rico](https://images.unsplash.com/photo-1734883930471-e89f08052cc2?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8SGlzdG9yaXNjaGUlMjBSZXplcHRlJTIwaW4lMjBQdWVydG8lMjBSaWNvfGVufDB8MHx8fDE3ODc0MzM1MzJ8MA&ixlib=rb-4.1.0)# Die Seele Puerto Ricos auf dem Teller: Eine kulinarische Zeitreise durch San Juan
@@ -47,5 +47,7 @@ Was mich in San Juan am meisten begeistert hat, ist, dass diese historischen Rez
 Wenn du San Juan besuchst: Verliere dich in der Altstadt, lass dich von den Aromen leiten und iss dort, wo die Einheimischen essen. Frag nach den Großmütter-Rezepten. Du wirst feststellen, dass jedes Gericht eine Geschichte hat, und jede Geschichte eine Reise ist – eine Reise durch Zeit, Kultur und die unglaubliche Widerstandskraft eines Volkes.
 
 Die kulinarische Geschichte Puerto Ricos ist nicht nur etwas zum Lesen. Sie ist etwas zum Schmecken, zum Feiern und zum Weitergeben.
+
+---
 
 *Puerto Rico wartet darauf, dir seine Geschichte auf dem Teller zu servieren.*

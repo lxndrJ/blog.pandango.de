@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wellness und Erholung in Jersey"
-date: 2026-07-05 08:00:00 +0200
+date: 2026-07-05
 image: https://images.unsplash.com/photo-1605235186403-ce8d56630a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXZWxsbmVzcyUyMHVuZCUyMEVyaG9sdW5nJTIwSmVyc2V5fGVufDB8MHx8fDE3ODMyMzI4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -54,5 +54,7 @@ Besuche die vielen Kunstgalerien und Handwerksstudios, besonders in der Nähe vo
 Am Ende ist Jerseys größtes Wellness-Angebot nicht in Spa-Behandlungen oder Yoga-Kursen zu finden (obwohl es die auch gibt). Es ist in der Kombination aus Naturschönheit, kultureller Authentizität und dem Gefühl, dass die Zeit hier langsamer vergeht.
 
 Diese Insel erinnert dich daran, dass Wellness kein Luxus ist – es ist ein Zustand des Menschseins, den du nur wieder aktivieren musst. Jersey macht dir diesen Prozess verdammt leicht.
+
+---
 
 *Packe bequeme Schuhe, öffne dein Herz für Langsamkeit und lass Jersey dich heilen. Die Insel wartet schon auf dich.*

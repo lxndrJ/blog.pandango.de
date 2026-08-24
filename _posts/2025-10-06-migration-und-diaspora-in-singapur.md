@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migration und Diaspora in Singapur"
-date: 2025-10-06 08:00:00 +0200
+date: 2025-10-06
 image: https://images.unsplash.com/photo-1580524764801-9be1651979f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNaWdyYXRpb24lMjB1bmQlMjBEaWFzcG9yYSUyMFNpbmdhcHVyfGVufDB8MHx8fDE3NTk3MjEyOTh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,6 +40,8 @@ Singapurs Diaspora-Erfahrung gleicht einem ständigen Neuerfinden - flexibel, re
 Die nächste Generation wird zeigen, wie sich diese multikulturelle Gesellschaft weiterentwickelt. Eine Reise zwischen Tradition und globalem Bürgertum.
 
 *Singapur lehrt uns: Migration ist keine Bedrohung, sondern Chance.*
+
+---
 
 **Weitere Gedankenanstöße:**
 - Wie definiert sich Identität in einer globalisierten Welt?

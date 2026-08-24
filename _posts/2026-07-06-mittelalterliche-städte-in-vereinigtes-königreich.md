@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mittelalterliche Städte in Vereinigtes Königreich"
-date: 2026-07-06 08:00:00 +0200
+date: 2026-07-06
 image: https://upload.wikimedia.org/wikipedia/commons/3/30/Deutsche_Bauzeitung_%28IA_deutschebauzeitu1718frit%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Mittelalterliche Städte in Vereinigtes Königreich](https://upload.wikimedia.org/wikipedia/commons/3/30/Deutsche_Bauzeitung_%28IA_deutschebauzeitu1718frit%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Zeitreise durch Englands mittelalterliche Schätze

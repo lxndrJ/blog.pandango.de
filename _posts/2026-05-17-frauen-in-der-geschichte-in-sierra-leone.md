@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frauen in der Geschichte in Sierra Leone"
-date: 2026-05-17 08:00:00 +0200
+date: 2026-05-17
 image: https://images.unsplash.com/photo-1534470717-233b39a41c54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGcmF1ZW4lMjBpbiUyMGRlciUyMEdlc2NoaWNodGUlMjBTaWVycmElMjBMZW9uZXxlbnwwfDB8fHwxNzc4OTk4MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Diese Frauen schrieben keine Reden, aber sie schrieben Geschichte – mit ihren 
 Heute gewinnen die Geschichten dieser Frauen endlich mehr Aufmerksamkeit. Junge Sierra Leonerinnen entdecken ihre Wurzeln und bauen darauf auf. Es ist ein Prozess, der zeigt, dass das Verstehen unserer Geschichte – insbesondere der weiblichen Perspektive – der Schlüssel zu einer besseren Zukunft ist.
 
 Sierra Leone ist nicht nur wegen seiner Diamanten kostbar. Es ist kostbar wegen der Frauen, die immer wieder aufgestanden sind, die Hoffnung bewahrt haben und ihre Gemeinschaften zusammengehalten haben – oft im Stillen, aber niemals ohne Kraft.
+
+---
 
 *Wenn du mehr über die Geschichten von Frauen in Afrika erfahren möchtest, lohnt sich ein Blick in die wachsende Anzahl von Dokumentationen und Memoiren, die endlich diese Perspektive ins Rampenlicht rücken.*

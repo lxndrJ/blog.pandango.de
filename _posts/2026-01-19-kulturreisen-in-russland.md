@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kulturreisen in Russland"
-date: 2026-01-19 08:00:00 +0200
+date: 2026-01-19
 image: https://images.unsplash.com/photo-1547448415-e9f5b28e570d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWx0dXJyZWlzZW4lMjBSdXNzbGFuZHxlbnwwfDB8fHwxNzY4Nzk1NjAwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrialisierung in Färöer-Inseln"
-date: 2026-04-22 08:00:00 +0200
+date: 2026-04-22
 image: https://images.unsplash.com/photo-1531509799580-b8dda5301d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBGJUMzJUE0ciVDMyVCNmVyLUluc2VsbnxlbnwwfDB8fHwxNzc2ODM0OTM4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -46,5 +46,7 @@ Doch auch hier zeigt sich färingische Resilience. Man diversifizierte, investie
 Wenn du heute Tórshavn besuchst, siehst du eine moderne nordische Stadt mit modernen Cafés, Museen und Geschäften. Doch sobald du die Stadt verlässt, umgibt dich wieder die ursprüngliche Natur. Diese Koexistenz ist das eigentliche Wunder der Färöer.
 
 Die Industrialisierung hier war kein Überfall auf die Natur, sondern eine notwendige Anpassung an die Realität. Eine kleine Inselgesellschaft musste sich modernisieren, um zu überleben. Dass sie dabei ihre Seele bewahrte, ist vielleicht die größte Leistung.
+
+---
 
 Die Färöer-Inseln erzählen uns, dass Industrialisierung nicht zwangsläufig Natur zerstören muss. Manchmal ist sie der Preis und der Weg für kulturelles Überleben. Eine Lektion, die in unserer globalisierten Welt durchaus wert ist, gehört zu werden.

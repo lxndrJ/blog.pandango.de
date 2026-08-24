@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Wellness und Erholung in Französisch-Polynesien"
-date: 2026-07-29 08:00:00 +0200
+date: 2026-07-29
 image: https://upload.wikimedia.org/wikipedia/commons/f/fb/039_Sunset_at_Tikehau_%28French_Polynesia%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Wellness und Erholung in Französisch-Polynesien](https://upload.wikimedia.org/wikipedia/commons/f/fb/039_Sunset_at_Tikehau_%28French_Polynesia%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Wellness und Erholung in Französisch-Polynesien](https://upload.wikimedia.org/wikipedia/commons/f/fb/039_Sunset_at_Tikehau_%28French_Polynesia%29_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Stille finden im Paradies: Wellness in Französisch-Polynesien
 
@@ -47,5 +46,7 @@ Die wahre Erholung liegt aber außerhalb der Wellness-Center:
 Am Ende ist Wellness in Französisch-Polynesien nicht nur das Spa-Angebot oder die perfekte Kulisse. Es ist das Gefühl, Zeit zu verlangsamen in einer Welt, die sich zu schnell dreht. Es ist die Erkenntnis, dass man nicht alles sehen muss – manchmal reicht es, einfach zu sein.
 
 Packt leicht, nehmt die Inselzeit ernst und vergesst eure To-Do-Listen. Hier lernt man schnell, dass echte Erholung bedeutet, sich selbst wiederzufinden.
+
+---
 
 *Habt ihr bereits Wellness-Erfahrungen in exotischen Destinationen gemacht? Ich freue mich auf eure Geschichten!*

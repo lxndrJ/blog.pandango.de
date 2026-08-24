@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Italien"
-date: 2025-09-18 08:00:00 +0200
+date: 2025-09-18
 image: https://upload.wikimedia.org/wikipedia/commons/e/ec/1848_Events_Collage_V_1.0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

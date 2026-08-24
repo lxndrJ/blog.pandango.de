@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Wissenschaftler in Zentralafrikanische Republik"
-date: 2026-05-15 08:00:00 +0200
+date: 2026-05-15
 image: https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Wissenschaftler in Zentralafrikanische Republik](https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Wissenschaftler in Zentralafrikanische Republik](https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wenn Neugier auf Resilienz trifft: Wissenschaftler in der Zentralafrikanischen Republik
 
@@ -33,5 +32,7 @@ Diese Menschen arbeiten häufig unter Bedingungen, die wir uns in europäischen 
 Was ich faszinierend finde, ist das wachsende internationale Netzwerk. Wissenschaftler aus Bangui arbeiten zunehmend mit Kollegen weltweit zusammen. Online-Plattformen und globale Forschungsgemeinschaften öffnen Türen, die früher verschlossen waren.
 
 Die Zentralafrikanische Republik braucht Investitionen in Bildung und Forschung – das ist eine Tatsache. Aber sie braucht auch Anerkennung für die Brillanz, die bereits dort existiert. Jeder Wissenschaftler hier ist ein Beweis dafür, dass Neugier und der Drang, die Welt zu verstehen, universell sind – unabhängig von Ressourcen oder Geographie.
+
+---
 
 *Wissenschaft ist überall. Manchmal muss man nur genauer hinschauen, um sie zu sehen.*

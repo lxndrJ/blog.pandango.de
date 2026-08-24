@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kulinarische Feste in Vanuatu"
-date: 2026-05-26 08:00:00 +0200
+date: 2026-05-26
 image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Instrument_in_Church_in_Pango%2CVanuatu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -49,5 +49,7 @@ Die kulinarischen Feste sind auch ein Ort der Respekt – gegenüber den Ahnen, 
 Wenn ihr die Chance habt, während eines kulinarischen Festes nach Vanuatu zu reisen, ergreift sie. Sitzt nicht nur am Rand und beobachtet – nehmt teil. Kostet jeden Bissen, stellt Fragen, lacht mit den Menschen um euch herum.
 
 Port Vila ist der perfekte Ausgangspunkt für diese Reise, aber vergesst nicht, die kleineren Inseln zu erkunden. Dort findet ihr die echten Geschichten, die echten Geschmäcker und die echte Magie Vanuatus.
+
+---
 
 *Die kulinarischen Feste Vanuatus sind nicht nur für den Magen – sie sind für die Seele. Und genau das macht diese Inselgruppe zu einem Ort, den man nie vergessen wird.*

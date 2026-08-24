@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hochzeitsbräuche in Mauritius"
-date: 2026-01-22 08:00:00 +0200
+date: 2026-01-22
 image: https://upload.wikimedia.org/wikipedia/commons/0/06/A_Mauritius_home.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

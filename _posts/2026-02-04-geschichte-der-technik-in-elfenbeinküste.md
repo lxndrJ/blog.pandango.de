@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Geschichte der Technik in Elfenbeinküste"
-date: 2026-02-04 08:00:00 +0200
+date: 2026-02-04
 image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Fresco%2C_Ivory_Coast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Geschichte der Technik in Elfenbeinküste](https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Fresco%2C_Ivory_Coast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Geschichte der Technik in Elfenbeinküste](https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Fresco%2C_Ivory_Coast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Technologische Spurensuche in der Elfenbeinküste: Eine Reise durch Innovation und Tradition
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Käse- und Wurstsorten in Nauru"
-date: 2026-03-26 08:00:00 +0200
+date: 2026-03-26
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -31,5 +31,7 @@ Die Menschen auf Nauru verstehen es meisterhaft, das Beste aus ihrer Inselpositi
 ## Ein Besuch in Yaren
 
 Wer nach Nauru kommt, sollte sich Zeit nehmen, die lokalen Märkte zu erkunden. Hier treffen sich Tradition und Moderne, Lokal und Global. Die Menschen sind ausgesprochen freundlich und lieben es, ihre Esskultur zu teilen – ob es nun um traditionelle Fischgerichte oder um jene importierten Käsesorten geht, die auf einer Pazifikinsel wie kleine kulinarische Überraschungen wirken.
+
+---
 
 Nauru lehrt uns, dass Kulinarik kein Entweder-Oder ist. Eine kleine Insel kann gleichzeitig traditionell und weltoffen sein, lokal und international. Das macht sie für neugierige Reisende so wertvoll – und ihre Esskultur so einzigartig.

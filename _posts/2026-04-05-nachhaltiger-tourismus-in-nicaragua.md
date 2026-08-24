@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiger Tourismus in Nicaragua"
-date: 2026-04-05 08:00:00 +0200
+date: 2026-04-05
 image: https://images.unsplash.com/photo-1599147092675-8f6dbafe46b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBOaWNhcmFndWF8ZW58MHwwfHx8MTc3NTM2NTQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -38,5 +38,7 @@ Nachhaltiger Tourismus ist kein exklusives Konzept für Abenteuerlustige. Es geh
 Nicaragua zeigt, dass es möglich ist. Das Land investiert in den Schutz seiner Naturräume und profitiert gleichzeitig wirtschaftlich davon – nicht durch Ausbeutung, sondern durch respektvolle Zusammenarbeit mit Reisenden, die verstehen, dass wir Gäste in einem wundervollen Land sind.
 
 Wenn du das nächste Mal nach Nicaragua reist, vergiss Managua nicht. Nimm dir Zeit, lerne die Menschen kennen, wandere durch echte Natur mit lokalen Guides und übernachte dort, wo dein Geld direkt bei den Menschen ankommt. Das ist der Tourismus, der die Welt verändern kann.
+
+---
 
 *Dein nächstes Abenteuer wartet – und diesmal kannst du sicher sein, dass du es besser machst als all die anderen.*

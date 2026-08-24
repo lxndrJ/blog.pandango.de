@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Hochzeitsbräuche in Lettland"
-date: 2026-03-17 08:00:00 +0200
+date: 2026-03-17
 image: https://upload.wikimedia.org/wikipedia/commons/8/8c/House_of_Blackheads_and_St._Peter%27s_Church_Tower%2C_Riga%2C_Latvia_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Hochzeitsbräuche in Lettland](https://upload.wikimedia.org/wikipedia/commons/8/8c/House_of_Blackheads_and_St._Peter%27s_Church_Tower%2C_Riga%2C_Latvia_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Hochzeitsbräuche in Lettland](https://upload.wikimedia.org/wikipedia/commons/8/8c/House_of_Blackheads_and_St._Peter%27s_Church_Tower%2C_Riga%2C_Latvia_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Hochzeitsbräuche in Lettland – Wo Tradition und Romantik tanzen
 
@@ -43,5 +42,7 @@ In Lettlands Hauptstadt vermischt sich alles wunderbar. Hier heiraten Paare in d
 Am Ende ist es nicht eine einzelne Tradition, die lettische Hochzeiten auszeichnet. Es ist die Philosophie dahinter: Familie und Gemeinschaft stehen im Mittelpunkt. Es geht um Authentizität statt Perfektion, um gemeinsames Lachen statt stilles Staunen, um die Verbindung zwischen Menschen und ihrer Geschichte.
 
 Lettland lehrt uns, dass eine Hochzeit nicht perfekt sein muss, um magisch zu sein. Sie muss nur ehrlich sein, voller Wärme und gelebt von Menschen, die sich wirklich lieben – und die ihre Wurzeln nicht vergessen.
+
+---
 
 *Hast du Lust bekommen, lettische Hochzeitstraditionen selbst zu erleben? Oder fragst du dich, wie deine eigenen Familienbräuche in deine Hochzeit passen? Die schönsten Feste entstehen, wenn wir das verbinden, das uns wichtig ist.*

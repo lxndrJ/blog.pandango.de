@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltige Unternehmen in Vereinigtes Königreich"
-date: 2026-05-24 08:00:00 +0200
+date: 2026-05-24
 image: https://upload.wikimedia.org/wikipedia/commons/b/bb/OJ_C_133_of_2016_-_DE_German.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Nachhaltige Unternehmen in Vereinigtes Königreich](https://upload.wikimedia.org/wikipedia/commons/b/bb/OJ_C_133_of_2016_-_DE_German.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Grüne Revolution im Land der Tradition: Nachhaltige Unternehmen im Vereinigten Königreich
@@ -37,5 +37,7 @@ Und London? Die Stadt wird zur Blaupause für andere Metropolen. Mit ihren ambit
 Was mich optimistisch stimmt: Das Vereinigte Königreich nimmt diese Transformation nicht als Last, sondern als Chance wahr. Nachhaltigkeit ist hier längst zum Innovationstreiber geworden – und das ist genau der Spirit, den unsere Welt braucht.
 
 Die grüne Revolution im UK ist kein Trend, der morgen vorbei ist. Sie ist das neue Geschäftsmodell, das alte Traditionen ehrt und gleichzeitig mutig nach vorne schaut.
+
+---
 
 *Die Welt verändert sich – nicht durch große Gesten, sondern durch kleine, konsequente Entscheidungen. Das Vereinigte Königreich zeigt uns, wie es geht.*

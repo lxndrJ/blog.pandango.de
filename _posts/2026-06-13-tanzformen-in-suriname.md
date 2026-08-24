@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tanzformen in Suriname"
-date: 2026-06-13 08:00:00 +0200
+date: 2026-06-13
 image: https://images.unsplash.com/photo-1773249815795-99431b00b1c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwU3VyaW5hbWV8ZW58MHwwfHx8MTc4MTMzMzA1MHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -36,5 +36,7 @@ Die Musik, die diese Tänze begleitet, verbindet Trommeln, Bläser und moderne I
 Wenn du nach Suriname kommst – und ich kann dir nur empfehlen, es zu tun – besuche ein lokales Tanzfestival oder einfach einen Club in Paramaribo. Lass dich von der Energie anstecken. Du brauchst keine Erfahrung, keine spezielle Ausbildung. Du brauchst nur die Bereitschaft, dich fallen zu lassen und mit dem Rhythmus zu fließen.
 
 Die Tanzformen Surinames sind ein Fenster in die Seele des Landes – in seine Geschichte, seine Kämpfe und vor allem seine unerschütterliche Lebensfreude. Und das ist ein Fenster, das sich immer für dich öffnet.
+
+---
 
 *Lust auf mehr kulturelle Abenteuer? Die Welt tanzt – man muss nur zuhören.*

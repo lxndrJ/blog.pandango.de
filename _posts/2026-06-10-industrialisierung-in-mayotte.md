@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Industrialisierung in Mayotte"
-date: 2026-06-10 08:00:00 +0200
+date: 2026-06-10
 image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Industrialisierung in Mayotte](https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Industrialisierung in Mayotte](https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mayotte: Wenn die Vergangenheit auf die Zukunft trifft
 
@@ -45,5 +44,7 @@ Die Industrialisierung Mayottes konzentrierte sich weniger auf große Fabriken a
 Die Industrialisierungsgeschichte Mayottes lehrt uns etwas Wichtiges: Fortschritt und Tradition müssen sich nicht gegenseitig ausschließen. Während viele Orte der Welt ihre kulturelle Identität im Zuge der Modernisierung verloren haben, gelang es Mayotte, diesen Spagat zu bewältigen.
 
 Die Insel zeigt, dass Entwicklung nicht bedeuten muss, die Seele eines Ortes zu opfern. Mamoudzou pulsiert mit Leben – nicht trotz, sondern wegen dieser Mischung aus Geschichte und Zukunft.
+
+---
 
 Wenn du jemals die Chance hast, Mayotte zu besuchen, tu es. Spaziere durch die Straßen Mamoudzous, beobachte die Fischerboote im Hafen, und lass dich von dieser einzigartigen Geschichte in den Bann ziehen. Du wirst verstehen, warum dieser kleine Fleck Erde so viel über die Welt erzählt.

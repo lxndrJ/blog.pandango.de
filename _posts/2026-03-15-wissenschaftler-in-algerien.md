@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Wissenschaftler in Algerien"
-date: 2026-03-15 08:00:00 +0200
+date: 2026-03-15
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Wissenschaftler in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Wissenschaftler in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Geister der Wissenschaft: Algeriens Beitrag zur Weltforschung
 
@@ -43,5 +42,7 @@ Die neuen Generationen von Wissenschaftlern in Algiers nutzen digitale Plattform
 Algerien steht an einem Wendepunkt. Mit einer jungen, bildungshungrigen Bevölkerung und wachsendem Zugang zu globalen Ressourcen entstehen neue Möglichkeiten. Die Wissenschaftler von heute bauen die Infrastruktur für die Innovatoren von morgen.
 
 Wenn man durch die modernen Teile von Algiers spaziert, sieht man überall die Zeichen dieser Transformation – neue Forschungszentren, Universitätsgebäude, junge Menschen mit Laptops in Cafés, die an der nächsten großen Idee arbeiten.
+
+---
 
 Die Geschichte der algerischen Wissenschaft ist eine Geschichte von Ausdauer, Kreativität und dem unerschütterlichen menschlichen Drang zu verstehen. Sie verdient, erzählt zu werden – nicht als Fußnote in der globalen Wissenschaftsgeschichte, sondern als vollwertiges Kapitel einer faszinierenden Reise.

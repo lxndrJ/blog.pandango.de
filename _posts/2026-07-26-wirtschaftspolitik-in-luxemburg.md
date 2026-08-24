@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wirtschaftspolitik in Luxemburg"
-date: 2026-07-26 08:00:00 +0200
+date: 2026-07-26
 image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Birgit_Mahnkopf_-_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -43,5 +43,7 @@ Für mich ist Luxemburg ein faszinierendes Beispiel dafür, dass Größe nicht a
 Die luxemburgische Wirtschaftspolitik sagt: Ja, wir wollen erfolgreich sein. Aber nicht um jeden Preis. Wir wollen Innovation, aber mit Verantwortung. Wir wollen Wohlstand, aber für alle.
 
 Das ist eine Botschaft, die in unserer komplexen Welt gerade sehr beruhigend wirkt.
+
+---
 
 *Wenn du selbst nach Luxemburg reist, vergiss nicht: Hinter der glänzenden Finanzfassade steckt eine Geschichte von kluger Planung, kultureller Offenheit und dem Mut, den eigenen Weg zu gehen.*

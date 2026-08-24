@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Grönland"
-date: 2026-04-23 08:00:00 +0200
+date: 2026-04-23
 image: https://images.unsplash.com/photo-1704253511580-b6056cd71c70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZXZvbHV0aW9uZW4lMjBHciVDMyVCNm5sYW5kfGVufDB8MHx8fDE3NzY5MjE2MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -32,5 +32,7 @@ Künstler und Musiker aus Nuuk und anderen Städten begannen, ihre grönländisc
 Die grönländische Revolution ist nicht beendet. Sie ist eine andauernde Bewegung, ein ständiges Verhandeln zwischen Tradition und Fortschritt, zwischen Heimat und Zukunft. Die Debatte um Unabhängigkeit, um Rohstoffe, um die Klimakrise – all das sind Kapitel dieser Geschichte, die noch geschrieben wird.
 
 Was Grönland uns lehrt, ist dass Revolutionen in vielen Formen kommen können. Sie können in den Rhythmen einer neuen Musikgeneration stattfinden, in der Entscheidung, die eigene Sprache zu sprechen, in der Weigerung, sich selbst aufzugeben. Sie können in den farbigen Häusern von Nuuk beginnen und sich über die ganze Insel ausbreiten – still, aber unaufhaltsam.
+
+---
 
 **Möchte dich einladen:** Schau dir Grönland nicht nur als geografisches Phänomen an. Besuche die Musikfestivals in Nuuk, sprich mit den Menschen, erlebe, wie eine Kultur sich selbst neu erfindet – das ist wahre Revolution.

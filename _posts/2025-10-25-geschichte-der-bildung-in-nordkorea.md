@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geschichte der Bildung in Nordkorea"
-date: 2025-10-25 08:00:00 +0200
+date: 2025-10-25
 image: https://images.unsplash.com/photo-1585424306442-4bf9747c5851?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXNjaGljaHRlJTIwZGVyJTIwQmlsZHVuZyUyME5vcmRrb3JlYXxlbnwwfDB8fHwxNzYxMzYyOTIxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

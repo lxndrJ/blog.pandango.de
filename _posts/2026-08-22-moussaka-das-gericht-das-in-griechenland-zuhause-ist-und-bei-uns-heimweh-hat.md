@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat"
-date: 2026-08-22 08:00:00 +0200
+date: 2026-08-22
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 author: lxndrJ
 ai_assisted: true
@@ -16,8 +16,7 @@ sources:
   - https://www.omas-haushaltstipps.com/was-ist-moussaka-aussehen-herkunft-und-geschmack-erklaert-161576.html
   - https://emmikochteinfach.de/moussaka-rezept/
   - https://www.familienkost.de/rezept_einfaches_moussaka.html
----
-![Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat](https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat](https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat
 
@@ -47,6 +46,8 @@ Das echte Problem könnte sein, dass Moussaka zu sehr nach Tselementes riecht �
 
 Ein Auflauf braucht Zeit zum Backen, es ist keine schnelle Mahlzeit, kein Instagram-würdiges Finger-Food. Das ist kein philosophisches Problem, sondern ein praktisches: Essen soll in unseren Breiten inzwischen schneller und unkomplizierter werden. Moussaka passt nicht in dieses Raster.
 
+---
+
 ## Quellen
 
 - [Beefbandits – Moussaka – Ein Klassiker der griechischen Küche](https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche)
@@ -60,5 +61,7 @@ Ein Auflauf braucht Zeit zum Backen, es ist keine schnelle Mahlzeit, kein Instag
 - [Just Eat Foodwiki – Moussaka](https://www.just-eat.ch/foodwiki/griechische-kueche/moussaka/)
 - [Low-'n'-Slow – Moussaka: Kulinarische Weltreise](https://low-n-slow.de/slowcooker/moussaka-kulinarische-weltreise/)
 - [Gastroseite – Was ist Moussaka](https://www.gastroseite.de/2024/04/06/was-ist-moussaka-rezept/)
+
+---
 
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

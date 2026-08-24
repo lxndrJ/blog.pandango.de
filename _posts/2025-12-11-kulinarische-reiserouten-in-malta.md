@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kulinarische Reiserouten in Malta"
-date: 2025-12-11 08:00:00 +0200
+date: 2025-12-11
 image: https://images.unsplash.com/photo-1587974928552-4f4aac51b45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBSZWlzZXJvdXRlbiUyME1hbHRhfGVufDB8MHx8fDE3NjU0MjUxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

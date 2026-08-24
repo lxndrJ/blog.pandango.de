@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handwerkskunst in Kambodscha"
-date: 2026-03-09 02:00:00 +0200
+date: 2026-03-09
 image: https://images.unsplash.com/photo-1624159839720-b522c256317f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIYW5kd2Vya3NrdW5zdCUyMEthbWJvZHNjaGF8ZW58MHwwfHx8MTc3MzAzMTQ4OXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -46,5 +46,7 @@ Was diese Handwerkstradition besonders macht, ist ihr Potential für positive Ve
 Wenn du nach Phnom Penh reist und authentische Handwerkskunst erleben möchtest: Besuche die Werkstätten direkt, nicht nur die touristischen Läden. Stelle Fragen. Beobachte die Künstler bei ihrer Arbeit. Und wenn du etwas kaufst, wisse, dass du damit direkt die kambodschanische Kultur unterstützt.
 
 Die besten Souvenirs sind nicht die günstigsten, sondern die, bei denen du die Geschichte dahinter kennst.
+
+---
 
 Kambodschas Handwerkskunst ist ein Beweis dafür, dass Tradition nicht bedeutet, stillzustehen. Sie bedeutet, das Beste aus der Vergangenheit zu bewahren, während man offen für die Zukunft bleibt. In den Werkstätten Phnom Penhs und darüber hinaus lebt diese Balance – und das macht jedes handgefertigte Stück zu etwas Besonderem.

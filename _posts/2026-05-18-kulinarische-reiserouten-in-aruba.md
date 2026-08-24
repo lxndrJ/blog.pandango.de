@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kulinarische Reiserouten in Aruba"
-date: 2026-05-18 08:00:00 +0200
+date: 2026-05-18
 image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -67,5 +67,7 @@ Aruba ist klein genug, um alles zu erkunden, aber groß genug, dass dich jedes R
 Pack deinen Hunger mit ein und lass dich von Oranjestad und der Insel kulinarisch verführen. Dein Bauch wird dir danken – und dein Herz auch.
 
 ![Oranjestad: Das kulinarische Herz der Insel](https://upload.wikimedia.org/wikipedia/commons/d/d0/ARUBA-oranjestad-hafen-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+---
 
 *Die beste Reise ist die, bei der du nicht nur Orte besuchst, sondern sie schmeckst.*

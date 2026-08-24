@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sternenhimmel und Astronomie in Jemen"
-date: 2025-10-01 08:00:00 +0200
+date: 2025-10-01
 image: https://upload.wikimedia.org/wikipedia/commons/0/0f/Anti-war_demonstration_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

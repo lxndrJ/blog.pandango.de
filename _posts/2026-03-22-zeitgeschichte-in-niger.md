@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Zeitgeschichte in Niger"
-date: 2026-03-22 08:00:00 +0200
+date: 2026-03-22
 image: https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Zeitgeschichte in Niger](https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Zeitgeschichte in Niger](https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Niger: Zwischen Wüstensand und Weltgeschichte
 
@@ -39,5 +38,7 @@ Niamey ist heute ein faszinierendes Mosaik: Moderne Hochhäuser stehen neben tra
 Die zeitgenössische Geschichte Nigers ist eine Geschichte von Herausforderungen und Hoffnung. Sicherheitskrisen, Dürren, wirtschaftliche Schwierigkeiten – ja, das ist real. Aber es ist nicht die ganze Geschichte. Was man in Niamey spürt, ist ein ungebrochener Wille, das Land zu gestalten.
 
 Junge Künstler, Unternehmer und Aktivisten schreiben gerade eine neue Seite in Nigers Geschichte. Sie nutzen Social Media wie alte Griot ihre Trommeln – um Geschichten zu erzählen, um Veränderung zu fordern, um ihre Stimme zu erheben.
+
+---
 
 Niger ist kein Museum für Geschichte – es ist ein lebendiger Ort, an dem Vergangenheit und Gegenwart in einem ewigen Dialog stehen. Wer hierher kommt, versteht nicht nur, wo Niger herkommt, sondern auch, wohin es gehen könnte. Und das ist das schönste an dieser Geschichte: Sie ist noch nicht zu Ende geschrieben.

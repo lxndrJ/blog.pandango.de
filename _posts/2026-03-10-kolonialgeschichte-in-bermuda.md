@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kolonialgeschichte in Bermuda"
-date: 2026-03-10 08:00:00 +0200
+date: 2026-03-10
 image: https://images.unsplash.com/photo-1752149626417-d99e960a7f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLb2xvbmlhbGdlc2NoaWNodGUlMjBCZXJtdWRhfGVufDB8MHx8fDE3NzMxMTY3NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -36,5 +36,7 @@ Heute ist Bermuda eine wohlhabende, moderne Gesellschaft mit einer stabilen Demo
 Wenn man Bermuda besucht, lohnt sich ein Spaziergang durch die engen Gassen Hamiltons. Schaut auf die Fassaden, fragt die Menschen nach ihren Geschichten, besucht das National Museum. Dann versteht man: Diese Insel ist nicht nur ein Urlaubsparadies, sondern ein Ort, an dem Geschichte lebendig ist und die Zukunft aktiv gestaltet wird.
 
 Die rosafarbenen Strände sind wunderschön. Aber die echte Schönheit Bermudas liegt darin, wie eine Gesellschaft gelernt hat, ihre Vergangenheit anzuerkennen und daraus etwas Besseres zu bauen.
+
+---
 
 **Kategorie:** Geschichte

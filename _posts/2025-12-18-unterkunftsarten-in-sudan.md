@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unterkunftsarten in Sudan"
-date: 2025-12-18 08:00:00 +0200
+date: 2025-12-18
 image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Kimotong%2C_Sud%C3%A1n_del_Sur%2C_2024-01-23%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

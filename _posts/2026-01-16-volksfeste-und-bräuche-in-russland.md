@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volksfeste und Bräuche in Russland"
-date: 2026-01-16 08:00:00 +0200
+date: 2026-01-16
 image: https://images.unsplash.com/photo-1623321582832-60af95a6663e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWb2xrc2Zlc3RlJTIwdW5kJTIwQnIlQzMlQTR1Y2hlJTIwUnVzc2xhbmR8ZW58MHwwfHx8MTc2ODUzNTg2MXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

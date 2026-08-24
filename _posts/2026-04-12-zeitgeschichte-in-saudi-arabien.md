@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Zeitgeschichte in Saudi-Arabien"
-date: 2026-04-12 08:00:00 +0200
+date: 2026-04-12
 image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Zeitgeschichte in Saudi-Arabien](https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Zeitgeschichte in Saudi-Arabien](https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Von Kamelen und Wolkenkratzern: Riyadhs Reise in die Moderne
 
@@ -33,5 +32,7 @@ Diese Veränderungen sind nicht zufällig. Sie sind Teil einer bewussten Neubewe
 Was ich bei meinen Reisen nach Riyadh gelernt habe: Diese Stadt ist kein Widerspruch, sondern eine Konversation zwischen Vergangenheit und Zukunft. Die Menschen hier sind stolz auf ihre Geschichte – die Gründung des modernen Staates, die kulturellen Errungenschaften, die Bewahrung des Glaubens – und gleichzeitig voller Hoffnung auf das, was noch kommt.
 
 Die staubigen Wüstenpfade sind längst asphaltiert, aber die Geschichten, die diese Stadt zu erzählen hat, sind lebendiger denn je.
+
+---
 
 **Habt ihr Riyadh bereits besucht? Ich würde gerne von euren Erfahrungen hören – schreibt mir in den Kommentaren!**

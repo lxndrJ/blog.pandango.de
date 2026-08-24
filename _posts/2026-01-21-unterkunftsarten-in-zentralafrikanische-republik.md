@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Unterkunftsarten in Zentralafrikanische Republik"
-date: 2026-01-21 08:00:00 +0200
+date: 2026-01-21
 image: https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Unterkunftsarten in Zentralafrikanische Republik](https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Unterkunftsarten in Zentralafrikanische Republik](https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Übernachten in der Zentralafrikanischen Republik: Eine ungewöhnliche Reise
 

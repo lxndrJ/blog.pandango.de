@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reisedokumente und Visa in Kirgisistan"
-date: 2026-04-10 08:00:00 +0200
+date: 2026-04-10
 image: https://images.unsplash.com/photo-1691219571875-edbc9ae22c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWlzZWRva3VtZW50ZSUyMHVuZCUyMFZpc2ElMjBLaXJnaXNpc3RhbnxlbnwwfDB8fHwxNzc1Nzk4MTY2fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -48,5 +48,7 @@ Möchtest du in die benachbarten Länder reisen? Das ist eine andere Geschichte.
 ## Das kulturelle Drumherum
 
 Kirgisistan schätzt respektvolle Reisende. Bring deine Dokumente in Ordnung, respektiere die Regeln – und du wirst merken, dass die Menschen hier unglaublich gastfreundlich sind. In den Jurten auf den Hochplateaus werden dir Tee und Kumys (vergorene Stutenmilch) serviert, ohne dass jemand nach Papieren fragt. Aber für die offiziellen Grenzen brauchst du eben doch die richtige Ausrüstung.
+
+---
 
 **Fazit:** Kirgisistan macht es Reisenden leicht. Mit einem gültigen Reisepass und etwas Bargeld kannst du hier eines der authentischsten Abenteuer Zentralasiens erleben. Die Bürokratie ist moderat, die Landschaften sind spektakulär, und die Menschen werden dich in dein Herz schließen. Also: Reisepass schnappen und los geht's!

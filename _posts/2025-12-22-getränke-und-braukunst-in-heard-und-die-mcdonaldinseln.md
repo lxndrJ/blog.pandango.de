@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Getränke und Braukunst in Heard und die McDonaldinseln"
-date: 2025-12-22 08:00:00 +0200
+date: 2025-12-22
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Getränke und Braukunst in Heard und die McDonaldinseln](https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Getränke und Braukunst in Heard und die McDonaldinseln](https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Hopfen, Wasser und Traditionen: Eine Reise durch die Getränkewelt der Heard- und McDonaldinseln
 

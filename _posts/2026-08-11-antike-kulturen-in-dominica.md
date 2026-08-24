@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antike Kulturen in Dominica"
-date: 2026-08-11 08:00:00 +0200
+date: 2026-08-11
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/1884_2half_red-brown_Dominica_unused_Yv20_SG15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -39,5 +39,7 @@ In den traditionellen Kunsthandwerkstechniken, die noch immer von Hand praktizie
 Wenn ich durch Roseau spaziere und die bunten Häuser sehe, die tropischen Düfte einatme und die Geschichten der Menschen höre, verstehe ich, dass antike Kulturen nicht „vorbei" sind. Sie sind die Grundlagen, auf denen wir heute stehen. Dominica lehrt uns, dass Geschichte nicht eine Linie ist, die in der Vergangenheit endet – sie ist ein lebendiger, pulsierender Teil unserer Gegenwart.
 
 Die Insel ist eine Einladung, anders zu denken. Hier erkennt man, dass wahre Schätze nicht in Museen hinter Glas liegen, sondern in den Geschichten, den Menschen und der Verbindung zur Natur.
+
+---
 
 *Habt ihr Lust bekommen, diese faszinierende Geschichte selbst zu erkunden? Dominica wartet mit offenen Armen.*

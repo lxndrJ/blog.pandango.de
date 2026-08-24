@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musiktraditionen in Botswana"
-date: 2026-07-09 08:00:00 +0200
+date: 2026-07-09
 image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -43,5 +43,7 @@ Botswana hat auch der Welt talentierte moderne Musiker geschenkt. Die lokale Hip
 Wenn Sie nach Botswana reisen, besuchen Sie unbedingt einen lokalen Musikabend in Gaborone – nicht unbedingt ein großes Festival, sondern vielleicht ein kleineres Event in einem lokalen Kulturzentrum. Dort erleben Sie Musik in ihrer authentischsten Form, wo Besucher und Künstler miteinander in einem Raum atmen und die Energie teilen.
 
 Die Musik Botswanas ist ein Spiegel der Seele des Landes: vielfältig, rhythmisch, lebendig und unglaublich einladend. Sie müssen kein Musikexperte sein, um sie zu verstehen – Sie müssen nur zuhören und spüren.
+
+---
 
 *Botswana wartet darauf, dass Sie seinen Rhythmus entdecken. Und glaub mir: Einmal gehört, vergisst man ihn nie wieder.*

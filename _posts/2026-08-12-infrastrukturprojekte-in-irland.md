@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infrastrukturprojekte in Irland"
-date: 2026-08-12 08:00:00 +0200
+date: 2026-08-12
 image: https://images.unsplash.com/photo-1689322353596-44f7af960b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmZyYXN0cnVrdHVycHJvamVrdGUlMjBJcmxhbmR8ZW58MHwwfHx8MTc4NjUwOTUzNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -46,5 +46,7 @@ Gleichzeitig entstehen neue Tech-Parks außerhalb Dublins. Galway, Cork und Lime
 Am Ende geht es um mehr als Betonmischer und Glasfaserkabel. Irland hat verstanden, dass Infrastruktur ein Versprechen ist – das Versprechen, dass jeder einen Platz in der modernen Welt hat. Egal ob man in Dublin oder in einem kleinen Dorf an der Westküste lebt.
 
 Diese Mischung aus pragmatischer Zukunftsorientierung und kulturellem Bewusstsein macht Irland zu einem spannenden Fallbeispiel. Nicht nur für Investoren, sondern auch für jeden Reisenden, der verstehen möchte, wie eine Nation ihre Zukunft selbst gestaltet – ohne ihre Seele zu verkaufen.
+
+---
 
 **Ein Land im Wandel** – und das ist nicht immer einfach. Aber wenn man Dublins neue U-Bahn-Pläne mit seinen 300 Jahre alten Pubs kombiniert, dann sieht man: Irland macht es richtig.

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Fischgerichte in Algerien"
-date: 2026-06-17 08:00:00 +0200
+date: 2026-06-17
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Fischgerichte in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Fischgerichte in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wenn das Mittelmeer auf den Teller kommt: Fischgerichte in Algerien
 
@@ -41,5 +40,7 @@ Die gute Nachricht: Diese Gerichte sind zu Hause nachzukochen. Ein frischer Fisc
 Wenn du je nach Algiers reist, wirst du verstehen, warum die Menschen dort so stolz auf ihre Fischküche sind. Es geht nicht um Komplexität, sondern um Ehrlichkeit. Um den Respekt vor den Gaben des Meeres. Um die Freude am gemeinsamen Essen.
 
 Das Mittelmeer hat viel zu bieten. Algerien weiß nur besonders gut, wie man es auf den Teller bringt.
+
+---
 
 *Hast du schon Fischgerichte in Nordafrika probiert? Die Küche hat mich jedes Mal aufs Neue überrascht – in der besten Art.*

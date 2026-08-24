@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handwerkskunst in Monaco"
-date: 2026-07-25 08:00:00 +0200
+date: 2026-07-25
 image: https://images.unsplash.com/photo-1734108489076-ff5f5a8f8a67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIYW5kd2Vya3NrdW5zdCUyME1vbmFjb3xlbnwwfDB8fHwxNzg0OTU3NTY2fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

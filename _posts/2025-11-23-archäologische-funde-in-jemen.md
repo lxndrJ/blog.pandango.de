@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Archäologische Funde in Jemen"
-date: 2025-11-23 08:00:00 +0200
+date: 2025-11-23
 image: https://upload.wikimedia.org/wikipedia/commons/0/0f/Anti-war_demonstration_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Archäologische Funde in Jemen](https://upload.wikimedia.org/wikipedia/commons/0/0f/Anti-war_demonstration_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Archäologische Funde in Jemen](https://upload.wikimedia.org/wikipedia/commons/0/0f/Anti-war_demonstration_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Verborgene Schätze: Archäologische Entdeckungen im Herzen des Jemen
 
@@ -37,6 +36,8 @@ Leider sind viele archäologische Stätten durch Konflikte und Vernachlässigung
 Die archäologischen Funde des Jemen sind mehr als nur Steine und Artefakte. Sie sind Fenster in eine Welt voller Geschichten, Innovationen und menschlicher Kreativität.
 
 *Eine Reise wert für alle, die mehr als nur Touristen sein wollen.*
+
+---
 
 **Weitere Informationen:**
 - UNESCO Weltkulturerbe

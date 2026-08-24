@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transportmittel im Vergleich in Südafrika"
-date: 2026-07-23 08:00:00 +0200
+date: 2026-07-23
 image: https://images.unsplash.com/photo-1704037180905-d8c5bc1b1cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFuc3BvcnRtaXR0ZWwlMjBpbSUyMFZlcmdsZWljaCUyMFMlQzMlQkNkYWZyaWthfGVufDB8MHx8fDE3ODQ3ODUzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -52,5 +52,7 @@ Pretoria ist eine grüne, weitläufige Stadt mit wunderschönen Parks und Monume
 Kombiniere deine Transportmittel! Nutze den Mietwagen für Tagesausflüge und die atemberaubende Natur, nimm den Fernbus für lange Strecken, wenn du Zeit hast, und erlebe mindestens eine Minibus-Taxi-Fahrt – vertrau mir, das ist ein Abenteuer, das du nicht missen solltest.
 
 Südafrika fordert dich heraus, belohnt dich aber mit unbegrenzten Möglichkeiten. Welches Transportmittel du auch wählst – du wirst verstehen, warum dieses Land so viele Menschen in seinen Bann zieht.
+
+---
 
 *Gute Fahrt, und genieße jede Minute dieses wunderschönen Landes!*

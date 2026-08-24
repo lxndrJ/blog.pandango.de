@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiger Tourismus in Singapur"
-date: 2026-07-03 08:00:00 +0200
+date: 2026-07-03
 image: https://images.unsplash.com/photo-1738728057894-0833102134a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBTaW5nYXB1cnxlbnwwfDB8fHwxNzgzMDU5NTQwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -40,5 +40,7 @@ Als Reisende können wir diese Vision unterstützen: Mit den öffentlichen Verke
 Singapur zeigt uns, dass Nachhaltigkeit kein Luxus ist – sie ist eine Notwendigkeit, und sie kann sogar inspirierend sein. Die Stadt beweist, dass wir nicht zwischen modernem Leben und Naturschutz wählen müssen. Wir können beides haben, wenn wir es richtig anpacken.
 
 Beim nächsten Besuch in dieser faszinierenden Stadt nehmt euch Zeit für die grünen Ecken. Ihr werdet überrascht sein, wie viel Natur sich zwischen den Hochhäusern versteckt – und wie sehr es sich lohnt, sie zu schützen.
+
+---
 
 *Habt ihr Singapur bereits besucht? Welche nachhaltigen Erlebnisse dort haben euch am meisten beeindruckt? Teilt eure Gedanken in den Kommentaren!*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flora und Fauna in Haiti"
-date: 2026-02-12 08:00:00 +0200
+date: 2026-02-12
 image: https://images.unsplash.com/photo-1580740240113-a5c3a287fe7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGbG9yYSUyMHVuZCUyMEZhdW5hJTIwSGFpdGl8ZW58MHwwfHx8MTc3MDg3MTg1MHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

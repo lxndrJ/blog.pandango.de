@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Start-ups und Gründerkultur in Samoa"
-date: 2026-07-12 08:00:00 +0200
+date: 2026-07-12
 image: https://upload.wikimedia.org/wikipedia/commons/a/a9/Beach_on_Upolu_Island%2C_Samoa%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Start-ups und Gründerkultur in Samoa](https://upload.wikimedia.org/wikipedia/commons/a/a9/Beach_on_Upolu_Island%2C_Samoa%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Start-ups und Gründerkultur in Samoa](https://upload.wikimedia.org/wikipedia/commons/a/a9/Beach_on_Upolu_Island%2C_Samoa%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Von Südsee-Träumen zu digitalen Realitäten: Gründerkultur in Samoa
 
@@ -33,5 +32,7 @@ Die samoanische Start-up-Szene mag klein sein, aber sie hat etwas, das größere
 Die Reise der samoanischen Gründerkultur ist noch lange nicht zu Ende – sie hat gerade erst begonnen. Apia könnte in den kommenden Jahren zu einem überraschenden Hotspot für digitale Innovation werden, nicht trotz, sondern wegen seiner Besonderheiten.
 
 Wer weiß? Vielleicht ist die nächste revolutionäre App nicht aus dem Silicon Valley, sondern aus einer kleinen Agentur in Apia, wo Tradition und Innovation in perfekter Balance tanzen.
+
+---
 
 *Die Geschichte von Samoa zeigt: Die beste Zeit zum Gründen ist jetzt, überall und mit dem, was man hat.*

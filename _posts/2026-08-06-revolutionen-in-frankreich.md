@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Frankreich"
-date: 2026-08-06 08:00:00 +0200
+date: 2026-08-06
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/11-french_revolution_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -41,5 +41,7 @@ Das Musée Carnavalet erzählt die Geschichte Pariser Revolutionen auf eine Weis
 Das Schöne an der Geschichte Frankreichs ist ihre Botschaft: Veränderung ist möglich. Paris erinnert uns daran, dass große Bewegungen oft von einfachen Menschen ausgehen, die an etwas Besseres glauben. Die Stadt lehrt uns, dass Geschichte nicht nur in der Vergangenheit lebt, sondern in jedem Moment neu geschrieben werden kann.
 
 Wenn du Paris besuchst, nimm dir Zeit für mehr als nur die üblichen Sehenswürdigkeiten. Spaziere durch die Viertel, wo Revolutionen geplant wurden. Setz dich in ein Café und beobachte, wie Menschen leidenschaftlich diskutieren. Fühl die Energie dieser Stadt – sie ist unvergleichlich.
+
+---
 
 *Kategorie: Geschichte | Frankreich | Kulturelle Perspektive*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unternehmenskultur in Kasachstan"
-date: 2026-03-18 08:00:00 +0200
+date: 2026-03-18
 image: https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -41,5 +41,7 @@ Team-Events, gemeinsame Mahlzeiten und regelmäßiger persönlicher Austausch ge
 Kasachstan steht an einem aufregenden Punkt. Das Land will bis 2050 eine der Top-30-Volkswirtschaften der Welt sein. Die Unternehmenskultur entwickelt sich dynamisch weiter: Mehr Frauen in Führungspositionen, flexible Arbeitsmodelle in der Tech-Branche, und ein wachsendes Bewusstsein für Nachhaltigkeit prägen die neuere Generation von Unternehmen.
 
 Astana wird zum Experimentierfeld für eine zeitgemäße Unternehmenskultur, die nicht blind westliche Modelle kopiert, sondern etwas Neues schafft. Eine Kultur, die schnell innoviert, dabei aber ihre Werte behält.
+
+---
 
 Kasachstan zeigt uns, dass Modernisierung und Tradition nicht im Widerspruch stehen müssen. Wer die Chancen dieses Marktes verstehen möchte, muss bereit sein, diese Balance zu akzeptieren – und zu schätzen. Genau das macht das Land so interessant für alle, die Unternehmenskultur nicht nur als HR-Konzept verstehen, sondern als lebendigen Ausdruck einer Gesellschaft im Wandel.

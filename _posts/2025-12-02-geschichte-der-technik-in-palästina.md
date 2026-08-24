@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geschichte der Technik in Palästina"
-date: 2025-12-02 08:00:00 +0200
+date: 2025-12-02
 image: https://images.unsplash.com/photo-1720642496726-0be41d623a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXNjaGljaHRlJTIwZGVyJTIwVGVjaG5payUyMFBhbCVDMyVBNHN0aW5hfGVufDB8MHx8fDE3NjQ2NDcxNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -39,6 +39,8 @@ Die technologische Entwicklung ist tief in der palästinensischen Kultur veranke
 ### Eine Perspektive der Hoffnung
 
 Technologie wird hier nicht nur als Werkzeug, sondern als Brücke verstanden. Eine Brücke zwischen Tradition und Moderne, zwischen lokalen Herausforderungen und globalen Möglichkeiten.
+
+---
 
 **Fazit**: Die technologische Geschichte Palästinas ist eine Geschichte von Widerstandsfähigkeit, Kreativität und ungebrochener Hoffnung.
 

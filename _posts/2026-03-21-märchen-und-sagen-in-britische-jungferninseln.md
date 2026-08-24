@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Märchen und Sagen in Britische Jungferninseln"
-date: 2026-03-21 08:00:00 +0200
+date: 2026-03-21
 image: https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Märchen und Sagen in Britische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Märchen und Sagen in Britische Jungferninseln](https://upload.wikimedia.org/wikipedia/commons/a/ac/British_Virgin_Islands.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Märchen aus der Karibik: Die geheimnisvollen Geschichten der Britischen Jungferninseln
 
@@ -39,5 +38,7 @@ Auch in Road Towns kulturellen Veranstaltungen und in den lokalen Museen kannst 
 Wenn du die Britischen Jungferninseln besuchst, vergiss die Guidebooks für einen Moment. Setz dich in ein lokales Restaurant, bestell einen Rum Punch und frag die Einheimischen nach ihren liebsten Geschichten. Du wirst überrascht sein, wie schnell sich die Augen deines Gegenübers leuchten und wie magisch diese alten Märchen und Sagen wirken – besonders unter dem Sternenhimmel einer karibischen Nacht.
 
 Die Jungferninseln sind nicht nur ein Ort zum Entspannen, sondern ein Ort, an dem Märchen noch real sind und die Vergangenheit mit der Gegenwart tanzt.
+
+---
 
 *Magische Grüße aus der Karibik!*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trachten und Kleidung in Ukraine"
-date: 2026-08-10 08:00:00 +0200
+date: 2026-08-10
 image: https://images.unsplash.com/photo-1655678204995-0e1eb3d2fdbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFjaHRlbiUyMHVuZCUyMEtsZWlkdW5nJTIwVWtyYWluZXxlbnwwfDB8fHwxNzg2MzM1NjA1fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -38,5 +38,7 @@ Diese Mischung aus Respekt für die Tradition und Mut zur Innovation ist typisch
 ## Ein Stück Kultur zum Mitnehmen
 
 Wenn ihr Kyiv besucht, lohnt sich ein Spaziergang durch die **Andriyivsky Descent**, wo lokale Künstler ihre handgefertigten Trachten und bestickte Stoffe verkaufen. Hier könnt ihr nicht nur wunderbare Souvenirs finden, sondern auch die Handwerker treffen und verstehen, wie viel Zeit und Liebe in jeder Stickerei steckt.
+
+---
 
 Die Trachten der Ukraine sind ein wunderbares Beispiel dafür, wie Kultur greifbar wird. Sie sind Geschichtsbücher aus Stoff, Kunstwerke, die man tragen kann, und Brücken zwischen Vergangenheit und Gegenwart. In einer Welt, die oft zu schnell voranschreitet, erinnern uns diese farbenfrohen Hemden und Röcke daran, woher wir kommen und was uns verbindet.

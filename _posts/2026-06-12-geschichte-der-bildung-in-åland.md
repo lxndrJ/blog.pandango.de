@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Geschichte der Bildung in Åland"
-date: 2026-06-12 08:00:00 +0200
+date: 2026-06-12
 image: https://upload.wikimedia.org/wikipedia/commons/2/24/Aaland_Archipelago%2C_Finland_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Geschichte der Bildung in Åland](https://upload.wikimedia.org/wikipedia/commons/2/24/Aaland_Archipelago%2C_Finland_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Geschichte der Bildung in Åland](https://upload.wikimedia.org/wikipedia/commons/2/24/Aaland_Archipelago%2C_Finland_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Vom Schulmeister zum Smartphone: Bildungsgeschichte auf Åland
 
@@ -45,5 +44,7 @@ Mariehamn beheimatet heute auch Weiterbildungszentren und bietet Möglichkeiten 
 Was macht die Bildungsgeschichte Ålands so besonders? Es ist diese Kombination aus Pragmatismus und Idealism, aus kultureller Eigenständigkeit und Offenheit für Neues. Von bescheidenen Anfängen in Pfarrhäusern bis zu modernen Schulen mit Smartboards – Åland hat gezeigt, dass Bildung nicht nur ein Thema für Statistiken ist, sondern das Fundament einer lebenswerten Gesellschaft.
 
 Wenn ihr das nächste Mal durch Mariehamn spaziert und an einer Schule vorbeigeht, denkt daran: Hinter diesen Mauern steckt eine Geschichte von Menschen, die an die Kraft von Wissen geglaubt haben – lange bevor es selbstverständlich war.
+
+---
 
 *Die Bildungsgeschichte Ålands ist noch lange nicht zu Ende geschrieben. Sie wird jeden Tag neu geschrieben – von Kindern, Lehrern und der ganzen Gemeinschaft.*

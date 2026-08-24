@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industriegeschichte in Martinique"
-date: 2025-10-27 08:00:00 +0200
+date: 2025-10-27
 image: https://images.unsplash.com/photo-1678908643985-1c8c3ea192d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWVnZXNjaGljaHRlJTIwTWFydGluaXF1ZXxlbnwwfDB8fHwxNzYxNTM2NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

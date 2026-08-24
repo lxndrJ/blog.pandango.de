@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flora und Fauna in Ukraine"
-date: 2026-04-07 08:00:00 +0200
+date: 2026-04-07
 image: https://upload.wikimedia.org/wikipedia/commons/b/bf/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -39,5 +39,7 @@ Der Süden der Ukraine, besonders die Donau-Delta und die Schwarzmeer-Küste, is
 Die Ukraine steht vor großen Herausforderungen, wenn es um den Naturschutz geht. Klimawandel, Landwirtschaft und leider auch bewaffnete Konflikte beeinträchtigen empfindliche Ökosysteme. Doch es gibt auch Hoffnung: Immer mehr Naturschutzorganisationen arbeiten daran, bedrohte Arten zu schützen und Lebensräume wiederherzustellen.
 
 Kyiv und sein Umland könnten ein Modell für nachhaltiges Zusammenleben werden – eine Stadt, die ihre Natur nicht verdrängt, sondern mit ihr lebt.
+
+---
 
 Die Ukraine ist mehr als nur eine Hauptstadt. Sie ist ein Land voller verborgener Naturwunder, wo die Steppe singt, Flüsse fließen und zwischen den Häusern Wildnis lauert. Es lohnt sich, genauer hinzuschauen.

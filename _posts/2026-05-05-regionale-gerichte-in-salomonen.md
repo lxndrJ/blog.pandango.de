@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regionale Gerichte in Salomonen"
-date: 2026-05-05 08:00:00 +0200
+date: 2026-05-05
 image: https://images.unsplash.com/photo-1571607182000-b1d278eb9bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWdpb25hbGUlMjBHZXJpY2h0ZSUyMFNhbG9tb25lbnxlbnwwfDB8fHwxNzc3OTU5MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -44,5 +44,7 @@ Vergiss nicht die **süßen Kreationen**: Kokosnussgebäck, mit Palmzucker gesü
 Was mich an der Küche der Salomonen am meisten begeistert, ist ihre Authentizität. Hier wird nicht gehetzt, nicht experimentiert um der Innovation willen. Hier wird gekocht, wie es die Großmütter taten, mit den besten Zutaten, die das Meer und das Land hergeben.
 
 Die Salomonen haben mir beigebracht, dass die beste Küche die ist, die Liebe atmet – und genau das findest du hier in jeder Mahlzeit.
+
+---
 
 *Hast du schon mal die Küche der Pazifik-Inseln probiert? Erzähl mir von deinen Erlebnissen – ich freue mich auf deine Geschichten!*

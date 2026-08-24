@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrialisierung in Bahamas"
-date: 2026-04-18 08:00:00 +0200
+date: 2026-04-18
 image: https://images.unsplash.com/photo-1707730102736-fdb4630e4f55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBCYWhhbWFzfGVufDB8MHx8fDE3NzY0ODgzNjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -42,5 +42,7 @@ Was die Bahamas lehrte, ist wichtig: Industrialisierung muss nicht wie in Englan
 Wenn Sie Nassau heute besuchen, spüren Sie diese Schichten der Geschichte. Sie wandeln durch Streets mit Namen wie "Bay Street", wo Sie moderne Shops neben historischen Gebäuden finden. Sie sehen Großmütter in traditionellen Kleidern neben Geschäftsleuten in Anzügen.
 
 Die Industrialisierung der Bahamas war keine klassische Fabrik-Geschichte – sie war eine Geschichte von Anpassung, Erfindungsgeist und dem klugen Erkennen der eigenen Stärken. Und vielleicht ist das die schönste Lektion überhaupt.
+
+---
 
 *Haben Sie Interesse an der Geschichte der Karibik oder wollen mehr über Nassau erfahren? Die Bahamas zeigen, dass Geschichte nicht nur in Museen passiert – sie lebt in den Straßen, den Menschen und den Entscheidungen, die Gesellschaften prägen.*

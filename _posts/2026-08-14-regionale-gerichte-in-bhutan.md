@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Regionale Gerichte in Bhutan"
-date: 2026-08-14 08:00:00 +0200
+date: 2026-08-14
 image: https://images.unsplash.com/photo-1584003734930-b12779f66351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWdpb25hbGUlMjBHZXJpY2h0ZSUyMEJodXRhbnxlbnwwfDB8fHwxNzg2NjgyNDIwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -48,5 +48,7 @@ Die bhutanische Küche ist auch ein Spiegel der Philosophie des Landes: Alles im
 Traut euch, die lokale Küche auszuprobieren. Startet mit **Ema Datshi**, wenn ihr mutig seid, oder mit **Phaksha Paa**, wenn ihr es sanfter angehen möchtet. In Thimphu findet ihr authentische Restaurants in jedem Viertel, und die Menschen freuen sich immer, ihre Küche zu erklären.
 
 Bringt Wasser mit – nein, Saft. Nein, eigentlich beides.
+
+---
 
 Bhutan hat mir gezeigt, dass die beste Art, ein Land zu verstehen, durch seinen Magen führt. Die regionale Küche hier ist nicht nur lecker, sie erzählt die Geschichte eines Volkes, das seine Traditionen bewahrt, während es in die Zukunft blickt. Und das schmeckt man in jedem Bissen.

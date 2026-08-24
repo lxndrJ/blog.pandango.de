@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sternenhimmel und Astronomie in Seychellen"
-date: 2025-11-08 08:00:00 +0200
+date: 2025-11-08
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/Anse_Takamaka-Mah%C3%A9-Seychelles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

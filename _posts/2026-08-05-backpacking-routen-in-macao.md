@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Backpacking-Routen in Macao"
-date: 2026-08-05 08:00:00 +0200
+date: 2026-08-05
 image: https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Backpacking-Routen in Macao](https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Backpacking-Routen in Macao](https://upload.wikimedia.org/wikipedia/commons/7/76/Aomen_China_Mailbox-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mit dem Rucksack durch Macau: Zwischen Glitzer und Geheimtipps
 
@@ -41,5 +40,7 @@ Die Inseln Taipa und Coloane zeigen dir das andere Macau. Während Taipa mit dem
 Was Macau für Backpacker wirklich interessant macht, ist der Kontrast. Du kannst morgens in einem 500 Jahre alten Tempel meditieren und abends neon-glitzernde Nachtmärkte erkunden. Du kannst dich in engen Gassen verlaufen und auf versteckte Kunstgalerien stoßen. Du kannst mit drei Euro essen gehen und danach ein Museum für zwei Euro besuchen.
 
 Macau zwingt dich nicht, dich zu entscheiden zwischen Tradition und Moderne – die Stadt lebt beide Seiten gleichzeitig. Und genau das macht sie so verdammt reisenwert.
+
+---
 
 *Pack deinen Rucksack, schnapp dir eine Busfahrkarte und lass dich von Macau überraschen. Die beste Abenteuer beginnen dort, wo die Casinos enden.*

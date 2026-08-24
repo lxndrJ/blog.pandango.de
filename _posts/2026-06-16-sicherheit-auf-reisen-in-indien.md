@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sicherheit auf Reisen in Indien"
-date: 2026-06-16 08:00:00 +0200
+date: 2026-06-16
 image: https://images.unsplash.com/photo-1619636534313-9e377ea5fc6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTaWNoZXJoZWl0JTIwYXVmJTIwUmVpc2VuJTIwSW5kaWVufGVufDB8MHx8fDE3ODE1OTkwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -70,5 +70,7 @@ Die indische Gastfreundschaft ist legendär, weil sie echt ist. Menschen werden 
 Bevor du losfährst: Überprüfe die aktuellen Reisewarnungen deines Landes, kaufe eine gute Reiseversicherung, und teile deine Reisepläne mit jemandem zu Hause. Lade die Notfallnummern herunter, lerne ein paar Hindi-Worte, und packe eine kleine Reiseapotheke ein.
 
 Aber noch wichtiger: Packe auch Offenheit, Neugier und ein Lächeln ein. Das sind die besten Sicherheitstools, die du hast.
+
+---
 
 Indien wird dich verändern. Es wird dich herausfordern, überraschen und inspirieren. Mit ein wenig Vorsicht, viel Respekt und einer großen Portion Abenteuerlust wirst du eine Reise erleben, die du nie vergessen wirst. Die Frage ist nicht, ob es sicher ist – die Frage ist: Bist du bereit?

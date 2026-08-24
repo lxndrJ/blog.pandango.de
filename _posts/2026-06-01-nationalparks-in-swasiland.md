@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Nationalparks in Swasiland"
-date: 2026-06-01 08:00:00 +0200
+date: 2026-06-01
 image: https://upload.wikimedia.org/wikipedia/commons/8/88/Kruger_National_Park_%28ZA%29%2C_Elefant_--_2024_--_0649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Nationalparks in Swasiland](https://upload.wikimedia.org/wikipedia/commons/8/88/Kruger_National_Park_%28ZA%29%2C_Elefant_--_2024_--_0649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Nationalparks in Swasiland](https://upload.wikimedia.org/wikipedia/commons/8/88/Kruger_National_Park_%28ZA%29%2C_Elefant_--_2024_--_0649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wilde Schönheit und Kulturschätze: Nationalparks in Eswatini
 

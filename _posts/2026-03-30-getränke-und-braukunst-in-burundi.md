@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getränke und Braukunst in Burundi"
-date: 2026-03-30 08:00:00 +0200
+date: 2026-03-30
 image: https://images.unsplash.com/photo-1710887623063-a023cf8abf4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXRyJUMzJUE0bmtlJTIwdW5kJTIwQnJhdWt1bnN0JTIwQnVydW5kaXxlbnwwfDB8fHwxNzc0ODQ3NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -38,5 +38,7 @@ Neben den fermentierten Spezialitäten gibt es auch **Ikigage**, einen tradition
 Was macht die burundische Getränkekultur so besonders? Es ist die Authentizität. In einer Welt voller industrialisierter Getränke bewahrt Burundi eine Tradition, die echte handwerkliche Fermentation bedeutet. Jedes Glas erzählt eine Geschichte von Familie, Zusammenhalt und kulturellem Erbe.
 
 Wenn du nach Burundi reist, nimm dir Zeit, um diese flüssigen Schätze zu entdecken. Sitze in einer lokalen Bar in Gitega, probiere ein Glas Urwaji oder Banana-Bier und lass dich von den Geschichten der Menschen dort inspirieren. Du wirst verstehen, dass Getränke hier viel mehr sind als nur Getränke – sie sind ein Fenster zur Seele einer Nation.
+
+---
 
 *Die burundische Getränkekultur wartet darauf, von dir entdeckt zu werden. Prost!*

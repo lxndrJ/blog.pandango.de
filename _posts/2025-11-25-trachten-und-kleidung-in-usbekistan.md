@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trachten und Kleidung in Usbekistan"
-date: 2025-11-25 08:00:00 +0200
+date: 2025-11-25
 image: https://images.unsplash.com/photo-1558185730-e5b096912bbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFjaHRlbiUyMHVuZCUyMEtsZWlkdW5nJTIwVXNiZWtpc3RhbnxlbnwwfDB8fHwxNzY0MDQyMTIwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musiker und Komponisten in Grönland"
-date: 2025-08-30 08:00:00 +0200
+date: 2025-08-30
 image: https://images.unsplash.com/photo-1590377894621-65093facaef0?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y29tcG9zZXIlMjBtdXNpY2lhbnxlbnwwfDB8fHwxNzg3NTMwMTc5fDA&ixlib=rb-4.1.0
 ---
 

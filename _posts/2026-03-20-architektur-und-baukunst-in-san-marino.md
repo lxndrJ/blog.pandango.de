@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architektur und Baukunst in San Marino"
-date: 2026-03-20 08:00:00 +0200
+date: 2026-03-20
 image: https://images.unsplash.com/photo-1679112600374-0ac944dabba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwU2FuJTIwTWFyaW5vfGVufDB8MHx8fDE3NzM5ODA5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -36,5 +36,7 @@ Was mich am meisten fasziniert, ist die Menschlichkeit dieser Architektur. Trotz
 Wenn ihr San Marino besucht, vergesst die klassischen Sehenswürdigkeiten-Listen. Setzt euch stattdessen in ein kleines Café, schaut auf die Dächer und Türme und lasst die Architektur auf euch wirken. Spürt, wie die Steine unter euren Füßen Geschichten erzählen. Das ist die wahre Schönheit dieses Ortes.
 
 San Marino ist ein Beweis dafür, dass Authentizität zeitlos ist – und dass die schönste Architektur oft die ist, die einfach nur ehrlich ihre Bestimmung erfüllt: Menschen zu beherbergen, sie zu schützen und ihnen einen Ort zum Leben zu geben.
+
+---
 
 *Habt ihr San Marino bereits besucht? Was hat euch an der Architektur am meisten begeistert?*

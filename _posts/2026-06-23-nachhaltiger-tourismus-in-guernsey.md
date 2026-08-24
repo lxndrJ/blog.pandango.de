@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiger Tourismus in Guernsey"
-date: 2026-06-23 08:00:00 +0200
+date: 2026-06-23
 image: https://images.unsplash.com/photo-1497869287182-aac99be84396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBHdWVybnNleXxlbnwwfDB8fHwxNzgyMTk2NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -42,5 +42,7 @@ Es gibt kaum All-Inclusive-Resorts. Stattdessen unterstützt du mit deinem Geld 
 Nachhaltiger Tourismus klingt manchmal anstrengend – als müsste man auf Komfort verzichten. Guernsey beweist das Gegenteil. Hier ist es einfach angenehmer, weil es authentischer ist. Du wirst nicht von Touristenmassen überrannt, die Luft ist frischer, die Gespräche sind echter.
 
 Wenn du Guernsey besuchst, packst du nicht nur Erinnerungen ein, sondern auch das Gefühl, dass Reisen nicht zerstören muss – sondern bereichern kann. Für dich, für die Menschen vor Ort und für die wunderbare Natur dieser Insel.
+
+---
 
 *Nachhaltiger Tourismus beginnt mit einer einfachen Frage: Wie kann ich reisen, ohne zu schaden? Guernsey antwortet darauf mit Authentizität, Schönheit und einer Community, die ihre Insel liebt.*

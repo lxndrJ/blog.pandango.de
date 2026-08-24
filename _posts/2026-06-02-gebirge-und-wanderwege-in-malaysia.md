@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gebirge und Wanderwege in Malaysia"
-date: 2026-06-02 08:00:00 +0200
+date: 2026-06-02
 image: https://images.unsplash.com/flagged/photo-1560505455-11cee7a131b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyME1hbGF5c2lhfGVufDB8MHx8fDE3ODAzODQ0NzR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -44,5 +44,7 @@ Lokale Guides sind nicht nur sicherer, sondern bereichern die Erfahrung ungemein
 Was Malaysia einzigartig macht, ist diese Balance. Man kann morgens noch im urbanen Trubel von Kuala Lumpur Kaffee trinken und am Nachmittag bereits in ursprünglicher Natur wandeln. Diese Nähe zwischen Zivilisation und Wildnis ist selten geworden in unserer Welt.
 
 Die Gebirge Malaysias sind nicht nur Berge – sie sind Brücken zwischen gestern und heute, zwischen Mensch und Natur, zwischen dem Bekannten und dem Abenteuer. Wer sich auf diese Reise einlässt, kehrt nicht nur mit vollgepacktem Rucksack zurück, sondern auch mit einer ganz neuen Sicht auf die Welt.
+
+---
 
 *Packt die Wanderschuhe ein. Malaysia wartet.*

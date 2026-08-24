@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architektur und Baukunst in Grönland"
-date: 2026-06-21 08:00:00 +0200
+date: 2026-06-21
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Geschichte_der_bildenden_K%C3%BCnste_.._%28IA_bildendenkunstesec2v2schn%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Architektur und Baukunst in Grönland](https://upload.wikimedia.org/wikipedia/commons/9/9b/Geschichte_der_bildenden_K%C3%BCnste_.._%28IA_bildendenkunstesec2v2schn%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Grönlands bunte Häuser und die Architektur der Polarregion
@@ -35,5 +35,7 @@ Für die grönländische Kultur ist Architektur Kommunikation. Ein buntes Haus i
 Grönland steht an einem Wendepunkt. Der Klimawandel verändert die physische Realität, auf der all diese Architektur basiert. Neue Gebäude müssen andere Herausforderungen bewältigen als früher. Gleichzeitig gibt es eine tiefe Sehnsucht, die kulturelle Identität zu bewahren, die in diesen farbigen Häusern lebt.
 
 Die Architektur Grönlands ist daher nicht nur eine Dokumentation der Vergangenheit, sondern ein lebendiges Gespräch mit der Zukunft.
+
+---
 
 Wenn du jemals nach Grönland kommst, vergiss die touristischen Hotspots nicht – aber vergiss auch nicht, einfach durch die Straßen von Nuuk zu bummeln und die Häuser zu beobachten. Jede Farbe, jeder Stein, jedes Fenster erzählt eine Geschichte von Menschlichkeit, Widerstandskraft und dem unerschütterlichen Willen, an einem der unwirtlichsten Orte der Welt nicht nur zu überleben, sondern zu blühen.

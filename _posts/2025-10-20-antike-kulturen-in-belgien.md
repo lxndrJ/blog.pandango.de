@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antike Kulturen in Belgien"
-date: 2025-10-20 08:00:00 +0200
+date: 2025-10-20
 image: https://images.unsplash.com/photo-1720631621211-6caf7c8f6806?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBbnRpa2UlMjBLdWx0dXJlbiUyMEJlbGdpZW58ZW58MHwwfHx8MTc2MDkzMTcwM3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Wälder und Forstwirtschaft in Benin"
-date: 2026-07-17 08:00:00 +0200
+date: 2026-07-17
 image: https://upload.wikimedia.org/wikipedia/commons/4/4d/Benin_Ireland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Wälder und Forstwirtschaft in Benin](https://upload.wikimedia.org/wikipedia/commons/4/4d/Benin_Ireland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Wälder und Forstwirtschaft in Benin](https://upload.wikimedia.org/wikipedia/commons/4/4d/Benin_Ireland_Locator.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die grünen Lungen Benins: Zwischen Tradition und Waldschutz
 
@@ -33,5 +32,7 @@ Die Kontraste sind es, die Benin so reizvoll machen: Morgens in der lebhaften St
 Die Beziehung zwischen den Menschen Benins und ihren Wäldern ist eine Liebesgeschichte – manchmal turbulent, aber grundsätzlich tief verwurzelt. In einer Zeit, in der wir weltweit über Waldschutz diskutieren, lohnt sich ein Blick auf Länder wie Benin, die zeigen, dass es andere Wege gibt als reine Ausbeutung.
 
 Die grünen Lungen Benins atmen noch – und mit etwas Glück und kontinuierlichem Engagement werden sie noch lange für zukünftige Generationen atmen.
+
+---
 
 **Reisetipp:** Die beste Zeit für Waldbesuche ist die Trockenzeit von November bis März. Dann sind die Wege begehbar und die Tierwelt aktiver. Lokale Führer kennen nicht nur die besten Routen, sondern auch die Geschichten, die hinter jedem Baum stecken.

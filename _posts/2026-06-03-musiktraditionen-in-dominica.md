@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Musiktraditionen in Dominica"
-date: 2026-06-03 08:00:00 +0200
+date: 2026-06-03
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/1884_2half_red-brown_Dominica_unused_Yv20_SG15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Musiktraditionen in Dominica](https://upload.wikimedia.org/wikipedia/commons/e/e6/1884_2half_red-brown_Dominica_unused_Yv20_SG15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Musiktraditionen in Dominica](https://upload.wikimedia.org/wikipedia/commons/e/e6/1884_2half_red-brown_Dominica_unused_Yv20_SG15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Rhythmen von Dominica: Wo Afrika und die Karibik verschmelzen
 
@@ -41,5 +40,7 @@ Die dominikanischen Musikinstrumente erzählen ihre eigenen Geschichten. Trommel
 Was macht die Musiktraditionen Dominicas so besonders? Es ist die Tatsache, dass sie nicht eingefroren sind wie eine alte Aufnahme. Sie entwickeln sich weiter, während sie ihre Wurzeln bewahren. Junge Künstler experimentieren mit neuen Sounds, während sie gleichzeitig den Respekt vor dem Erbe ihrer Großeltern zeigen.
 
 Die Musik Dominicas ist ein Beweis dafür, dass aus Schmerz und Widerstand Schönheit entstehen kann. Sie ist ein Aufruf zur Einheit, ein Tanz mit der Geschichte und ein Versprechen für die Zukunft.
+
+---
 
 Wer die wahre Seele eines Ortes verstehen möchte, sollte immer erst auf seine Musik hören. Bei Dominica führt diese Musik zu einem der reichsten und authentischsten Kulturerben der Karibik. Ein Erbe, das jede Person, die diesen Rhythmen lauscht, in ihren Bann zieht.

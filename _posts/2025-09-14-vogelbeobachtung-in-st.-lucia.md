@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vogelbeobachtung in St. Lucia"
-date: 2025-09-14 08:00:00 +0200
+date: 2025-09-14
 image: https://images.unsplash.com/photo-1749581655204-dc47e3e4249f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWb2dlbGJlb2JhY2h0dW5nJTIwU3QuJTIwTHVjaWF8ZW58MHwwfHx8MTc1NzgyMDQxMnww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

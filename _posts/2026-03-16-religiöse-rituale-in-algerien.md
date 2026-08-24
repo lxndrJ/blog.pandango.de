@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Religiöse Rituale in Algerien"
-date: 2026-03-16 08:00:00 +0200
+date: 2026-03-16
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
@@ -47,5 +47,7 @@ Wer Algiers Straßen während des Opferfestes erlebt, versteht die Kraft gemeins
 Was mir während meines Aufenthalts klar wurde: Algerien ist kein Museum. Die religiösen Rituale sind nicht eingefroren in Zeit. Junge Menschen in Algier verbinden tiefe spirituelle Überzeugungen mit modernem Leben. Sie sind gleichzeitig gläubig und vernetzt, traditionell und progressiv.
 
 Diese Balance – diese Fähigkeit, Vergangenheit und Gegenwart zu ehren – macht Algerien zu einem Ort von echter spiritueller Vitalität.
+
+---
 
 Wenn du jemals nach Algier kommst, lass dich von diesem Rhythmus erfassen. Respektiere die Gebetszeiten, teile eine Mahlzeit während des Ramadan, und du wirst verstehen, dass religiöse Rituale hier keine starre Regeln sind – sie sind das Blut, das durch die Adern dieser wundervollen Kultur fließt.

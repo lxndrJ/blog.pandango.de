@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Symbolik in der Kultur in Pakistan"
-date: 2026-04-16 08:00:00 +0200
+date: 2026-04-16
 image: https://images.unsplash.com/photo-1653136776900-9e375fd81ce4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTeW1ib2xpayUyMGluJTIwZGVyJTIwS3VsdHVyJTIwUGFraXN0YW58ZW58MHwwfHx8MTc3NjMxNjg4N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -46,5 +46,7 @@ Die Craftspeople Pakistans, viele von ihnen in der Nähe Islamabads ansässig, b
 Was Pakistan so besonders macht, ist die Art, wie es seine Symbole nutzt – nicht zur Abgrenzung, sondern zur Verständigung. In einem Land mit so vielen verschiedenen ethnischen Gruppen, Sprachen und Traditionen werden diese Symbole zu einer gemeinsamen Sprache, die über Unterschiede hinweg verbindet.
 
 Islamabad selbst, als geplante Hauptstadt, verkörpert diesen modernen Ansatz: Sie respektiert Tradition, während sie gleichzeitig eine Zukunft entwirft, in der alte und neue Symbolik harmonisch koexistieren können.
+
+---
 
 Pakistans Symbolik zu verstehen bedeutet, das Land wirklich zu sehen – nicht nur mit den Augen, sondern mit dem Herzen. Jeder Faden, jede Farbe, jedes Muster lädt dich ein, tiefer zu blicken und die Geschichten zu entdecken, die überall erzählt werden.

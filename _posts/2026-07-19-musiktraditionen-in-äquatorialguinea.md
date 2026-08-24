@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musiktraditionen in Äquatorialguinea"
-date: 2026-07-19 08:00:00 +0200
+date: 2026-07-19
 image: https://upload.wikimedia.org/wikipedia/commons/b/b5/Equatorialguinea_w1_locator.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Musiktraditionen in Äquatorialguinea](https://upload.wikimedia.org/wikipedia/commons/b/b5/Equatorialguinea_w1_locator.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Die Rhythmen von Äquatorialguinea: Eine musikalische Reise
@@ -33,5 +33,7 @@ Die traditionellen Instrumente sind kunstvoll und voller Bedeutung. Trommeln wie
 Äquatorialguinea ist noch nicht überlaufen von Touristen, was es umso authentischer macht. Wenn du die Chance hast, ein lokales Festival zu besuchen oder in einem der Musikclubs in Malabo einen Abend zu verbringen, nimm sie! Die Wärme, mit der Musik hier gelebt wird, ist ansteckend.
 
 Die Musiktraditionen von Äquatorialguinea sind ein Beweis dafür, dass die wichtigsten kulturellen Schätze oft in den weniger bekannten Ecken der Welt liegen – wartend darauf, entdeckt zu werden.
+
+---
 
 *Hast du schon Musik aus Äquatorialguinea gehört? Oder hast du das Land selbst besucht? Ich freue mich auf deine Gedanken und Erfahrungen!*

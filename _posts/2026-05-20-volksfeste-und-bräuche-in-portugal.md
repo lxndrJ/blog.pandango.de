@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Volksfeste und Bräuche in Portugal"
-date: 2026-05-20 08:00:00 +0200
+date: 2026-05-20
 image: https://images.unsplash.com/photo-1565636167429-7ceb7f007a0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWb2xrc2Zlc3RlJTIwdW5kJTIwQnIlQzMlQTR1Y2hlJTIwUG9ydHVnYWx8ZW58MHwwfHx8MTc3OTI1OTAyOHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
@@ -36,5 +36,7 @@ Die **Prozessionen** während der Osterfeiern in verschiedenen Städten zeigen d
 Wenn du Portugal besuchst, versuche, ein Fest zu erleben. Nicht als Beobachter, sondern als Teilnehmer. Setz dich zu den Menschen hin, probiere die Grillsardinen, lerne ein paar Worte des Fado-Textes. Portugal öffnet sich denen, die sich wirklich einlassen möchten.
 
 Die Volksfeste hier sind Einladungen – Einladungen, die Geschichte zu verstehen, die Gegenwart zu genießen und zu begreifen, warum dieses kleine Land an der Atlantikküste so viel Wärme und Licht in die Welt strahlt.
+
+---
 
 *Das Herz Portugals schlägt im Rhythmus seiner Traditionen. Und dieser Rhythmus ist ansteckend.*

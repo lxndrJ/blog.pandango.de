@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warschau nach Lwiw über die Grenze – Was die Fahrzeit wirklich ist"
-date: 2026-08-24 02:00:00 +0200
+date: 2026-08-24
 author: lxndrJ
 ai_assisted: true
 sources:
@@ -54,5 +54,7 @@ Die Rava-Ruska-Route ist für die meisten Reisenden die sinnvollste Wahl: Sie is
 - https://www.dieweltentdecken.org/nachtzug-warschau-lemberg/
 - https://www.flixbus.com/bus-routes/bus-warsaw-lviv
 - https://www.rome2rio.com/de/s/Warschau/Bahnhof-Lwiw
+
+---
 
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

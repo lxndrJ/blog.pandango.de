@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Hochzeitsbräuche in Kasachstan"
-date: 2026-06-08 08:00:00 +0200
+date: 2026-06-08
 image: https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----
-![Hochzeitsbräuche in Kasachstan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---![Hochzeitsbräuche in Kasachstan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Hochzeitsbräuche in Kasachstan: Wo Tradition auf Moderne trifft
 
@@ -45,5 +44,7 @@ Kasachische Hochzeiten ohne Musik und Tanz? Undenkbar! Traditionelle Instrumente
 Was macht kasachische Hochzeitsbräuche so besonders? Es ist die Balance zwischen Respekt vor Tradition und dem Mut zur Veränderung. Junge Paare in Astana schreiben ihre eigenen Geschichten, während sie die Wurzeln ihrer Kultur ehren. Manche Bräuche werden bewahrt, andere neu interpretiert – und das ist genau das, was eine lebendige Kultur ausmacht.
 
 Die Hochzeitsbräuche Kasachstans erzählen von einer Nation, die stolz auf ihre Vergangenheit ist, während sie gleichzeitig offen in die Zukunft schreitet. Und das ist wirklich wunderschön.
+
+---
 
 *Hattest du schon die Gelegenheit, eine kasachische Hochzeit zu besuchen? Oder interessierst du dich für andere Hochzeitstraditionen aus Zentralasien? Ich freue mich auf deine Gedanken!*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unterkunftsarten in Heard und die McDonaldinseln"
-date: 2026-06-25 08:00:00 +0200
+date: 2026-06-25
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
