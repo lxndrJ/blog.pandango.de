@@ -41,6 +41,4 @@ Die Geschichte Boliviens und seiner Diaspora ist noch lange nicht zu Ende geschr
 
 Wer durch Sucres Straßen geht und die Häuser sieht, in denen einst Generationen lebten, kann diese unsichtbare Verbindung spüren – ein Faden, der sich über Kontinente hinweg zieht und Heimat neu definiert.
 
----
-
 *Habt ihr Verbindungen zu Bolivien oder kennt ihr Geschichten aus der Diaspora? Ich freue mich auf eure Perspektiven in den Kommentaren.*

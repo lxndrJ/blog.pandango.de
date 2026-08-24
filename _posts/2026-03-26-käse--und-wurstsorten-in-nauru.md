@@ -32,6 +32,4 @@ Die Menschen auf Nauru verstehen es meisterhaft, das Beste aus ihrer Inselpositi
 
 Wer nach Nauru kommt, sollte sich Zeit nehmen, die lokalen Märkte zu erkunden. Hier treffen sich Tradition und Moderne, Lokal und Global. Die Menschen sind ausgesprochen freundlich und lieben es, ihre Esskultur zu teilen – ob es nun um traditionelle Fischgerichte oder um jene importierten Käsesorten geht, die auf einer Pazifikinsel wie kleine kulinarische Überraschungen wirken.
 
----
-
 Nauru lehrt uns, dass Kulinarik kein Entweder-Oder ist. Eine kleine Insel kann gleichzeitig traditionell und weltoffen sein, lokal und international. Das macht sie für neugierige Reisende so wertvoll – und ihre Esskultur so einzigartig.

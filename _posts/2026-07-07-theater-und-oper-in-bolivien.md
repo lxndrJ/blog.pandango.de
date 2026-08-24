@@ -35,6 +35,4 @@ Was mich am meisten bewegt hat, ist die Zugänglichkeit. Theater in Bolivien ist
 
 Sucre und andere Städte Boliviens zeigen: Theater muss nicht in Gold und Marmor stattfinden, um bedeutsam zu sein. Manchmal ist die intensivste Performance diejenige, die mit einfachen Mitteln, großem Herzen und echter Geschichte erzählt wird.
 
----
-
 *Falls du nach Sucre reist – nimm dir Zeit, die lokale Kunstszene zu erkunden. Frag die Locals, wo gerade etwas los ist. Du wirst überrascht sein, wie lebendig und weltoffen diese Kultur ist.*

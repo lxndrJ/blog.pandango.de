@@ -40,6 +40,4 @@ Die zeitgenössische Geschichte Nigers ist eine Geschichte von Herausforderungen
 
 Junge Künstler, Unternehmer und Aktivisten schreiben gerade eine neue Seite in Nigers Geschichte. Sie nutzen Social Media wie alte Griot ihre Trommeln – um Geschichten zu erzählen, um Veränderung zu fordern, um ihre Stimme zu erheben.
 
----
-
 Niger ist kein Museum für Geschichte – es ist ein lebendiger Ort, an dem Vergangenheit und Gegenwart in einem ewigen Dialog stehen. Wer hierher kommt, versteht nicht nur, wo Niger herkommt, sondern auch, wohin es gehen könnte. Und das ist das schönste an dieser Geschichte: Sie ist noch nicht zu Ende geschrieben.

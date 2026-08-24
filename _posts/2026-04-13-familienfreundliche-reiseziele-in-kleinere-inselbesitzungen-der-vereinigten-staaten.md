@@ -50,6 +50,4 @@ Ob deine Kinder erste Schnorchelerfahrungen sammeln, historische Museen erkunden
 
 Die USA haben so viel mehr zu bieten, als die meisten denken. Zeit, diese Geheimtipps zu entdecken!
 
----
-
 *Welche dieser Inseln reizt dich am meisten? Ich freue mich auf deine Gedanken!*

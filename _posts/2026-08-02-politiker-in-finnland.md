@@ -40,6 +40,4 @@ Das ist das Finnland, das ich bewundere: ein Land, in dem Politik nicht Theater 
 
 ![Kultur der Zusammenarbeit](https://upload.wikimedia.org/wikipedia/commons/2/2f/Bundesarchiv_Bild_183-52828-0006%2C_Berlin%2C_Ausstellungen_im_%22Haus_der_Polnischen_Kultur%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 *Finnland zeigt uns: Politik kann anders sein. Ehrlich, effektiv und menschlich nah.*

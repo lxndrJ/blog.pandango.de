@@ -39,6 +39,4 @@ Was macht die burundische Getränkekultur so besonders? Es ist die Authentizitä
 
 Wenn du nach Burundi reist, nimm dir Zeit, um diese flüssigen Schätze zu entdecken. Sitze in einer lokalen Bar in Gitega, probiere ein Glas Urwaji oder Banana-Bier und lass dich von den Geschichten der Menschen dort inspirieren. Du wirst verstehen, dass Getränke hier viel mehr sind als nur Getränke – sie sind ein Fenster zur Seele einer Nation.
 
----
-
 *Die burundische Getränkekultur wartet darauf, von dir entdeckt zu werden. Prost!*

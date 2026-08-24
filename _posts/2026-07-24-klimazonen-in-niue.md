@@ -42,6 +42,4 @@ Wenn ihr jemals die Chance habt, Niue zu besuchen, nehmt sie an. Erlebt selbst, 
 
 ![Die Natur schlägt zurück](https://upload.wikimedia.org/wikipedia/commons/8/85/Die_Natur_schl%C3%A4gt_zur%C3%BCck_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 *Die Natur Niues wartet darauf, von dir entdeckt zu werden.*

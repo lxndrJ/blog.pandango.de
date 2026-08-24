@@ -51,6 +51,4 @@ Das ist vielleicht die entscheidende Nachwirkung des Krieges: nicht die Ruinen, 
 - Euractiv: Multikulturelle Schule in Vukovar – https://euractiv.de/news/multikulturelle-schule-in-vukovar-ein-schlag-ins-wasser/
 - Wikipedia: Schlacht um Vukovar – https://de.wikipedia.org/wiki/Schlacht_um_Vukovar
 
----
-
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

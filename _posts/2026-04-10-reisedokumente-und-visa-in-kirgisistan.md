@@ -49,6 +49,4 @@ Möchtest du in die benachbarten Länder reisen? Das ist eine andere Geschichte.
 
 Kirgisistan schätzt respektvolle Reisende. Bring deine Dokumente in Ordnung, respektiere die Regeln – und du wirst merken, dass die Menschen hier unglaublich gastfreundlich sind. In den Jurten auf den Hochplateaus werden dir Tee und Kumys (vergorene Stutenmilch) serviert, ohne dass jemand nach Papieren fragt. Aber für die offiziellen Grenzen brauchst du eben doch die richtige Ausrüstung.
 
----
-
 **Fazit:** Kirgisistan macht es Reisenden leicht. Mit einem gültigen Reisepass und etwas Bargeld kannst du hier eines der authentischsten Abenteuer Zentralasiens erleben. Die Bürokratie ist moderat, die Landschaften sind spektakulär, und die Menschen werden dich in dein Herz schließen. Also: Reisepass schnappen und los geht's!

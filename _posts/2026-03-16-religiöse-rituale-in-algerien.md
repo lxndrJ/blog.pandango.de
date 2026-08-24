@@ -48,6 +48,4 @@ Was mir während meines Aufenthalts klar wurde: Algerien ist kein Museum. Die re
 
 Diese Balance – diese Fähigkeit, Vergangenheit und Gegenwart zu ehren – macht Algerien zu einem Ort von echter spiritueller Vitalität.
 
----
-
 Wenn du jemals nach Algier kommst, lass dich von diesem Rhythmus erfassen. Respektiere die Gebetszeiten, teile eine Mahlzeit während des Ramadan, und du wirst verstehen, dass religiöse Rituale hier keine starre Regeln sind – sie sind das Blut, das durch die Adern dieser wundervollen Kultur fließt.

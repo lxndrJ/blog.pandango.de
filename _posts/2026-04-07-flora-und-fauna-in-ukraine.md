@@ -40,6 +40,4 @@ Die Ukraine steht vor großen Herausforderungen, wenn es um den Naturschutz geht
 
 Kyiv und sein Umland könnten ein Modell für nachhaltiges Zusammenleben werden – eine Stadt, die ihre Natur nicht verdrängt, sondern mit ihr lebt.
 
----
-
 Die Ukraine ist mehr als nur eine Hauptstadt. Sie ist ein Land voller verborgener Naturwunder, wo die Steppe singt, Flüsse fließen und zwischen den Häusern Wildnis lauert. Es lohnt sich, genauer hinzuschauen.

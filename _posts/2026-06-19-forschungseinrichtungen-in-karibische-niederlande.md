@@ -38,6 +38,4 @@ Die Karibischen Niederlande sind ein Beweis dafür, dass große Innovationen nic
 
 Wer Bonaire besucht, sollte sich Zeit für ein Gespräch mit den Forschern vor Ort nehmen. Ihre Geschichten sind mindestens genauso faszinierend wie die Unterwasserwelt, die sie schützen.
 
----
-
 *Die Karibischen Niederlande zeigen: Wissenschaft und Inselparadies – das ist kein Widerspruch, sondern die perfekte Kombination.*

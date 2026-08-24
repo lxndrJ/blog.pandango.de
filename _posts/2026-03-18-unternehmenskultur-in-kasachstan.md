@@ -42,6 +42,4 @@ Kasachstan steht an einem aufregenden Punkt. Das Land will bis 2050 eine der Top
 
 Astana wird zum Experimentierfeld für eine zeitgemäße Unternehmenskultur, die nicht blind westliche Modelle kopiert, sondern etwas Neues schafft. Eine Kultur, die schnell innoviert, dabei aber ihre Werte behält.
 
----
-
 Kasachstan zeigt uns, dass Modernisierung und Tradition nicht im Widerspruch stehen müssen. Wer die Chancen dieses Marktes verstehen möchte, muss bereit sein, diese Balance zu akzeptieren – und zu schätzen. Genau das macht das Land so interessant für alle, die Unternehmenskultur nicht nur als HR-Konzept verstehen, sondern als lebendigen Ausdruck einer Gesellschaft im Wandel.

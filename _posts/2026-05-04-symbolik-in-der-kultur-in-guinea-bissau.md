@@ -35,6 +35,4 @@ In Guinea-Bissau existieren traditionelle Initiationszeremonien, besonders in de
 
 Das Besondere an Guinea-Bissau ist, dass Tradition und Moderne hier eine eigenartige, wunderbare Liaison eingehen. In Bissau trifft man auf junge Menschen, die ihre symbolische Kultur bewahren wollen, während sie gleichzeitig in die Zukunft blicken. Diese Balance ist fragil und kostbar.
 
----
-
 Guinea-Bissau lehrt uns, dass Kultur nicht in Museen gehört – sie lebt auf den Straßen, in den Herzschlägen der Menschen, in den Farben und Klängen des Alltags. Wer dieses kleine, oft übersehene Land besucht, entdeckt nicht nur Sehenswürdigkeiten, sondern einen Zugang zu einer tieferen Wahrheit: dass Symbole die Brücken sind, die Menschen, Generationen und Träume verbinden.

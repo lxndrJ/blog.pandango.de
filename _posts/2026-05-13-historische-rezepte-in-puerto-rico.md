@@ -48,6 +48,4 @@ Wenn du San Juan besuchst: Verliere dich in der Altstadt, lass dich von den Arom
 
 Die kulinarische Geschichte Puerto Ricos ist nicht nur etwas zum Lesen. Sie ist etwas zum Schmecken, zum Feiern und zum Weitergeben.
 
----
-
 *Puerto Rico wartet darauf, dir seine Geschichte auf dem Teller zu servieren.*

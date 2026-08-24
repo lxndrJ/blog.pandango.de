@@ -38,8 +38,6 @@ Für Sprachbegeisterte ist Malta ein wahres Paradies. Hier kann man:
 
 Lernt ein paar Brocken Maltesisch - die Einheimischen werden es zu schätzen wissen! Ein einfaches "Bonġu" (Guten Tag) öffnet nicht nur Türen, sondern Herzen.
 
----
-
 Malta zeigt uns: Sprache ist mehr als Kommunikation. Sie ist Geschichten erzählen, Brücken bauen und Kulturen verbinden.
 
 *Eine sprachliche Reise voller Überraschungen wartet auf dich!*

@@ -39,6 +39,4 @@ Die Samhain-Festivals, die Wanderwege der Mönche zu den alten Klöstern – die
 
 **Respekt:** Die Natur Irlands ist kostbar. Bleibt auf den Wegen, nehmt Müll mit und verhaltet euch so, dass die nächsten Generationen die gleiche Magie erleben können.
 
----
-
 Irland zeigt, dass Tourismus nicht Natur zerstören muss. Es braucht nur ein bisschen Bewusstsein, Geduld und die Bereitschaft, langsamer zu reisen. Dann wird aus einer Reise eine echte Begegnung – mit dem Land, seinen Menschen und sich selbst.

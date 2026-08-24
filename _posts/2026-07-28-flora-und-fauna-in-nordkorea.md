@@ -41,6 +41,4 @@ Nordkoreas Natur ist ein Paradoxon: Sie ist gleichzeitig geschützt durch Isolat
 
 Die Flora und Fauna Nordkoreas erinnert uns daran, dass Natur sich ihre eigenen Wege sucht – unabhängig von Grenzen, Politik oder menschlichen Systemen. Sie wartet geduldig darauf, wiederentdeckt zu werden.
 
----
-
 *Die Natur kennt keine Grenzen – sie gedeiht überall dort, wo sie die Chance bekommt.*

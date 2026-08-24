@@ -37,6 +37,4 @@ Wenn du Portugal besuchst, versuche, ein Fest zu erleben. Nicht als Beobachter, 
 
 Die Volksfeste hier sind Einladungen – Einladungen, die Geschichte zu verstehen, die Gegenwart zu genießen und zu begreifen, warum dieses kleine Land an der Atlantikküste so viel Wärme und Licht in die Welt strahlt.
 
----
-
 *Das Herz Portugals schlägt im Rhythmus seiner Traditionen. Und dieser Rhythmus ist ansteckend.*

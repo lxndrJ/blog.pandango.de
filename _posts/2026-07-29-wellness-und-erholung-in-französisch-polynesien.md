@@ -48,6 +48,4 @@ Am Ende ist Wellness in Französisch-Polynesien nicht nur das Spa-Angebot oder d
 
 Packt leicht, nehmt die Inselzeit ernst und vergesst eure To-Do-Listen. Hier lernt man schnell, dass echte Erholung bedeutet, sich selbst wiederzufinden.
 
----
-
 *Habt ihr bereits Wellness-Erfahrungen in exotischen Destinationen gemacht? Ich freue mich auf eure Geschichten!*

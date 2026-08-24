@@ -50,6 +50,4 @@ Was die Schweiz auszeichnet, ist nicht ein einzelnes Transportmittel, sondern da
 
 Die Schweizer haben verstanden, dass echtes Reisen nicht nur darum geht, von A nach B zu kommen. Es geht darum, die Reise selbst zu genießen – ob du nun in einem gemütlichen Zug sitzt und die Alpenpanoramen vorbeischauen lässt oder durch Berns mittelalterliche Gassen schlenderst.
 
----
-
 Mein größter Reisetipp? Kombiniere die Transportmittel. Nimm den Zug für lange Strecken, den Bus für lokale Abenteuer, dein Fahrrad für Entschleunigung und deine Füße für Präsenz. So erlebst du die Schweiz nicht nur, sondern wirst Teil von ihr.

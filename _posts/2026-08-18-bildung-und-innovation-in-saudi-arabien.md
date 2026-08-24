@@ -34,6 +34,4 @@ Saudi-Arabien zeigt etwas, das oft übersehen wird: Entwicklung und Tradition si
 
 Für Reisende wie mich wird Riad dadurch immer faszinierender. Es ist nicht mehr nur ein Ort zum Durchfahren, sondern ein Ort, wo man die Zukunft entstehen sieht. Und diese Zukunft wird von Menschen gestaltet, die verstanden haben, dass die beste Ressource nicht unter der Erde liegt, sondern zwischen den Ohren.
 
----
-
 **Fazit:** Saudi-Arabien befindet sich in einem Moment der Neudefinition. Bildung ist der Schlüssel, und Innovation ist das Versprechen. Wer die Region verstehen will, sollte nicht nur auf die Ölquellen schauen – sondern auf die klugen Köpfe, die gerade dabei sind, ein neues Kapitel zu schreiben.

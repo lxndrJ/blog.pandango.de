@@ -55,6 +55,4 @@ Am Ende ist Jerseys größtes Wellness-Angebot nicht in Spa-Behandlungen oder Yo
 
 Diese Insel erinnert dich daran, dass Wellness kein Luxus ist – es ist ein Zustand des Menschseins, den du nur wieder aktivieren musst. Jersey macht dir diesen Prozess verdammt leicht.
 
----
-
 *Packe bequeme Schuhe, öffne dein Herz für Langsamkeit und lass Jersey dich heilen. Die Insel wartet schon auf dich.*

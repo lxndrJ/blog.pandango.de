@@ -40,8 +40,6 @@ Klimawandel und Ressourcenknappheit stellen heute eine existenzielle Herausforde
 
 Trotz minimaler finanzieller Ressourcen bewahren die Insulaner ihre Traditionen mit bemerkenswerter Resilienz und Kreativität.
 
----
-
 *Eine Reise nach Tokelau bedeutet mehr als nur geographische Erkundung - es ist eine Reise in eine Welt, in der Geschichte nicht konserviert, sondern gelebt wird.*
 
 🌊 *Pazifische Träume, ungeschriebene Geschichten* 🏝️

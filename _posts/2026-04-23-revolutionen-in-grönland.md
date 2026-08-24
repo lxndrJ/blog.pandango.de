@@ -33,6 +33,4 @@ Die grönländische Revolution ist nicht beendet. Sie ist eine andauernde Bewegu
 
 Was Grönland uns lehrt, ist dass Revolutionen in vielen Formen kommen können. Sie können in den Rhythmen einer neuen Musikgeneration stattfinden, in der Entscheidung, die eigene Sprache zu sprechen, in der Weigerung, sich selbst aufzugeben. Sie können in den farbigen Häusern von Nuuk beginnen und sich über die ganze Insel ausbreiten – still, aber unaufhaltsam.
 
----
-
 **Möchte dich einladen:** Schau dir Grönland nicht nur als geografisches Phänomen an. Besuche die Musikfestivals in Nuuk, sprich mit den Menschen, erlebe, wie eine Kultur sich selbst neu erfindet – das ist wahre Revolution.

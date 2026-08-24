@@ -36,6 +36,4 @@ Was fasziniert mich am meisten an Kenias politischem System? Es ist die Resilien
 
 Nairobi pulsiert mit dieser Energie. Wenn du die Stadt besuchst, sprich mit Menschen über Politik – du wirst überrascht sein, wie leidenschaftlich und informiert viele sind. Politik in Kenia ist nicht abstrakt; sie ist persönlich, relevant und lebendig.
 
----
-
 Ein Land zu verstehen bedeutet, seine Politiker und ihre Geschichten zu verstehen. Kenia lehrt uns, dass Demokratie ein ständiger Prozess ist – messier, aber auch authentischer als wir es manchmal erwarten.

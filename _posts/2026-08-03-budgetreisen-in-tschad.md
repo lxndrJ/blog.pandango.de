@@ -48,6 +48,4 @@ Der Tschad ist kein Land für Massentourismus, und das ist sein größter Vortei
 
 Pack leicht, bleib offen und vertrau deinem Instinkt. Der Tschad wartet darauf, entdeckt zu werden – von Reisenden wie dir, die bereit sind, abseits der Pfade zu gehen.
 
----
-
 *Die Welt ist größer, wenn du sie mit kleinerem Budget erkundest. Manchmal sind die besten Abenteuer die, die dich nicht bankrott machen.*

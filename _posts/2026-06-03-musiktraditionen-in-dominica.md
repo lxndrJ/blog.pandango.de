@@ -42,6 +42,4 @@ Was macht die Musiktraditionen Dominicas so besonders? Es ist die Tatsache, dass
 
 Die Musik Dominicas ist ein Beweis dafür, dass aus Schmerz und Widerstand Schönheit entstehen kann. Sie ist ein Aufruf zur Einheit, ein Tanz mit der Geschichte und ein Versprechen für die Zukunft.
 
----
-
 Wer die wahre Seele eines Ortes verstehen möchte, sollte immer erst auf seine Musik hören. Bei Dominica führt diese Musik zu einem der reichsten und authentischsten Kulturerben der Karibik. Ein Erbe, das jede Person, die diesen Rhythmen lauscht, in ihren Bann zieht.

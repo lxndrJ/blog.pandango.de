@@ -63,8 +63,6 @@ Die Arbeitslandschaft in Wellington zeigt klare Trends:
 <!-- Photo by Markus Spiske on Unsplash -->
 ![Die Pulsader der neuseeländischen Arbeitswelt](https://images.unsplash.com/photo-1745249224513-9f0c03a0fa50?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8UHVsc2FkZXIlMjBuZXVzZWVsJUMzJUE0bmRpc2NoZW4lMjBBcmJlaXRzd2VsdHxlbnwwfDB8fHwxNzg3NTMwMTM1fDA&ixlib=rb-4.1.0)
 
----
-
 **Weitere Informationen:**
 - Offizielle Wirtschaftsförderung Wellington
 - Neuseeländisches Arbeitsministerium

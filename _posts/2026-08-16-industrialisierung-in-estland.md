@@ -46,6 +46,4 @@ Wenn du Tallinn besuchst, lohnt sich ein Blick über die glänzende moderne Ober
 
 ![Die frühen Jahre: Als Tallinn noch zur Hanse gehörte](https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 *Das Schöne an Reisen ist, dass man nicht nur Orte sieht, sondern die Schichten ihrer Zeit erforscht.*

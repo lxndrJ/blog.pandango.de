@@ -41,6 +41,4 @@ Rumänien ist mehr als ein Reiseziel - es ist ein Narrativ, geschrieben von Gene
 
 *Tauche ein in diese faszinierende Welt zwischen Mythos und Realität!*
 
----
-
 **Reisetipp:** Besuche historische Museen in Bukarest und erkunde die mittelalterlichen Festungen in Siebenbürgen, um diese Geschichten zum Leben zu erwecken.

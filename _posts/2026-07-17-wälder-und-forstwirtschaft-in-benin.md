@@ -34,6 +34,4 @@ Die Beziehung zwischen den Menschen Benins und ihren Wäldern ist eine Liebesges
 
 Die grünen Lungen Benins atmen noch – und mit etwas Glück und kontinuierlichem Engagement werden sie noch lange für zukünftige Generationen atmen.
 
----
-
 **Reisetipp:** Die beste Zeit für Waldbesuche ist die Trockenzeit von November bis März. Dann sind die Wege begehbar und die Tierwelt aktiver. Lokale Führer kennen nicht nur die besten Routen, sondern auch die Geschichten, die hinter jedem Baum stecken.

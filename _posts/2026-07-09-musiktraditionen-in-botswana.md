@@ -44,6 +44,4 @@ Wenn Sie nach Botswana reisen, besuchen Sie unbedingt einen lokalen Musikabend i
 
 Die Musik Botswanas ist ein Spiegel der Seele des Landes: vielfältig, rhythmisch, lebendig und unglaublich einladend. Sie müssen kein Musikexperte sein, um sie zu verstehen – Sie müssen nur zuhören und spüren.
 
----
-
 *Botswana wartet darauf, dass Sie seinen Rhythmus entdecken. Und glaub mir: Einmal gehört, vergisst man ihn nie wieder.*

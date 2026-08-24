@@ -42,6 +42,4 @@ Die eritreische Philosophie ist keine akademische Abhandlung, sondern gelebte We
 
 Wer Eritrea besucht, sollte die Ohren spitzen. Zwischen Kaffeezeremonie und Marktgesprächen verbergen sich Philosophien, die keine Universitäten je dokumentieren werden.
 
----
-
 *Eine Reise ist mehr als eine geografische Bewegung - sie ist eine Bewegung des Geistes.*

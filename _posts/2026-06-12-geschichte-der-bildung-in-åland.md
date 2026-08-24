@@ -46,6 +46,4 @@ Was macht die Bildungsgeschichte Ålands so besonders? Es ist diese Kombination 
 
 Wenn ihr das nächste Mal durch Mariehamn spaziert und an einer Schule vorbeigeht, denkt daran: Hinter diesen Mauern steckt eine Geschichte von Menschen, die an die Kraft von Wissen geglaubt haben – lange bevor es selbstverständlich war.
 
----
-
 *Die Bildungsgeschichte Ålands ist noch lange nicht zu Ende geschrieben. Sie wird jeden Tag neu geschrieben – von Kindern, Lehrern und der ganzen Gemeinschaft.*

@@ -37,6 +37,4 @@ Wenn man Bermuda besucht, lohnt sich ein Spaziergang durch die engen Gassen Hami
 
 Die rosafarbenen Strände sind wunderschön. Aber die echte Schönheit Bermudas liegt darin, wie eine Gesellschaft gelernt hat, ihre Vergangenheit anzuerkennen und daraus etwas Besseres zu bauen.
 
----
-
 **Kategorie:** Geschichte

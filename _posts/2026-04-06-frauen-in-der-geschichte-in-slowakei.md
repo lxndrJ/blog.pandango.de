@@ -36,6 +36,4 @@ Was mich hoffnungsvoll stimmt: Die slowakischen Frauen von heute setzen diese Tr
 
 Die Slowakei hat noch immer viel zu erzählen. Jedes Mal, wenn ich durch Bratislava gehe, denke ich daran, dass unter den Kopfsteinen dieser Stadt unzählige Geschichten verborgen sind – Geschichten von Frauen, deren Mut und Kreativität ihre Zeit geprägt haben.
 
----
-
 **Ein Tipp für Reisende:** Besucht das Stadtmuseum in Bratislava und fragt nach Ausstellungen zu weiblichen Persönlichkeiten der slowakischen Geschichte. Die Mitarbeiter dort haben oft faszinierende Anekdoten zu erzählen, die man in keinem Reiseführer findet.

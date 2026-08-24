@@ -45,6 +45,4 @@ Turkmenistan ist ein Land, das ständig zwischen seinen Extremen navigiert – z
 
 Wer Turkmenistan wirklich verstehen möchte, sollte Zeit am Wasser verbringen. Ob beim Betrachten der Kaspischen Küste, beim Wandern entlang des Amu-Darja oder beim Erkunden der künstlichen Seen Ashgabats – das Wasser offenbart die wahre Seele dieses faszinierenden Landes.
 
----
-
 *Turkmenistan wartet darauf, entdeckt zu werden. Seine Wasserlandschaften erzählen Geschichten aus Jahrtausenden.*

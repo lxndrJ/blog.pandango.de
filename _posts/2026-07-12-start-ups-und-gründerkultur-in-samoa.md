@@ -34,6 +34,4 @@ Die Reise der samoanischen Gründerkultur ist noch lange nicht zu Ende – sie h
 
 Wer weiß? Vielleicht ist die nächste revolutionäre App nicht aus dem Silicon Valley, sondern aus einer kleinen Agentur in Apia, wo Tradition und Innovation in perfekter Balance tanzen.
 
----
-
 *Die Geschichte von Samoa zeigt: Die beste Zeit zum Gründen ist jetzt, überall und mit dem, was man hat.*

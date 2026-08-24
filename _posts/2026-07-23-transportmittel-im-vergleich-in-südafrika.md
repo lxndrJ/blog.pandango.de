@@ -53,6 +53,4 @@ Kombiniere deine Transportmittel! Nutze den Mietwagen für Tagesausflüge und di
 
 Südafrika fordert dich heraus, belohnt dich aber mit unbegrenzten Möglichkeiten. Welches Transportmittel du auch wählst – du wirst verstehen, warum dieses Land so viele Menschen in seinen Bann zieht.
 
----
-
 *Gute Fahrt, und genieße jede Minute dieses wunderschönen Landes!*

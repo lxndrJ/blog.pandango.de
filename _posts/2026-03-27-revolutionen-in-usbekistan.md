@@ -39,6 +39,4 @@ Das Faszinierende an der Geschichte Usbekistans ist nicht die Dramatik einzelner
 
 Wenn du Taschkent besuchst, wirst du merken, dass diese Stadt nicht nur von ihrer Geschichte erzählt, sondern sie auch lebt. Jede Straße, jedes Bauwerk, jedes Gesicht ist Teil einer größeren Geschichte von Veränderung und Kontinuität.
 
----
-
 *Die wahre Revolution ist vielleicht nicht die, die die Welt erschüttert, sondern die, die Menschen inspiriert, an eine bessere Zukunft zu glauben.*

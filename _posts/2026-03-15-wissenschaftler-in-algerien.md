@@ -44,6 +44,4 @@ Algerien steht an einem Wendepunkt. Mit einer jungen, bildungshungrigen Bevölke
 
 Wenn man durch die modernen Teile von Algiers spaziert, sieht man überall die Zeichen dieser Transformation – neue Forschungszentren, Universitätsgebäude, junge Menschen mit Laptops in Cafés, die an der nächsten großen Idee arbeiten.
 
----
-
 Die Geschichte der algerischen Wissenschaft ist eine Geschichte von Ausdauer, Kreativität und dem unerschütterlichen menschlichen Drang zu verstehen. Sie verdient, erzählt zu werden – nicht als Fußnote in der globalen Wissenschaftsgeschichte, sondern als vollwertiges Kapitel einer faszinierenden Reise.

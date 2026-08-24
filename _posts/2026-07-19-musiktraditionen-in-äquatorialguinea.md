@@ -34,6 +34,4 @@ Die traditionellen Instrumente sind kunstvoll und voller Bedeutung. Trommeln wie
 
 Die Musiktraditionen von Äquatorialguinea sind ein Beweis dafür, dass die wichtigsten kulturellen Schätze oft in den weniger bekannten Ecken der Welt liegen – wartend darauf, entdeckt zu werden.
 
----
-
 *Hast du schon Musik aus Äquatorialguinea gehört? Oder hast du das Land selbst besucht? Ich freue mich auf deine Gedanken und Erfahrungen!*

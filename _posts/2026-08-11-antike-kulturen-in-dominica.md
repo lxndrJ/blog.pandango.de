@@ -40,6 +40,4 @@ Wenn ich durch Roseau spaziere und die bunten Häuser sehe, die tropischen Düft
 
 Die Insel ist eine Einladung, anders zu denken. Hier erkennt man, dass wahre Schätze nicht in Museen hinter Glas liegen, sondern in den Geschichten, den Menschen und der Verbindung zur Natur.
 
----
-
 *Habt ihr Lust bekommen, diese faszinierende Geschichte selbst zu erkunden? Dominica wartet mit offenen Armen.*

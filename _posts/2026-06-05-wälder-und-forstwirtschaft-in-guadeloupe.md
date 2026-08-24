@@ -41,6 +41,4 @@ Guadeloupe steht an einem Wendepunkt. Der Klimawandel stellt neue Herausforderun
 
 Agrarökologie und Öko-Tourismus bieten neue Perspektiven. Immer mehr Menschen erkennen, dass ein lebendiger Wald mehr wert ist als gefällte Bäume – nicht nur wirtschaftlich, sondern auch für die Seele.
 
----
-
 Die Wälder Guadeloupes sind kein Museum der Vergangenheit, sondern ein lebendes Projekt für die Zukunft. Wer die Insel besucht, sollte sich Zeit nehmen, diese grüne Welt zu entdecken – nicht als Tourist, sondern als Gast in einem Ökosystem, das uns alle verbindet.

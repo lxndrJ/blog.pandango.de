@@ -45,6 +45,4 @@ Wer Barbados besucht, merkt diese Transformation unmittelbar. Schnelles Internet
 
 Die Strände sind immer noch traumhaft, die Menschen immer noch herzlich, die Kultur immer noch lebendig. Nur dass man jetzt auch digital Teil davon sein kann – und das macht Barbados zu einem besonders interessanten Reiseziel für alle, die sehen möchten, wie Innovation in der Karibik aussieht.
 
----
-
 Barbados zeigt: Digitalisierung ist kein Gegensatz zur Tradition. Sie kann sie verstärken, schützen und in die Zukunft tragen. Eine kleine Insel lehrt der großen Welt, wie das geht.

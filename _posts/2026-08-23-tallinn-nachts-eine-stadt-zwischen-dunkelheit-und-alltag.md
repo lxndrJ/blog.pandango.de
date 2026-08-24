@@ -65,6 +65,4 @@ Ehrlich gesagt finde ich diese Ehrlichkeit überraschend. Tallinn macht aus der 
 - https://www.laenderdaten.info/Europa/Estland/sonnenuntergang.php
 - https://www.nightlife-cityguide.com/de/führen-Nachtleben/Tallinn-Nachtleben-Nachtclubs-Nachtleben-Standorte/
 
----
-
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

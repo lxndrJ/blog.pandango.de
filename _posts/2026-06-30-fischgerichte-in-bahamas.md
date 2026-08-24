@@ -45,6 +45,4 @@ Wenn du die Bahamas besuchst, solltest du die lokalen Fischrestaurants aufsuchen
 
 Beste Zeit zum Essen: nachmittags, wenn der Fang des Tages gerade zubereitet wird. Und vergiss nicht: Ein kaltes Getränk und ein Sonnenuntergang machen jedes Fischgericht zum perfekten Moment.
 
----
-
 Die Fischküche der Bahamas ist eine Einladung, die Inselwelt mit allen Sinnen zu erleben. Sie schmeckt nach Freiheit, nach Sonne, nach Wasser und vor allem nach dem reinen Genuss, den nur die besten Zutaten und viel Liebe zum Detail geben können.

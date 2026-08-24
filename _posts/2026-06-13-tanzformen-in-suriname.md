@@ -37,6 +37,4 @@ Wenn du nach Suriname kommst – und ich kann dir nur empfehlen, es zu tun – b
 
 Die Tanzformen Surinames sind ein Fenster in die Seele des Landes – in seine Geschichte, seine Kämpfe und vor allem seine unerschütterliche Lebensfreude. Und das ist ein Fenster, das sich immer für dich öffnet.
 
----
-
 *Lust auf mehr kulturelle Abenteuer? Die Welt tanzt – man muss nur zuhören.*

@@ -38,6 +38,4 @@ Was mich optimistisch stimmt: Das Vereinigte Königreich nimmt diese Transformat
 
 Die grüne Revolution im UK ist kein Trend, der morgen vorbei ist. Sie ist das neue Geschäftsmodell, das alte Traditionen ehrt und gleichzeitig mutig nach vorne schaut.
 
----
-
 *Die Welt verändert sich – nicht durch große Gesten, sondern durch kleine, konsequente Entscheidungen. Das Vereinigte Königreich zeigt uns, wie es geht.*

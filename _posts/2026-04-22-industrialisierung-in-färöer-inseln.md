@@ -47,6 +47,4 @@ Wenn du heute Tórshavn besuchst, siehst du eine moderne nordische Stadt mit mod
 
 Die Industrialisierung hier war kein Überfall auf die Natur, sondern eine notwendige Anpassung an die Realität. Eine kleine Inselgesellschaft musste sich modernisieren, um zu überleben. Dass sie dabei ihre Seele bewahrte, ist vielleicht die größte Leistung.
 
----
-
 Die Färöer-Inseln erzählen uns, dass Industrialisierung nicht zwangsläufig Natur zerstören muss. Manchmal ist sie der Preis und der Weg für kulturelles Überleben. Eine Lektion, die in unserer globalisierten Welt durchaus wert ist, gehört zu werden.

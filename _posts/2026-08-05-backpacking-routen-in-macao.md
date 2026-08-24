@@ -42,6 +42,4 @@ Was Macau für Backpacker wirklich interessant macht, ist der Kontrast. Du kanns
 
 Macau zwingt dich nicht, dich zu entscheiden zwischen Tradition und Moderne – die Stadt lebt beide Seiten gleichzeitig. Und genau das macht sie so verdammt reisenwert.
 
----
-
 *Pack deinen Rucksack, schnapp dir eine Busfahrkarte und lass dich von Macau überraschen. Die beste Abenteuer beginnen dort, wo die Casinos enden.*

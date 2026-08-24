@@ -46,6 +46,4 @@ Die Industrialisierungsgeschichte Mayottes lehrt uns etwas Wichtiges: Fortschrit
 
 Die Insel zeigt, dass Entwicklung nicht bedeuten muss, die Seele eines Ortes zu opfern. Mamoudzou pulsiert mit Leben – nicht trotz, sondern wegen dieser Mischung aus Geschichte und Zukunft.
 
----
-
 Wenn du jemals die Chance hast, Mayotte zu besuchen, tu es. Spaziere durch die Straßen Mamoudzous, beobachte die Fischerboote im Hafen, und lass dich von dieser einzigartigen Geschichte in den Bann ziehen. Du wirst verstehen, warum dieser kleine Fleck Erde so viel über die Welt erzählt.

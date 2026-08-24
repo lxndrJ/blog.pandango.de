@@ -35,6 +35,4 @@ Bermuda laden uns ein, innezuhalten und zu fragen: Was macht ein gutes Leben aus
 
 Vielleicht sollten wir alle ein bisschen mehr Zeit auf Bermuda verbringen – nicht nur wegen der Strände, sondern um unsere eigenen Gedanken klarer zu sehen.
 
----
-
 *Hast du schon mal darüber nachgedacht, wie Orte unsere Philosophie beeinflussen? Teile deine Gedanken gerne mit mir!*

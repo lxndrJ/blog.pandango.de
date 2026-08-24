@@ -37,8 +37,6 @@ In der japanischen Kunstszene verschmelzen digitale Technologien nahtlos mit tra
 
 Was westliche Betrachter oft übersehen: Die japanische Kunst lebt von Andeutungen, von Zwischenräumen und unausgesprochenen Emotionen. Jedes Werk erzählt mehr durch das, was es nicht zeigt, als durch das Offensichtliche.
 
----
-
 Eine Reise durch Tokios Kunstwelt ist wie ein Tanz zwischen Vergangenheit und Zukunft - komplex, überraschend und zutiefst inspirierend.
 
 *Weitere Inspirationen findest du in den Museen und Galerien von Ueno, Roppongi und den unzähligen kreativen Mikroräumen dieser faszinierenden Stadt.*

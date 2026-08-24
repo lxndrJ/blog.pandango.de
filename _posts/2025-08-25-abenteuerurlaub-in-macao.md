@@ -47,8 +47,6 @@ Vergiss die Casinos - das wahre Abenteuer liegt in den Straßenküchen. Probiere
 
 ![Die unerwartete Abenteuermetropole](https://images.unsplash.com/photo-1656116432323-3ae6ec12541b?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8dW5lcndhcnRldGUlMjBBYmVudGV1ZXJtZXRyb3BvbGV8ZW58MHwwfHx8MTc4NzUzMDE2NHww&ixlib=rb-4.1.0)
 
----
-
 **Fazit:** Macao ist ein Geheimtipp für Abenteuerlustige, die abseits ausgetretener Pfade neue Welten entdecken wollen. Eine Stadt, die Traditionen feiert und gleichzeitig in die Zukunft blickt.
 
 *Bereit für dein nächstes Abenteuer?*

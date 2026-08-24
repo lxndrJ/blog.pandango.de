@@ -62,6 +62,4 @@ Ehrlich gesagt bin ich skeptisch, ob ich diese Regeln so schnell wieder vergesse
 - https://www.volvocars-news.ch/scandic-life/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/
 - https://schwedenstube.de/geo/schweden/goetaland/
 
----
-
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

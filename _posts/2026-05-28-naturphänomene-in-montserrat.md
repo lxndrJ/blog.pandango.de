@@ -41,6 +41,4 @@ Montserrat ist keine klassische Traumdestination, aber es ist eine Insel, die di
 
 Wenn du dich nach einer Reise sehnst, die nicht nur deine Kamera füllt, sondern auch dein Herz und deinen Verstand berührt, dann ist Montserrat genau der richtige Ort. Bring festes Schuhwerk mit, eine Neugier auf Naturwissenschaften und die Bereitschaft, deine Perspektive zu erweitern.
 
----
-
 *Die Natur schreibt die interessantesten Geschichten – auf Montserrat kannst du sie hautnah erleben.*

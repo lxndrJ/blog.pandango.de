@@ -40,6 +40,4 @@ Wenn du die Britischen Jungferninseln besuchst, vergiss die Guidebooks für eine
 
 Die Jungferninseln sind nicht nur ein Ort zum Entspannen, sondern ein Ort, an dem Märchen noch real sind und die Vergangenheit mit der Gegenwart tanzt.
 
----
-
 *Magische Grüße aus der Karibik!*

@@ -47,6 +47,4 @@ Wenn du nach Phnom Penh reist und authentische Handwerkskunst erleben möchtest:
 
 Die besten Souvenirs sind nicht die günstigsten, sondern die, bei denen du die Geschichte dahinter kennst.
 
----
-
 Kambodschas Handwerkskunst ist ein Beweis dafür, dass Tradition nicht bedeutet, stillzustehen. Sie bedeutet, das Beste aus der Vergangenheit zu bewahren, während man offen für die Zukunft bleibt. In den Werkstätten Phnom Penhs und darüber hinaus lebt diese Balance – und das macht jedes handgefertigte Stück zu etwas Besonderem.

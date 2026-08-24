@@ -49,6 +49,4 @@ Hans-Joachim Fiedler sagt: „Räucherfisch ist eine Delikatesse und hat immer Z
 - taz.de (Fiedlers Räucherei)
 - Bremerhaven.de (Fischräucherei Franke)
 
----
-
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

@@ -39,6 +39,4 @@ Diese Mischung aus Respekt für die Tradition und Mut zur Innovation ist typisch
 
 Wenn ihr Kyiv besucht, lohnt sich ein Spaziergang durch die **Andriyivsky Descent**, wo lokale Künstler ihre handgefertigten Trachten und bestickte Stoffe verkaufen. Hier könnt ihr nicht nur wunderbare Souvenirs finden, sondern auch die Handwerker treffen und verstehen, wie viel Zeit und Liebe in jeder Stickerei steckt.
 
----
-
 Die Trachten der Ukraine sind ein wunderbares Beispiel dafür, wie Kultur greifbar wird. Sie sind Geschichtsbücher aus Stoff, Kunstwerke, die man tragen kann, und Brücken zwischen Vergangenheit und Gegenwart. In einer Welt, die oft zu schnell voranschreitet, erinnern uns diese farbenfrohen Hemden und Röcke daran, woher wir kommen und was uns verbindet.

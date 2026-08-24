@@ -39,8 +39,6 @@ Die Startups in Jakarta wachsen schneller, iterieren schneller und verstehen ihr
 
 Aber am wichtigsten ist vielleicht das: Indonesien vergisst nicht, woher es kommt. Die Technologien, die hier entstehen, sollen Menschen helfen – nicht ersetzen. Es geht um finanzielle Inklusion für Millionen, die bisher keinen Zugang zu Bankdienstleistungen hatten. Es geht um Bildung für Kinder in abgelegenen Dörfern. Es geht um die Bewahrung einer Kultur, die Jahrtausende alt ist, während man gleichzeitig ins 22. Jahrhundert schreitet.
 
----
-
 Jakarta ist nicht das nächste Silicon Valley, und das ist genau sein Vorteil. Es ist Jakarta – laut, bunt, chaotisch, menschlich und voller Möglichkeiten. Die Zukunftstechnologien, die hier entstehen, werden nicht nur Indonesien verändern, sondern zeigen der Welt, wie Innovation wirklich aussieht: wenn sie nicht abstrakt bleibt, sondern mit Kultur, Tradition und vor allem mit Menschen verbunden ist.
 
 Die nächste große Idee könnte gerade jetzt in einem kleinen Büro irgendwo in Jakartas Süden entstehen. Und das ist wirklich aufregend.

@@ -41,6 +41,4 @@ Heute gewinnen die Geschichten dieser Frauen endlich mehr Aufmerksamkeit. Junge 
 
 Sierra Leone ist nicht nur wegen seiner Diamanten kostbar. Es ist kostbar wegen der Frauen, die immer wieder aufgestanden sind, die Hoffnung bewahrt haben und ihre Gemeinschaften zusammengehalten haben – oft im Stillen, aber niemals ohne Kraft.
 
----
-
 *Wenn du mehr über die Geschichten von Frauen in Afrika erfahren möchtest, lohnt sich ein Blick in die wachsende Anzahl von Dokumentationen und Memoiren, die endlich diese Perspektive ins Rampenlicht rücken.*

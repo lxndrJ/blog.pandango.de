@@ -41,6 +41,4 @@ Mein Tipp: Kombiniert euer Hongkong-Abenteuer! Genießt die Energie Victorias am
 
 Die Schutzgebiete Hongkongs sind ein stilles Versprechen: dass Fortschritt und Natur, wenn klug geplant, nebeneinander florieren können.
 
----
-
 *Habt ihr schon eines dieser grünen Juwelen besucht? Ich freue mich auf eure Geschichten!*

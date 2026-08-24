@@ -40,6 +40,4 @@ Das Unternehmertum in Namibia ist noch jung und wächst. Die Kombination aus nat
 
 Wer Namibia bereist und mit Einheimischen spricht, merkt schnell: Hier gibt es eine besondere Art von Optimismus. Die Menschen verstehen, dass sie die Architekten ihrer eigenen Zukunft sind. Und genau das macht das Unternehmertum in diesem wunderschönen Land so inspirierend.
 
----
-
 *Namibia erinnert uns daran, dass große Träume nicht großer Ressourcen bedürfen – sondern großer Herzen.*

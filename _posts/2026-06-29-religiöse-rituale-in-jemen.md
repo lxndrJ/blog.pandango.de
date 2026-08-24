@@ -40,6 +40,4 @@ Was mich am meisten fasziniert hat, ist die Authentizität dieser Rituale. Sie s
 
 Wenn du jemals die Gelegenheit hast, diese Momente selbst zu erleben, nimm sie an. Beobachte, lerne, respektiere – und du wirst verstehen, warum der Jemen ein Land ist, in dem die Seele zu Hause ist.
 
----
-
 *Der Jemen lehrt uns, dass Spiritualität kein stilles, privates Gefühl sein muss – sie kann die ganze Welt um uns herum durchdringen und verbinden.*

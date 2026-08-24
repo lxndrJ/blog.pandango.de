@@ -64,6 +64,4 @@ Moderne Konzepte wie **nachhaltiges Waldmanagement** gewinnen an Bedeutung:
 
 Dili steht symbolisch für die Balance zwischen Entwicklung und Naturschutz. Die Wälder sind mehr als eine Ressource - sie sind das Herz von Osttimors Identität.
 
----
-
 *Entdecke die grüne Seele Osttimors - zwischen Tradition und Zukunft.*

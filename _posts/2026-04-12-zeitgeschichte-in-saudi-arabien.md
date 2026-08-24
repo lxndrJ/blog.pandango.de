@@ -34,6 +34,4 @@ Was ich bei meinen Reisen nach Riyadh gelernt habe: Diese Stadt ist kein Widersp
 
 Die staubigen Wüstenpfade sind längst asphaltiert, aber die Geschichten, die diese Stadt zu erzählen hat, sind lebendiger denn je.
 
----
-
 **Habt ihr Riyadh bereits besucht? Ich würde gerne von euren Erfahrungen hören – schreibt mir in den Kommentaren!**

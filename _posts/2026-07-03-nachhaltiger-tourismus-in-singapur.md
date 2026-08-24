@@ -41,6 +41,4 @@ Singapur zeigt uns, dass Nachhaltigkeit kein Luxus ist – sie ist eine Notwendi
 
 Beim nächsten Besuch in dieser faszinierenden Stadt nehmt euch Zeit für die grünen Ecken. Ihr werdet überrascht sein, wie viel Natur sich zwischen den Hochhäusern versteckt – und wie sehr es sich lohnt, sie zu schützen.
 
----
-
 *Habt ihr Singapur bereits besucht? Welche nachhaltigen Erlebnisse dort haben euch am meisten beeindruckt? Teilt eure Gedanken in den Kommentaren!*

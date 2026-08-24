@@ -47,6 +47,4 @@ Wenn du jemals die Gelegenheit hast, nach Slowenien zu reisen, vergiss nicht, ei
 
 Ljubljana wartet auf dich mit seinen Festivals, seinen Bühnen und seiner pulsierenden Energie. Und wer weiß – vielleicht findest du dort nicht nur eine neue Tanzform, sondern auch ein Stück deiner eigenen Seele.
 
----
-
 *Slowenien tanzt. Und wer diesen Rhythmus einmal spürt, wird ihn sein Leben lang nicht mehr vergessen.*

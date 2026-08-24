@@ -41,6 +41,4 @@ Die kosovarische Literatur erzählt Geschichten, die in westlichen Medien oft un
 
 Wer Kosovo verstehen möchte – die Seele des Landes, seine Träume und Kämpfe – sollte seine Literatur lesen. Denn dort findet man nicht die großen politischen Narrative, sondern das, was wirklich zählt: menschliche Geschichten, voller Authentizität und Tiefe.
 
----
-
 **Lesetipp**: Falls ihr neugierig geworden seid – schaut in Pristinas Buchläden vorbei oder erkundet die wachsende Anzahl englischer Übersetzungen kosovarischer Werke. Die Literaturszene des Landes verdient eure Aufmerksamkeit!

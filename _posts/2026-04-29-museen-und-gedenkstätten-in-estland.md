@@ -52,8 +52,6 @@ Das liegt auch daran, dass Estland jung ist. Die Unabhängigkeit 1991 ist noch i
 
 Die meisten Museen sind wunderbar zugänglich und mehrsprachig. Viele bieten kostenlose oder ermäßigte Eintritte an bestimmten Tagen. Und das Beste: Tallinn ist kompakt. Man kann Geschichte hier in menschlichem Tempo erkunden, nicht gehetzt.
 
----
-
 Tallinns Museen und Gedenkstätten sind Einladungen zu tieferer Begegnung. Sie fragen nicht nur „Was ist passiert?", sondern „Wer waren die Menschen? Was haben sie gefühlt? Was können wir von ihnen lernen?"
 
 Das ist, warum Geschichte hier nicht langweilig ist. Sie ist lebendig, wichtig, und sie spricht direkt zu uns.

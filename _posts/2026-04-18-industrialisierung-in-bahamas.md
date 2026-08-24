@@ -43,6 +43,4 @@ Wenn Sie Nassau heute besuchen, spüren Sie diese Schichten der Geschichte. Sie 
 
 Die Industrialisierung der Bahamas war keine klassische Fabrik-Geschichte – sie war eine Geschichte von Anpassung, Erfindungsgeist und dem klugen Erkennen der eigenen Stärken. Und vielleicht ist das die schönste Lektion überhaupt.
 
----
-
 *Haben Sie Interesse an der Geschichte der Karibik oder wollen mehr über Nassau erfahren? Die Bahamas zeigen, dass Geschichte nicht nur in Museen passiert – sie lebt in den Straßen, den Menschen und den Entscheidungen, die Gesellschaften prägen.*

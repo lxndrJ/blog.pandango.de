@@ -42,6 +42,4 @@ Das Schöne an der Geschichte Frankreichs ist ihre Botschaft: Veränderung ist m
 
 Wenn du Paris besuchst, nimm dir Zeit für mehr als nur die üblichen Sehenswürdigkeiten. Spaziere durch die Viertel, wo Revolutionen geplant wurden. Setz dich in ein Café und beobachte, wie Menschen leidenschaftlich diskutieren. Fühl die Energie dieser Stadt – sie ist unvergleichlich.
 
----
-
 *Kategorie: Geschichte | Frankreich | Kulturelle Perspektive*

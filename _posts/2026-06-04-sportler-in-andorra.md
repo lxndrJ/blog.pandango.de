@@ -43,6 +43,4 @@ Die nächsten Jahre werden spannend für andorranische Athleten. Mit verbesserte
 
 Die Pyrenäen haben immer schon etwas Magisches. Und wenn man genau hinschaut, entdeckt man dort oben nicht nur atemberaubende Berge, sondern auch Sportler mit großen Träumen und noch größeren Herzen.
 
----
-
 *Hast du schon von andorranischen Athleten gehört? Welche Sportler inspirieren dich? Schreib mir gerne deine Gedanken in die Kommentare!*

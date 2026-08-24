@@ -34,6 +34,4 @@ Die Realität ist nicht romantisch. Die Dürren werden häufiger, die Niederschl
 
 Die Natur Nigers lehrt eine wichtige Lektion – dass Schönheit und Reichtum nicht immer offensichtlich sind. Man muss genauer hinschauen, um die grünen Wunder zwischen Wüstensand zu erkennen. Die Landwirtschaft dieses Landes ist ein Beweis für menschliche Widerstandskraft und die unglaubliche Kraft der Natur.
 
----
-
 Wer Niger besucht, sollte nicht nur die Hauptstadt erkunden, sondern auch hinaus in diese faszinierenden Agrarlandschaften fahren. Es ist eine Reise, die die Augen öffnet und das Herz berührt.

@@ -47,8 +47,6 @@ Gegen elf Uhr wird es voller. Die Brauerei gleich nebenan füllt sich mit Mensch
 
 Ich bin mit meiner leeren Lokše-Serviette und zwei Euro weniger zufrieden als vorher. Der Markt hat nichts Romantisches – er ist praktisch, chaotisch und funktioniert. Das macht ihn authentischer als viele andere Orte, die ich besucht habe.
 
----
-
 ## Quellen
 
 - https://en.wikipedia.org/wiki/Ko%C5%A1ice (Košice – Geschichte, Markt, 1369 Wappenprivileg)
@@ -58,7 +56,5 @@ Ich bin mit meiner leeren Lokše-Serviette und zwei Euro weniger zufrieden als v
 - https://rucksackfoodie.com/2025/11/23/hidden-gem-of-slovakia-kosice/ (Lokale Gerichte, Markterfahrung)
 - https://www.momentslog.com/cuisine/taste-of-slovak-lokse-potato-dough-pancakes (Lokše – Zubereitung, Zusammensetzung)
 - https://www.farawayworlds.com/food/traditional-food-of-slovakia (Slivovica, slowakische Traditionen)
-
----
 
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

@@ -42,6 +42,4 @@ Turks und Caicos ist kein Geheimtipp, weil es schlecht ist – im Gegenteil. Es 
 
 Die Karibik wartet nicht auf deine Ankunft – aber Cockburn Town und die Menschen dort werden sich freuen, dich zu empfangen.
 
----
-
 *Hast du noch andere Lieblingsorte in der Karibik? Ich freue mich auf deine Geschichten!*

@@ -34,6 +34,4 @@ Was ich faszinierend finde, ist das wachsende internationale Netzwerk. Wissensch
 
 Die Zentralafrikanische Republik braucht Investitionen in Bildung und Forschung – das ist eine Tatsache. Aber sie braucht auch Anerkennung für die Brillanz, die bereits dort existiert. Jeder Wissenschaftler hier ist ein Beweis dafür, dass Neugier und der Drang, die Welt zu verstehen, universell sind – unabhängig von Ressourcen oder Geographie.
 
----
-
 *Wissenschaft ist überall. Manchmal muss man nur genauer hinschauen, um sie zu sehen.*

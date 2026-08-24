@@ -33,6 +33,4 @@ Was Barbados besonders macht, ist die Verbindung zwischen Geschichte und Zukunft
 
 Barbados lehrt uns, dass Visionen nicht immer große, spektakuläre Erfindungen sein müssen. Manchmal sind es kleine Veränderungen im Denken, die eine ganze Insel transformieren können. Und genau das macht diese Nation so inspirierend zu besuchen.
 
----
-
 *Hast du auch eine Geschichte über inspirierende Menschen oder Orte, die dich bewegt haben? Die Welt ist voll von Visionären – man muss sie nur entdecken.*

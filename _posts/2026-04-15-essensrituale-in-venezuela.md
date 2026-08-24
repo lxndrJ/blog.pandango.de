@@ -45,6 +45,4 @@ Die Essensrituale Venezuelas sind mehr als nur kulinarische Traditionen – sie 
 
 Wer Venezuela verstehen möchte, sollte nicht nur die Sehenswürdigkeiten sehen, sondern sich an einen Tisch setzen und essen. Denn dort, wo das Essen geteilt wird, beginnt echte Verbindung.
 
----
-
 *Die venezolanische Küche erzählt Geschichten – man muss nur zuhören.*

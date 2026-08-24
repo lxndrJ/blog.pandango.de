@@ -36,6 +36,4 @@ Wenn du nach Yerevan kommst, buche ein Ticket für eine Vorstellung – egal ob 
 
 ![Ein Fenster in die Seele Armeniens](https://upload.wikimedia.org/wikipedia/commons/6/67/1920_Republic_of_Armenia_Armenia_Ararat_stamp_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 *Die nächste Vorstellung wartet auf dich. Komm und lass dich verzaubern.*

@@ -42,6 +42,4 @@ Die beste Art, die Flora und Fauna kennenzulernen, ist eine Wanderung. Der Emera
 
 Was Dominica besonders macht, ist der Fokus auf Nachhaltigkeit. Die Insel hat sich zum Ziel gesetzt, bis 2050 klimaneutral zu sein. Das ist nicht nur eine politische Aussage, sondern ein echtes Engagement für die Bewahrung dieser natürlichen Schätze.
 
----
-
 Dominica erinnert dich daran, dass Natur nicht etwas ist, das man in Museen oder Dokumentationen studiert – sie ist lebendig, dynamisch und dich umgebend. Wenn du hierher kommst, wirst du nicht nur Fotos machen, sondern echte Erinnerungen schaffen, die dich verändern.

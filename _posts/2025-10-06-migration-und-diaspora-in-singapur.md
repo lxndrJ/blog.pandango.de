@@ -41,8 +41,6 @@ Die nächste Generation wird zeigen, wie sich diese multikulturelle Gesellschaft
 
 *Singapur lehrt uns: Migration ist keine Bedrohung, sondern Chance.*
 
----
-
 **Weitere Gedankenanstöße:**
 - Wie definiert sich Identität in einer globalisierten Welt?
 - Welche Rolle spielt Mehrsprachigkeit?

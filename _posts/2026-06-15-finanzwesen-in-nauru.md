@@ -46,6 +46,4 @@ Naurus Finanzwesen ist ein Lehrbuch darüber, wie man sich reinventet. Es ist ni
 
 Manchmal sind die kleinsten Orte die besten Lehrer.
 
----
-
 *Habt ihr Interesse an anderen Inselwirtschaften? Oder möchtet ihr mehr über nachhaltige Finanzmodelle erfahren?*

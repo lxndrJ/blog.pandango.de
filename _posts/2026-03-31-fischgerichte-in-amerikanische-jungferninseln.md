@@ -38,6 +38,4 @@ Besucht die lokalen Märkte in Charlotte Amalie früh morgens. Hier seht ihr den
 
 ![Charlotte Amalie: Kulinarisches Herz der Inseln](https://upload.wikimedia.org/wikipedia/commons/0/0f/A_Tuareg_in_northern_Mali_prepares_a_fire_for_making_tea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 Die Amerikanischen Jungferninseln zeigen uns: Große Küche braucht keine komplizierten Rezepte. Sie braucht frische Zutaten, Respekt vor der Tradition und Menschen, die ihre Kultur auf dem Teller zum Leben erwecken. Und ja, auch ein bisschen Meeresluft schadet nicht.

@@ -49,6 +49,4 @@ Starte früh morgens, wenn es noch kühl ist und die Luft besonders frisch riech
 
 Nach deinen Wanderungen kannst du in Bridgetown noch wunderbar ausklingen lassen. Spaziere durch die Garrison Historic Area, besuche das Bridgetown Garrison Museum oder gönne dir ein kaltes Drink an der Promenade während du die Sonne untergehen siehst. Die lokale Küche – Cou-Cou, Macaroni Pie, frischer Fisch – wird dich begeistern.
 
----
-
 Barbados zeigt dir, dass Abenteuer nicht immer gigantisch und wild sein müssen. Manchmal sind es die grünen Wege zwischen Palmen, die Vogelstimmen in der Schlucht und das authentische Lächeln der Menschen, die eine Reise unvergesslich machen. Pack deine Wanderschuhe ein und entdecke die andere Seite dieser wunderbar vielfältigen Insel.

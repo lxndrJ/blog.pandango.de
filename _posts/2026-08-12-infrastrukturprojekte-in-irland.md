@@ -47,6 +47,4 @@ Am Ende geht es um mehr als Betonmischer und Glasfaserkabel. Irland hat verstand
 
 Diese Mischung aus pragmatischer Zukunftsorientierung und kulturellem Bewusstsein macht Irland zu einem spannenden Fallbeispiel. Nicht nur für Investoren, sondern auch für jeden Reisenden, der verstehen möchte, wie eine Nation ihre Zukunft selbst gestaltet – ohne ihre Seele zu verkaufen.
 
----
-
 **Ein Land im Wandel** – und das ist nicht immer einfach. Aber wenn man Dublins neue U-Bahn-Pläne mit seinen 300 Jahre alten Pubs kombiniert, dann sieht man: Irland macht es richtig.

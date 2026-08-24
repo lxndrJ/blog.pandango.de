@@ -44,6 +44,4 @@ Die luxemburgische Wirtschaftspolitik sagt: Ja, wir wollen erfolgreich sein. Abe
 
 Das ist eine Botschaft, die in unserer komplexen Welt gerade sehr beruhigend wirkt.
 
----
-
 *Wenn du selbst nach Luxemburg reist, vergiss nicht: Hinter der glänzenden Finanzfassade steckt eine Geschichte von kluger Planung, kultureller Offenheit und dem Mut, den eigenen Weg zu gehen.*

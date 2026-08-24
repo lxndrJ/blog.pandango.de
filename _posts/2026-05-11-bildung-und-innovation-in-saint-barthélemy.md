@@ -34,6 +34,4 @@ Hier wird deutlich: Echte Innovation entsteht, wenn Menschen ihre Wurzeln kennen
 
 ![Wirtschaft im Wandel](https://upload.wikimedia.org/wikipedia/commons/f/fe/Bonn%2C_Post-Tower_--_2017_--_2128_%28bw%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 *Saint-Barthélemy wartet nicht auf die Zukunft – die Insel gestaltet sie gerade selbst.*

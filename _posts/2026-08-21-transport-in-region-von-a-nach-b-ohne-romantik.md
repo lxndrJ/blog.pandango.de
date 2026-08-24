@@ -20,15 +20,11 @@ Gib mir:
 
 Dann mache ich dir eine solide Recherche mit realen Fahrtzeiten, tatsächlichen Preisen und den Dingen, die schiefgehen können – nicht die verklärte Variante, sondern wie es wirklich ist.
 
----
-
 ## Warum das wichtig ist
 
 Ein Beitrag über Transport muss ehrlich sein. Wenn ich dir etwas über Busfahrten schreibe, ohne zu wissen, ob wir von Südafrika oder Sri Lanka reden, tue ich dir keinen Gefallen. Die Realität ist: Busfahrten in Südostasien sehen anders aus als in Südamerika. Bahnverbindungen in Afrika haben andere Herausforderungen als in Südasien. Preise, Komfort, Zuverlässigkeit – alles ist Region-abhängig.
 
 Ich persönlich finde, dass gerade bei praktischen Dingen wie Transport die Genauigkeit zählt. Wer losfahren will, braucht Information, auf die er sich verlassen kann. Nicht: "Die Züge sind toll." Sondern: "Die Fahrt dauert 14 Stunden, kostet zwischen 25 und 60 Euro je nach Klasse, und erfahrungsgemäß verspätet sich der Zug um 1–3 Stunden."
-
----
 
 ## Was ich für dich recherchiere
 
@@ -46,8 +42,6 @@ Sobald du mir die Route gibst, werden wir folgendes klären:
 
 **Was kann schiefgehen**: Ist die Strecke bekannt für Verspätungen? Gibt es Jahreszeiten, wo bestimmte Routen problematisch werden? Sind bestimmte Verkehrsmittel in dem Land unsicherer als andere?
 
----
-
 ## Der Plan
 
 Wenn du mir die Region und die zwei Orte verrätst, mache ich Folgendes:
@@ -60,12 +54,8 @@ Wenn du mir die Region und die zwei Orte verrätst, mache ich Folgendes:
 
 Das wird kein Text sein, der dir sagt, dass die Zugfahrt durch [Region] eine "spirituelle Erfahrung" ist. Das wird ein Text sein, der dir sagt, wie du morgens loskommst und ankommen kannst – inklusive der Realität, dass du wahrscheinlich irgendwann in einer überfüllten Wartehalle sitzt und dich fragst, wann es weitergeht.
 
----
-
 **Also: Welche Route?**
 
 Schreib mir die Region und die zwei Orte, und wir gehen dem Thema auf den Grund.
-
----
 
 *Dieser Beitrag wurde KI-gestützt geschrieben und von lxndrJ kuratiert, geprüft und veröffentlicht.*

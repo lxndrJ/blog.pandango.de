@@ -42,6 +42,4 @@ Wenn du je nach Algiers reist, wirst du verstehen, warum die Menschen dort so st
 
 Das Mittelmeer hat viel zu bieten. Algerien weiß nur besonders gut, wie man es auf den Teller bringt.
 
----
-
 *Hast du schon Fischgerichte in Nordafrika probiert? Die Küche hat mich jedes Mal aufs Neue überrascht – in der besten Art.*

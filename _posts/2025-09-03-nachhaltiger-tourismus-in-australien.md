@@ -45,8 +45,6 @@ Australien lädt uns ein, Tourismus neu zu denken: Als Erlebenis, das Natur, Kul
 
 ![Eine Reise zwischen Verantwortung und Abenteuer](https://images.unsplash.com/photo-1634128221889-82ed6efebfc3?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8bGFuZ3VhZ2V8ZW58MHwwfHx8MTc4NzUzMDE0NXww&ixlib=rb-4.1.0)
 
----
-
 **Weitere Inspiration:** 
 - [Sustainable Tourism Australia](https://www.sustainabletourism.net.au/)
 - Nationale Parkführer

@@ -39,6 +39,4 @@ Nicaragua zeigt, dass es möglich ist. Das Land investiert in den Schutz seiner 
 
 Wenn du das nächste Mal nach Nicaragua reist, vergiss Managua nicht. Nimm dir Zeit, lerne die Menschen kennen, wandere durch echte Natur mit lokalen Guides und übernachte dort, wo dein Geld direkt bei den Menschen ankommt. Das ist der Tourismus, der die Welt verändern kann.
 
----
-
 *Dein nächstes Abenteuer wartet – und diesmal kannst du sicher sein, dass du es besser machst als all die anderen.*

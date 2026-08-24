@@ -47,6 +47,4 @@ Was Pakistan so besonders macht, ist die Art, wie es seine Symbole nutzt – nic
 
 Islamabad selbst, als geplante Hauptstadt, verkörpert diesen modernen Ansatz: Sie respektiert Tradition, während sie gleichzeitig eine Zukunft entwirft, in der alte und neue Symbolik harmonisch koexistieren können.
 
----
-
 Pakistans Symbolik zu verstehen bedeutet, das Land wirklich zu sehen – nicht nur mit den Augen, sondern mit dem Herzen. Jeder Faden, jede Farbe, jedes Muster lädt dich ein, tiefer zu blicken und die Geschichten zu entdecken, die überall erzählt werden.

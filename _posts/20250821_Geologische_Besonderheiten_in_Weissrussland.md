@@ -67,8 +67,6 @@ Minsk steht für mehr als moderne Urbanität - es ist ein lebendiges Dokument de
 
 *Eine geologische Zeitkapsel mitten in Osteuropa.*
 
----
-
 **Weitere Informationen:**
 - Geologisches Institut Weißrusslands
 - Nationale Akademie der Wissenschaften

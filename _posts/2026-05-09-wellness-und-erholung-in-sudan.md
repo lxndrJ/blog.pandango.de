@@ -50,6 +50,4 @@ Was den Sudan für Wellness-Reisende so wertvoll macht, ist die Möglichkeit, ec
 
 Die Wellness hier kommt nicht aus einer Flasche oder einem Behandlungskatalog. Sie wächst aus den Gesprächen mit Fremden, die zu Freunden werden, aus dem Rauschen des Nils und aus der Erkenntnis, dass manchmal das Einfachste das Wertvollste ist.
 
----
-
 *Der Sudan wartet darauf, wiederentdeckt zu werden – nicht als Destination, sondern als Erfahrung.*

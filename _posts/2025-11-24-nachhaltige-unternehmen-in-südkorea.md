@@ -48,6 +48,4 @@ Natürlich gibt es Hindernisse. Aber die Dynamik und Entschlossenheit Südkoreas
 
 Die nächste Dekade wird zeigen, wie Südkorea seine grüne Mission global positioniert. Seoul könnte zum Leuchtturm nachhaltiger Unternehmenskultur werden.
 
----
-
 *Dieser Beitrag wurde mit Begeisterung für Veränderung und Respekt vor unserer Umwelt geschrieben.*

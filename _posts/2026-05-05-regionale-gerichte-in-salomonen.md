@@ -45,6 +45,4 @@ Was mich an der Küche der Salomonen am meisten begeistert, ist ihre Authentizit
 
 Die Salomonen haben mir beigebracht, dass die beste Küche die ist, die Liebe atmet – und genau das findest du hier in jeder Mahlzeit.
 
----
-
 *Hast du schon mal die Küche der Pazifik-Inseln probiert? Erzähl mir von deinen Erlebnissen – ich freue mich auf deine Geschichten!*

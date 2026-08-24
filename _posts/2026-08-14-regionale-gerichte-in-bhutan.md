@@ -49,6 +49,4 @@ Traut euch, die lokale Küche auszuprobieren. Startet mit **Ema Datshi**, wenn i
 
 Bringt Wasser mit – nein, Saft. Nein, eigentlich beides.
 
----
-
 Bhutan hat mir gezeigt, dass die beste Art, ein Land zu verstehen, durch seinen Magen führt. Die regionale Küche hier ist nicht nur lecker, sie erzählt die Geschichte eines Volkes, das seine Traditionen bewahrt, während es in die Zukunft blickt. Und das schmeckt man in jedem Bissen.

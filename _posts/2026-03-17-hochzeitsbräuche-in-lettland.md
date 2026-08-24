@@ -44,6 +44,4 @@ Am Ende ist es nicht eine einzelne Tradition, die lettische Hochzeiten auszeichn
 
 Lettland lehrt uns, dass eine Hochzeit nicht perfekt sein muss, um magisch zu sein. Sie muss nur ehrlich sein, voller Wärme und gelebt von Menschen, die sich wirklich lieben – und die ihre Wurzeln nicht vergessen.
 
----
-
 *Hast du Lust bekommen, lettische Hochzeitstraditionen selbst zu erleben? Oder fragst du dich, wie deine eigenen Familienbräuche in deine Hochzeit passen? Die schönsten Feste entstehen, wenn wir das verbinden, das uns wichtig ist.*

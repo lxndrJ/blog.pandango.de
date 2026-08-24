@@ -41,6 +41,4 @@ Was Kuwait von vielen anderen Reisezielen unterscheidet, ist die Wärme, mit der
 
 Wenn Sie Kuwait besuchen, planen Sie Ihren Trip um eines dieser Feste herum. Ihr Gaumen wird es Ihnen danken, und Ihr Herz wird eine neue Liebe entdecken – die Liebe zu den Geschmäckern der Wüste.
 
----
-
 *Die kuwaiter Küche wartet darauf, entdeckt zu werden. Lassen Sie sich von den Aromen verführen.*

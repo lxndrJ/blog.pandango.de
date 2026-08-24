@@ -38,8 +38,6 @@ Die archäologischen Funde des Jemen sind mehr als nur Steine und Artefakte. Sie
 
 *Eine Reise wert für alle, die mehr als nur Touristen sein wollen.*
 
----
-
 **Weitere Informationen:**
 - UNESCO Weltkulturerbe
 - Archäologische Missionen

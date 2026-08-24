@@ -43,6 +43,4 @@ Vientiane lädt nicht zum Hetzen ein. Die Stadt möchte erlebt werden – in der
 
 Die Architektur Laos' ist letztlich eine Einladung, innezuhalten und zu verstehen, dass Schönheit nicht in Perfektion liegt, sondern in der authentischen Erzählung eines Ortes.
 
----
-
 *Hast du schon die versteckten Schätze Vientiane's entdeckt? Die Stadt offenbart ihre wahre Magie denen, die Zeit für sie aufbringen.*

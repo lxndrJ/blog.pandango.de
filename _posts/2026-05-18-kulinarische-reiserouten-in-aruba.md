@@ -68,6 +68,4 @@ Pack deinen Hunger mit ein und lass dich von Oranjestad und der Insel kulinarisc
 
 ![Oranjestad: Das kulinarische Herz der Insel](https://upload.wikimedia.org/wikipedia/commons/d/d0/ARUBA-oranjestad-hafen-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 *Die beste Reise ist die, bei der du nicht nur Orte besuchst, sondern sie schmeckst.*

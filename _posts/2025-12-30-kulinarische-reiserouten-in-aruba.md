@@ -44,8 +44,6 @@ Achte auf lokale Anbieter und traditionelle Restaurants. So untererstützt du di
 
 ![Oranjestad: Das kulinarische Herz der Insel](https://upload.wikimedia.org/wikipedia/commons/d/d0/ARUBA-oranjestad-hafen-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
----
-
 Eine kulinarische Reise durch Aruba ist mehr als nur Essen - es ist eine Reise durch Geschichten, Traditionen und Begegnungen, die sich in jedem Bissen offenbaren.
 
 *Guten Appetit und bon bini auf Aruba!*

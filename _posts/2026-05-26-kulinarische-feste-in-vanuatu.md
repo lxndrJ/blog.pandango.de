@@ -50,6 +50,4 @@ Wenn ihr die Chance habt, während eines kulinarischen Festes nach Vanuatu zu re
 
 Port Vila ist der perfekte Ausgangspunkt für diese Reise, aber vergesst nicht, die kleineren Inseln zu erkunden. Dort findet ihr die echten Geschichten, die echten Geschmäcker und die echte Magie Vanuatus.
 
----
-
 *Die kulinarischen Feste Vanuatus sind nicht nur für den Magen – sie sind für die Seele. Und genau das macht diese Inselgruppe zu einem Ort, den man nie vergessen wird.*

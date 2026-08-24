@@ -53,6 +53,4 @@ Trotz wirtschaftlicher Herausforderungen zeigt Haiti eine beeindruckende unterne
 
 Haitis Unternehmenskultur ist ein lebendes Beispiel dafür, dass wahre Innovation nicht von äußeren Ressourcen, sondern von innerer Kraft abhängt.
 
----
-
 *Dieser Einblick entstand während einer Recherchereise durch Haiti - mit offenen Augen und einem Herzen für unerwartete Geschichten.*

@@ -36,6 +36,4 @@ Grönland steht an einem Wendepunkt. Der Klimawandel verändert die physische Re
 
 Die Architektur Grönlands ist daher nicht nur eine Dokumentation der Vergangenheit, sondern ein lebendiges Gespräch mit der Zukunft.
 
----
-
 Wenn du jemals nach Grönland kommst, vergiss die touristischen Hotspots nicht – aber vergiss auch nicht, einfach durch die Straßen von Nuuk zu bummeln und die Häuser zu beobachten. Jede Farbe, jeder Stein, jedes Fenster erzählt eine Geschichte von Menschlichkeit, Widerstandskraft und dem unerschütterlichen Willen, an einem der unwirtlichsten Orte der Welt nicht nur zu überleben, sondern zu blühen.

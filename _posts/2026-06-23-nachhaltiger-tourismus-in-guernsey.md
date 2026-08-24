@@ -43,6 +43,4 @@ Nachhaltiger Tourismus klingt manchmal anstrengend – als müsste man auf Komfo
 
 Wenn du Guernsey besuchst, packst du nicht nur Erinnerungen ein, sondern auch das Gefühl, dass Reisen nicht zerstören muss – sondern bereichern kann. Für dich, für die Menschen vor Ort und für die wunderbare Natur dieser Insel.
 
----
-
 *Nachhaltiger Tourismus beginnt mit einer einfachen Frage: Wie kann ich reisen, ohne zu schaden? Guernsey antwortet darauf mit Authentizität, Schönheit und einer Community, die ihre Insel liebt.*

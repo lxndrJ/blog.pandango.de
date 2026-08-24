@@ -58,6 +58,4 @@ Die Küche der Westsahara erzählt von Nomaden, die ihre Traditionen über Gener
 
 Wenn du eines dieser Rezepte ausprobierst, kochst du nicht einfach nur – du wirst Teil einer Tradition, die älter ist als die meisten Grenzen auf dieser Welt.
 
----
-
 *Hast du schon mal traditionelle nordafrikanische Küche gekocht? Oder gibt es ein historisches Rezept aus deiner Region, das du liebst? Die Geschichten hinter unserem Essen sind oft genauso wertvoll wie der Geschmack selbst.*

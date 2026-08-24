@@ -37,6 +37,4 @@ Wenn ihr San Marino besucht, vergesst die klassischen Sehenswürdigkeiten-Listen
 
 San Marino ist ein Beweis dafür, dass Authentizität zeitlos ist – und dass die schönste Architektur oft die ist, die einfach nur ehrlich ihre Bestimmung erfüllt: Menschen zu beherbergen, sie zu schützen und ihnen einen Ort zum Leben zu geben.
 
----
-
 *Habt ihr San Marino bereits besucht? Was hat euch an der Architektur am meisten begeistert?*

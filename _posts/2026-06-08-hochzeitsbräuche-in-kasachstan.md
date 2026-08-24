@@ -46,6 +46,4 @@ Was macht kasachische Hochzeitsbräuche so besonders? Es ist die Balance zwische
 
 Die Hochzeitsbräuche Kasachstans erzählen von einer Nation, die stolz auf ihre Vergangenheit ist, während sie gleichzeitig offen in die Zukunft schreitet. Und das ist wirklich wunderschön.
 
----
-
 *Hattest du schon die Gelegenheit, eine kasachische Hochzeit zu besuchen? Oder interessierst du dich für andere Hochzeitstraditionen aus Zentralasien? Ich freue mich auf deine Gedanken!*

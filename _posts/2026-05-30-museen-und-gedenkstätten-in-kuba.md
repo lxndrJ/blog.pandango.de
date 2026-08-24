@@ -36,6 +36,4 @@ Museen in Kuba sind mehr als Sammlungen von Objekten. Sie sind Fenster in eine G
 
 Wer Kuba besucht, sollte sich Zeit für diese Orte nehmen. Sie gehören zu den wertvollsten Erfahrungen, die die Insel zu bieten hat. Denn Geschichte verstehen bedeutet, die Gegenwart besser zu begreifen.
 
----
-
 *Tipp: Viele Museen in Havana haben ermäßigte Eintrittspreise für Studenten und Einheimische. Die beste Zeit für einen Besuch ist morgens, wenn es noch nicht zu heiß ist und die Menschenmengen überschaubar bleiben.*

@@ -44,6 +44,4 @@ Es geht um Respekt, Verbundenheit und das Verständnis, dass jede Reise eine Beg
 
 *Reisen heißt, mit Herz und Verstand zu entdecken.*
 
----
-
 **Wichtiger Hinweis**: Aktuelle Reisehinweise und Sicherheitsempfehlungen sind unbedingt vor einer Reise zu konsultieren.

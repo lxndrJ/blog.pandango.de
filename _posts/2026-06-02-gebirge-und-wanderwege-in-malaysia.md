@@ -45,6 +45,4 @@ Was Malaysia einzigartig macht, ist diese Balance. Man kann morgens noch im urba
 
 Die Gebirge Malaysias sind nicht nur Berge – sie sind Brücken zwischen gestern und heute, zwischen Mensch und Natur, zwischen dem Bekannten und dem Abenteuer. Wer sich auf diese Reise einlässt, kehrt nicht nur mit vollgepacktem Rucksack zurück, sondern auch mit einer ganz neuen Sicht auf die Welt.
 
----
-
 *Packt die Wanderschuhe ein. Malaysia wartet.*

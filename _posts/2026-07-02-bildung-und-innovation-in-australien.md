@@ -35,6 +35,4 @@ Mein wichtigster Eindruck: Australien zeigt, dass Innovation nicht nur in Kalifo
 
 Die Sonne über Canberra scheint auf ein Land, das seine Zukunft selbst gestaltet – und dazu braucht es eben nicht nur gute Ideen, sondern auch Menschen, die darin ausgebildet werden, diese Ideen umzusetzen.
 
----
-
 *Australien erinnert uns daran, dass Innovation eine Kultur ist, die man kultivieren muss – in Schulen, Universitäten und in der Gesellschaft insgesamt.*

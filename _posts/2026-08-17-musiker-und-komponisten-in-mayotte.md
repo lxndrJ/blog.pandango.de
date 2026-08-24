@@ -36,6 +36,4 @@ Wenn du wirklich verstehen möchtest, wie Musik entsteht, wenn verschiedene Kult
 
 Die Insel mag klein sein, aber ihre musikalische Stimme ist kraftvoll und verdient, gehört zu werden. Die nächste Generation von Musikern aus Mamoudzou könnte sehr wohl die Weltbühne erobern.
 
----
-
 *Mayotte erinnert uns daran, dass großartige Kunst nicht immer von den größten Orten kommt – manchmal kommt sie von den Orten, deren Herzen am lautesten schlagen.*

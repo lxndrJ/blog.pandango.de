@@ -71,6 +71,4 @@ Bevor du losfährst: Überprüfe die aktuellen Reisewarnungen deines Landes, kau
 
 Aber noch wichtiger: Packe auch Offenheit, Neugier und ein Lächeln ein. Das sind die besten Sicherheitstools, die du hast.
 
----
-
 Indien wird dich verändern. Es wird dich herausfordern, überraschen und inspirieren. Mit ein wenig Vorsicht, viel Respekt und einer großen Portion Abenteuerlust wirst du eine Reise erleben, die du nie vergessen wirst. Die Frage ist nicht, ob es sicher ist – die Frage ist: Bist du bereit?

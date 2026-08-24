@@ -40,8 +40,6 @@ Die technologische Entwicklung ist tief in der palästinensischen Kultur veranke
 
 Technologie wird hier nicht nur als Werkzeug, sondern als Brücke verstanden. Eine Brücke zwischen Tradition und Moderne, zwischen lokalen Herausforderungen und globalen Möglichkeiten.
 
----
-
 **Fazit**: Die technologische Geschichte Palästinas ist eine Geschichte von Widerstandsfähigkeit, Kreativität und ungebrochener Hoffnung.
 
 *Foto: Blick auf die moderne Skyline von Ramallah, wo alte Architektur und neue Technologiezentren harmonisch verschmelzen.*
