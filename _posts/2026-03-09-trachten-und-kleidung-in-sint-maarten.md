@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trachten und Kleidung in Sint Maarten"
-date: 2026-03-09
+date: 2026-03-09 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/5/53/2020-01-18_MIMER_-_IMO_9002647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Trachten und Kleidung in Sint Maarten](https://upload.wikimedia.org/wikipedia/commons/5/53/2020-01-18_MIMER_-_IMO_9002647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

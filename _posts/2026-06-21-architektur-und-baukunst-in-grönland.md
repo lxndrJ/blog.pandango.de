@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architektur und Baukunst in Grönland"
-date: 2026-06-21
+date: 2026-06-21 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Geschichte_der_bildenden_K%C3%BCnste_.._%28IA_bildendenkunstesec2v2schn%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Architektur und Baukunst in Grönland](https://upload.wikimedia.org/wikipedia/commons/9/9b/Geschichte_der_bildenden_K%C3%BCnste_.._%28IA_bildendenkunstesec2v2schn%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Grönlands bunte Häuser und die Architektur der Polarregion

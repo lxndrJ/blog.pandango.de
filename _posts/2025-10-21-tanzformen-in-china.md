@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tanzformen in China"
-date: 2025-10-21
+date: 2025-10-21 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Baixi_Village_01_2014-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

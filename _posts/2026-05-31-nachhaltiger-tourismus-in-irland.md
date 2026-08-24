@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiger Tourismus in Irland"
-date: 2026-05-31
+date: 2026-05-31 08:00:00 +0200
 image: https://images.unsplash.com/photo-1518005068251-37900150dfca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBJcmxhbmR8ZW58MHwwfHx8MTc4MDIwOTg5Nnww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

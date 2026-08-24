@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltiges Reisen in St. Pierre und Miquelon"
-date: 2025-12-08
+date: 2025-12-08 08:00:00 +0200
 image: https://images.unsplash.com/photo-1621175546107-b766f790cbb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXMlMjBSZWlzZW4lMjBTdC4lMjBQaWVycmUlMjB1bmQlMjBNaXF1ZWxvbnxlbnwwfDB8fHwxNzY1MTY1NzYzfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

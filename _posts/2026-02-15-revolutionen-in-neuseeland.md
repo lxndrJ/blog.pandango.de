@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Neuseeland"
-date: 2026-02-15
+date: 2026-02-15 08:00:00 +0200
 image: https://images.unsplash.com/photo-1726694946913-14d8f80faa7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZXZvbHV0aW9uZW4lMjBOZXVzZWVsYW5kfGVufDB8MHx8fDE3NzExMzA4NTN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

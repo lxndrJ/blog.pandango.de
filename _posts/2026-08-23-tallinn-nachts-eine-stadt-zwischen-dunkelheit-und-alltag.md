@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tallinn nachts: Eine Stadt zwischen Dunkelheit und Alltag"
-date: 2026-08-23
+date: 2026-08-23 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 author: lxndrJ
 ai_assisted: true

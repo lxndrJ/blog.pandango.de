@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exportprodukte in Salomonen"
-date: 2026-06-27
+date: 2026-06-27 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/6/6f/ECHO_Solomon_Islands_Editable_A4_Landscape.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Exportprodukte in Salomonen](https://upload.wikimedia.org/wikipedia/commons/6/6f/ECHO_Solomon_Islands_Editable_A4_Landscape.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Die verborgenen Schätze der Salomonen: Was die Welt von diesen Inseln kauft

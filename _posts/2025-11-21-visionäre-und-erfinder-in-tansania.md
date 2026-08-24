@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visionäre und Erfinder in Tansania"
-date: 2025-11-21
+date: 2025-11-21 08:00:00 +0200
 image: https://images.unsplash.com/photo-1668752432100-f9fc785fc8d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWaXNpb24lQzMlQTRyZSUyMHVuZCUyMEVyZmluZGVyJTIwVGFuc2FuaWF8ZW58MHwwfHx8MTc2MzY5NjI1N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

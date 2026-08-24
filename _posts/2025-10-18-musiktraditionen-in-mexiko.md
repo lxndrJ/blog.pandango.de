@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musiktraditionen in Mexiko"
-date: 2025-10-18
+date: 2025-10-18 08:00:00 +0200
 image: https://images.unsplash.com/photo-1588929101758-d29c6c6f6429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNdXNpa3RyYWRpdGlvbmVuJTIwTWV4aWtvfGVufDB8MHx8fDE3NjA3NTc2ODB8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vegetarische Spezialitäten in Togo"
-date: 2026-03-29
+date: 2026-03-29 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/b/bc/1913_3pfg_Togo_used_Mi7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Vegetarische Spezialitäten in Togo](https://upload.wikimedia.org/wikipedia/commons/b/bc/1913_3pfg_Togo_used_Mi7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

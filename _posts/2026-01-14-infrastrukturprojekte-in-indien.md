@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infrastrukturprojekte in Indien"
-date: 2026-01-14
+date: 2026-01-14 08:00:00 +0200
 image: https://images.unsplash.com/photo-1603894503376-af83a587bbfa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmZyYXN0cnVrdHVycHJvamVrdGUlMjBJbmRpZW58ZW58MHwwfHx8MTc2ODM2MzQwN3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

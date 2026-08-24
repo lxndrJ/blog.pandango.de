@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat"
-date: 2026-08-22
+date: 2026-08-22 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 author: lxndrJ
 ai_assisted: true

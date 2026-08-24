@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sicherheit auf Reisen in Italien"
-date: 2026-07-16
+date: 2026-07-16 08:00:00 +0200
 image: https://images.unsplash.com/photo-1634548082207-671d952e93d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTaWNoZXJoZWl0JTIwYXVmJTIwUmVpc2VuJTIwSXRhbGllbnxlbnwwfDB8fHwxNzg0MTc5NzU4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

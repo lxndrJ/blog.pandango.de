@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handwerkskunst in Kambodscha"
-date: 2026-03-09
+date: 2026-03-09 08:00:00 +0200
 image: https://images.unsplash.com/photo-1624159839720-b522c256317f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIYW5kd2Vya3NrdW5zdCUyMEthbWJvZHNjaGF8ZW58MHwwfHx8MTc3MzAzMTQ4OXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

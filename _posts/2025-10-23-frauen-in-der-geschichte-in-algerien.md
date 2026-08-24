@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frauen in der Geschichte in Algerien"
-date: 2025-10-23
+date: 2025-10-23 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Frauen in der Geschichte in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vogelbeobachtung in Aserbaidschan"
-date: 2026-02-18
+date: 2026-02-18 08:00:00 +0200
 image: https://images.unsplash.com/photo-1672931453015-cba6713fe785?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWb2dlbGJlb2JhY2h0dW5nJTIwQXNlcmJhaWRzY2hhbnxlbnwwfDB8fHwxNzcxMzg5OTk5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

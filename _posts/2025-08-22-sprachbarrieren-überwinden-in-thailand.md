@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sprachbarrieren überwinden in Thailand"
-date: 2025-08-22
+date: 2025-08-22 08:00:00 +0200
 image: https://images.unsplash.com/photo-1556741533-f6acd6474059?ixid=M3wxMDM5NDc3fDF8MXxzZWFyY2h8MXx8YmFyfGVufDB8MHx8fDE3ODc1MzAxNDR8MA&ixlib=rb-4.1.0
 ---
 

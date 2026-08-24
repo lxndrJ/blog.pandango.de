@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fischgerichte in Äthiopien"
-date: 2026-01-11
+date: 2026-01-11 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/8/84/A_Step_Forward%2C_Ethiopia_%2813599989815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Fischgerichte in Äthiopien](https://upload.wikimedia.org/wikipedia/commons/8/84/A_Step_Forward%2C_Ethiopia_%2813599989815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

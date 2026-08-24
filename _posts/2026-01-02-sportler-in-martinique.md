@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sportler in Martinique"
-date: 2026-01-02
+date: 2026-01-02 08:00:00 +0200
 image: https://images.unsplash.com/photo-1666423489426-0c4db69512fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTcG9ydGxlciUyME1hcnRpbmlxdWV8ZW58MHwwfHx8MTc2NzMyNjMxMHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

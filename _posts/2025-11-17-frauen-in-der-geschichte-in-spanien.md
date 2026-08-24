@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frauen in der Geschichte in Spanien"
-date: 2025-11-17
+date: 2025-11-17 08:00:00 +0200
 image: https://images.unsplash.com/photo-1546979501-bb706ea8475e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGcmF1ZW4lMjBpbiUyMGRlciUyMEdlc2NoaWNodGUlMjBTcGFuaWVufGVufDB8MHx8fDE3NjMzNTA5Njh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

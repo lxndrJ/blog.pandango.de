@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saisonale Küche in Brunei"
-date: 2025-11-28
+date: 2025-11-28 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/a4/80-G-331265_Brunei%2C_Borneo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophen in Guam"
-date: 2026-01-20
+date: 2026-01-20 08:00:00 +0200
 image: https://images.unsplash.com/photo-1632840820487-a827c16fb95a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEd1YW18ZW58MHwwfHx8MTc2ODg4MTcwOHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

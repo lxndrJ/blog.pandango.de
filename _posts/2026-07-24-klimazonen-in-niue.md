@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Klimazonen in Niue"
-date: 2026-07-24
+date: 2026-07-24 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/1/17/Niue_Constitution_Day_-_50th_Anniversary%2C_Niue%2C_19_October_2024-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

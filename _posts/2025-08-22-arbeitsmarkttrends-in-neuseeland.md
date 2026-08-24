@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arbeitsmarkttrends in Neuseeland"
-date: 2025-08-22
+date: 2025-08-22 08:00:00 +0200
 image: https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8am9ic3xlbnwwfDB8fHwxNzg3NTMwMTM0fDA&ixlib=rb-4.1.0
 ---
 

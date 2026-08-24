@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrialisierung in Mosambik"
-date: 2025-09-17
+date: 2025-09-17 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/5/5c/Administrative_divisions_of_Mozambique_English.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

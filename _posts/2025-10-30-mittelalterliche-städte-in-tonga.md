@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mittelalterliche Städte in Tonga"
-date: 2025-10-30
+date: 2025-10-30 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/d/d8/Anchorage_%5E8%2C_Kapa%2C_Vava%27u%2C_Kingdom_of_Tonga_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

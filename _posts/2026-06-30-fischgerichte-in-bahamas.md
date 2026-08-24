@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fischgerichte in Bahamas"
-date: 2026-06-30
+date: 2026-06-30 08:00:00 +0200
 image: https://images.unsplash.com/photo-1523659945955-fe95eb9bc70b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGaXNjaGdlcmljaHRlJTIwQmFoYW1hc3xlbnwwfDB8fHwxNzgyODAxNzY3fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

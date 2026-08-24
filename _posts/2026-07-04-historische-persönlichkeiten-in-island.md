@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Historische Persönlichkeiten in Island"
-date: 2026-07-04
+date: 2026-07-04 08:00:00 +0200
 image: https://images.unsplash.com/photo-1502085671122-2d218cd434e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIaXN0b3Jpc2NoZSUyMFBlcnMlQzMlQjZubGljaGtlaXRlbiUyMElzbGFuZHxlbnwwfDB8fHwxNzgzMTQ1MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

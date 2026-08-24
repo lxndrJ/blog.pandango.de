@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Grönland"
-date: 2026-04-23
+date: 2026-04-23 08:00:00 +0200
 image: https://images.unsplash.com/photo-1704253511580-b6056cd71c70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZXZvbHV0aW9uZW4lMjBHciVDMyVCNm5sYW5kfGVufDB8MHx8fDE3NzY5MjE2MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

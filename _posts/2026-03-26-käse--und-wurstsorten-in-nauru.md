@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Käse- und Wurstsorten in Nauru"
-date: 2026-03-26
+date: 2026-03-26 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

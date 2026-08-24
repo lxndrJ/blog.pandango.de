@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gebirge und Wanderwege in Malaysia"
-date: 2026-06-02
+date: 2026-06-02 08:00:00 +0200
 image: https://images.unsplash.com/flagged/photo-1560505455-11cee7a131b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyME1hbGF5c2lhfGVufDB8MHx8fDE3ODAzODQ0NzR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

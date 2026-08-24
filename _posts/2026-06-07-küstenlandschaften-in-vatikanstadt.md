@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Küstenlandschaften in Vatikanstadt"
-date: 2026-06-07
+date: 2026-06-07 08:00:00 +0200
 image: https://images.unsplash.com/photo-1549028489-32b43c88e2fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUJDc3RlbmxhbmRzY2hhZnRlbiUyMFZhdGlrYW5zdGFkdHxlbnwwfDB8fHwxNzgwODE1MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

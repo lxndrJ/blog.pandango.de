@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Usbekistan"
-date: 2026-03-27
+date: 2026-03-27 08:00:00 +0200
 image: https://images.unsplash.com/photo-1705077016068-0613769219a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZXZvbHV0aW9uZW4lMjBVc2Jla2lzdGFufGVufDB8MHx8fDE3NzQ1ODc2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

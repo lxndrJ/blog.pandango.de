@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frauen in der Geschichte in Palau"
-date: 2025-10-11
+date: 2025-10-11 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/af/Palau%2C_panorama_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

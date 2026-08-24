@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrialisierung in Österreich"
-date: 2025-12-06
+date: 2025-12-06 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/f/f6/Sgraffito_primary_School_Stetten%2C_Lower_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nachhaltige Unternehmen in Aserbaidschan"
-date: 2025-11-13
+date: 2025-11-13 08:00:00 +0200
 image: https://images.unsplash.com/photo-1695902127509-5283dc9950fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZSUyMFVudGVybmVobWVuJTIwQXNlcmJhaWRzY2hhbnxlbnwwfDB8fHwxNzYzMDA1MjU4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gebirge und Wanderwege in Portugal"
-date: 2026-04-19
+date: 2026-04-19 08:00:00 +0200
 image: https://images.unsplash.com/photo-1552312255-f66b42b41ae9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyMFBvcnR1Z2FsfGVufDB8MHx8fDE3NzY1NzU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

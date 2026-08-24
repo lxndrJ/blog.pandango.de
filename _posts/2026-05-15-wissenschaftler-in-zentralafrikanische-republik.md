@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wissenschaftler in Zentralafrikanische Republik"
-date: 2026-05-15
+date: 2026-05-15 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Wissenschaftler in Zentralafrikanische Republik](https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

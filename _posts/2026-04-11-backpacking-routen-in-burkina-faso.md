@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Backpacking-Routen in Burkina Faso"
-date: 2026-04-11
+date: 2026-04-11 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Burkina_Faso-Niger_border.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Backpacking-Routen in Burkina Faso](https://upload.wikimedia.org/wikipedia/commons/8/8e/Burkina_Faso-Niger_border.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Burkina Faso zu Fuß: Die Magie des westafrikanischen Backpackings

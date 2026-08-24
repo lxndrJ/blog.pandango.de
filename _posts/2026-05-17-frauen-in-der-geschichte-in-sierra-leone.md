@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frauen in der Geschichte in Sierra Leone"
-date: 2026-05-17
+date: 2026-05-17 08:00:00 +0200
 image: https://images.unsplash.com/photo-1534470717-233b39a41c54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGcmF1ZW4lMjBpbiUyMGRlciUyMEdlc2NoaWNodGUlMjBTaWVycmElMjBMZW9uZXxlbnwwfDB8fHwxNzc4OTk4MjYxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

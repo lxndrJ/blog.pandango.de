@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arbeitsmarkttrends in Aruba"
-date: 2026-04-02
+date: 2026-04-02 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Arbeitsmarkttrends in Aruba](https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

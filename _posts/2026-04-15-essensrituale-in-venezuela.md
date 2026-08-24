@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essensrituale in Venezuela"
-date: 2026-04-15
+date: 2026-04-15 08:00:00 +0200
 image: https://images.unsplash.com/photo-1699123104797-8e4f9cfef1e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFc3NlbnNyaXR1YWxlJTIwVmVuZXp1ZWxhfGVufDB8MHx8fDE3NzYyMzAwNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

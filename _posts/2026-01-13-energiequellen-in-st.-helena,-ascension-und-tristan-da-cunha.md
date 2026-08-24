@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Energiequellen in St. Helena, Ascension und Tristan da Cunha"
-date: 2026-01-13
+date: 2026-01-13 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/b/b1/13-04-13-st-poelten-rathausplatz-704.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Energiequellen in St. Helena, Ascension und Tristan da Cunha](https://upload.wikimedia.org/wikipedia/commons/b/b1/13-04-13-st-poelten-rathausplatz-704.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Energiequellen auf den Inseln am Ende der Welt

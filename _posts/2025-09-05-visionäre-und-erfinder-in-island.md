@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visionäre und Erfinder in Island"
-date: 2025-09-05
+date: 2025-09-05 08:00:00 +0200
 image: https://images.unsplash.com/photo-1659641606400-be54c762195b?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VmlzaW9uJUMzJUE0cmUlMjBFcmZpbmRlciUyMElzbGFuZHxlbnwwfDB8fHwxNzg3NTMwMTk2fDA&ixlib=rb-4.1.0
 ---
 

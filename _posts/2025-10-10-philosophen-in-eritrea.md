@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophen in Eritrea"
-date: 2025-10-10
+date: 2025-10-10 08:00:00 +0200
 image: https://images.unsplash.com/photo-1635188499893-8d1e64742ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEVyaXRyZWF8ZW58MHwwfHx8MTc2MDA2NjgwNXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

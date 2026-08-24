@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forschungseinrichtungen in Israel"
-date: 2025-09-28
+date: 2025-09-28 08:00:00 +0200
 image: https://images.unsplash.com/photo-1708963058323-56d8c48ca1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGb3JzY2h1bmdzZWlucmljaHR1bmdlbiUyMElzcmFlbHxlbnwwfDB8fHwxNzU5MDMwMzM1fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

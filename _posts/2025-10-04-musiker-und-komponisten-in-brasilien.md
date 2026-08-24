@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musiker und Komponisten in Brasilien"
-date: 2025-10-04
+date: 2025-10-04 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brotvielfalt in Vereinigte Arabische Emirate"
-date: 2025-12-21
+date: 2025-12-21 08:00:00 +0200
 image: https://images.unsplash.com/photo-1702180405069-d66650462040?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCcm90dmllbGZhbHQlMjBWZXJlaW5pZ3RlJTIwQXJhYmlzY2hlJTIwRW1pcmF0ZXxlbnwwfDB8fHwxNzY2Mjg5MzQyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

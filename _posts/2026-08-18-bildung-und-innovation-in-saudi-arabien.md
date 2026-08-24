@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bildung und Innovation in Saudi-Arabien"
-date: 2026-08-18
+date: 2026-08-18 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Bildung und Innovation in Saudi-Arabien](https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

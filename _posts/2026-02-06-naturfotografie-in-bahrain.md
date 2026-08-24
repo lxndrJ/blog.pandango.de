@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naturfotografie in Bahrain"
-date: 2026-02-06
+date: 2026-02-06 08:00:00 +0200
 image: https://images.unsplash.com/photo-1716740974959-c733e57536b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYXR1cmZvdG9ncmFmaWUlMjBCYWhyYWlufGVufDB8MHx8fDE3NzAzNTIyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bildung und Innovation in Saint-Barthélemy"
-date: 2026-05-11
+date: 2026-05-11 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/2020-01-24_01_STAR_FLYER_-_IMO_8915433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Bildung und Innovation in Saint-Barthélemy](https://upload.wikimedia.org/wikipedia/commons/8/87/2020-01-24_01_STAR_FLYER_-_IMO_8915433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

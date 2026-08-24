@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architektur und Baukunst in Nicaragua"
-date: 2026-08-20
+date: 2026-08-20 08:00:00 +0200
 image: https://images.unsplash.com/photo-1584904558330-f9772a6778c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwTmljYXJhZ3VhfGVufDB8MHx8fDE3ODcxOTY5NjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

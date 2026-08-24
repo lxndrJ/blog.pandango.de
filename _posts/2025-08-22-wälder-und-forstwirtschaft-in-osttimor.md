@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wälder und Forstwirtschaft in Osttimor"
-date: 2025-08-22
+date: 2025-08-22 08:00:00 +0200
 image: https://images.unsplash.com/photo-1616683955867-4049d9b78977?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Zm9yZXN0cnklMjBlY29ub215fGVufDB8MHx8fDE3ODc1MzAxNDd8MA&ixlib=rb-4.1.0
 ---
 

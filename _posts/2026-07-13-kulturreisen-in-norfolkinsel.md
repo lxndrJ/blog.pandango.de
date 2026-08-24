@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kulturreisen in Norfolkinsel"
-date: 2026-07-13
+date: 2026-07-13 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/f/f1/Bounty_Folk_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Kulturreisen in Norfolkinsel](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bounty_Folk_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
