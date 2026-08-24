@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infrastrukturprojekte in Kongo"
-date: 2026-02-03
+date: 2026-02-03 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

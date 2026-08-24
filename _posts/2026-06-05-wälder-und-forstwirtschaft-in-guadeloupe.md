@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wälder und Forstwirtschaft in Guadeloupe"
-date: 2026-06-05
+date: 2026-06-05 08:00:00 +0200
 image: https://images.unsplash.com/photo-1734184563614-0955668f583a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXJUMzJUE0bGRlciUyMHVuZCUyMEZvcnN0d2lydHNjaGFmdCUyMEd1YWRlbG91cGV8ZW58MHwwfHx8MTc4MDY0MjU1OHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

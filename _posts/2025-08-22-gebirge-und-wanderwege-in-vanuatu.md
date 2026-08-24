@@ -2,7 +2,7 @@
 ------
 layout: post
 title: "Gebirge und Wanderwege in Vanuatu"
-date: 2025-08-22
+date: 2025-08-22 09:00:00 +0200
 image: https://images.unsplash.com/photo-1602587557684-11163fe60c87?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VmFudWF0dXxlbnwwfDB8fHwxNzg3NTMwMTM4fDA&ixlib=rb-4.1.0
 
 ![Wanderwege und Naturerlebnisse](https://images.unsplash.com/photo-1592859600972-1b0834d83747?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwdHJhaWwlMjBuYXR1cmV8ZW58MHwwfHx8MTc4NzUzMDEzOXww&ixlib=rb-4.1.0)

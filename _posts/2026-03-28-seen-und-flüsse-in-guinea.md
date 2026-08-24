@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seen und Flüsse in Guinea"
-date: 2026-03-28
+date: 2026-03-28 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/5/50/Paint_Dish%2C_Papua_New_Guinea%2C_Br%C3%BCcke_Museum_Berlin%2C_65022%2C_view_a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

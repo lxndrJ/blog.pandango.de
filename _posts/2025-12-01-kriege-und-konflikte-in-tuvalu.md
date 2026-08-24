@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Kriege und Konflikte in Tuvalu"
-date: 2025-12-01
+date: 2025-12-01 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/Cover_Gilbert_Ellice_Islands_1949_UPU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

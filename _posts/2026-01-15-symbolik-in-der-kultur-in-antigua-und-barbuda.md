@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Symbolik in der Kultur in Antigua und Barbuda"
-date: 2026-01-15
+date: 2026-01-15 08:00:00 +0100
 image: https://images.unsplash.com/photo-1767801829041-f5243a34525d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTeW1ib2xpayUyMGluJTIwZGVyJTIwS3VsdHVyJTIwQW50aWd1YSUyMHVuZCUyMEJhcmJ1ZGF8ZW58MHwwfHx8MTc2ODQ0OTU3NXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

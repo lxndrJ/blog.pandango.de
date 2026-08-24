@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musiker und Komponisten in Färöer-Inseln"
-date: 2026-01-24
+date: 2026-01-24 08:00:00 +0100
 image: https://images.unsplash.com/photo-1699556584273-c5dfea8ddde9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNdXNpa2VyJTIwdW5kJTIwS29tcG9uaXN0ZW4lMjBGJUMzJUE0ciVDMyVCNmVyLUluc2VsbnxlbnwwfDB8fHwxNzY5MjI2ODYzfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

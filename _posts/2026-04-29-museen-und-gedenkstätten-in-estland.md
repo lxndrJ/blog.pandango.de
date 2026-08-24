@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museen und Gedenkstätten in Estland"
-date: 2026-04-29
+date: 2026-04-29 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/f/f1/Calle_Viru%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

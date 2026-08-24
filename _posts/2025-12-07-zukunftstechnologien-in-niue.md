@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zukunftstechnologien in Niue"
-date: 2025-12-07
+date: 2025-12-07 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/1/17/Niue_Constitution_Day_-_50th_Anniversary%2C_Niue%2C_19_October_2024-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Zukunftstechnologien in Niue](https://upload.wikimedia.org/wikipedia/commons/1/17/Niue_Constitution_Day_-_50th_Anniversary%2C_Niue%2C_19_October_2024-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

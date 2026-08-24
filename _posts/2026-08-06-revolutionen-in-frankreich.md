@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revolutionen in Frankreich"
-date: 2026-08-06
+date: 2026-08-06 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/11-french_revolution_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

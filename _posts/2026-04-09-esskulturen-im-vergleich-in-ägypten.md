@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Esskulturen im Vergleich in Ägypten"
-date: 2026-04-09
+date: 2026-04-09 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

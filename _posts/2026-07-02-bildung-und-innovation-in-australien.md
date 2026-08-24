@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bildung und Innovation in Australien"
-date: 2026-07-02
+date: 2026-07-02 08:00:00 +0200
 image: https://images.unsplash.com/photo-1724018305000-616597f21304?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCaWxkdW5nJTIwdW5kJTIwSW5ub3ZhdGlvbiUyMEF1c3RyYWxpZW58ZW58MHwwfHx8MTc4Mjk3MzY2MXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

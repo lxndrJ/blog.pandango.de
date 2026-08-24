@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Historische Persönlichkeiten in Komoren"
-date: 2025-11-07
+date: 2025-11-07 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/1/16/Archipel_des_Comores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

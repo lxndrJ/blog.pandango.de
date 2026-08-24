@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unternehmer in Suriname"
-date: 2025-08-27
+date: 2025-08-27 08:00:00 +0200
 image: https://images.unsplash.com/photo-1773249815795-99431b00b1c7?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VW50ZXJuZWhtZXIlMjBTdXJpbmFtZXxlbnwwfDB8fHwxNzg3NTMwMTY5fDA&ixlib=rb-4.1.0
 ---
 

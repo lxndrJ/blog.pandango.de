@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wissenschaftler in Finnland"
-date: 2025-12-04
+date: 2025-12-04 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Toby_Jug_Nebula_as_seen_with_ESO%27s_Very_Large_Telescope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

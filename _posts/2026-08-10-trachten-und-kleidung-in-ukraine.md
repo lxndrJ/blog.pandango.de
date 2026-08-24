@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trachten und Kleidung in Ukraine"
-date: 2026-08-10
+date: 2026-08-10 08:00:00 +0200
 image: https://images.unsplash.com/photo-1655678204995-0e1eb3d2fdbc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFjaHRlbiUyMHVuZCUyMEtsZWlkdW5nJTIwVWtyYWluZXxlbnwwfDB8fHwxNzg2MzM1NjA1fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

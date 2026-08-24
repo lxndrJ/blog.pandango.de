@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philosophen in Slowakei"
-date: 2026-04-25
+date: 2026-04-25 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/7/72/000_Sllovakia_harta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

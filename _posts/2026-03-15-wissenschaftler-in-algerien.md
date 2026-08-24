@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wissenschaftler in Algerien"
-date: 2026-03-15
+date: 2026-03-15 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Wissenschaftler in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

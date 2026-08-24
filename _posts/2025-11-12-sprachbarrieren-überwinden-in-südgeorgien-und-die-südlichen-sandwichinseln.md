@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sprachbarrieren überwinden in Südgeorgien und die Südlichen Sandwichinseln"
-date: 2025-11-12
+date: 2025-11-12 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

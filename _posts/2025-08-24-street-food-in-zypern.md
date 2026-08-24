@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Street Food in Zypern"
-date: 2025-08-24
+date: 2025-08-24 08:00:00 +0200
 image: https://images.unsplash.com/photo-1552912470-ee2e96439539?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwZm9vZHxlbnwwfDB8fHwxNzg3NTMwMTYwfDA&ixlib=rb-4.1.0
 ---
 

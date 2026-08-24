@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Süßspeisen und Backtraditionen in St. Vincent und die Grenadinen"
-date: 2025-12-26
+date: 2025-12-26 08:00:00 +0100
 image: https://images.unsplash.com/photo-1720415247385-a8b038c708ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTJUMzJUJDJUMzJTlGc3BlaXNlbiUyMHVuZCUyMEJhY2t0cmFkaXRpb25lbiUyMFN0LiUyMFZpbmNlbnQlMjB1bmQlMjBkaWUlMjBHcmVuYWRpbmVufGVufDB8MHx8fDE3NjY3MjExNTF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

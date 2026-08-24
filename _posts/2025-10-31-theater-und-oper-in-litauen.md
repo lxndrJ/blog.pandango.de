@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Theater und Oper in Litauen"
-date: 2025-10-31
+date: 2025-10-31 08:00:00 +0100
 image: https://images.unsplash.com/photo-1665318092148-50a7952c5ee1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUaGVhdGVyJTIwdW5kJTIwT3BlciUyMExpdGF1ZW58ZW58MHwwfHx8MTc2MTg4MTg4NHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

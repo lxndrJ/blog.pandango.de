@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Süßspeisen und Backtraditionen in Katar"
-date: 2026-01-09
+date: 2026-01-09 08:00:00 +0100
 image: https://images.unsplash.com/photo-1646578515903-67873a5398f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTJUMzJUJDJUMzJTlGc3BlaXNlbiUyMHVuZCUyMEJhY2t0cmFkaXRpb25lbiUyMEthdGFyfGVufDB8MHx8fDE3Njc5MzEwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

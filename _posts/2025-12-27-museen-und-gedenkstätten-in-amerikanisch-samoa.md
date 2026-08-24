@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museen und Gedenkstätten in Amerikanisch-Samoa"
-date: 2025-12-27
+date: 2025-12-27 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/a/a9/Beach_on_Upolu_Island%2C_Samoa%2C_2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

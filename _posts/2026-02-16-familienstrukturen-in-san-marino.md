@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Familienstrukturen in San Marino"
-date: 2026-02-16
+date: 2026-02-16 08:00:00 +0100
 image: https://images.unsplash.com/photo-1679112600374-0ac944dabba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBTYW4lMjBNYXJpbm98ZW58MHwwfHx8MTc3MTIxNzUyM3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

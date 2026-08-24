@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Technologische Entwicklungen in Liechtenstein"
-date: 2026-04-30
+date: 2026-04-30 08:00:00 +0200
 image: https://images.unsplash.com/photo-1583685186268-d8ac789e1603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUZWNobm9sb2dpc2NoZSUyMEVudHdpY2tsdW5nZW4lMjBMaWVjaHRlbnN0ZWlufGVufDB8MHx8fDE3Nzc1MjgwNjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

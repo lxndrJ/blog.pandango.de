@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fünf Dinge, die mir in Schweden (Götaland) niemand vorher gesagt hat"
-date: 2026-08-21
+date: 2026-08-21 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/5/52/Brakelund_Burial_Ground_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 author: lxndrJ
 ai_assisted: true

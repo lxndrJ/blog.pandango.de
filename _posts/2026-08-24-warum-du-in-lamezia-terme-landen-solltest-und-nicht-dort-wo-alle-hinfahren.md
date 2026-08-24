@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warum du in Lamezia Terme landen solltest – und nicht dort, wo alle hinfahren"
-date: 2026-08-24
+date: 2026-08-24 10:00:00 +0200
 author: lxndrJ
 ai_assisted: true
 sources:

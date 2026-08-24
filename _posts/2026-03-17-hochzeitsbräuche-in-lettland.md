@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hochzeitsbräuche in Lettland"
-date: 2026-03-17
+date: 2026-03-17 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/8/8c/House_of_Blackheads_and_St._Peter%27s_Church_Tower%2C_Riga%2C_Latvia_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Hochzeitsbräuche in Lettland](https://upload.wikimedia.org/wikipedia/commons/8/8c/House_of_Blackheads_and_St._Peter%27s_Church_Tower%2C_Riga%2C_Latvia_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

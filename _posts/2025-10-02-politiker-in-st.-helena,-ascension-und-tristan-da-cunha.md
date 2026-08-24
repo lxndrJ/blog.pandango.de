@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Politiker in St. Helena, Ascension und Tristan da Cunha"
-date: 2025-10-02
+date: 2025-10-02 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/e/e3/Foreign_Secretary_Yvette_Cooper_Hosts_Leaders_and_Ministers_of_Overseas_Territories_at_the_Joint_Ministerial_Council_2025_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

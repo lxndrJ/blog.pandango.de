@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Symbolik in der Kultur in Guinea-Bissau"
-date: 2026-05-04
+date: 2026-05-04 08:00:00 +0200
 image: https://images.unsplash.com/photo-1708513428322-1f56b3d1f3bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTeW1ib2xpayUyMGluJTIwZGVyJTIwS3VsdHVyJTIwR3VpbmVhLUJpc3NhdXxlbnwwfDB8fHwxNzc3ODczOTkzfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

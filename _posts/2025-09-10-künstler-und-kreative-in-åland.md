@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Künstler und Kreative in Åland"
-date: 2025-09-10
+date: 2025-09-10 08:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/2/24/Aaland_Archipelago%2C_Finland_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

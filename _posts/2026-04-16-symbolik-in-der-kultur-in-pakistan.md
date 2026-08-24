@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Symbolik in der Kultur in Pakistan"
-date: 2026-04-16
+date: 2026-04-16 08:00:00 +0200
 image: https://images.unsplash.com/photo-1653136776900-9e375fd81ce4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTeW1ib2xpayUyMGluJTIwZGVyJTIwS3VsdHVyJTIwUGFraXN0YW58ZW58MHwwfHx8MTc3NjMxNjg4N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

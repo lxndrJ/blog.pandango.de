@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tanzformen in Kosovo"
-date: 2025-10-15
+date: 2025-10-15 08:00:00 +0200
 image: https://images.unsplash.com/photo-1667386426758-1036cf655323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwS29zb3ZvfGVufDB8MHx8fDE3NjA0OTkwNjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

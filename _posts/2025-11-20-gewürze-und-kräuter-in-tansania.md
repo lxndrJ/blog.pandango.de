@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gewürze und Kräuter in Tansania"
-date: 2025-11-20
+date: 2025-11-20 08:00:00 +0100
 image: https://images.unsplash.com/photo-1580684828750-34199f28ef2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXclQzMlQkNyemUlMjB1bmQlMjBLciVDMyVBNHV0ZXIlMjBUYW5zYW5pYXxlbnwwfDB8fHwxNzYzNjA5ODQyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Handwerkskunst in Israel"
-date: 2025-09-16
+date: 2025-09-16 08:00:00 +0200
 image: https://images.unsplash.com/photo-1641293498376-139cfe50ff67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIYW5kd2Vya3NrdW5zdCUyMElzcmFlbHxlbnwwfDB8fHwxNzU3OTkyOTM2fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

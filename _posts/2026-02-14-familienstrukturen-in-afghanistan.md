@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Familienstrukturen in Afghanistan"
-date: 2026-02-14
+date: 2026-02-14 08:00:00 +0100
 image: https://images.unsplash.com/photo-1602048532658-14af055db84a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBBZmdoYW5pc3RhbnxlbnwwfDB8fHwxNzcxMDQzMTYxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

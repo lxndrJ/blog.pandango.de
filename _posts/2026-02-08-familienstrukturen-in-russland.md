@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Familienstrukturen in Russland"
-date: 2026-02-08
+date: 2026-02-08 08:00:00 +0100
 image: https://images.unsplash.com/photo-1603691539562-cf2b672203a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBSdXNzbGFuZHxlbnwwfDB8fHwxNzcwNTI2NTU2fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

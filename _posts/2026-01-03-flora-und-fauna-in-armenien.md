@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flora und Fauna in Armenien"
-date: 2026-01-03
+date: 2026-01-03 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/4/4b/Armenia_nature_encyclopedia.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

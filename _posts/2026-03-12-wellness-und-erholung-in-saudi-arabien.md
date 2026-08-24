@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wellness und Erholung in Saudi-Arabien"
-date: 2026-03-12
+date: 2026-03-12 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Wellness und Erholung in Saudi-Arabien](https://upload.wikimedia.org/wikipedia/commons/0/0b/Saudi_Hawks90.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

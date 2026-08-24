@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geologische Besonderheiten in Guernsey"
-date: 2026-01-01
+date: 2026-01-01 08:00:00 +0100
 image: https://images.unsplash.com/photo-1500409008540-5dcacde1c32b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZW9sb2dpc2NoZSUyMEJlc29uZGVyaGVpdGVuJTIwR3Vlcm5zZXl8ZW58MHwwfHx8MTc2NzI0MDMyN3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

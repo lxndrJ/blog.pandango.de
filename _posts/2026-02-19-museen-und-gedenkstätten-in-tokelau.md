@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Museen und Gedenkstätten in Tokelau"
-date: 2026-02-19
+date: 2026-02-19 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Cricket%2C_Tokelau_Islands%2C_1966_%2817501454372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---![Museen und Gedenkstätten in Tokelau](https://upload.wikimedia.org/wikipedia/commons/f/fe/Cricket%2C_Tokelau_Islands%2C_1966_%2817501454372%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 

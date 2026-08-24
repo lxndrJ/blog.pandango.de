@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Naturphänomene in Montserrat"
-date: 2026-05-28
+date: 2026-05-28 08:00:00 +0200
 image: https://images.unsplash.com/photo-1571037288111-a4d130100fd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYXR1cnBoJUMzJUE0bm9tZW5lJTIwTW9udHNlcnJhdHxlbnwwfDB8fHwxNzc5OTUwNDgxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

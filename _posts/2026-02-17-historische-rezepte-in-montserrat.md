@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Historische Rezepte in Montserrat"
-date: 2026-02-17
+date: 2026-02-17 08:00:00 +0100
 image: https://images.unsplash.com/photo-1661030190122-4d8e07279224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIaXN0b3Jpc2NoZSUyMFJlemVwdGUlMjBNb250c2VycmF0fGVufDB8MHx8fDE3NzEzMDM1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

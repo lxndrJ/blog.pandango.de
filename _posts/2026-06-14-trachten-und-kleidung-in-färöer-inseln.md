@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trachten und Kleidung in Färöer-Inseln"
-date: 2026-06-14
+date: 2026-06-14 08:00:00 +0200
 image: https://images.unsplash.com/photo-1701943514440-51dd0106eaa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFjaHRlbiUyMHVuZCUyMEtsZWlkdW5nJTIwRiVDMyVBNHIlQzMlQjZlci1JbnNlbG58ZW58MHwwfHx8MTc4MTQyMTIwMnww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

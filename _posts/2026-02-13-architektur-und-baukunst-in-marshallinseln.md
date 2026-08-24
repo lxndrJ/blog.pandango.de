@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Architektur und Baukunst in Marshallinseln"
-date: 2026-02-13
+date: 2026-02-13 08:00:00 +0100
 image: https://upload.wikimedia.org/wikipedia/commons/0/04/City_Hall%2C_Marshall%2C_Arkansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

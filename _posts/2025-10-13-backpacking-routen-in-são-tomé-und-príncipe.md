@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Backpacking-Routen in São Tomé und Príncipe"
-date: 2025-10-13
+date: 2025-10-13 08:00:00 +0200
 image: https://images.unsplash.com/photo-1720086301569-fa46beee99e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCYWNrcGFja2luZy1Sb3V0ZW4lMjBTJUMzJUEzbyUyMFRvbSVDMyVBOSUyMHVuZCUyMFByJUMzJUFEbmNpcGV8ZW58MHwwfHx8MTc2MDMyNjU4N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
