@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transportmittel im Vergleich in Kongo (Dem. Rep.)"
-date: 2025-08-23 08:00:00 +0200
+date: 2025-08-23 01:00:00 +0200
 image: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

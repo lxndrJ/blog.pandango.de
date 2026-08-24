@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geheimtipps für Städtereisen in Montserrat"
-date: 2025-08-22 08:00:00 +0200
+date: 2025-08-22 03:00:00 +0200
 image: https://images.unsplash.com/photo-1584467541268-b040f83be3fd?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMHRyaXAlMjBoaWRkZW4lMjBnZW1zfGVufDB8MHx8fDE3ODc1MzAxNDF8MA&ixlib=rb-4.1.0
 ---
 

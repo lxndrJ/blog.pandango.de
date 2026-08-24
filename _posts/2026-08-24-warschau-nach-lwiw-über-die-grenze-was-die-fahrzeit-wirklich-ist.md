@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Warschau nach Lwiw über die Grenze – Was die Fahrzeit wirklich ist"
-date: 2026-08-24 08:00:00 +0200
+date: 2026-08-24 02:00:00 +0200
 author: lxndrJ
 ai_assisted: true
 sources:
