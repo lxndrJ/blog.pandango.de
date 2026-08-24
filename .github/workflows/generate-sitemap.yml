@@ -175,5 +175,7 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-generate sitemap.xml and robots.txt"
-            git push
+            # Pull latest changes before pushing to avoid conflicts
+            git pull --rebase origin main
+            git push origin main
           fi
