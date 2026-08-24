@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '_posts/**'
+      - '.github/workflows/generate-sitemap.yml'
 
 jobs:
   generate-sitemap:
@@ -13,7 +16,7 @@ jobs:
       
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
         
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -55,7 +58,7 @@ jobs:
           # Process all markdown files in _posts
           posts_dir = "_posts"
           if Dir.exist?(posts_dir)
-            Dir.glob("#{posts_dir}/*.md").each do |post_file|
+            Dir.glob("#{posts_dir}/*.md").sort.each do |post_file|
               begin
                 content = File.read(post_file)
                 
@@ -64,7 +67,7 @@ jobs:
                   front_matter = $1
                   
                   # Extract title and date manually
-                  title_match = front_matter.match(/^title:\s*["']?(.*?)["']?\s*$/m)
+                  title_match = front_matter.match(/^title:\s*[\"']?(.*?)[\"']?\s*$/m)
                   date_match = front_matter.match(/^date:\s*(\d{4}-\d{2}-\d{2})\s*$/m)
                   
                   title = title_match ? title_match[1] : File.basename(post_file, '.md')
@@ -79,10 +82,11 @@ jobs:
                   
                   # Generate URL based on Jekyll default permalink structure
                   filename = File.basename(post_file, '.md')
-                  if filename.match(/(\d{4}-\d{2}-\d{2})-(.*?)$/)
-                    post_date = $1
-                    post_slug = $2
-                    year, month, day = post_date.split('-')
+                  if filename.match(/(\d{4})-(\d{2})-(\d{2})-(.*?)$/)
+                    year = $1
+                    month = $2
+                    day = $3
+                    post_slug = $4
                     post_url = "#{base_url}/#{year}/#{month}/#{day}/#{post_slug}.html"
                   else
                     # Fallback for files that don't follow date format
@@ -146,6 +150,7 @@ jobs:
           robots_content = <<~ROBOTS
             User-agent: *
             Allow: /
+            Disallow: /admin/
             
             Sitemap: #{base_url}/sitemap.xml
           ROBOTS
