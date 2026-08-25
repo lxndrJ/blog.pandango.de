@@ -2,6 +2,7 @@
 layout: post
 title: "Getränke und Braukunst in Burundi"
 date: 2026-03-30 08:00:00 +0200
+permalink: /2026/03/30/getränke-und-braukunst-in-burundi.html
 image: https://images.unsplash.com/photo-1710887623063-a023cf8abf4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXRyJUMzJUE0bmtlJTIwdW5kJTIwQnJhdWt1bnN0JTIwQnVydW5kaXxlbnwwfDB8fHwxNzc0ODQ3NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

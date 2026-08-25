@@ -2,6 +2,7 @@
 layout: post
 title: "Wirtschaftspolitik in Luxemburg"
 date: 2026-07-26 08:00:00 +0200
+permalink: /2026/07/26/wirtschaftspolitik-in-luxemburg.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/ee/Birgit_Mahnkopf_-_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

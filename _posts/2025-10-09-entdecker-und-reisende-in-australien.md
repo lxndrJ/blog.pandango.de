@@ -2,6 +2,7 @@
 layout: post
 title: "Entdecker und Reisende in Australien"
 date: 2025-10-09 08:00:00 +0200
+permalink: /2025/10/09/entdecker-und-reisende-in-australien.html
 image: https://images.unsplash.com/photo-1703372930973-3c31a8cf6f18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFbnRkZWNrZXIlMjB1bmQlMjBSZWlzZW5kZSUyMEF1c3RyYWxpZW58ZW58MHwwfHx8MTc1OTk4MDM3N3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

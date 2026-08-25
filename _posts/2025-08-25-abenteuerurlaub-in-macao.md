@@ -2,6 +2,7 @@
 layout: post
 title: "Abenteuerurlaub in Macao"
 date: 2025-08-25 08:00:00 +0200
+permalink: /2025/08/25/abenteuerurlaub-in-macao.html
 image: https://images.unsplash.com/photo-1708580175277-6c171e822f94?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TWFjYW98ZW58MHwwfHx8MTc4NzUzMDE2M3ww&ixlib=rb-4.1.0
 ---
 

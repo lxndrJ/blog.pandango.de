@@ -2,8 +2,11 @@
 layout: post
 title: "Hochzeitsbräuche in Kasachstan"
 date: 2026-06-08 08:00:00 +0200
+permalink: /2026/06/08/hochzeitsbräuche-in-kasachstan.html
 image: https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Hochzeitsbräuche in Kasachstan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+
+![Hochzeitsbräuche in Kasachstan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Hochzeitsbräuche in Kasachstan: Wo Tradition auf Moderne trifft
 

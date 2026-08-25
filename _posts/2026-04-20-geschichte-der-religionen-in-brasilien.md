@@ -2,6 +2,7 @@
 layout: post
 title: "Geschichte der Religionen in Brasilien"
 date: 2026-04-20 08:00:00 +0200
+permalink: /2026/04/20/geschichte-der-religionen-in-brasilien.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

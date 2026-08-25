@@ -2,6 +2,7 @@
 layout: post
 title: "Antike Kulturen in Dominica"
 date: 2026-08-11 08:00:00 +0200
+permalink: /2026/08/11/antike-kulturen-in-dominica.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/1884_2half_red-brown_Dominica_unused_Yv20_SG15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

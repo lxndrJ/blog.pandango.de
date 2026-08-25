@@ -2,6 +2,7 @@
 layout: post
 title: "Musiktraditionen in Äquatorialguinea"
 date: 2026-07-19 08:00:00 +0200
+permalink: /2026/07/19/musiktraditionen-in-äquatorialguinea.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/b5/Equatorialguinea_w1_locator.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 ![Musiktraditionen in Äquatorialguinea](https://upload.wikimedia.org/wikipedia/commons/b/b5/Equatorialguinea_w1_locator.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Die Rhythmen von Äquatorialguinea: Eine musikalische Reise

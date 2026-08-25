@@ -2,6 +2,7 @@
 layout: post
 title: "Kulinarische Reiserouten in Aruba"
 date: 2026-05-18 08:00:00 +0200
+permalink: /2026/05/18/kulinarische-reiserouten-in-aruba.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

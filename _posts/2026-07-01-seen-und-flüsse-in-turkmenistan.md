@@ -2,6 +2,7 @@
 layout: post
 title: "Seen und Flüsse in Turkmenistan"
 date: 2026-07-01 08:00:00 +0200
+permalink: /2026/07/01/seen-und-flüsse-in-turkmenistan.html
 image: https://images.unsplash.com/photo-1551668117-9fb91ab2aae6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTZWVuJTIwdW5kJTIwRmwlQzMlQkNzc2UlMjBUdXJrbWVuaXN0YW58ZW58MHwwfHx8MTc4Mjg4OTI1Nnww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

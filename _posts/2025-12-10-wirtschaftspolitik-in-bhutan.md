@@ -2,6 +2,7 @@
 layout: post
 title: "Wirtschaftspolitik in Bhutan"
 date: 2025-12-10 08:00:00 +0100
+permalink: /2025/12/10/wirtschaftspolitik-in-bhutan.html
 image: https://images.unsplash.com/photo-1743402063893-14a89612b4ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXaXJ0c2NoYWZ0c3BvbGl0aWslMjBCaHV0YW58ZW58MHwwfHx8MTc2NTMzODYxMHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

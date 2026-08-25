@@ -2,6 +2,7 @@
 layout: post
 title: "Saisonale Küche in Vereinigte Arabische Emirate"
 date: 2026-04-04 08:00:00 +0200
+permalink: /2026/04/04/saisonale-küche-in-vereinigte-arabische-emirate.html
 image: https://images.unsplash.com/photo-1700840477291-b1929c834254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTYWlzb25hbGUlMjBLJUMzJUJDY2hlJTIwVmVyZWluaWd0ZSUyMEFyYWJpc2NoZSUyMEVtaXJhdGV8ZW58MHwwfHx8MTc3NTI3NzgxN3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Das Wort "Cacco" – Warum eine römische Kirche nach einem Affen heißt"
 date: 2026-08-25 14:55:06 +0200
+permalink: /2026/08/25/das-wort-cacco-warum-eine-römische-kirche-nach-einem-affen-heißt.html
 author: lxndrJ
 ai_assisted: true
 sources:

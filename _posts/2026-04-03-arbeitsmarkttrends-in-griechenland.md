@@ -2,6 +2,7 @@
 layout: post
 title: "Arbeitsmarkttrends in Griechenland"
 date: 2026-04-03 08:00:00 +0200
+permalink: /2026/04/03/arbeitsmarkttrends-in-griechenland.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

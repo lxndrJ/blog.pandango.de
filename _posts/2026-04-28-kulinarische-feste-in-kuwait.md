@@ -2,6 +2,7 @@
 layout: post
 title: "Kulinarische Feste in Kuwait"
 date: 2026-04-28 08:00:00 +0200
+permalink: /2026/04/28/kulinarische-feste-in-kuwait.html
 image: https://images.unsplash.com/photo-1765743618149-fe382d719d75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBGZXN0ZSUyMEt1d2FpdHxlbnwwfDB8fHwxNzc3MzU1Mjk5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

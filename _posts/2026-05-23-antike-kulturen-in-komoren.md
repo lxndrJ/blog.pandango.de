@@ -2,6 +2,7 @@
 layout: post
 title: "Antike Kulturen in Komoren"
 date: 2026-05-23 08:00:00 +0200
+permalink: /2026/05/23/antike-kulturen-in-komoren.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/16/Archipel_des_Comores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

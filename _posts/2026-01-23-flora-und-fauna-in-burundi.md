@@ -2,6 +2,7 @@
 layout: post
 title: "Flora und Fauna in Burundi"
 date: 2026-01-23 08:00:00 +0100
+permalink: /2026/01/23/flora-und-fauna-in-burundi.html
 image: https://images.unsplash.com/photo-1694365719894-c01c95ebc100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGbG9yYSUyMHVuZCUyMEZhdW5hJTIwQnVydW5kaXxlbnwwfDB8fHwxNzY5MTQwNzk5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

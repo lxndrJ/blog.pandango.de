@@ -2,6 +2,7 @@
 layout: post
 title: "Warum wir über Nordmazedonien fast nur die falschen Dinge wissen"
 date: 2026-08-24 11:00:00 +0200
+permalink: /2026/08/24/warum-wir-über-nordmazedonien-fast-nur-die-falschen-dinge-wissen.html
 author: lxndrJ
 ai_assisted: true
 sources:

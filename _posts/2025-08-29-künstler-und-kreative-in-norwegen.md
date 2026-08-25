@@ -2,6 +2,7 @@
 layout: post
 title: "Künstler und Kreative in Norwegen"
 date: 2025-08-29 08:00:00 +0200
+permalink: /2025/08/29/künstler-und-kreative-in-norwegen.html
 image: https://images.unsplash.com/photo-1544085311-11a028465b03?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8SyVDMyVCQ25zdGxlciUyMEtyZWF0aXZlJTIwTm9yd2VnZW58ZW58MHwwfHx8MTc4NzUzMDE3NXww&ixlib=rb-4.1.0
 ---
 

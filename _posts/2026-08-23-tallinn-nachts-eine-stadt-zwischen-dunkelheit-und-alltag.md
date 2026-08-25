@@ -2,6 +2,7 @@
 layout: post
 title: "Tallinn nachts: Eine Stadt zwischen Dunkelheit und Alltag"
 date: 2026-08-23 09:00:00 +0200
+permalink: /2026/08/23/tallinn-nachts-eine-stadt-zwischen-dunkelheit-und-alltag.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 author: lxndrJ
 ai_assisted: true
@@ -16,7 +17,9 @@ sources:
   - https://visitestonia.com/de/aktivitaeten/estlands-wei%C3%9Fe-nachte
   - https://steffistraumzeit.de/fast-24-stunden-in-tallinn-tipps/
   - https://www.laenderdaten.info/Europa/Estland/sonnenuntergang.php
----![Tallinn nachts: Eine Stadt zwischen Dunkelheit und Alltag](https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+
+![Tallinn nachts: Eine Stadt zwischen Dunkelheit und Alltag](https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Tallinn nachts: Eine Stadt zwischen Dunkelheit und Alltag
 

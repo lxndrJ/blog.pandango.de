@@ -2,8 +2,11 @@
 layout: post
 title: "Theater und Oper in Armenien"
 date: 2026-04-26 08:00:00 +0200
+permalink: /2026/04/26/theater-und-oper-in-armenien.html
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/2014_Erywa%C5%84%2C_Ormia%C5%84ski_Akademicki_Teatr_Opery_i_Baletu_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Theater und Oper in Armenien](https://upload.wikimedia.org/wikipedia/commons/8/87/2014_Erywa%C5%84%2C_Ormia%C5%84ski_Akademicki_Teatr_Opery_i_Baletu_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+
+![Theater und Oper in Armenien](https://upload.wikimedia.org/wikipedia/commons/8/87/2014_Erywa%C5%84%2C_Ormia%C5%84ski_Akademicki_Teatr_Opery_i_Baletu_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Magie der Bühne: Theater und Oper in Armenien
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Literaturgeschichte in Kosovo"
 date: 2026-07-11 08:00:00 +0200
+permalink: /2026/07/11/literaturgeschichte-in-kosovo.html
 image: https://images.unsplash.com/photo-1770291841814-0486e0799bbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxMaXRlcmF0dXJnZXNjaGljaHRlJTIwS29zb3ZvfGVufDB8MHx8fDE3ODM3NDc4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

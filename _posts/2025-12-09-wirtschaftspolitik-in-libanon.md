@@ -2,6 +2,7 @@
 layout: post
 title: "Wirtschaftspolitik in Libanon"
 date: 2025-12-09 08:00:00 +0100
+permalink: /2025/12/09/wirtschaftspolitik-in-libanon.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/4b/August_Petermann%2C_Libanon%2C_Kartenentwurf%2C_Forschungsbibliothek_Gotha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

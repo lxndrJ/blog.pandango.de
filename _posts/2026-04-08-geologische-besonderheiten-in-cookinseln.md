@@ -2,8 +2,10 @@
 layout: post
 title: "Geologische Besonderheiten in Cookinseln"
 date: 2026-04-08 08:00:00 +0200
+permalink: /2026/04/08/geologische-besonderheiten-in-cookinseln.html
 image: https://upload.wikimedia.org/wikipedia/commons/3/3c/00_4368_Cookinseln_im_S%C3%BCdpazifik_-_Rarotonga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Geologische Besonderheiten in Cookinseln](https://upload.wikimedia.org/wikipedia/commons/3/3c/00_4368_Cookinseln_im_S%C3%BCdpazifik_-_Rarotonga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Geologische Besonderheiten in Cookinseln](https://upload.wikimedia.org/wikipedia/commons/3/3c/00_4368_Cookinseln_im_S%C3%BCdpazifik_-_Rarotonga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wenn die Erde ihre Geheimnisse offenbart: Die faszinierende Geologie der Cookinseln
 

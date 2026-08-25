@@ -2,8 +2,10 @@
 layout: post
 title: "Politiker in Tunesien"
 date: 2026-05-08 08:00:00 +0200
+permalink: /2026/05/08/politiker-in-tunesien.html
 image: https://upload.wikimedia.org/wikipedia/commons/3/35/AssembleedesRepresentantsduPeupleDec2015_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Politiker in Tunesien](https://upload.wikimedia.org/wikipedia/commons/3/35/AssembleedesRepresentantsduPeupleDec2015_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Politiker in Tunesien](https://upload.wikimedia.org/wikipedia/commons/3/35/AssembleedesRepresentantsduPeupleDec2015_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Gesichter der Veränderung: Tunesiens Politiker und ihre Geschichten
 

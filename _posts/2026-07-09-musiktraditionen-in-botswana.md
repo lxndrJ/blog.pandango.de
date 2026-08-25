@@ -2,6 +2,7 @@
 layout: post
 title: "Musiktraditionen in Botswana"
 date: 2026-07-09 08:00:00 +0200
+permalink: /2026/07/09/musiktraditionen-in-botswana.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipop%C3%B3tamo_%28Hippopotamus_amphibius%29%2C_parque_nacional_de_Chobe%2C_Botsuana%2C_2018-07-28%2C_DD_82.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Wellness und Erholung in Osttimor"
 date: 2025-09-08 08:00:00 +0200
+permalink: /2025/09/08/wellness-und-erholung-in-osttimor.html
 image: https://upload.wikimedia.org/wikipedia/commons/d/df/Knaresborough_Leisure_and_Wellness_Centre_-_geograph.org.uk_-_7910103.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

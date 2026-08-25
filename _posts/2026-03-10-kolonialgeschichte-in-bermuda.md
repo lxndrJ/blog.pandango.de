@@ -2,6 +2,7 @@
 layout: post
 title: "Kolonialgeschichte in Bermuda"
 date: 2026-03-10 08:00:00 +0100
+permalink: /2026/03/10/kolonialgeschichte-in-bermuda.html
 image: https://images.unsplash.com/photo-1752149626417-d99e960a7f8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLb2xvbmlhbGdlc2NoaWNodGUlMjBCZXJtdWRhfGVufDB8MHx8fDE3NzMxMTY3NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

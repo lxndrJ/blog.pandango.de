@@ -2,8 +2,10 @@
 layout: post
 title: "Märchen und Sagen in Saint-Martin"
 date: 2026-06-09 08:00:00 +0200
+permalink: /2026/06/09/märchen-und-sagen-in-saint-martin.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Märchen und Sagen in Saint-Martin](https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Märchen und Sagen in Saint-Martin](https://upload.wikimedia.org/wikipedia/commons/e/e0/All-Saints.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Märchen und Sagen von Saint-Martin: Wo Geschichte und Legende tanzen
 

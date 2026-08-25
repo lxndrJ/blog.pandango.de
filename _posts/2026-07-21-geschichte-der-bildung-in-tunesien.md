@@ -2,8 +2,10 @@
 layout: post
 title: "Geschichte der Bildung in Tunesien"
 date: 2026-07-21 08:00:00 +0200
+permalink: /2026/07/21/geschichte-der-bildung-in-tunesien.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruant_du_Sahara_%28South_of_Tunisia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Geschichte der Bildung in Tunesien](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruant_du_Sahara_%28South_of_Tunisia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Geschichte der Bildung in Tunesien](https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruant_du_Sahara_%28South_of_Tunisia%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die faszinierende Reise der Bildung in Tunesien – Von den Medersas bis zur modernen Universität
 

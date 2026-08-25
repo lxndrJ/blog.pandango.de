@@ -2,6 +2,7 @@
 layout: post
 title: "Geschichte der Religionen in Libanon"
 date: 2026-03-19 08:00:00 +0100
+permalink: /2026/03/19/geschichte-der-religionen-in-libanon.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/4b/August_Petermann%2C_Libanon%2C_Kartenentwurf%2C_Forschungsbibliothek_Gotha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

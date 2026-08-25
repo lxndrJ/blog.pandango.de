@@ -2,6 +2,7 @@
 layout: post
 title: "Architektur und Baukunst in San Marino"
 date: 2026-03-20 08:00:00 +0100
+permalink: /2026/03/20/architektur-und-baukunst-in-san-marino.html
 image: https://images.unsplash.com/photo-1679112600374-0ac944dabba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwU2FuJTIwTWFyaW5vfGVufDB8MHx8fDE3NzM5ODA5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

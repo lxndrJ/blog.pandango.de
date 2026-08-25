@@ -2,6 +2,7 @@
 layout: post
 title: "Theater und Oper in Bolivien"
 date: 2026-07-07 08:00:00 +0200
+permalink: /2026/07/07/theater-und-oper-in-bolivien.html
 image: https://images.unsplash.com/photo-1783254118596-17e5d34eff1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUaGVhdGVyJTIwdW5kJTIwT3BlciUyMEJvbGl2aWVufGVufDB8MHx8fDE3ODM0MDYwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

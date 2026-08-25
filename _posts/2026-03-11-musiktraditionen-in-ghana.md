@@ -2,6 +2,7 @@
 layout: post
 title: "Musiktraditionen in Ghana"
 date: 2026-03-11 08:00:00 +0100
+permalink: /2026/03/11/musiktraditionen-in-ghana.html
 image: https://images.unsplash.com/photo-1660675133560-2fc7a7f787ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNdXNpa3RyYWRpdGlvbmVuJTIwR2hhbmF8ZW58MHwwfHx8MTc3MzIwMzE3M3ww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

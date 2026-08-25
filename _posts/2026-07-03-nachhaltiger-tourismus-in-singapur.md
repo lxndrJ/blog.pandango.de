@@ -2,6 +2,7 @@
 layout: post
 title: "Nachhaltiger Tourismus in Singapur"
 date: 2026-07-03 08:00:00 +0200
+permalink: /2026/07/03/nachhaltiger-tourismus-in-singapur.html
 image: https://images.unsplash.com/photo-1738728057894-0833102134a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBTaW5nYXB1cnxlbnwwfDB8fHwxNzgzMDU5NTQwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

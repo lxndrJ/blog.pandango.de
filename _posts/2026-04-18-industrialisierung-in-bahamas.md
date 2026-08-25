@@ -2,6 +2,7 @@
 layout: post
 title: "Industrialisierung in Bahamas"
 date: 2026-04-18 08:00:00 +0200
+permalink: /2026/04/18/industrialisierung-in-bahamas.html
 image: https://images.unsplash.com/photo-1707730102736-fdb4630e4f55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBCYWhhbWFzfGVufDB8MHx8fDE3NzY0ODgzNjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

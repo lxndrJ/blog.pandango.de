@@ -2,6 +2,7 @@
 layout: post
 title: "Museen und Gedenkstätten in Kuba"
 date: 2026-05-30 08:00:00 +0200
+permalink: /2026/05/30/museen-und-gedenkstätten-in-kuba.html
 image: https://images.unsplash.com/photo-1590778197061-083bf2ded20f?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TXVzZWVuJTIwdW5kJTIwR2VkZW5rc3QlQzMlQTR0dGVuJTIwaW4lMjBLdWJhfGVufDB8MHx8fDE3ODc0MzM1NDR8MA&ixlib=rb-4.1.0
 ---
 ![Museen und Gedenkstätten in Kuba](https://images.unsplash.com/photo-1590778197061-083bf2ded20f?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TXVzZWVuJTIwdW5kJTIwR2VkZW5rc3QlQzMlQTR0dGVuJTIwaW4lMjBLdWJhfGVufDB8MHx8fDE3ODc0MzM1NDR8MA&ixlib=rb-4.1.0)# Kubas Museen: Wo Geschichte lebendig wird

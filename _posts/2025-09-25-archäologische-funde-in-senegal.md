@@ -2,6 +2,7 @@
 layout: post
 title: "Archäologische Funde in Senegal"
 date: 2025-09-25 08:00:00 +0200
+permalink: /2025/09/25/archäologische-funde-in-senegal.html
 image: https://images.unsplash.com/photo-1664869047270-0475ab6a73f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoJUMzJUE0b2xvZ2lzY2hlJTIwRnVuZGUlMjBTZW5lZ2FsfGVufDB8MHx8fDE3NTg3NzA4MzR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

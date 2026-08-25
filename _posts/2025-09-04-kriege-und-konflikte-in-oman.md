@@ -2,6 +2,7 @@
 layout: post
 title: "Kriege und Konflikte in Oman"
 date: 2025-09-04 08:00:00 +0200
+permalink: /2025/09/04/kriege-und-konflikte-in-oman.html
 image: https://images.unsplash.com/photo-1772299399188-0139d5740004?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y29uZmxpY3QlMjB3YXJ8ZW58MHwwfHx8MTc4NzUzMDE5Mnww&ixlib=rb-4.1.0
 ---
 

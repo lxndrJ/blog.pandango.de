@@ -2,6 +2,7 @@
 layout: post
 title: "Politiker in Dominikanische Republik"
 date: 2026-05-19 08:00:00 +0200
+permalink: /2026/05/19/politiker-in-dominikanische-republik.html
 image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Eladio_Perez.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

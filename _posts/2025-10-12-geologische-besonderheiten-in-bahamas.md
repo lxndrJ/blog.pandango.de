@@ -2,6 +2,7 @@
 layout: post
 title: "Geologische Besonderheiten in Bahamas"
 date: 2025-10-12 08:00:00 +0200
+permalink: /2025/10/12/geologische-besonderheiten-in-bahamas.html
 image: https://images.unsplash.com/photo-1747809565642-eeed563186cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZW9sb2dpc2NoZSUyMEJlc29uZGVyaGVpdGVuJTIwQmFoYW1hc3xlbnwwfDB8fHwxNzYwMjM5NjYyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Regionale Gerichte in Salomonen"
 date: 2026-05-05 08:00:00 +0200
+permalink: /2026/05/05/regionale-gerichte-in-salomonen.html
 image: https://images.unsplash.com/photo-1571607182000-b1d278eb9bc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWdpb25hbGUlMjBHZXJpY2h0ZSUyMFNhbG9tb25lbnxlbnwwfDB8fHwxNzc3OTU5MTMwfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

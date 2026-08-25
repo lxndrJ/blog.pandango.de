@@ -2,6 +2,7 @@
 layout: post
 title: "Ein Samstagmorgen auf dem Dominikáner-Platz in Košice"
 date: 2026-08-24 08:00:00 +0200
+permalink: /2026/08/24/ein-samstagmorgen-auf-dem-dominikner-platz-in-koice.html
 author: lxndrJ
 ai_assisted: true
 sources:

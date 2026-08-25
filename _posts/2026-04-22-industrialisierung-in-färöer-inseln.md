@@ -2,6 +2,7 @@
 layout: post
 title: "Industrialisierung in Färöer-Inseln"
 date: 2026-04-22 08:00:00 +0200
+permalink: /2026/04/22/industrialisierung-in-färöer-inseln.html
 image: https://images.unsplash.com/photo-1531509799580-b8dda5301d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBGJUMzJUE0ciVDMyVCNmVyLUluc2VsbnxlbnwwfDB8fHwxNzc2ODM0OTM4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

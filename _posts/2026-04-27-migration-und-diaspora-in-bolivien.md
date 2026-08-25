@@ -2,6 +2,7 @@
 layout: post
 title: "Migration und Diaspora in Bolivien"
 date: 2026-04-27 08:00:00 +0200
+permalink: /2026/04/27/migration-und-diaspora-in-bolivien.html
 image: https://images.unsplash.com/photo-1650700311346-dd9ad9e77114?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNaWdyYXRpb24lMjB1bmQlMjBEaWFzcG9yYSUyMEJvbGl2aWVufGVufDB8MHx8fDE3NzcyNjg1OTl8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

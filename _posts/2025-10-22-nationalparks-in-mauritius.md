@@ -2,6 +2,7 @@
 layout: post
 title: "Nationalparks in Mauritius"
 date: 2025-10-22 08:00:00 +0200
+permalink: /2025/10/22/nationalparks-in-mauritius.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/52/BlackRiverGorges.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

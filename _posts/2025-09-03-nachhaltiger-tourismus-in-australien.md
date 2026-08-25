@@ -2,6 +2,7 @@
 layout: post
 title: "Nachhaltiger Tourismus in Australien"
 date: 2025-09-03 08:00:00 +0200
+permalink: /2025/09/03/nachhaltiger-tourismus-in-australien.html
 image: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3VzdGFpbmFibGV8ZW58MHwwfHx8MTc4NzUzMDE5MHww&ixlib=rb-4.1.0
 ---
 

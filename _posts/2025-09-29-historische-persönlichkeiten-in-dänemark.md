@@ -2,6 +2,7 @@
 layout: post
 title: "Historische Persönlichkeiten in Dänemark"
 date: 2025-09-29 08:00:00 +0200
+permalink: /2025/09/29/historische-persönlichkeiten-in-dänemark.html
 image: https://images.unsplash.com/photo-1650653542696-f6e8f2ea9a30?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIaXN0b3Jpc2NoZSUyMFBlcnMlQzMlQjZubGljaGtlaXRlbiUyMEQlQzMlQTRuZW1hcmt8ZW58MHwwfHx8MTc1OTExNjY2OHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

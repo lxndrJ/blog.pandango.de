@@ -2,6 +2,7 @@
 layout: post
 title: "Frauen in der Geschichte in Fidschi"
 date: 2025-08-23 08:00:00 +0200
+permalink: /2025/08/23/frauen-in-der-geschichte-in-fidschi.html
 image: https://images.unsplash.com/photo-1473163928189-364b2c4e1135?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfDB8fHwxNzg3NTMwMTUwfDA&ixlib=rb-4.1.0
 ---
 

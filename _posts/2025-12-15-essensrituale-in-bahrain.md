@@ -2,6 +2,7 @@
 layout: post
 title: "Essensrituale in Bahrain"
 date: 2025-12-15 08:00:00 +0100
+permalink: /2025/12/15/essensrituale-in-bahrain.html
 image: https://images.unsplash.com/photo-1671519718955-236251fcb43b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFc3NlbnNyaXR1YWxlJTIwQmFocmFpbnxlbnwwfDB8fHwxNzY1NzcxMTU4fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

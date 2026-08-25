@@ -2,6 +2,7 @@
 layout: post
 title: "Seen und Flüsse in Sint Maarten"
 date: 2025-12-29 08:00:00 +0100
+permalink: /2025/12/29/seen-und-flüsse-in-sint-maarten.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/53/2020-01-18_MIMER_-_IMO_9002647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

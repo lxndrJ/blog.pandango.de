@@ -2,6 +2,7 @@
 layout: post
 title: "Politiker in Finnland"
 date: 2026-08-02 08:00:00 +0200
+permalink: /2026/08/02/politiker-in-finnland.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/c6/Bundesarchiv_B_145_Bild-F007686-0007%2C_Beethovenhaus_Bonn%2C_Politiker_aus_Finnland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

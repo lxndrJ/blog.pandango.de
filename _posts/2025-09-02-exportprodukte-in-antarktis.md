@@ -2,6 +2,7 @@
 layout: post
 title: "Exportprodukte in Antarktis"
 date: 2025-09-02 08:00:00 +0200
+permalink: /2025/09/02/exportprodukte-in-antarktis.html
 image: https://upload.wikimedia.org/wikipedia/commons/9/97/1_Almirante_Brown_-_Antarktische_Halbinsel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

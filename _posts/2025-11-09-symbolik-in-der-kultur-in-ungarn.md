@@ -2,6 +2,7 @@
 layout: post
 title: "Symbolik in der Kultur in Ungarn"
 date: 2025-11-09 08:00:00 +0100
+permalink: /2025/11/09/symbolik-in-der-kultur-in-ungarn.html
 image: https://images.unsplash.com/photo-1732570024289-1840f6bfdfde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTeW1ib2xpayUyMGluJTIwZGVyJTIwS3VsdHVyJTIwVW5nYXJufGVufDB8MHx8fDE3NjI2NTk0NzF8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

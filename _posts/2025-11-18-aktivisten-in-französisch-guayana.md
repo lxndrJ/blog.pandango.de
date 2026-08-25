@@ -2,6 +2,7 @@
 layout: post
 title: "Aktivisten in Französisch-Guayana"
 date: 2025-11-18 08:00:00 +0100
+permalink: /2025/11/18/aktivisten-in-französisch-guayana.html
 image: https://images.unsplash.com/photo-1720799535832-c863af8d0906?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBa3RpdmlzdGVuJTIwRnJhbnolQzMlQjZzaXNjaC1HdWF5YW5hfGVufDB8MHx8fDE3NjM0MzcxNDh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 

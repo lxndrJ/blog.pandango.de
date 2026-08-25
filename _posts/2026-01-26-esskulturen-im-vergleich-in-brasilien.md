@@ -2,8 +2,10 @@
 layout: post
 title: "Esskulturen im Vergleich in Brasilien"
 date: 2026-01-26 08:00:00 +0100
+permalink: /2026/01/26/esskulturen-im-vergleich-in-brasilien.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
----![Esskulturen im Vergleich in Brasilien](https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+---
+![Esskulturen im Vergleich in Brasilien](https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Geschmacksreisen: Brasiliens kulinarische Identität zwischen Tradition und Moderne
 

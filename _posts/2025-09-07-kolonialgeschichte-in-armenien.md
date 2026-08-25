@@ -2,6 +2,7 @@
 layout: post
 title: "Kolonialgeschichte in Armenien"
 date: 2025-09-07 08:00:00 +0200
+permalink: /2025/09/07/kolonialgeschichte-in-armenien.html
 image: https://upload.wikimedia.org/wikipedia/commons/6/67/1920_Republic_of_Armenia_Armenia_Ararat_stamp_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 

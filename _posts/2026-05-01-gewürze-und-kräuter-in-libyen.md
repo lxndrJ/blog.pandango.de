@@ -2,6 +2,7 @@
 layout: post
 title: "Gewürze und Kräuter in Libyen"
 date: 2026-05-01 08:00:00 +0200
+permalink: /2026/05/01/gewürze-und-kräuter-in-libyen.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/b6/LIBYA-Tripoli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
 ---
 
