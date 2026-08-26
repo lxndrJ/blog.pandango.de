@@ -4,12 +4,12 @@ title: "Geheimtipps für Städtereisen in Montserrat"
 date: 2025-08-22 10:00:00 +0200
 permalink: /2025/08/22/geheimtipps-für-städtereisen-in-montserrat.html
 image: https://images.unsplash.com/photo-1584467541268-b040f83be3fd?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMHRyaXAlMjBoaWRkZW4lMjBnZW1zfGVufDB8MHx8fDE3ODc1MzAxNDF8MA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Geheimtipps für Städtereisen in Montserrat](https://images.unsplash.com/photo-1584467541268-b040f83be3fd?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y2l0eSUyMHRyaXAlMjBoaWRkZW4lMjBnZW1zfGVufDB8MHx8fDE3ODc1MzAxNDF8MA&ixlib=rb-4.1.0)
 
 # Plymouth: Die vergessene Karibik-Perle zwischen Vulkan und Charme
 
@@ -44,4 +44,3 @@ Buchen Sie eine geführte Vulkan-Tour und sprechen Sie mit lokalen Guides. Ihre 
 
 *Eine Reise nach Plymouth ist mehr als ein Urlaub - es ist eine Begegnung mit der Kraft der Natur und der Widerstandsfähigkeit einer Gemeinschaft.*
 
-![Eine Stadt, die Geschichte schreibt](https://images.unsplash.com/photo-1604579806311-e65d83db73d7?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlzdG9yeSUyMGNpdHl8ZW58MHwwfHx8MTc4NzUzMDE0Mnww&ixlib=rb-4.1.0)

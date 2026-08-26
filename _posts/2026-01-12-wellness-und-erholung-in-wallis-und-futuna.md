@@ -4,8 +4,8 @@ title: "Wellness und Erholung in Wallis und Futuna"
 date: 2026-01-12 08:00:00 +0100
 permalink: /2026/01/12/wellness-und-erholung-in-wallis-und-futuna.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Carcasse_de_voiture_abandonn%C3%A9e_%C3%A0_Futuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Wellness und Erholung in Wallis und Futuna](https://upload.wikimedia.org/wikipedia/commons/c/c8/Carcasse_de_voiture_abandonn%C3%A9e_%C3%A0_Futuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wellness und Entschleunigung auf Wallis und Futuna: Eine Reise ins Paradies
 

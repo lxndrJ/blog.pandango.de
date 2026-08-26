@@ -4,10 +4,10 @@ title: "Revolutionen in Frankreich"
 date: 2026-08-06 08:00:00 +0200
 permalink: /2026/08/06/revolutionen-in-frankreich.html
 image: https://upload.wikimedia.org/wikipedia/commons/d/d9/11-french_revolution_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Revolutionen in Frankreich](https://upload.wikimedia.org/wikipedia/commons/d/d9/11-french_revolution_1789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Straßen von Paris: Wo Geschichte zum Leben erwacht
 

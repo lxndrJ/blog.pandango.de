@@ -4,9 +4,9 @@ title: "Exportprodukte in Curaçao"
 date: 2026-08-13 08:00:00 +0200
 permalink: /2026/08/13/exportprodukte-in-curaçao.html
 image: https://upload.wikimedia.org/wikipedia/commons/7/79/2020_Bols_Blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Exportprodukte in Curaçao](https://upload.wikimedia.org/wikipedia/commons/7/79/2020_Bols_Blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Curaçao: Kleine Insel, große Exportgeschichten
 

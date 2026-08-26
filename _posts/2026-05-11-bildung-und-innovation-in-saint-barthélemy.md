@@ -4,9 +4,9 @@ title: "Bildung und Innovation in Saint-Barthélemy"
 date: 2026-05-11 08:00:00 +0200
 permalink: /2026/05/11/bildung-und-innovation-in-saint-barthélemy.html
 image: https://upload.wikimedia.org/wikipedia/commons/8/87/2020-01-24_01_STAR_FLYER_-_IMO_8915433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Bildung und Innovation in Saint-Barthélemy](https://upload.wikimedia.org/wikipedia/commons/8/87/2020-01-24_01_STAR_FLYER_-_IMO_8915433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Kleine Insel, große Ideen: Wie Saint-Barthélemy Bildung und Innovation neu denkt
 
@@ -34,7 +34,6 @@ Saint-Barthélemy zeigt, dass Innovation nicht an die Größe einer Wirtschaft g
 
 Hier wird deutlich: Echte Innovation entsteht, wenn Menschen ihre Wurzeln kennen, ihre Umgebung verstehen und den Mut haben, sie zu gestalten.
 
-![Wirtschaft im Wandel](https://upload.wikimedia.org/wikipedia/commons/f/fe/Bonn%2C_Post-Tower_--_2017_--_2128_%28bw%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ---
 

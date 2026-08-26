@@ -4,12 +4,11 @@ title: "Gebirge und Wanderwege in Vanuatu"
 date: 2025-08-22 09:00:00 +0200
 permalink: /2025/08/22/gebirge-und-wanderwege-in-vanuatu.html
 image: https://images.unsplash.com/photo-1602587557684-11163fe60c87?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VmFudWF0dXxlbnwwfDB8fHwxNzg3NTMwMTM4fDA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
-![Wanderwege und Naturerlebnisse](https://images.unsplash.com/photo-1592859600972-1b0834d83747?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwdHJhaWwlMjBuYXR1cmV8ZW58MHwwfHx8MTc4NzUzMDEzOXww&ixlib=rb-4.1.0)
 
 
-![Gebirge und Wanderwege in Vanuatu](https://images.unsplash.com/photo-1602587557684-11163fe60c87?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VmFudWF0dXxlbnwwfDB8fHwxNzg3NTMwMTM4fDA&ixlib=rb-4.1.0)
 
 # Port Vila: Ein Wanderparadies zwischen Vulkanen und Tropengrün
 
@@ -78,4 +77,3 @@ Port Vila ist mehr als ein Reiseziel - es ist ein Erlebnis, das Natur, Kultur un
 - Zertifizierte Wanderführer
 - Nationale Parkbehörden
 
-![Wanderwege und Naturerlebnisse](https://images.unsplash.com/photo-1592859600972-1b0834d83747?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlraW5nJTIwdHJhaWwlMjBuYXR1cmV8ZW58MHwwfHx8MTc4NzUzMDEzOXww&ixlib=rb-4.1.0)

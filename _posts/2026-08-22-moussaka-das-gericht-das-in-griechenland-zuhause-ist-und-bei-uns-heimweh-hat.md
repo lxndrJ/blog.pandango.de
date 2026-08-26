@@ -4,6 +4,7 @@ title: "Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns H
 date: 2026-08-22 08:00:00 +0200
 permalink: /2026/08/22/moussaka-das-gericht-das-in-griechenland-zuhause-ist-und-bei-uns-heimweh-hat.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
@@ -19,7 +20,6 @@ sources:
   - https://www.familienkost.de/rezept_einfaches_moussaka.html
 ---
 
-![Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat](https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat
 

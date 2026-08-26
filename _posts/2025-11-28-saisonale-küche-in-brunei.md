@@ -4,10 +4,10 @@ title: "Saisonale Küche in Brunei"
 date: 2025-11-28 08:00:00 +0100
 permalink: /2025/11/28/saisonale-küche-in-brunei.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/a4/80-G-331265_Brunei%2C_Borneo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Saisonale Küche in Brunei](https://upload.wikimedia.org/wikipedia/commons/a/a4/80-G-331265_Brunei%2C_Borneo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Geschmacksreise durch Brunei: Eine kulinarische Entdeckungsreise zwischen Tradition und Saison
 

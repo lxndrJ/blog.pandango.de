@@ -4,8 +4,8 @@ title: "Kriege und Konflikte in Französische Süd- und Antarktisgebiete"
 date: 2025-11-19 08:00:00 +0100
 permalink: /2025/11/19/kriege-und-konflikte-in-französische-süd--und-antarktisgebiete.html
 image: https://upload.wikimedia.org/wikipedia/commons/9/97/1_Almirante_Brown_-_Antarktische_Halbinsel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Kriege und Konflikte in Französische Süd- und Antarktisgebiete](https://upload.wikimedia.org/wikipedia/commons/9/97/1_Almirante_Brown_-_Antarktische_Halbinsel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Verlorene Welten: Die verborgene Geschichte der Französischen Süd- und Antarktisgebiete
 

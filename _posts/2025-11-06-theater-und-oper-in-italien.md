@@ -4,9 +4,9 @@ title: "Theater und Oper in Italien"
 date: 2025-11-06 08:00:00 +0100
 permalink: /2025/11/06/theater-und-oper-in-italien.html
 image: https://images.unsplash.com/photo-1582152492025-4d3dba658fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUaGVhdGVyJTIwdW5kJTIwT3BlciUyMEl0YWxpZW58ZW58MHwwfHx8MTc2MjQwMDQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Theater und Oper in Italien](https://images.unsplash.com/photo-1582152492025-4d3dba658fc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUaGVhdGVyJTIwdW5kJTIwT3BlciUyMEl0YWxpZW58ZW58MHwwfHx8MTc2MjQwMDQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Die Bühne des Lebens: Theater und Oper in Italien
 

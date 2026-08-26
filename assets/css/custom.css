@@ -1,0 +1,135 @@
+/* ============================================
+   blog.pandango.de – Custom Post Styles
+   ============================================ */
+
+/* Hero Image */
+.hero-image {
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  line-height: 0;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: cover;
+  max-height: 550px;
+}
+
+.hero-image .image-credit {
+  line-height: 1.4;
+  font-size: 0.8rem;
+  color: #666;
+  padding: 0.6rem 1rem;
+  background: #f8f9fa;
+  border-top: 1px solid #e9ecef;
+  text-align: center;
+}
+
+/* Post header */
+.post-header {
+  margin-bottom: 1.5rem;
+}
+
+.post-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+
+.page-date {
+  color: #6a737d;
+  font-size: 0.95rem;
+  margin-top: 0.25rem;
+}
+
+.post-author {
+  font-style: italic;
+}
+
+/* Post content typography */
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: #333;
+}
+
+.post-content h2 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 2px solid #eef2f5;
+  padding-bottom: 0.4rem;
+}
+
+.post-content h3 {
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 1rem 0;
+}
+
+.post-content blockquote {
+  border-left: 4px solid #ddd;
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
+}
+
+/* AI Badge */
+.ai-badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 12px;
+  background: #eef2f5;
+  color: #555;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
+
+@media (prefers-color-scheme: dark) {
+  .ai-badge {
+    background: #2d333b;
+    color: #adbac7;
+  }
+}
+
+/* Dark mode support (Minima auto-skin) */
+@media (prefers-color-scheme: dark) {
+  .hero-image .image-credit {
+    background: #2d333b;
+    border-top-color: #444c56;
+    color: #adbac7;
+  }
+
+  .post-content {
+    color: #adbac7;
+  }
+
+  .post-content h2 {
+    border-bottom-color: #444c56;
+  }
+
+  .post-content h3 {
+    color: #e6edf3;
+  }
+
+  .post-footer {
+    border-top-color: #444c56;
+  }
+
+  .ai-disclaimer {
+    color: #768390;
+  }
+}

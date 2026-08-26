@@ -4,9 +4,9 @@ title: "Digitalisierung in Barbados"
 date: 2026-07-08 08:00:00 +0200
 permalink: /2026/07/08/digitalisierung-in-barbados.html
 image: https://images.unsplash.com/photo-1564430153617-db467dc348eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxEaWdpdGFsaXNpZXJ1bmclMjBCYXJiYWRvc3xlbnwwfDB8fHwxNzgzNDg5MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Digitalisierung in Barbados](https://images.unsplash.com/photo-1564430153617-db467dc348eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxEaWdpdGFsaXNpZXJ1bmclMjBCYXJiYWRvc3xlbnwwfDB8fHwxNzgzNDg5MTc5fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Barbados im digitalen Wandel: Wie eine Karibikinsel die Zukunft gestaltet
 

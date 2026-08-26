@@ -4,10 +4,10 @@ title: "Forschungseinrichtungen in Marshallinseln"
 date: 2026-04-17 08:00:00 +0200
 permalink: /2026/04/17/forschungseinrichtungen-in-marshallinseln.html
 image: https://upload.wikimedia.org/wikipedia/commons/0/04/City_Hall%2C_Marshall%2C_Arkansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Forschungseinrichtungen in Marshallinseln](https://upload.wikimedia.org/wikipedia/commons/0/04/City_Hall%2C_Marshall%2C_Arkansas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wissenschaft auf dem Pazifik: Wie die Marshallinseln Forschung neu erfinden
 

@@ -4,10 +4,10 @@ title: "Klimazonen in Niue"
 date: 2026-07-24 08:00:00 +0200
 permalink: /2026/07/24/klimazonen-in-niue.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/17/Niue_Constitution_Day_-_50th_Anniversary%2C_Niue%2C_19_October_2024-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Klimazonen in Niue](https://upload.wikimedia.org/wikipedia/commons/1/17/Niue_Constitution_Day_-_50th_Anniversary%2C_Niue%2C_19_October_2024-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Niue: Wo die Tropen ihre zarteste Seite zeigen
 
@@ -41,7 +41,6 @@ Das Klima von Niue ist nicht nur eine meteorologische Statistik. Es ist der Puls
 
 Wenn ihr jemals die Chance habt, Niue zu besuchen, nehmt sie an. Erlebt selbst, wie es sich anfühlt, wenn Klima und Kultur eins werden – in einer Harmonie, die man nur auf dieser besonderen Insel finden kann.
 
-![Die Natur schlägt zurück](https://upload.wikimedia.org/wikipedia/commons/8/85/Die_Natur_schl%C3%A4gt_zur%C3%BCck_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ---
 

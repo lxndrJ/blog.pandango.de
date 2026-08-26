@@ -4,9 +4,9 @@ title: "Infrastrukturprojekte in Irland"
 date: 2026-08-12 08:00:00 +0200
 permalink: /2026/08/12/infrastrukturprojekte-in-irland.html
 image: https://images.unsplash.com/photo-1689322353596-44f7af960b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmZyYXN0cnVrdHVycHJvamVrdGUlMjBJcmxhbmR8ZW58MHwwfHx8MTc4NjUwOTUzNXww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Infrastrukturprojekte in Irland](https://images.unsplash.com/photo-1689322353596-44f7af960b26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmZyYXN0cnVrdHVycHJvamVrdGUlMjBJcmxhbmR8ZW58MHwwfHx8MTc4NjUwOTUzNXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Irlands Weg in die Zukunft: Wenn alte Magie auf moderne Infrastruktur trifft
 

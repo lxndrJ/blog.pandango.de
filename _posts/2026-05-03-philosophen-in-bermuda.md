@@ -4,9 +4,9 @@ title: "Philosophen in Bermuda"
 date: 2026-05-03 08:00:00 +0200
 permalink: /2026/05/03/philosophen-in-bermuda.html
 image: https://images.unsplash.com/photo-1692459163473-83c40756a1a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEJlcm11ZGF8ZW58MHwwfHx8MTc3Nzc4NzI4M3ww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Philosophen in Bermuda](https://images.unsplash.com/photo-1692459163473-83c40756a1a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEJlcm11ZGF8ZW58MHwwfHx8MTc3Nzc4NzI4M3ww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Denker und Träumer: Philosophie auf der Insel Bermuda
 

@@ -4,10 +4,10 @@ title: "Unternehmenskultur in Kasachstan"
 date: 2026-03-18 08:00:00 +0100
 permalink: /2026/03/18/unternehmenskultur-in-kasachstan.html
 image: https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Unternehmenskultur in Kasachstan](https://upload.wikimedia.org/wikipedia/commons/8/8f/Administrative_subdivisions_of_the_Republic_of_Kazakhsatn.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wo Tradition auf Zukunft trifft: Unternehmenskultur in Kasachstan
 

@@ -4,9 +4,9 @@ title: "Vogelbeobachtung in Aserbaidschan"
 date: 2026-02-18 08:00:00 +0100
 permalink: /2026/02/18/vogelbeobachtung-in-aserbaidschan.html
 image: https://images.unsplash.com/photo-1672931453015-cba6713fe785?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWb2dlbGJlb2JhY2h0dW5nJTIwQXNlcmJhaWRzY2hhbnxlbnwwfDB8fHwxNzcxMzg5OTk5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Vogelbeobachtung in Aserbaidschan](https://images.unsplash.com/photo-1672931453015-cba6713fe785?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWb2dlbGJlb2JhY2h0dW5nJTIwQXNlcmJhaWRzY2hhbnxlbnwwfDB8fHwxNzcxMzg5OTk5fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Vogelwelt Aserbaidschans: Eine Entdeckungsreise zwischen Kaukasus und Kaspischem Meer
 

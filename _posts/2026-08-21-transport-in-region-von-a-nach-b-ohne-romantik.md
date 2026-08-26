@@ -4,10 +4,10 @@ title: "Transport in [Region]: Von A nach B – ohne Romantik"
 date: 2026-08-21 09:00:00 +0200
 permalink: /2026/08/21/transport-in-region-von-a-nach-b-ohne-romantik.html
 image: https://images.unsplash.com/photo-1520442922418-8211a6fe605c?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8cHVibGljJTIwdHJhbnNwb3J0JTIwaW4lMjAlNUJSZWdpb24lNUQlM0ElMjBWb24lMjBBJTIwbmFjaCUyMEIlMjAlRTIlODAlOTMlMjBvaG5lJTIwUm9tYW50aWt8ZW58MHwwfHx8MTc4NzUxMTM4OXww&ixlib=rb-4.1.0
+image_credit: "Bild: Unsplash"
 author: lxndrJ
 ai_assisted: true
 ---
-![Transport in [Region]: Von A nach B – ohne Romantik](https://images.unsplash.com/photo-1520442922418-8211a6fe605c?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8cHVibGljJTIwdHJhbnNwb3J0JTIwaW4lMjAlNUJSZWdpb24lNUQlM0ElMjBWb24lMjBBJTIwbmFjaCUyMEIlMjAlRTIlODAlOTMlMjBvaG5lJTIwUm9tYW50aWt8ZW58MHwwfHx8MTc4NzUxMTM4OXww&ixlib=rb-4.1.0)# Transport in [Region]: Von A nach B – ohne Romantik
 
 Okay, ich muss dir ehrlich sagen: Ich sitze hier ohne die konkrete Region vor mir. Dein Recherche-Brief ist angekommen, aber du hast mir noch nicht verraten, *wohin* es gehen soll. Delhi nach Agra? Lima nach Cusco? Hanoi nach Da Nang? Das ändert alles – Kosten, Dauer, wie wahrscheinlich es ist, dass du pünktlich ankommst.
 

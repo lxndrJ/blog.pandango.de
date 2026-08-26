@@ -4,9 +4,9 @@ title: "Esskulturen im Vergleich in Kanada"
 date: 2026-08-19 08:00:00 +0200
 permalink: /2026/08/19/esskulturen-im-vergleich-in-kanada.html
 image: https://images.unsplash.com/photo-1605153905084-0a02db95f793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFc3NrdWx0dXJlbiUyMGltJTIwVmVyZ2xlaWNoJTIwS2FuYWRhfGVufDB8MHx8fDE3ODcxMTA1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Esskulturen im Vergleich in Kanada](https://images.unsplash.com/photo-1605153905084-0a02db95f793?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFc3NrdWx0dXJlbiUyMGltJTIwVmVyZ2xlaWNoJTIwS2FuYWRhfGVufDB8MHx8fDE3ODcxMTA1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geschmäcker aus dem Norden: Kanadas vielfältige Esskulturen
 

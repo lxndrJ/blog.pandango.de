@@ -4,10 +4,10 @@ title: "Frauen in der Geschichte in Slowakei"
 date: 2026-04-06 08:00:00 +0200
 permalink: /2026/04/06/frauen-in-der-geschichte-in-slowakei.html
 image: https://upload.wikimedia.org/wikipedia/commons/7/72/000_Sllovakia_harta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Frauen in der Geschichte in Slowakei](https://upload.wikimedia.org/wikipedia/commons/7/72/000_Sllovakia_harta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Frauen der Slowakei: Geschichten, die die Welt verändert haben
 

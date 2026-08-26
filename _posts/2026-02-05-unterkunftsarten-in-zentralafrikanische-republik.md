@@ -4,8 +4,8 @@ title: "Unterkunftsarten in Zentralafrikanische Republik"
 date: 2026-02-05 08:00:00 +0100
 permalink: /2026/02/05/unterkunftsarten-in-zentralafrikanische-republik.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Unterkunftsarten in Zentralafrikanische Republik](https://upload.wikimedia.org/wikipedia/commons/4/47/Central_African_Republic-CIA_WFB_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Übernachten in der Herzkammer Afrikas: Unterkünfte in der Zentralafrikanischen Republik
 

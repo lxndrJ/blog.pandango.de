@@ -4,8 +4,8 @@ title: "Historische Rezepte in Westsahara"
 date: 2026-06-26 08:00:00 +0200
 permalink: /2026/06/26/historische-rezepte-in-westsahara.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Algeria-Spanish_Sahara_boundary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Historische Rezepte in Westsahara](https://upload.wikimedia.org/wikipedia/commons/f/f9/Algeria-Spanish_Sahara_boundary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Geschmack der Geschichte: Traditionelle Rezepte aus El Aaiún
 
 Wenn man durch die Straßen von El Aaiún spaziert, wird man sofort von intensiven Aromen umhüllt. Die Westsahara hat eine kulinarische Tradition, die Geschichten von Nomaden, Händlern und Kulturen erzählt – jedes Gericht ist ein Fenster in eine faszinierende Vergangenheit.
 

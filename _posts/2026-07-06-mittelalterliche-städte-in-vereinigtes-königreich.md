@@ -4,8 +4,8 @@ title: "Mittelalterliche Städte in Vereinigtes Königreich"
 date: 2026-07-06 08:00:00 +0200
 permalink: /2026/07/06/mittelalterliche-städte-in-vereinigtes-königreich.html
 image: https://upload.wikimedia.org/wikipedia/commons/3/30/Deutsche_Bauzeitung_%28IA_deutschebauzeitu1718frit%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Mittelalterliche Städte in Vereinigtes Königreich](https://upload.wikimedia.org/wikipedia/commons/3/30/Deutsche_Bauzeitung_%28IA_deutschebauzeitu1718frit%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Zeitreise durch Englands mittelalterliche Schätze
 
 Stellt euch vor, ihr betretet eine enge Gasse mit Kopfsteinpflaster, überragt von schiefständigen Fachwerkhäusern, deren obere Stockwerke fast die gegenüber liegende Seite berühren. Genau diese Momente erwarten euch in den mittelalterlichen Städten des Vereinigten Königreichs – ein Sprung zurück in eine Epoche, in der Könige herrschten, Zünfte blühten und jede Stadt ihre eigene Geschichte erzählte.
 

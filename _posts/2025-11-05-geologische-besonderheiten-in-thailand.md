@@ -4,9 +4,9 @@ title: "Geologische Besonderheiten in Thailand"
 date: 2025-11-05 08:00:00 +0100
 permalink: /2025/11/05/geologische-besonderheiten-in-thailand.html
 image: https://images.unsplash.com/photo-1709287852348-b0ac9240a2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZW9sb2dpc2NoZSUyMEJlc29uZGVyaGVpdGVuJTIwVGhhaWxhbmR8ZW58MHwwfHx8MTc2MjMxMzkwNXww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Geologische Besonderheiten in Thailand](https://images.unsplash.com/photo-1709287852348-b0ac9240a2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZW9sb2dpc2NoZSUyMEJlc29uZGVyaGVpdGVuJTIwVGhhaWxhbmR8ZW58MHwwfHx8MTc2MjMxMzkwNXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Verborgene Schichten: Thailands Geologische Wunder zwischen Megacity und Urlandschaft
 

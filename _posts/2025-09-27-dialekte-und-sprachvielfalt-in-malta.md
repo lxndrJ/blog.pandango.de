@@ -4,9 +4,9 @@ title: "Dialekte und Sprachvielfalt in Malta"
 date: 2025-09-27 08:00:00 +0200
 permalink: /2025/09/27/dialekte-und-sprachvielfalt-in-malta.html
 image: https://images.unsplash.com/photo-1697468386892-3f1e1585ebb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxEaWFsZWt0ZSUyMHVuZCUyMFNwcmFjaHZpZWxmYWx0JTIwTWFsdGF8ZW58MHwwfHx8MTc1ODk0MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Dialekte und Sprachvielfalt in Malta](https://images.unsplash.com/photo-1697468386892-3f1e1585ebb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxEaWFsZWt0ZSUyMHVuZCUyMFNwcmFjaHZpZWxmYWx0JTIwTWFsdGF8ZW58MHwwfHx8MTc1ODk0MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Zwischen Arabisch und Englisch: Die sprachliche Reise Maltas
 

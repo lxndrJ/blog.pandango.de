@@ -4,9 +4,9 @@ title: "Kulinarische Feste in China"
 date: 2026-05-29 08:00:00 +0200
 permalink: /2026/05/29/kulinarische-feste-in-china.html
 image: https://images.unsplash.com/photo-1506158669146-619067262a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBGZXN0ZSUyMENoaW5hfGVufDB8MHx8fDE3ODAwMzY5ODh8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Kulinarische Feste in China](https://images.unsplash.com/photo-1506158669146-619067262a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBGZXN0ZSUyMENoaW5hfGVufDB8MHx8fDE3ODAwMzY5ODh8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geschmack trifft Geschichte: Kulinarische Feste in China
 

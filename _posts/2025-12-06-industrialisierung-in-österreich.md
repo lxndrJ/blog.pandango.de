@@ -4,10 +4,10 @@ title: "Industrialisierung in Österreich"
 date: 2025-12-06 08:00:00 +0100
 permalink: /2025/12/06/industrialisierung-in-österreich.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/f6/Sgraffito_primary_School_Stetten%2C_Lower_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Industrialisierung in Österreich](https://upload.wikimedia.org/wikipedia/commons/f/f6/Sgraffito_primary_School_Stetten%2C_Lower_Austria.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die industrielle Transformation Österreichs: Eine Reise durch Zeit und Raum
 

@@ -4,9 +4,9 @@ title: "Revolutionen in Usbekistan"
 date: 2026-03-27 08:00:00 +0100
 permalink: /2026/03/27/revolutionen-in-usbekistan.html
 image: https://images.unsplash.com/photo-1705077016068-0613769219a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZXZvbHV0aW9uZW4lMjBVc2Jla2lzdGFufGVufDB8MHx8fDE3NzQ1ODc2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Revolutionen in Usbekistan](https://images.unsplash.com/photo-1705077016068-0613769219a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZXZvbHV0aW9uZW4lMjBVc2Jla2lzdGFufGVufDB8MHx8fDE3NzQ1ODc2MDh8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Die Revolutionen Usbekistans: Vom Seidenstraßen-Erbe zur modernen Nation
 

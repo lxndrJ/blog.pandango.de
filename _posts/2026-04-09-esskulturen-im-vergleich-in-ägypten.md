@@ -4,10 +4,10 @@ title: "Esskulturen im Vergleich in Ägypten"
 date: 2026-04-09 08:00:00 +0200
 permalink: /2026/04/09/esskulturen-im-vergleich-in-ägypten.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Esskulturen im Vergleich in Ägypten](https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die kulinarische Seele von Ägypten: Zwischen Tradition und Moderne in Kairo
 

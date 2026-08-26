@@ -4,9 +4,9 @@ title: "Industrialisierung in St. Vincent und die Grenadinen"
 date: 2025-10-28 08:00:00 +0100
 permalink: /2025/10/28/industrialisierung-in-st.-vincent-und-die-grenadinen.html
 image: https://images.unsplash.com/photo-1715201716393-c6b400e1bd4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBTdC4lMjBWaW5jZW50JTIwdW5kJTIwZGllJTIwR3JlbmFkaW5lbnxlbnwwfDB8fHwxNzYxNjIyNTM4fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Industrialisierung in St. Vincent und die Grenadinen](https://images.unsplash.com/photo-1715201716393-c6b400e1bd4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsaXNpZXJ1bmclMjBTdC4lMjBWaW5jZW50JTIwdW5kJTIwZGllJTIwR3JlbmFkaW5lbnxlbnwwfDB8fHwxNzYxNjIyNTM4fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Die industrielle Reise von St. Vincent: Zwischen Tradition und Moderne
 

@@ -4,9 +4,9 @@ title: "Wissenschaftler in Algerien"
 date: 2026-03-15 08:00:00 +0100
 permalink: /2026/03/15/wissenschaftler-in-algerien.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Wissenschaftler in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Geister der Wissenschaft: Algeriens Beitrag zur Weltforschung
 

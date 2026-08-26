@@ -4,8 +4,8 @@ title: "Exportprodukte in Salomonen"
 date: 2026-06-27 08:00:00 +0200
 permalink: /2026/06/27/exportprodukte-in-salomonen.html
 image: https://upload.wikimedia.org/wikipedia/commons/6/6f/ECHO_Solomon_Islands_Editable_A4_Landscape.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Exportprodukte in Salomonen](https://upload.wikimedia.org/wikipedia/commons/6/6f/ECHO_Solomon_Islands_Editable_A4_Landscape.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Die verborgenen Schätze der Salomonen: Was die Welt von diesen Inseln kauft
 
 Die Salomonen – ein Name, der nach Abenteuer und Exotik klingt. Doch während viele Reisende von den kristallklaren Gewässern und der unberührten Natur träumen, passiert hinter den Kulissen etwas Faszinierendes: Diese kleine Inselgruppe im Südpazifik versorgt die Welt mit Rohstoffen und Produkten, von denen man gar nicht weiß, dass sie von hier stammen.
 

@@ -4,10 +4,10 @@ title: "Historische Persönlichkeiten in Komoren"
 date: 2025-11-07 08:00:00 +0100
 permalink: /2025/11/07/historische-persönlichkeiten-in-komoren.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/16/Archipel_des_Comores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Historische Persönlichkeiten in Komoren](https://upload.wikimedia.org/wikipedia/commons/1/16/Archipel_des_Comores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Verborgene Geschichten der Komoren: Zeitreise durch Persönlichkeiten und Schicksale
 
@@ -43,4 +43,3 @@ Diese Reise durch die historischen Persönlichkeiten der Komoren zeigt: Jede Nat
 
 *Eine Reise wert - die Komoren, ein Archipel voller unerwarteter Geschichten.*
 
-![Moroni: Mehr als nur eine Hauptstadt](https://upload.wikimedia.org/wikipedia/commons/5/50/Giovanni_Battista_Moroni_-_The_Tailor_%281565-1570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

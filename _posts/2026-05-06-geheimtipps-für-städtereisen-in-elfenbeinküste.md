@@ -4,10 +4,10 @@ title: "Geheimtipps für Städtereisen in Elfenbeinküste"
 date: 2026-05-06 08:00:00 +0200
 permalink: /2026/05/06/geheimtipps-für-städtereisen-in-elfenbeinküste.html
 image: https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Fresco%2C_Ivory_Coast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Geheimtipps für Städtereisen in Elfenbeinküste](https://upload.wikimedia.org/wikipedia/commons/6/6c/Aerial_view_of_Fresco%2C_Ivory_Coast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Abseits der ausgetretenen Pfade: Geheimtipps für die Elfenbeinküste
 

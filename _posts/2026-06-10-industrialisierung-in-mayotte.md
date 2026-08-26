@@ -4,9 +4,9 @@ title: "Industrialisierung in Mayotte"
 date: 2026-06-10 08:00:00 +0200
 permalink: /2026/06/10/industrialisierung-in-mayotte.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Industrialisierung in Mayotte](https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Mayotte_with_no_text.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mayotte: Wenn die Vergangenheit auf die Zukunft trifft
 

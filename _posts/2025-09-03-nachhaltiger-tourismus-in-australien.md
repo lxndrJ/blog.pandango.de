@@ -4,11 +4,11 @@ title: "Nachhaltiger Tourismus in Australien"
 date: 2025-09-03 08:00:00 +0200
 permalink: /2025/09/03/nachhaltiger-tourismus-in-australien.html
 image: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3VzdGFpbmFibGV8ZW58MHwwfHx8MTc4NzUzMDE5MHww&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
-![Nachhaltiger Tourismus in Australien](https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3VzdGFpbmFibGV8ZW58MHwwfHx8MTc4NzUzMDE5MHww&ixlib=rb-4.1.0)
 
 # Grüne Wege durch Down Under: Nachhaltiges Reisen in Australien
 
@@ -44,7 +44,6 @@ Australien lädt uns ein, Tourismus neu zu denken: Als Erlebenis, das Natur, Kul
 
 *Eine Reise, die Spuren hinterlässt - aber keine Wunden.*
 
-![Eine Reise zwischen Verantwortung und Abenteuer](https://images.unsplash.com/photo-1634128221889-82ed6efebfc3?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8bGFuZ3VhZ2V8ZW58MHwwfHx8MTc4NzUzMDE0NXww&ixlib=rb-4.1.0)
 
 ---
 

@@ -4,10 +4,10 @@ title: "Industrialisierung in Mosambik"
 date: 2025-09-17 08:00:00 +0200
 permalink: /2025/09/17/industrialisierung-in-mosambik.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/5c/Administrative_divisions_of_Mozambique_English.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Industrialisierung in Mosambik](https://upload.wikimedia.org/wikipedia/commons/5/5c/Administrative_divisions_of_Mozambique_English.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die industrielle Metamorphose Mosambiks: Zwischen Tradition und Fortschritt
 

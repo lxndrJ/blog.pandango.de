@@ -4,9 +4,9 @@ title: "Nachhaltiger Tourismus in Guernsey"
 date: 2026-06-23 08:00:00 +0200
 permalink: /2026/06/23/nachhaltiger-tourismus-in-guernsey.html
 image: https://images.unsplash.com/photo-1497869287182-aac99be84396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBHdWVybnNleXxlbnwwfDB8fHwxNzgyMTk2NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Nachhaltiger Tourismus in Guernsey](https://images.unsplash.com/photo-1497869287182-aac99be84396?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXIlMjBUb3VyaXNtdXMlMjBHdWVybnNleXxlbnwwfDB8fHwxNzgyMTk2NjMyfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Guernsey: Wo Nachhaltigkeit nicht nur ein Schlagwort ist
 

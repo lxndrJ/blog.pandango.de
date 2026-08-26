@@ -4,9 +4,9 @@ title: "Visionäre und Erfinder in Barbados"
 date: 2026-04-24 08:00:00 +0200
 permalink: /2026/04/24/visionäre-und-erfinder-in-barbados.html
 image: https://images.unsplash.com/photo-1773218370247-df79a8a91317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWaXNpb24lQzMlQTRyZSUyMHVuZCUyMEVyZmluZGVyJTIwQmFyYmFkb3N8ZW58MHwwfHx8MTc3NzAwODM2N3ww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Visionäre und Erfinder in Barbados](https://images.unsplash.com/photo-1773218370247-df79a8a91317?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWaXNpb24lQzMlQTRyZSUyMHVuZCUyMEVyZmluZGVyJTIwQmFyYmFkb3N8ZW58MHwwfHx8MTc3NzAwODM2N3ww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Visionäre der Karibik: Barbados und seine Erfinder
 

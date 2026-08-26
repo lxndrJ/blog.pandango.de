@@ -2,6 +2,8 @@
 layout: post
 title: "Warum wir über Tansania fast nur die falschen Dinge wissen"
 date: 2026-08-25 19:58:17 +0200
+image: https://images.unsplash.com/photo-1580684828779-ca1f1bbbc31e?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8V2FydW0lMjB3aXIlMjAlQzMlQkNiZXIlMjBUYW5zYW5pYSUyMGZhc3QlMjBudXIlMjBkaWUlMjBmYWxzY2hlbiUyMERpbmdlJTIwd2lzc2VufGVufDB8MHx8fDE3ODc3MjEwNjZ8MA&ixlib=rb-4.1.0
+image_credit: "Photo by Magdalena Kula Manchee on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:

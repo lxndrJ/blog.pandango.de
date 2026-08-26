@@ -3,6 +3,8 @@ layout: post
 title: "Warum du in Lamezia Terme landen solltest – und nicht dort, wo alle hinfahren"
 date: 2026-08-24 10:00:00 +0200
 permalink: /2026/08/24/warum-du-in-lamezia-terme-landen-solltest-und-nicht-dort-wo-alle-hinfahren.html
+image: https://upload.wikimedia.org/wikipedia/commons/3/31/Aeroporto_Lamezia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 author: lxndrJ
 ai_assisted: true
 sources:

@@ -4,9 +4,9 @@ title: "Archäologische Funde in Guyana"
 date: 2026-07-20 08:00:00 +0200
 permalink: /2026/07/20/archäologische-funde-in-guyana.html
 image: https://images.unsplash.com/photo-1592851536816-bb9fc8b2073a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoJUMzJUE0b2xvZ2lzY2hlJTIwRnVuZGUlMjBHdXlhbmF8ZW58MHwwfHx8MTc4NDUyNzAyNHww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Archäologische Funde in Guyana](https://images.unsplash.com/photo-1592851536816-bb9fc8b2073a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoJUMzJUE0b2xvZ2lzY2hlJTIwRnVuZGUlMjBHdXlhbmF8ZW58MHwwfHx8MTc4NDUyNzAyNHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geheimnisse aus dem Dschungel: Archäologie in Guyana
 

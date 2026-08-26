@@ -4,8 +4,8 @@ title: "Frauen in der Geschichte in Algerien"
 date: 2025-10-23 08:00:00 +0200
 permalink: /2025/10/23/frauen-in-der-geschichte-in-algerien.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Frauen in der Geschichte in Algerien](https://upload.wikimedia.org/wikipedia/commons/4/45/ALGERIEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Frauen in Algerien: Unerzählte Geschichten zwischen Tradition und Aufbruch
 

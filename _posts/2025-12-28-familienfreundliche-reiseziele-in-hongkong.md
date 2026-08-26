@@ -4,9 +4,9 @@ title: "Familienfreundliche Reiseziele in Hongkong"
 date: 2025-12-28 08:00:00 +0100
 permalink: /2025/12/28/familienfreundliche-reiseziele-in-hongkong.html
 image: https://images.unsplash.com/photo-1613380273632-4543c3376393?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbmZyZXVuZGxpY2hlJTIwUmVpc2V6aWVsZSUyMEhvbmdrb25nfGVufDB8MHx8fDE3NjY4OTQ1NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Familienfreundliche Reiseziele in Hongkong](https://images.unsplash.com/photo-1613380273632-4543c3376393?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbmZyZXVuZGxpY2hlJTIwUmVpc2V6aWVsZSUyMEhvbmdrb25nfGVufDB8MHx8fDE3NjY4OTQ1NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Hongkong: Ein Familienparadies zwischen Tradition und Moderne
 

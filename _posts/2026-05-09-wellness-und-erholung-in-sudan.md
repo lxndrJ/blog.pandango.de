@@ -4,9 +4,9 @@ title: "Wellness und Erholung in Sudan"
 date: 2026-05-09 08:00:00 +0200
 permalink: /2026/05/09/wellness-und-erholung-in-sudan.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/e1/Kimotong%2C_Sud%C3%A1n_del_Sur%2C_2024-01-23%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Wellness und Erholung in Sudan](https://upload.wikimedia.org/wikipedia/commons/e/e1/Kimotong%2C_Sud%C3%A1n_del_Sur%2C_2024-01-23%2C_DD_37.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wellness im Herzen Afrikas: Entspannung im Sudan
 

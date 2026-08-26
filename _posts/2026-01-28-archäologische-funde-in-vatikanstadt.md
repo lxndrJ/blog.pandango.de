@@ -4,9 +4,9 @@ title: "Archäologische Funde in Vatikanstadt"
 date: 2026-01-28 08:00:00 +0100
 permalink: /2026/01/28/archäologische-funde-in-vatikanstadt.html
 image: https://images.unsplash.com/photo-1713341085351-163f3d537f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoJUMzJUE0b2xvZ2lzY2hlJTIwRnVuZGUlMjBWYXRpa2Fuc3RhZHR8ZW58MHwwfHx8MTc2OTU3Mjg4OHww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Archäologische Funde in Vatikanstadt](https://images.unsplash.com/photo-1713341085351-163f3d537f98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoJUMzJUE0b2xvZ2lzY2hlJTIwRnVuZGUlMjBWYXRpa2Fuc3RhZHR8ZW58MHwwfHx8MTc2OTU3Mjg4OHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Verborgene Schätze unter heiligem Boden: Archäologische Entdeckungen im Vatikan
 

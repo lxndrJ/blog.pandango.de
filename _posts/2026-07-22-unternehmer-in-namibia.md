@@ -4,10 +4,10 @@ title: "Unternehmer in Namibia"
 date: 2026-07-22 08:00:00 +0200
 permalink: /2026/07/22/unternehmer-in-namibia.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/5a/Matthias_Wittenburg_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Unternehmer in Namibia](https://upload.wikimedia.org/wikipedia/commons/5/5a/Matthias_Wittenburg_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Unternehmertum in Namibia: Zwischen Wüstensand und Zukunftsvision
 

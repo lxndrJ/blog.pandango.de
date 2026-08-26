@@ -4,9 +4,9 @@ title: "Unternehmenskultur in Insel Man"
 date: 2025-10-05 08:00:00 +0200
 permalink: /2025/10/05/unternehmenskultur-in-insel-man.html
 image: https://images.unsplash.com/photo-1503863369250-3ab1905ea94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxVbnRlcm5laG1lbnNrdWx0dXIlMjBJbnNlbCUyME1hbnxlbnwwfDB8fHwxNzU5NjM1MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Unternehmenskultur in Insel Man](https://images.unsplash.com/photo-1503863369250-3ab1905ea94a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxVbnRlcm5laG1lbnNrdWx0dXIlMjBJbnNlbCUyME1hbnxlbnwwfDB8fHwxNzU5NjM1MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Unternehmenskultur auf der Insel Man: Wo Tradition auf Innovation trifft
 

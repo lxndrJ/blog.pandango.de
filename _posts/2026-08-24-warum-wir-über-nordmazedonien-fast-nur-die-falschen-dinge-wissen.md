@@ -3,6 +3,8 @@ layout: post
 title: "Warum wir über Nordmazedonien fast nur die falschen Dinge wissen"
 date: 2026-08-24 11:00:00 +0200
 permalink: /2026/08/24/warum-wir-über-nordmazedonien-fast-nur-die-falschen-dinge-wissen.html
+image: https://images.unsplash.com/photo-1642291373671-29794831ebce?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8U2tvcGplJTIwTm9ydGglMjBNYWNlZG9uaWF8ZW58MHwwfHx8MTc4NzcyMTA5Nnww&ixlib=rb-4.1.0
+image_credit: "Photo by Fisnik Murtezi on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:

@@ -4,10 +4,10 @@ title: "Industriegeschichte in Malawi"
 date: 2026-05-27 08:00:00 +0200
 permalink: /2026/05/27/industriegeschichte-in-malawi.html
 image: https://upload.wikimedia.org/wikipedia/commons/2/21/Baobab%2C_Malawi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Industriegeschichte in Malawi](https://upload.wikimedia.org/wikipedia/commons/2/21/Baobab%2C_Malawi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Von Tabak bis zur digitalen Zukunft: Malawis faszinierender Weg in die Moderne
 

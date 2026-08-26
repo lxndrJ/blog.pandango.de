@@ -4,9 +4,9 @@ title: "Archäologische Funde in Jemen"
 date: 2025-11-23 08:00:00 +0100
 permalink: /2025/11/23/archäologische-funde-in-jemen.html
 image: https://upload.wikimedia.org/wikipedia/commons/0/0f/Anti-war_demonstration_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Archäologische Funde in Jemen](https://upload.wikimedia.org/wikipedia/commons/0/0f/Anti-war_demonstration_in_People%27s_Democratic_Republic_of_Yemen%2C_1986.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Verborgene Schätze: Archäologische Entdeckungen im Herzen des Jemen
 

@@ -4,10 +4,10 @@ title: "Sprachbarrieren überwinden in Südgeorgien und die Südlichen Sandwichi
 date: 2025-11-12 08:00:00 +0100
 permalink: /2025/11/12/sprachbarrieren-überwinden-in-südgeorgien-und-die-südlichen-sandwichinseln.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Sprachbarrieren überwinden in Südgeorgien und die Südlichen Sandwichinseln](https://upload.wikimedia.org/wikipedia/commons/a/ae/20110421_Tbilisi_Georgia_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Sprachlos in Südgeorgien: Eine Reise zwischen Gletschern und Kommunikationswundern
 

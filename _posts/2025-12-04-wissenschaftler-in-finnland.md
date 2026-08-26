@@ -4,10 +4,10 @@ title: "Wissenschaftler in Finnland"
 date: 2025-12-04 08:00:00 +0100
 permalink: /2025/12/04/wissenschaftler-in-finnland.html
 image: https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Toby_Jug_Nebula_as_seen_with_ESO%27s_Very_Large_Telescope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Wissenschaftler in Finnland](https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Toby_Jug_Nebula_as_seen_with_ESO%27s_Very_Large_Telescope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Finnlands Köpfe: Wenn Wissenschaft auf Nordlichter trifft
 

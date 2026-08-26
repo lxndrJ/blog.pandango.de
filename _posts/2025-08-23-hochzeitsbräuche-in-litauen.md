@@ -4,12 +4,12 @@ title: "Hochzeitsbräuche in Litauen"
 date: 2025-08-23 09:00:00 +0200
 permalink: /2025/08/23/hochzeitsbräuche-in-litauen.html
 image: https://images.unsplash.com/photo-1587271636175-90d58cdad458?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8d2VkZGluZyUyMGN1c3RvbXN8ZW58MHwwfHx8MTc4NzUzMDE1M3ww&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Hochzeitsbräuche in Litauen](https://images.unsplash.com/photo-1587271636175-90d58cdad458?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8d2VkZGluZyUyMGN1c3RvbXN8ZW58MHwwfHx8MTc4NzUzMDE1M3ww&ixlib=rb-4.1.0)
 
 # Litauische Hochzeitstraditionen: Zwischen Tradition und Moderne
 
@@ -47,4 +47,3 @@ Litauische Hochzeitsbräuche sind mehr als nur Zeremonien - sie sind lebendige G
 
 *Eine Reise wert: Die Hochzeitstraditionen Litauens - authentisch, emotional und voller Poesie.*
 
-![Eine Reise durch alte Rituale in Vilnius und darüber hinaus](https://images.unsplash.com/photo-1567113463224-37cf03ba4577?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8cml0dWFsc3xlbnwwfDB8fHwxNzg3NTMwMTUzfDA&ixlib=rb-4.1.0)

@@ -4,9 +4,9 @@ title: "Tanzformen in Slowenien"
 date: 2026-07-31 08:00:00 +0200
 permalink: /2026/07/31/tanzformen-in-slowenien.html
 image: https://images.unsplash.com/photo-1662076717703-e7a00400eb96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwU2xvd2VuaWVufGVufDB8MHx8fDE3ODU0NzcyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Tanzformen in Slowenien](https://images.unsplash.com/photo-1662076717703-e7a00400eb96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwU2xvd2VuaWVufGVufDB8MHx8fDE3ODU0NzcyMjB8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Die Seele Sloweniens tanzt – Ein Eintauchen in die faszinierende Welt der slowenischen Tanzkultur
 

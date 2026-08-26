@@ -4,12 +4,12 @@ title: "Transportmittel im Vergleich in Kongo (Dem. Rep.)"
 date: 2025-08-23 10:00:00 +0200
 permalink: /2025/08/23/transportmittel-im-vergleich-in-kongo-(dem.-rep.).html
 image: https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
 
 
-![Transportmittel im Vergleich in Kongo (Dem. Rep.)](https://upload.wikimedia.org/wikipedia/commons/d/d2/Cyril_Kongo_%282014%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Kinshasa: Eine Reise durch die Mobilität einer pulsierenden Metropole
 
@@ -52,4 +52,3 @@ Kinshasa lehrt uns, dass Mobilität mehr ist als eine technische Notwendigkeit. 
 - Wichtigste Verkehrsmittel: Matatus, Motorroller
 - Sprachen: Französisch, Lingala
 
-![Wenn Bewegung mehr als nur Fortbewegung ist](https://images.unsplash.com/photo-1669728282566-8e3fd873688a?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8QmV3ZWd1bmclMjBtZWhyJTIwRm9ydGJld2VndW5nfGVufDB8MHx8fDE3ODc1MzAxNTh8MA&ixlib=rb-4.1.0)

@@ -4,10 +4,10 @@ title: "Industriegeschichte in Griechenland"
 date: 2025-12-03 08:00:00 +0100
 permalink: /2025/12/03/industriegeschichte-in-griechenland.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Industriegeschichte in Griechenland](https://upload.wikimedia.org/wikipedia/commons/1/1d/07-17-2012_-_Emborio_-_Emporio_-_Santorini_-_Greece_-_16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die industrielle Reise Athens: Zwischen antiker Tradition und moderner Innovation
 

@@ -4,9 +4,9 @@ title: "Reisedokumente und Visa in Kirgisistan"
 date: 2026-04-10 08:00:00 +0200
 permalink: /2026/04/10/reisedokumente-und-visa-in-kirgisistan.html
 image: https://images.unsplash.com/photo-1691219571875-edbc9ae22c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWlzZWRva3VtZW50ZSUyMHVuZCUyMFZpc2ElMjBLaXJnaXNpc3RhbnxlbnwwfDB8fHwxNzc1Nzk4MTY2fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Reisedokumente und Visa in Kirgisistan](https://images.unsplash.com/photo-1691219571875-edbc9ae22c50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWlzZWRva3VtZW50ZSUyMHVuZCUyMFZpc2ElMjBLaXJnaXNpc3RhbnxlbnwwfDB8fHwxNzc1Nzk4MTY2fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Mit offenen Pässen in die Berge: Dein Guide zu Reisedokumenten und Visa für Kirgisistan
 

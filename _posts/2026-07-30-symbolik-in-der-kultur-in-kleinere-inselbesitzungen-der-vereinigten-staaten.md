@@ -4,10 +4,10 @@ title: "Symbolik in der Kultur in Kleinere Inselbesitzungen der Vereinigten Staa
 date: 2026-07-30 08:00:00 +0200
 permalink: /2026/07/30/symbolik-in-der-kultur-in-kleinere-inselbesitzungen-der-vereinigten-staaten.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/e6/Florenz._2%2C_Bargello_Domopera_Akademie_Kleinere_Sammlungen_1903_%28150670589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Symbolik in der Kultur in Kleinere Inselbesitzungen der Vereinigten Staaten](https://upload.wikimedia.org/wikipedia/commons/e/e6/Florenz._2%2C_Bargello_Domopera_Akademie_Kleinere_Sammlungen_1903_%28150670589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die verborgenen Symbole: Kulturelle Schätze der US-Inselterritorien
 
@@ -39,4 +39,3 @@ Vielleicht ist es an der Zeit, dass Washington DC nicht nur als politisches Zent
 
 Die nächste Gelegenheit, diese Kulturen zu erleben, könnte näher sein, als man denkt. Ein Festival, ein Konzert, ein Gespräch mit jemandem, der von einer dieser Inseln kommt – das sind die Momente, in denen Symbole lebendig werden.
 
-![Die Brücke zwischen Insel und Festland](https://upload.wikimedia.org/wikipedia/commons/8/8d/Blick_von_der_Gurlitt-Br%C3%BCcke.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

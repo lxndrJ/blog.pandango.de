@@ -4,9 +4,9 @@ title: "Architektur und Baukunst in Laos"
 date: 2026-06-24 08:00:00 +0200
 permalink: /2026/06/24/architektur-und-baukunst-in-laos.html
 image: https://images.unsplash.com/photo-1628601883607-6d0c5e0d8881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwTGFvc3xlbnwwfDB8fHwxNzgyMjgyODI5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Architektur und Baukunst in Laos](https://images.unsplash.com/photo-1628601883607-6d0c5e0d8881?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwTGFvc3xlbnwwfDB8fHwxNzgyMjgyODI5fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Architektur in Laos: Wo alte Weisheit auf französische Eleganz trifft
 

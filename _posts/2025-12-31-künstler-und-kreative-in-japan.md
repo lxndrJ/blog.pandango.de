@@ -4,9 +4,9 @@ title: "Künstler und Kreative in Japan"
 date: 2025-12-31 08:00:00 +0100
 permalink: /2025/12/31/künstler-und-kreative-in-japan.html
 image: https://images.unsplash.com/photo-1720058842141-60d859e0aad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUJDbnN0bGVyJTIwdW5kJTIwS3JlYXRpdmUlMjBKYXBhbnxlbnwwfDB8fHwxNzY3MTUzMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Künstler und Kreative in Japan](https://images.unsplash.com/photo-1720058842141-60d859e0aad6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUJDbnN0bGVyJTIwdW5kJTIwS3JlYXRpdmUlMjBKYXBhbnxlbnwwfDB8fHwxNzY3MTUzMzQwfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Tokios kreative Seele: Eine Reise durch die Kunstwelt Japans
 

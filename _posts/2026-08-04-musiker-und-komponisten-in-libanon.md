@@ -4,8 +4,8 @@ title: "Musiker und Komponisten in Libanon"
 date: 2026-08-04 08:00:00 +0200
 permalink: /2026/08/04/musiker-und-komponisten-in-libanon.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/4b/August_Petermann%2C_Libanon%2C_Kartenentwurf%2C_Forschungsbibliothek_Gotha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Musiker und Komponisten in Libanon](https://upload.wikimedia.org/wikipedia/commons/4/4b/August_Petermann%2C_Libanon%2C_Kartenentwurf%2C_Forschungsbibliothek_Gotha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Seele des Libanon: Musiker und Komponisten, die Geschichte schreiben
 

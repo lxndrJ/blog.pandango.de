@@ -4,9 +4,9 @@ title: "Brotvielfalt in Burundi"
 date: 2025-11-16 08:00:00 +0100
 permalink: /2025/11/16/brotvielfalt-in-burundi.html
 image: https://images.unsplash.com/photo-1680200023508-5289ae3de157?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCcm90dmllbGZhbHQlMjBCdXJ1bmRpfGVufDB8MHx8fDE3NjMyNjQ1Njl8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Brotvielfalt in Burundi](https://images.unsplash.com/photo-1680200023508-5289ae3de157?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCcm90dmllbGZhbHQlMjBCdXJ1bmRpfGVufDB8MHx8fDE3NjMyNjQ1Njl8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Duftende Scheiben: Eine kulinarische Reise durch Burundis Brotwelt
 

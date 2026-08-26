@@ -4,12 +4,12 @@ title: "Unternehmer in Suriname"
 date: 2025-08-27 08:00:00 +0200
 permalink: /2025/08/27/unternehmer-in-suriname.html
 image: https://images.unsplash.com/photo-1773249815795-99431b00b1c7?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VW50ZXJuZWhtZXIlMjBTdXJpbmFtZXxlbnwwfDB8fHwxNzg3NTMwMTY5fDA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Unternehmer in Suriname](https://images.unsplash.com/photo-1773249815795-99431b00b1c7?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8VW50ZXJuZWhtZXIlMjBTdXJpbmFtZXxlbnwwfDB8fHwxNzg3NTMwMTY5fDA&ixlib=rb-4.1.0)
 
 # Unternehmergeist in Suriname: Zwischen Tradition und Innovation
 
@@ -41,4 +41,3 @@ Surinamische Unternehmer beweisen täglich: Erfolg hat viele Gesichter. Sie komb
 
 *Eine Reise durch die Geschäftswelt Surinames ist wie eine Entdeckungsreise: voller Überraschungen, Dynamik und unerwarteter Möglichkeiten.*
 
-![Die Seele des surinamischen Unternehmertums](https://images.unsplash.com/photo-1631367095683-d311812cce5e?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8U2VlbGUlMjBzdXJpbmFtaXNjaGVuJTIwVW50ZXJuZWhtZXJ0dW1zfGVufDB8MHx8fDE3ODc1MzAxNzB8MA&ixlib=rb-4.1.0)

@@ -4,9 +4,9 @@ title: "Sicherheit auf Reisen in Indien"
 date: 2026-06-16 08:00:00 +0200
 permalink: /2026/06/16/sicherheit-auf-reisen-in-indien.html
 image: https://images.unsplash.com/photo-1619636534313-9e377ea5fc6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTaWNoZXJoZWl0JTIwYXVmJTIwUmVpc2VuJTIwSW5kaWVufGVufDB8MHx8fDE3ODE1OTkwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Sicherheit auf Reisen in Indien](https://images.unsplash.com/photo-1619636534313-9e377ea5fc6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTaWNoZXJoZWl0JTIwYXVmJTIwUmVpc2VuJTIwSW5kaWVufGVufDB8MHx8fDE3ODE1OTkwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Sicher durch Indien: Ein ehrlicher Reiseführer für Abenteuerlustige
 

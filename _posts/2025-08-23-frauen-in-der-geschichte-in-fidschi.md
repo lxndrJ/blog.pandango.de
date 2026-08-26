@@ -4,12 +4,12 @@ title: "Frauen in der Geschichte in Fidschi"
 date: 2025-08-23 08:00:00 +0200
 permalink: /2025/08/23/frauen-in-der-geschichte-in-fidschi.html
 image: https://images.unsplash.com/photo-1473163928189-364b2c4e1135?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfDB8fHwxNzg3NTMwMTUwfDA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Frauen in der Geschichte in Fidschi](https://images.unsplash.com/photo-1473163928189-364b2c4e1135?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfDB8fHwxNzg3NTMwMTUwfDA&ixlib=rb-4.1.0)
 
 # Frauen in Fidschi: Verborgene Geschichten einer Inselwelt
 
@@ -49,4 +49,3 @@ Die Reise geht weiter - mit Würde, Stolz und unbändigem Spirit.
 
 *Dieser Beitrag ist eine Hommage an die kraftvollen Frauen Fidschis, deren Geschichten noch zu oft ungehört bleiben.*
 
-![Traditionelle Rollen und kulturelle Identität](https://images.unsplash.com/photo-1585302397841-b42e837d0d81?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y3VsdHVyZSUyMHRyYWRpdGlvbmFsfGVufDB8MHx8fDE3ODc1MzAxNTB8MA&ixlib=rb-4.1.0)

@@ -4,9 +4,9 @@ title: "Vegetarische Spezialitäten in Vereinigte Arabische Emirate"
 date: 2025-11-15 08:00:00 +0100
 permalink: /2025/11/15/vegetarische-spezialitäten-in-vereinigte-arabische-emirate.html
 image: https://images.unsplash.com/photo-1667143384108-cc61acd3d841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWZWdldGFyaXNjaGUlMjBTcGV6aWFsaXQlQzMlQTR0ZW4lMjBWZXJlaW5pZ3RlJTIwQXJhYmlzY2hlJTIwRW1pcmF0ZXxlbnwwfDB8fHwxNzYzMTc3NjE2fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Vegetarische Spezialitäten in Vereinigte Arabische Emirate](https://images.unsplash.com/photo-1667143384108-cc61acd3d841?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxWZWdldGFyaXNjaGUlMjBTcGV6aWFsaXQlQzMlQTR0ZW4lMjBWZXJlaW5pZ3RlJTIwQXJhYmlzY2hlJTIwRW1pcmF0ZXxlbnwwfDB8fHwxNzYzMTc3NjE2fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geschmacksvolle Entdeckungen: Vegetarische Köstlichkeiten in den Vereinigten Arabischen Emiraten
 

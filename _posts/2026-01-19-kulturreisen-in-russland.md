@@ -4,9 +4,9 @@ title: "Kulturreisen in Russland"
 date: 2026-01-19 08:00:00 +0100
 permalink: /2026/01/19/kulturreisen-in-russland.html
 image: https://images.unsplash.com/photo-1547448415-e9f5b28e570d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWx0dXJyZWlzZW4lMjBSdXNzbGFuZHxlbnwwfDB8fHwxNzY4Nzk1NjAwfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Kulturreisen in Russland](https://images.unsplash.com/photo-1547448415-e9f5b28e570d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWx0dXJyZWlzZW4lMjBSdXNzbGFuZHxlbnwwfDB8fHwxNzY4Nzk1NjAwfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Russland entdecken: Eine Reise durch Kultur und Geschichte
 

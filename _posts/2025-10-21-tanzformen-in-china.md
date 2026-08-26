@@ -4,10 +4,10 @@ title: "Tanzformen in China"
 date: 2025-10-21 08:00:00 +0200
 permalink: /2025/10/21/tanzformen-in-china.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/b8/Baixi_Village_01_2014-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Tanzformen in China](https://upload.wikimedia.org/wikipedia/commons/b/b8/Baixi_Village_01_2014-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Tanzende Geschichten: Eine Reise durch Chinas Tanzwelt
 
@@ -35,4 +35,3 @@ Ob in den engen Gassen von Beijing oder auf modernen Konzertbühnen - der chines
 
 *Ein Tanz ist mehr als Bewegung - er ist eine Sprache des Herzens.*
 
-![Traditionelle Wurzeln](https://upload.wikimedia.org/wikipedia/commons/7/71/D%C3%BClmen%2C_Dreifaltigkeitskirmes_--_2018_--_0036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

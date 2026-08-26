@@ -4,10 +4,10 @@ title: "Kulinarische Reiserouten in Aruba"
 date: 2025-12-30 08:00:00 +0100
 permalink: /2025/12/30/kulinarische-reiserouten-in-aruba.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Kulinarische Reiserouten in Aruba](https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Geschmacksreise durch Aruba: Kulinarische Entdeckungen zwischen Karibik und Tradition
 
@@ -43,7 +43,6 @@ Typische Gerichte wie **Keshi Yena** - ein mit Fleisch und Käse gefüllter Käs
 
 Achte auf lokale Anbieter und traditionelle Restaurants. So untererstützt du die einheimische Wirtschaft und tauchst tiefer in die Kultur ein.
 
-![Oranjestad: Das kulinarische Herz der Insel](https://upload.wikimedia.org/wikipedia/commons/d/d0/ARUBA-oranjestad-hafen-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ---
 

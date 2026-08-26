@@ -4,9 +4,9 @@ title: "Regionale Gerichte in Bhutan"
 date: 2026-08-14 08:00:00 +0200
 permalink: /2026/08/14/regionale-gerichte-in-bhutan.html
 image: https://images.unsplash.com/photo-1584003734930-b12779f66351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWdpb25hbGUlMjBHZXJpY2h0ZSUyMEJodXRhbnxlbnwwfDB8fHwxNzg2NjgyNDIwfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Regionale Gerichte in Bhutan](https://images.unsplash.com/photo-1584003734930-b12779f66351?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxSZWdpb25hbGUlMjBHZXJpY2h0ZSUyMEJodXRhbnxlbnwwfDB8fHwxNzg2NjgyNDIwfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Bhutans kulinarische Schätze: Wenn Feuer und Tradition auf dem Teller tanzen
 

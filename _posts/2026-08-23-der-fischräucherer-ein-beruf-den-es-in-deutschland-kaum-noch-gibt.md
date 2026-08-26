@@ -4,6 +4,7 @@ title: "Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt"
 date: 2026-08-23 08:00:00 +0200
 permalink: /2026/08/23/der-fischräucherer-ein-beruf-den-es-in-deutschland-kaum-noch-gibt.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/17/Hexenbuche_mit_Kreuzberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
@@ -19,7 +20,6 @@ sources:
   - https://www.deutschesee.de/manufaktur/raeucherei/
 ---
 
-![Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt](https://upload.wikimedia.org/wikipedia/commons/1/17/Hexenbuche_mit_Kreuzberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt
 

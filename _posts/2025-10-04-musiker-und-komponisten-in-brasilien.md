@@ -4,10 +4,10 @@ title: "Musiker und Komponisten in Brasilien"
 date: 2025-10-04 08:00:00 +0200
 permalink: /2025/10/04/musiker-und-komponisten-in-brasilien.html
 image: https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Musiker und Komponisten in Brasilien](https://upload.wikimedia.org/wikipedia/commons/e/ea/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Gruppenfoto_Brasilien_850_0016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Klänge Brasiliens: Eine musikalische Reise durch Rhythmus und Seele
 

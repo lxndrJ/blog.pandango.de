@@ -4,9 +4,9 @@ title: "Kulinarische Reiserouten in Malta"
 date: 2025-12-11 08:00:00 +0100
 permalink: /2025/12/11/kulinarische-reiserouten-in-malta.html
 image: https://images.unsplash.com/photo-1587974928552-4f4aac51b45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBSZWlzZXJvdXRlbiUyME1hbHRhfGVufDB8MHx8fDE3NjU0MjUxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Kulinarische Reiserouten in Malta](https://images.unsplash.com/photo-1587974928552-4f4aac51b45d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLdWxpbmFyaXNjaGUlMjBSZWlzZXJvdXRlbiUyME1hbHRhfGVufDB8MHx8fDE3NjU0MjUxMTZ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geschmacksreise durch Malta: Kulinarische Entdeckungen zwischen Valletta und Mittelmeercharme
 

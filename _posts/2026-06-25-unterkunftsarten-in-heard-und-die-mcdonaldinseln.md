@@ -4,10 +4,10 @@ title: "Unterkunftsarten in Heard und die McDonaldinseln"
 date: 2026-06-25 08:00:00 +0200
 permalink: /2026/06/25/unterkunftsarten-in-heard-und-die-mcdonaldinseln.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Unterkunftsarten in Heard und die McDonaldinseln](https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Unterkunftsabenteuer auf Heard und den McDonaldinseln: Wo man wirklich übernachtet
 

@@ -4,9 +4,9 @@ title: "Schutzgebiete in Hongkong"
 date: 2026-05-02 08:00:00 +0200
 permalink: /2026/05/02/schutzgebiete-in-hongkong.html
 image: https://images.unsplash.com/photo-1708570320095-dff01f9c2fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTY2h1dHpnZWJpZXRlJTIwSG9uZ2tvbmd8ZW58MHwwfHx8MTc3NzY5OTY1OHww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Schutzgebiete in Hongkong](https://images.unsplash.com/photo-1708570320095-dff01f9c2fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTY2h1dHpnZWJpZXRlJTIwSG9uZ2tvbmd8ZW58MHwwfHx8MTc3NzY5OTY1OHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Hongkongs grüne Oasen: Wo Wildnis und Metropole sich die Hand reichen
 

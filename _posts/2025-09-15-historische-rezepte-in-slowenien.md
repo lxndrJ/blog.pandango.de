@@ -4,9 +4,9 @@ title: "Historische Rezepte in Slowenien"
 date: 2025-09-15 08:00:00 +0200
 permalink: /2025/09/15/historische-rezepte-in-slowenien.html
 image: https://images.unsplash.com/photo-1653328721091-9d212571c87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIaXN0b3Jpc2NoZSUyMFJlemVwdGUlMjBTbG93ZW5pZW58ZW58MHwwfHx8MTc1NzkwNzIxNXww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Historische Rezepte in Slowenien](https://images.unsplash.com/photo-1653328721091-9d212571c87c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxIaXN0b3Jpc2NoZSUyMFJlemVwdGUlMjBTbG93ZW5pZW58ZW58MHwwfHx8MTc1NzkwNzIxNXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geschmackvolle Zeitreise: Slowenische Küche zwischen Tradition und Moderne
 

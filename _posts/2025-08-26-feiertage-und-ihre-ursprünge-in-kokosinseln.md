@@ -4,12 +4,12 @@ title: "Feiertage und ihre Ursprünge in Kokosinseln"
 date: 2025-08-26 08:00:00 +0200
 permalink: /2025/08/26/feiertage-und-ihre-ursprünge-in-kokosinseln.html
 image: https://images.unsplash.com/photo-1773562995593-ae6eb0ea76f6?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8ZmVzdGl2YWxzJTIwaXNsYW5kfGVufDB8MHx8fDE3ODc1MzAxNjZ8MA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Feiertage und ihre Ursprünge in Kokosinseln](https://images.unsplash.com/photo-1773562995593-ae6eb0ea76f6?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8ZmVzdGl2YWxzJTIwaXNsYW5kfGVufDB8MHx8fDE3ODc1MzAxNjZ8MA&ixlib=rb-4.1.0)
 
 # Feiertage auf den Kokosinseln: Eine Reise durch Tradition und Kultur
 
@@ -50,4 +50,3 @@ Wer die Feiertage der Kokosinseln erleben möchte, sollte:
 
 *Eine Entdeckungsreise durch Kultur, Tradition und menschliche Verbundenheit.*
 
-![Zwischen Kokosnüssen und Geschichten](https://images.unsplash.com/photo-1473163928189-364b2c4e1135?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8aGlzdG9yeXxlbnwwfDB8fHwxNzg3NTMwMTUwfDA&ixlib=rb-4.1.0)

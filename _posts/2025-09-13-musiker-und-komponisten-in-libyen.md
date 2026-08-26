@@ -4,10 +4,10 @@ title: "Musiker und Komponisten in Libyen"
 date: 2025-09-13 08:00:00 +0200
 permalink: /2025/09/13/musiker-und-komponisten-in-libyen.html
 image: https://upload.wikimedia.org/wikipedia/commons/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Musiker und Komponisten in Libyen](https://upload.wikimedia.org/wikipedia/commons/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Klänge der Wüste: Libyens musikalische Seele
 

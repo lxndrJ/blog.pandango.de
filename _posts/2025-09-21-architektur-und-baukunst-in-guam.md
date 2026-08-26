@@ -4,9 +4,9 @@ title: "Architektur und Baukunst in Guam"
 date: 2025-09-21 08:00:00 +0200
 permalink: /2025/09/21/architektur-und-baukunst-in-guam.html
 image: https://images.unsplash.com/photo-1693733255357-f80176629e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwR3VhbXxlbnwwfDB8fHwxNzU4NDI1NTMxfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Architektur und Baukunst in Guam](https://images.unsplash.com/photo-1693733255357-f80176629e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxBcmNoaXRla3R1ciUyMHVuZCUyMEJhdWt1bnN0JTIwR3VhbXxlbnwwfDB8fHwxNzU4NDI1NTMxfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Architektur auf Guam: Eine Reise durch Raum und Zeit
 

@@ -4,10 +4,10 @@ title: "Kriege und Konflikte in Kap Verde"
 date: 2025-09-23 08:00:00 +0200
 permalink: /2025/09/23/kriege-und-konflikte-in-kap-verde.html
 image: https://upload.wikimedia.org/wikipedia/commons/0/06/Cape_Verde_Fogo_Ch%C3%A3_das_Caldeiras_school.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Kriege und Konflikte in Kap Verde](https://upload.wikimedia.org/wikipedia/commons/0/06/Cape_Verde_Fogo_Ch%C3%A3_das_Caldeiras_school.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Kap Verde: Eine Inselgeschichte zwischen Frieden und Konflikt
 

@@ -4,9 +4,9 @@ title: "Geschichte der Technik in Palästina"
 date: 2025-12-02 08:00:00 +0100
 permalink: /2025/12/02/geschichte-der-technik-in-palästina.html
 image: https://images.unsplash.com/photo-1720642496726-0be41d623a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXNjaGljaHRlJTIwZGVyJTIwVGVjaG5payUyMFBhbCVDMyVBNHN0aW5hfGVufDB8MHx8fDE3NjQ2NDcxNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Geschichte der Technik in Palästina](https://images.unsplash.com/photo-1720642496726-0be41d623a9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZXNjaGljaHRlJTIwZGVyJTIwVGVjaG5payUyMFBhbCVDMyVBNHN0aW5hfGVufDB8MHx8fDE3NjQ2NDcxNDJ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Technologische Innovationen im Herzen Palästinas: Eine Reise durch Zeit und Erfindungsgeist
 

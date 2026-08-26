@@ -4,12 +4,12 @@ title: "Abenteuerurlaub in Macao"
 date: 2025-08-25 08:00:00 +0200
 permalink: /2025/08/25/abenteuerurlaub-in-macao.html
 image: https://images.unsplash.com/photo-1708580175277-6c171e822f94?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TWFjYW98ZW58MHwwfHx8MTc4NzUzMDE2M3ww&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Abenteuerurlaub in Macao](https://images.unsplash.com/photo-1708580175277-6c171e822f94?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8TWFjYW98ZW58MHwwfHx8MTc4NzUzMDE2M3ww&ixlib=rb-4.1.0)
 
 # Abenteuer in Macao: Wo Tradition auf Moderne trifft
 
@@ -46,7 +46,6 @@ Nach dem Nervenkitzel empfehle ich einen Spaziergang durch die Altstadt. Die Rui
 
 Vergiss die Casinos - das wahre Abenteuer liegt in den Straßenküchen. Probiere Bacalhau, portugiesische Fischgerichte, und traditionelle chinesische Spezialitäten, die deine Geschmacksnerven auf eine Weltreise schicken.
 
-![Die unerwartete Abenteuermetropole](https://images.unsplash.com/photo-1656116432323-3ae6ec12541b?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8dW5lcndhcnRldGUlMjBBYmVudGV1ZXJtZXRyb3BvbGV8ZW58MHwwfHx8MTc4NzUzMDE2NHww&ixlib=rb-4.1.0)
 
 ---
 

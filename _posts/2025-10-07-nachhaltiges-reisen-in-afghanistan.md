@@ -4,9 +4,9 @@ title: "Nachhaltiges Reisen in Afghanistan"
 date: 2025-10-07 08:00:00 +0200
 permalink: /2025/10/07/nachhaltiges-reisen-in-afghanistan.html
 image: https://images.unsplash.com/photo-1607451174678-3b79cfb3a6ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXMlMjBSZWlzZW4lMjBBZmdoYW5pc3RhbnxlbnwwfDB8fHwxNzU5ODA3NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Nachhaltiges Reisen in Afghanistan](https://images.unsplash.com/photo-1607451174678-3b79cfb3a6ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxOYWNoaGFsdGlnZXMlMjBSZWlzZW4lMjBBZmdoYW5pc3RhbnxlbnwwfDB8fHwxNzU5ODA3NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Nachhaltiges Reisen in Afghanistan: Eine Reise zwischen Tradition und Herausforderung
 

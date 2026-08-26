@@ -4,9 +4,9 @@ title: "Gebirge und Wanderwege in Chile"
 date: 2026-02-07 08:00:00 +0100
 permalink: /2026/02/07/gebirge-und-wanderwege-in-chile.html
 image: https://images.unsplash.com/photo-1605703687138-ef448c86a807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyMENoaWxlfGVufDB8MHx8fDE3NzA0MzgyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Gebirge und Wanderwege in Chile](https://images.unsplash.com/photo-1605703687138-ef448c86a807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyMENoaWxlfGVufDB8MHx8fDE3NzA0MzgyMDJ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Die Andenriesen Chiles: Wandern zwischen Himmel und Erde
 

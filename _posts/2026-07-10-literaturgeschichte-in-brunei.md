@@ -4,8 +4,8 @@ title: "Literaturgeschichte in Brunei"
 date: 2026-07-10 08:00:00 +0200
 permalink: /2026/07/10/literaturgeschichte-in-brunei.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/a4/80-G-331265_Brunei%2C_Borneo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Literaturgeschichte in Brunei](https://upload.wikimedia.org/wikipedia/commons/a/a4/80-G-331265_Brunei%2C_Borneo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die verborgenen Geschichten Bruneis: Eine literarische Entdeckungsreise
 

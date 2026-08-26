@@ -4,8 +4,8 @@ title: "Küstenlandschaften in Mikronesien"
 date: 2026-03-13 08:00:00 +0100
 permalink: /2026/03/13/küstenlandschaften-in-mikronesien.html
 image: https://upload.wikimedia.org/wikipedia/commons/6/62/CNO_Visits_Federated_States_of_Micronesia_%288541850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Küstenlandschaften in Mikronesien](https://upload.wikimedia.org/wikipedia/commons/6/62/CNO_Visits_Federated_States_of_Micronesia_%288541850%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die magischen Küsten von Mikronesien: Wo das Meer die Geschichte erzählt
 

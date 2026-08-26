@@ -4,9 +4,9 @@ title: "Transportmittel im Vergleich in Schweiz"
 date: 2026-06-06 08:00:00 +0200
 permalink: /2026/06/06/transportmittel-im-vergleich-in-schweiz.html
 image: https://upload.wikimedia.org/wikipedia/commons/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Transportmittel im Vergleich in Schweiz](https://upload.wikimedia.org/wikipedia/commons/4/48/001_Chateau_de_Chillon_and_Dents_du_Midi_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Kunst der Fortbewegung in der Schweiz – Ein Reiseführer durch Züge, Busse und mehr
 

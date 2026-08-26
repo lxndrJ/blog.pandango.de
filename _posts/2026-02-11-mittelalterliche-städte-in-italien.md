@@ -4,9 +4,9 @@ title: "Mittelalterliche Städte in Italien"
 date: 2026-02-11 08:00:00 +0100
 permalink: /2026/02/11/mittelalterliche-städte-in-italien.html
 image: https://images.unsplash.com/photo-1591608468579-b4b443ace890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNaXR0ZWxhbHRlcmxpY2hlJTIwU3QlQzMlQTRkdGUlMjBJdGFsaWVufGVufDB8MHx8fDE3NzA3ODU3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Mittelalterliche Städte in Italien](https://images.unsplash.com/photo-1591608468579-b4b443ace890?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNaXR0ZWxhbHRlcmxpY2hlJTIwU3QlQzMlQTRkdGUlMjBJdGFsaWVufGVufDB8MHx8fDE3NzA3ODU3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Die verzaubernde Welt mittelalterlicher Städte in Italien
 

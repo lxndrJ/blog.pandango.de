@@ -4,9 +4,9 @@ title: "Industriegeschichte in Sri Lanka"
 date: 2026-07-15 08:00:00 +0200
 permalink: /2026/07/15/industriegeschichte-in-sri-lanka.html
 image: https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWVnZXNjaGljaHRlJTIwU3JpJTIwTGFua2F8ZW58MHwwfHx8MTc4NDA5Mjc5NHww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Industriegeschichte in Sri Lanka](https://images.unsplash.com/photo-1566296314736-6eaac1ca0cb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWVnZXNjaGljaHRlJTIwU3JpJTIwTGFua2F8ZW58MHwwfHx8MTc4NDA5Mjc5NHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Von Teefeldern zu Tech-Parks: Sri Lankas industrielle Wandlung
 

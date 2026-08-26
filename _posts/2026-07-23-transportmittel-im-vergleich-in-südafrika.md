@@ -4,9 +4,9 @@ title: "Transportmittel im Vergleich in Südafrika"
 date: 2026-07-23 08:00:00 +0200
 permalink: /2026/07/23/transportmittel-im-vergleich-in-südafrika.html
 image: https://images.unsplash.com/photo-1704037180905-d8c5bc1b1cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFuc3BvcnRtaXR0ZWwlMjBpbSUyMFZlcmdsZWljaCUyMFMlQzMlQkNkYWZyaWthfGVufDB8MHx8fDE3ODQ3ODUzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Transportmittel im Vergleich in Südafrika](https://images.unsplash.com/photo-1704037180905-d8c5bc1b1cdc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUcmFuc3BvcnRtaXR0ZWwlMjBpbSUyMFZlcmdsZWljaCUyMFMlQzMlQkNkYWZyaWthfGVufDB8MHx8fDE3ODQ3ODUzNDl8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Mobilität in Südafrika: Wie du das Land am besten erkundest
 

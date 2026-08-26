@@ -4,12 +4,12 @@ title: "Künstler und Kreative in Norwegen"
 date: 2025-08-29 08:00:00 +0200
 permalink: /2025/08/29/künstler-und-kreative-in-norwegen.html
 image: https://images.unsplash.com/photo-1544085311-11a028465b03?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8SyVDMyVCQ25zdGxlciUyMEtyZWF0aXZlJTIwTm9yd2VnZW58ZW58MHwwfHx8MTc4NzUzMDE3NXww&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Künstler und Kreative in Norwegen](https://images.unsplash.com/photo-1544085311-11a028465b03?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8SyVDMyVCQ25zdGxlciUyMEtyZWF0aXZlJTIwTm9yd2VnZW58ZW58MHwwfHx8MTc4NzUzMDE3NXww&ixlib=rb-4.1.0)
 
 # Norwegen: Eine Inspirationsquelle für Kreative und Künstler
 
@@ -41,4 +41,3 @@ Norwegen ist mehr als nur ein Land - es ist eine Inspirationsquelle. Ob in Oslo 
 
 *Die Reise der Kunst ist grenzenlos, und Norwegen ist ihr wunderbarer Ausgangspunkt.*
 
-![Die Sprache der Kunst und Natur](https://images.unsplash.com/photo-1673515334893-2c20c91d0e93?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8bGFuZ3VhZ2UlMjBuYXR1cmV8ZW58MHwwfHx8MTc4NzUzMDE3Nnww&ixlib=rb-4.1.0)

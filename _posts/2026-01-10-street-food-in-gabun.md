@@ -4,10 +4,10 @@ title: "Street Food in Gabun"
 date: 2026-01-10 08:00:00 +0100
 permalink: /2026/01/10/street-food-in-gabun.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/f9/Bulletin_r%C3%A9f%C3%A9rendum_Gabon_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Street Food in Gabun](https://upload.wikimedia.org/wikipedia/commons/f/f9/Bulletin_r%C3%A9f%C3%A9rendum_Gabon_2024.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Streetfood in Gabun: Eine kulinarische Entdeckungsreise durch Libreville
 

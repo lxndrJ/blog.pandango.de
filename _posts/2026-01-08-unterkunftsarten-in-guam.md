@@ -4,9 +4,9 @@ title: "Unterkunftsarten in Guam"
 date: 2026-01-08 08:00:00 +0100
 permalink: /2026/01/08/unterkunftsarten-in-guam.html
 image: https://images.unsplash.com/photo-1756642033012-bcc5920b371e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxVbnRlcmt1bmZ0c2FydGVuJTIwR3VhbXxlbnwwfDB8fHwxNzY3ODQ0NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Unterkunftsarten in Guam](https://images.unsplash.com/photo-1756642033012-bcc5920b371e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxVbnRlcmt1bmZ0c2FydGVuJTIwR3VhbXxlbnwwfDB8fHwxNzY3ODQ0NjE4fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Wo schlafe ich auf Guam? Ein Reiseführer voller Überraschungen
 

@@ -4,8 +4,8 @@ title: "Trachten und Kleidung in Sint Maarten"
 date: 2026-03-09 09:00:00 +0100
 permalink: /2026/03/09/trachten-und-kleidung-in-sint-maarten.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/53/2020-01-18_MIMER_-_IMO_9002647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Trachten und Kleidung in Sint Maarten](https://upload.wikimedia.org/wikipedia/commons/5/53/2020-01-18_MIMER_-_IMO_9002647.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die farbenfrohe Welt der Sint Maarten Trachten: Wo Kultur lebendig wird
 

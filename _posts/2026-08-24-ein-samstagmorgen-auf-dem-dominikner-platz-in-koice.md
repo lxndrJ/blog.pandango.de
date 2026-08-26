@@ -3,6 +3,8 @@ layout: post
 title: "Ein Samstagmorgen auf dem Dominikáner-Platz in Košice"
 date: 2026-08-24 08:00:00 +0200
 permalink: /2026/08/24/ein-samstagmorgen-auf-dem-dominikner-platz-in-koice.html
+image: https://images.unsplash.com/photo-1687091319621-b7143f086125?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8S29zaWNlJTIwU2xvdmFraWElMjBjaXR5fGVufDB8MHx8fDE3ODc3MjEwOTR8MA&ixlib=rb-4.1.0
+image_credit: "Photo by Vladyslav Yerofeiev on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:

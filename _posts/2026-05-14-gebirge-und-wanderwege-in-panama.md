@@ -4,9 +4,9 @@ title: "Gebirge und Wanderwege in Panama"
 date: 2026-05-14 08:00:00 +0200
 permalink: /2026/05/14/gebirge-und-wanderwege-in-panama.html
 image: https://images.unsplash.com/photo-1588367143729-8872e9b1d9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyMFBhbmFtYXxlbnwwfDB8fHwxNzc4NzM5MTk1fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Gebirge und Wanderwege in Panama](https://images.unsplash.com/photo-1588367143729-8872e9b1d9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZWJpcmdlJTIwdW5kJTIwV2FuZGVyd2VnZSUyMFBhbmFtYXxlbnwwfDB8fHwxNzc4NzM5MTk1fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Wandern in Panama: Zwischen Wolken und Urwald
 

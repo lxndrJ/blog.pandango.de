@@ -4,10 +4,10 @@ title: "Flora und Fauna in Ukraine"
 date: 2026-04-07 08:00:00 +0200
 permalink: /2026/04/07/flora-und-fauna-in-ukraine.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/bf/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Flora und Fauna in Ukraine](https://upload.wikimedia.org/wikipedia/commons/b/bf/D%C3%BClmen%2C_Hausd%C3%BClmen%2C_Golden_Retriever_--_2022_--_5945.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Ukraines wilde Schönheit: Flora und Fauna zwischen Stadt und Steppe
 

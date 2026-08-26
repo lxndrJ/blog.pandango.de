@@ -4,10 +4,10 @@ title: "Käse- und Wurstsorten in Nauru"
 date: 2026-03-26 08:00:00 +0100
 permalink: /2026/03/26/käse--und-wurstsorten-in-nauru.html
 image: https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Käse- und Wurstsorten in Nauru](https://upload.wikimedia.org/wikipedia/commons/9/9b/Coral_reef_on_Nauru.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Käse und Wurst auf Nauru: Kulinarische Schätze einer Inselrepublik
 

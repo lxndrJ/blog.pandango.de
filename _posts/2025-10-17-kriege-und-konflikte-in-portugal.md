@@ -4,9 +4,9 @@ title: "Kriege und Konflikte in Portugal"
 date: 2025-10-17 08:00:00 +0200
 permalink: /2025/10/17/kriege-und-konflikte-in-portugal.html
 image: https://images.unsplash.com/photo-1669908753503-78024f9ddfe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLcmllZ2UlMjB1bmQlMjBLb25mbGlrdGUlMjBQb3J0dWdhbHxlbnwwfDB8fHwxNzYwNjcxNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Kriege und Konflikte in Portugal](https://images.unsplash.com/photo-1669908753503-78024f9ddfe9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLcmllZ2UlMjB1bmQlMjBLb25mbGlrdGUlMjBQb3J0dWdhbHxlbnwwfDB8fHwxNzYwNjcxNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Portugals Schatten der Geschichte: Kriege, Konflikte und Resilienz
 

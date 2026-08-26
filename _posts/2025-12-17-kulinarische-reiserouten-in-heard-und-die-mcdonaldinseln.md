@@ -4,8 +4,8 @@ title: "Kulinarische Reiserouten in Heard und die McDonaldinseln"
 date: 2025-12-17 08:00:00 +0100
 permalink: /2025/12/17/kulinarische-reiserouten-in-heard-und-die-mcdonaldinseln.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Kulinarische Reiserouten in Heard und die McDonaldinseln](https://upload.wikimedia.org/wikipedia/commons/b/b7/AmberHeardTIFFSept10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Kulinarische Entdeckungsreise auf Heard und den McDonaldinseln: Ein gastronomisches Abenteuer am Ende der Welt
 

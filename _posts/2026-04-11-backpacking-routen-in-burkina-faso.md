@@ -4,8 +4,8 @@ title: "Backpacking-Routen in Burkina Faso"
 date: 2026-04-11 08:00:00 +0200
 permalink: /2026/04/11/backpacking-routen-in-burkina-faso.html
 image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Burkina_Faso-Niger_border.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Backpacking-Routen in Burkina Faso](https://upload.wikimedia.org/wikipedia/commons/8/8e/Burkina_Faso-Niger_border.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Burkina Faso zu Fuß: Die Magie des westafrikanischen Backpackings
 
 Wenn du dich fragst, wohin die nächste große Reise gehen soll, dann lass mich dir einen Geheimtipp ins Ohr flüstern: Burkina Faso. Dieses unterschätzte Juwel Westafrikas wartet darauf, von dir entdeckt zu werden – und zwar am besten mit Rucksack und offenen Sinnen.
 

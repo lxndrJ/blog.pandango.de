@@ -4,12 +4,12 @@ title: "Entdecker und Reisende in Vietnam"
 date: 2025-09-06 08:00:00 +0200
 permalink: /2025/09/06/entdecker-und-reisende-in-vietnam.html
 image: https://upload.wikimedia.org/wikipedia/commons/8/8b/Moers_St._Josef%2C_der_Heilige_Josef_mit_dem_Jesuskind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
 
 
-![Entdecker und Reisende in Vietnam](https://upload.wikimedia.org/wikipedia/commons/8/8b/Moers_St._Josef%2C_der_Heilige_Josef_mit_dem_Jesuskind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Auf den Spuren der Entdecker: Vietnam - Eine Reise zwischen Tradition und Moderne
 

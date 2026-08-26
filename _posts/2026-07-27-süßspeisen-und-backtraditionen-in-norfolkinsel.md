@@ -4,8 +4,8 @@ title: "Süßspeisen und Backtraditionen in Norfolkinsel"
 date: 2026-07-27 08:00:00 +0200
 permalink: /2026/07/27/süßspeisen-und-backtraditionen-in-norfolkinsel.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/f1/Bounty_Folk_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Süßspeisen und Backtraditionen in Norfolkinsel](https://upload.wikimedia.org/wikipedia/commons/f/f1/Bounty_Folk_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die süßen Geheimnisse der Norfolkinsel: Wo Tradition auf Inselzauber trifft
 

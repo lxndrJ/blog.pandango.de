@@ -4,10 +4,10 @@ title: "Wissenschaftler in Ghana"
 date: 2025-09-19 08:00:00 +0200
 permalink: /2025/09/19/wissenschaftler-in-ghana.html
 image: https://upload.wikimedia.org/wikipedia/commons/d/de/Anton-Wilhelm-Amo-6402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Wissenschaftler in Ghana](https://upload.wikimedia.org/wikipedia/commons/d/de/Anton-Wilhelm-Amo-6402.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wissenschaftler in Ghana: Pioniere zwischen Tradition und Innovation
 

@@ -4,12 +4,12 @@ title: "Fischgerichte in Saudi-Arabien"
 date: 2025-08-28 08:00:00 +0200
 permalink: /2025/08/28/fischgerichte-in-saudi-arabien.html
 image: https://images.unsplash.com/photo-1661081090288-fd8ffc486dd7?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8U2F1ZGklMjBmaXNoJTIwZGlzaGVzfGVufDB8MHx8fDE3ODc1MzAxNzJ8MA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Fischgerichte in Saudi-Arabien](https://images.unsplash.com/photo-1661081090288-fd8ffc486dd7?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8U2F1ZGklMjBmaXNoJTIwZGlzaGVzfGVufDB8MHx8fDE3ODc1MzAxNzJ8MA&ixlib=rb-4.1.0)
 
 # Fischgerichte in Saudi-Arabien: Eine kulinarische Entdeckungsreise
 
@@ -51,4 +51,3 @@ Eine kulinarische Entdeckung wartet darauf, von neugierigen Reisenden und Feinsc
 
 *Guten Appetit und auf eine geschmackvolle Reise!*
 
-![Die verborgene Küchen-Schatzkammer](https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Zm9vZHxlbnwwfDB8fHwxNzg3NTMwMTczfDA&ixlib=rb-4.1.0)

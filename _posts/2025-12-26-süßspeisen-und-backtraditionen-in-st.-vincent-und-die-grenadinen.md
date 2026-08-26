@@ -4,9 +4,9 @@ title: "Süßspeisen und Backtraditionen in St. Vincent und die Grenadinen"
 date: 2025-12-26 08:00:00 +0100
 permalink: /2025/12/26/süßspeisen-und-backtraditionen-in-st.-vincent-und-die-grenadinen.html
 image: https://images.unsplash.com/photo-1720415247385-a8b038c708ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTJUMzJUJDJUMzJTlGc3BlaXNlbiUyMHVuZCUyMEJhY2t0cmFkaXRpb25lbiUyMFN0LiUyMFZpbmNlbnQlMjB1bmQlMjBkaWUlMjBHcmVuYWRpbmVufGVufDB8MHx8fDE3NjY3MjExNTF8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Süßspeisen und Backtraditionen in St. Vincent und die Grenadinen](https://images.unsplash.com/photo-1720415247385-a8b038c708ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxTJUMzJUJDJUMzJTlGc3BlaXNlbiUyMHVuZCUyMEJhY2t0cmFkaXRpb25lbiUyMFN0LiUyMFZpbmNlbnQlMjB1bmQlMjBkaWUlMjBHcmVuYWRpbmVufGVufDB8MHx8fDE3NjY3MjExNTF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Zuckerparadies der Karibik: Süße Verführungen von St. Vincent
 

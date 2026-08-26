@@ -4,6 +4,7 @@ title: "Fünf Dinge, die mir in Schweden (Götaland) niemand vorher gesagt hat"
 date: 2026-08-21 08:00:00 +0200
 permalink: /2026/08/21/fünf-dinge-die-mir-in-schweden-götaland-niemand-vorher-gesagt-hat.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/52/Brakelund_Burial_Ground_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
@@ -19,7 +20,6 @@ sources:
   - https://www.volvocars-news.ch/scandic-life/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/
 ---
 
-![Fünf Dinge, die mir in Schweden (Götaland) niemand vorher gesagt hat](https://upload.wikimedia.org/wikipedia/commons/5/52/Brakelund_Burial_Ground_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Fünf Dinge, die mir in Schweden (Götaland) niemand vorher gesagt hat
 

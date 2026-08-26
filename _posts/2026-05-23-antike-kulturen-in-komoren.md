@@ -4,10 +4,10 @@ title: "Antike Kulturen in Komoren"
 date: 2026-05-23 08:00:00 +0200
 permalink: /2026/05/23/antike-kulturen-in-komoren.html
 image: https://upload.wikimedia.org/wikipedia/commons/1/16/Archipel_des_Comores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Antike Kulturen in Komoren](https://upload.wikimedia.org/wikipedia/commons/1/16/Archipel_des_Comores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Auf den Spuren der Antike: Komoren und ihre faszinierende Geschichte
 
@@ -43,4 +43,3 @@ Wenn ihr das nächste Mal von den Komoren hört, denkt nicht nur an weiße Strä
 
 Das ist die wahre Schönheit dieser Inseln – eine Geschichte, die immer noch geschrieben wird.
 
-![Moroni: Mehr als nur eine Hauptstadt](https://upload.wikimedia.org/wikipedia/commons/5/50/Giovanni_Battista_Moroni_-_The_Tailor_%281565-1570%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

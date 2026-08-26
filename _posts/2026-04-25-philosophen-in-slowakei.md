@@ -4,10 +4,10 @@ title: "Philosophen in Slowakei"
 date: 2026-04-25 08:00:00 +0200
 permalink: /2026/04/25/philosophen-in-slowakei.html
 image: https://upload.wikimedia.org/wikipedia/commons/7/72/000_Sllovakia_harta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Philosophen in Slowakei](https://upload.wikimedia.org/wikipedia/commons/7/72/000_Sllovakia_harta.PNG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Die Denker der Donau: Philosophie in der Slowakei
 

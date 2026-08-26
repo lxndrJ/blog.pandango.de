@@ -4,11 +4,11 @@ title: "Kriege und Konflikte in Oman"
 date: 2025-09-04 08:00:00 +0200
 permalink: /2025/09/04/kriege-und-konflikte-in-oman.html
 image: https://images.unsplash.com/photo-1772299399188-0139d5740004?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y29uZmxpY3QlMjB3YXJ8ZW58MHwwfHx8MTc4NzUzMDE5Mnww&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
-![Kriege und Konflikte in Oman](https://images.unsplash.com/photo-1772299399188-0139d5740004?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y29uZmxpY3QlMjB3YXJ8ZW58MHwwfHx8MTc4NzUzMDE5Mnww&ixlib=rb-4.1.0)
 
 # Oman: Eine Oase des Friedens in turbulenten Zeiten
 
@@ -44,4 +44,3 @@ Während ich die Corniche entlanggehe und den Indischen Ozean betrachte, wird mi
 
 *Reisenotiz: Nehmt euch Zeit, zuhört und beobachtet - die wahren Geschichten entstehen fernab von Schlagzeilen.*
 
-![Historische Schichten eines komplexen Landes](https://images.unsplash.com/photo-1741720524355-c5872e0fd461?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8SGlzdG9yaXNjaGUlMjBTY2hpY2h0ZW4lMjBrb21wbGV4ZW58ZW58MHwwfHx8MTc4NzUzMDE5M3ww&ixlib=rb-4.1.0)

@@ -4,9 +4,9 @@ title: "Bildung und Innovation in Guinea"
 date: 2025-12-16 08:00:00 +0100
 permalink: /2025/12/16/bildung-und-innovation-in-guinea.html
 image: https://images.unsplash.com/photo-1702937707077-814bb5e2d112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCaWxkdW5nJTIwdW5kJTIwSW5ub3ZhdGlvbiUyMEd1aW5lYXxlbnwwfDB8fHwxNzY1ODU3MTU5fDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Bildung und Innovation in Guinea](https://images.unsplash.com/photo-1702937707077-814bb5e2d112?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCaWxkdW5nJTIwdW5kJTIwSW5ub3ZhdGlvbiUyMEd1aW5lYXxlbnwwfDB8fHwxNzY1ODU3MTU5fDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Bildung als Schlüssel: Guineas Weg in eine innovative Zukunft
 

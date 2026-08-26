@@ -4,9 +4,9 @@ title: "Zeitgeschichte in Vietnam"
 date: 2026-03-23 08:00:00 +0100
 permalink: /2026/03/23/zeitgeschichte-in-vietnam.html
 image: https://images.unsplash.com/photo-1710702418104-6bf5419ab03d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxaZWl0Z2VzY2hpY2h0ZSUyMFZpZXRuYW18ZW58MHwwfHx8MTc3NDI0MTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Zeitgeschichte in Vietnam](https://images.unsplash.com/photo-1710702418104-6bf5419ab03d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxaZWl0Z2VzY2hpY2h0ZSUyMFZpZXRuYW18ZW58MHwwfHx8MTc3NDI0MTc1M3ww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Vietnam: Wo Geschichte atmet und die Zukunft wächst
 

@@ -4,9 +4,9 @@ title: "Bildung und Innovation in Färöer-Inseln"
 date: 2026-03-24 08:00:00 +0100
 permalink: /2026/03/24/bildung-und-innovation-in-färöer-inseln.html
 image: https://images.unsplash.com/photo-1638348196145-77a59170f602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCaWxkdW5nJTIwdW5kJTIwSW5ub3ZhdGlvbiUyMEYlQzMlQTRyJUMzJUI2ZXItSW5zZWxufGVufDB8MHx8fDE3NzQzMjc1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Bildung und Innovation in Färöer-Inseln](https://images.unsplash.com/photo-1638348196145-77a59170f602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCaWxkdW5nJTIwdW5kJTIwSW5ub3ZhdGlvbiUyMEYlQzMlQTRyJUMzJUI2ZXItSW5zZWxufGVufDB8MHx8fDE3NzQzMjc1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Auf den Färöer-Inseln: Wo Tradition und Innovation Hand in Hand gehen
 

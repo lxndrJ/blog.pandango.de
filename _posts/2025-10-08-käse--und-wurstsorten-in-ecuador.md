@@ -4,9 +4,9 @@ title: "Käse- und Wurstsorten in Ecuador"
 date: 2025-10-08 08:00:00 +0200
 permalink: /2025/10/08/käse--und-wurstsorten-in-ecuador.html
 image: https://images.unsplash.com/photo-1611460415343-523ee381bbff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUE0c2UtJTIwdW5kJTIwV3Vyc3Rzb3J0ZW4lMjBFY3VhZG9yfGVufDB8MHx8fDE3NTk4OTM3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Käse- und Wurstsorten in Ecuador](https://images.unsplash.com/photo-1611460415343-523ee381bbff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxLJUMzJUE0c2UtJTIwdW5kJTIwV3Vyc3Rzb3J0ZW4lMjBFY3VhZG9yfGVufDB8MHx8fDE3NTk4OTM3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Genusswelten zwischen Anden und Pazifik: Käse und Wurst in Ecuador
 

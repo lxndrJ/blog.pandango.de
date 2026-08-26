@@ -4,9 +4,9 @@ title: "Energiequellen in Kirgisistan"
 date: 2025-11-02 08:00:00 +0100
 permalink: /2025/11/02/energiequellen-in-kirgisistan.html
 image: https://images.unsplash.com/photo-1580064071616-efbf93343285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFbmVyZ2llcXVlbGxlbiUyMEtpcmdpc2lzdGFufGVufDB8MHx8fDE3NjIwNTQ3NzV8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Energiequellen in Kirgisistan](https://images.unsplash.com/photo-1580064071616-efbf93343285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxFbmVyZ2llcXVlbGxlbiUyMEtpcmdpc2lzdGFufGVufDB8MHx8fDE3NjIwNTQ3NzV8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Energiequellen in Kirgisistan: Zwischen Tradition und Innovation
 

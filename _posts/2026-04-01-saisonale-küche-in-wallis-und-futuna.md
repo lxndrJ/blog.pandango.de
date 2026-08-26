@@ -4,10 +4,10 @@ title: "Saisonale Küche in Wallis und Futuna"
 date: 2026-04-01 08:00:00 +0200
 permalink: /2026/04/01/saisonale-küche-in-wallis-und-futuna.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/c8/Carcasse_de_voiture_abandonn%C3%A9e_%C3%A0_Futuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Saisonale Küche in Wallis und Futuna](https://upload.wikimedia.org/wikipedia/commons/c/c8/Carcasse_de_voiture_abandonn%C3%A9e_%C3%A0_Futuna.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wenn die Insel selbst diktiert, was auf den Tisch kommt – Saisonale Küche in Wallis und Futuna
 

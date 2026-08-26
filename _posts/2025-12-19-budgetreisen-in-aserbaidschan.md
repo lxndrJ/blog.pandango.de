@@ -4,9 +4,9 @@ title: "Budgetreisen in Aserbaidschan"
 date: 2025-12-19 08:00:00 +0100
 permalink: /2025/12/19/budgetreisen-in-aserbaidschan.html
 image: https://images.unsplash.com/photo-1695902127509-5283dc9950fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCdWRnZXRyZWlzZW4lMjBBc2VyYmFpZHNjaGFufGVufDB8MHx8fDE3NjYxMTYzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Budgetreisen in Aserbaidschan](https://images.unsplash.com/photo-1695902127509-5283dc9950fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxCdWRnZXRyZWlzZW4lMjBBc2VyYmFpZHNjaGFufGVufDB8MHx8fDE3NjYxMTYzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Aserbaidschan entdecken: Mein Guide fürs Reisen ohne dickes Portemonnaie
 

@@ -4,9 +4,9 @@ title: "Industrialisierung in Estland"
 date: 2026-08-16 08:00:00 +0200
 permalink: /2026/08/16/industrialisierung-in-estland.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/f1/Calle_Viru%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Industrialisierung in Estland](https://upload.wikimedia.org/wikipedia/commons/f/f1/Calle_Viru%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Von der Hansestadt zur digitalen Nation: Estlands industrielle Transformation
 
@@ -46,7 +46,6 @@ Die Industrialisierungsgeschichte Estlands ist im Grunde die Geschichte einer kl
 
 Wenn du Tallinn besuchst, lohnt sich ein Blick über die glänzende moderne Oberfläche hinaus. Die Pflastersteine erzählen von Händlern, die Museen bewahren Erinnerungen an Arbeiter, und die Digitalisierung ist das neueste Kapitel einer langen, bewegten Geschichte.
 
-![Die frühen Jahre: Als Tallinn noch zur Hanse gehörte](https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ---
 

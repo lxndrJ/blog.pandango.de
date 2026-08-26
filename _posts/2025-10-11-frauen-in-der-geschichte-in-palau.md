@@ -4,10 +4,10 @@ title: "Frauen in der Geschichte in Palau"
 date: 2025-10-11 08:00:00 +0200
 permalink: /2025/10/11/frauen-in-der-geschichte-in-palau.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/af/Palau%2C_panorama_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Frauen in der Geschichte in Palau](https://upload.wikimedia.org/wikipedia/commons/a/af/Palau%2C_panorama_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Starke Frauen von Palau: Trägerinnen einer uralten Kultur
 
@@ -39,4 +39,3 @@ Die Geschichte der Frauen in Palau ist mehr als nur eine Chronologie von Ereigni
 
 *Reisen bedeutet, Geschichten zu verstehen - und in Palau sind es besonders kraftvolle.*
 
-![Eine Kultur im Wandel](https://upload.wikimedia.org/wikipedia/commons/7/7d/Sydney_%28AU%29%2C_Darling_Harbour_--_2019_--_3193-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

@@ -4,9 +4,9 @@ title: "Philosophen in Eritrea"
 date: 2025-10-10 08:00:00 +0200
 permalink: /2025/10/10/philosophen-in-eritrea.html
 image: https://images.unsplash.com/photo-1635188499893-8d1e64742ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEVyaXRyZWF8ZW58MHwwfHx8MTc2MDA2NjgwNXww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Philosophen in Eritrea](https://images.unsplash.com/photo-1635188499893-8d1e64742ed4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxQaGlsb3NvcGhlbiUyMEVyaXRyZWF8ZW58MHwwfHx8MTc2MDA2NjgwNXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Gedankenreisen: Philosophie in Eritreas Herzenswelt
 

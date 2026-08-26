@@ -3,6 +3,8 @@ layout: post
 title: "Warschau nach Lwiw über die Grenze – Was die Fahrzeit wirklich ist"
 date: 2026-08-24 09:00:00 +0200
 permalink: /2026/08/24/warschau-nach-lwiw-über-die-grenze-was-die-fahrzeit-wirklich-ist.html
+image: https://images.unsplash.com/photo-1613254097739-4a8d0c5d9d54?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8V2Fyc2F3JTIwdHJhaW4lMjBzdGF0aW9ufGVufDB8MHx8fDE3ODc3MjEwOTR8MA&ixlib=rb-4.1.0
+image_credit: "Photo by Michał Turkiewicz on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:

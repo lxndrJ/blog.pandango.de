@@ -4,9 +4,9 @@ title: "Museen und Gedenkstätten in Papua-Neuguinea"
 date: 2026-01-17 08:00:00 +0100
 permalink: /2026/01/17/museen-und-gedenkstätten-in-papua-neuguinea.html
 image: https://images.unsplash.com/photo-1600891407163-0613dd5f85c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNdXNlZW4lMjB1bmQlMjBHZWRlbmtzdCVDMyVBNHR0ZW4lMjBQYXB1YS1OZXVndWluZWF8ZW58MHwwfHx8MTc2ODYyMTc4Mnww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Museen und Gedenkstätten in Papua-Neuguinea](https://images.unsplash.com/photo-1600891407163-0613dd5f85c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxNdXNlZW4lMjB1bmQlMjBHZWRlbmtzdCVDMyVBNHR0ZW4lMjBQYXB1YS1OZXVndWluZWF8ZW58MHwwfHx8MTc2ODYyMTc4Mnww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Zeitreisen in Papua-Neuguinea: Museen zwischen Tradition und Geschichte
 

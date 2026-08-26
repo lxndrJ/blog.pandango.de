@@ -4,8 +4,8 @@ title: "Forschungseinrichtungen in Karibische Niederlande"
 date: 2026-06-19 08:00:00 +0200
 permalink: /2026/06/19/forschungseinrichtungen-in-karibische-niederlande.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/c9/Bonaire_%2834769022732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Forschungseinrichtungen in Karibische Niederlande](https://upload.wikimedia.org/wikipedia/commons/c/c9/Bonaire_%2834769022732%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)# Wissenschaft unter Palmen: Wie die Karibischen Niederlande Innovation vorantreiben
 
 Wenn man an Forschung denkt, stellt man sich wahrscheinlich sterile Labore in großen europäischen Städten vor – nicht unbedingt tropische Inseln mit weißen Stränden und türkisem Meer. Doch genau dort, in den Karibischen Niederlanden, passiert etwas Faszinierendes: Eine kleine, aber sehr engagierte Forschungsgemeinschaft arbeitet daran, die Zukunft einer einzigartigen Region zu gestalten.
 

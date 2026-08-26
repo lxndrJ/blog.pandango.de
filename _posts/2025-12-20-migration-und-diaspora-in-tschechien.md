@@ -4,10 +4,10 @@ title: "Migration und Diaspora in Tschechien"
 date: 2025-12-20 08:00:00 +0100
 permalink: /2025/12/20/migration-und-diaspora-in-tschechien.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/c3/Border_Austria-Czech_Republic_%28Schrattenberg_-_Valtice%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Migration und Diaspora in Tschechien](https://upload.wikimedia.org/wikipedia/commons/c/c3/Border_Austria-Czech_Republic_%28Schrattenberg_-_Valtice%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Wurzeln, Wege und Wandlungen: Die tschechische Diaspora zwischen Gestern und Heute
 
@@ -60,4 +60,3 @@ Wer Interesse an tieferen Einblicken hat, dem empfehle ich Werke von Milan Kunde
 
 **Nachwort:** Migration ist mehr als ein Ortswechsel. Es ist eine zutiefst menschliche Erfahrung von Hoffnung, Mut und Neuanfang.
 
-![Die Reise beginnt](https://upload.wikimedia.org/wikipedia/commons/e/e3/Hittin%27_The_Trail_For_Hallelujah_Land_Title_Card.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

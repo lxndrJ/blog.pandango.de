@@ -4,9 +4,9 @@ title: "Familienstrukturen in Jordanien"
 date: 2025-09-26 08:00:00 +0200
 permalink: /2025/09/26/familienstrukturen-in-jordanien.html
 image: https://images.unsplash.com/photo-1641954091306-4bdf8aa4ff1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBKb3JkYW5pZW58ZW58MHwwfHx8MTc1ODg1NzEyMXww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Familienstrukturen in Jordanien](https://images.unsplash.com/photo-1641954091306-4bdf8aa4ff1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBKb3JkYW5pZW58ZW58MHwwfHx8MTc1ODg1NzEyMXww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Familienleben in Jordanien: Zwischen Tradition und Moderne
 

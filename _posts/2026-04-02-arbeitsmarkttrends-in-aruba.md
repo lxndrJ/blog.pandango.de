@@ -4,8 +4,8 @@ title: "Arbeitsmarkttrends in Aruba"
 date: 2026-04-02 08:00:00 +0200
 permalink: /2026/04/02/arbeitsmarkttrends-in-aruba.html
 image: https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Arbeitsmarkttrends in Aruba](https://upload.wikimedia.org/wikipedia/commons/a/a5/Aruba_World_Wind.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Arbeitsmarkttrends in Aruba: Wenn Innovation auf Inselcharme trifft
 

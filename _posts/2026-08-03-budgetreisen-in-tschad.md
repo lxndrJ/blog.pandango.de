@@ -4,9 +4,9 @@ title: "Budgetreisen in Tschad"
 date: 2026-08-03 08:00:00 +0200
 permalink: /2026/08/03/budgetreisen-in-tschad.html
 image: https://upload.wikimedia.org/wikipedia/commons/3/3a/Festival_dary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Budgetreisen in Tschad](https://upload.wikimedia.org/wikipedia/commons/3/3a/Festival_dary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mit kleinem Budget groß raus: Budgetreisen im Tschad
 

@@ -4,12 +4,12 @@ title: "Street Food in Zypern"
 date: 2025-08-24 08:00:00 +0200
 permalink: /2025/08/24/street-food-in-zypern.html
 image: https://images.unsplash.com/photo-1552912470-ee2e96439539?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwZm9vZHxlbnwwfDB8fHwxNzg3NTMwMTYwfDA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Street Food in Zypern](https://images.unsplash.com/photo-1552912470-ee2e96439539?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwZm9vZHxlbnwwfDB8fHwxNzg3NTMwMTYwfDA&ixlib=rb-4.1.0)
 
 # Geschmacksreisen durch Zypern: Eine Street Food Entdeckungsreise
 
@@ -54,4 +54,3 @@ Zyprisches Street Food ist mehr als nur eine Mahlzeit - es ist eine sinnliche Re
 
 *Guten Appetit und auf eine kulinarische Entdeckungsreise!*
 
-![Herzstück der Straßenküche: Traditionelle Spezialitäten](https://images.unsplash.com/photo-1633360821222-7e8df83639fb?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c3BlY2lhbHR5JTIwdHJhZGl0aW9uYWx8ZW58MHwwfHx8MTc4NzUzMDE2MXww&ixlib=rb-4.1.0)

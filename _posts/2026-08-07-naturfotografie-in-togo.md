@@ -4,8 +4,8 @@ title: "Naturfotografie in Togo"
 date: 2026-08-07 08:00:00 +0200
 permalink: /2026/08/07/naturfotografie-in-togo.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/bc/1913_3pfg_Togo_used_Mi7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Naturfotografie in Togo](https://upload.wikimedia.org/wikipedia/commons/b/bc/1913_3pfg_Togo_used_Mi7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Mit der Kamera durchs grüne Herz Togos: Naturfotografie zwischen Strand und Savanne
 

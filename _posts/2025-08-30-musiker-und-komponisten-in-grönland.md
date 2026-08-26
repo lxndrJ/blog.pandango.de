@@ -4,12 +4,12 @@ title: "Musiker und Komponisten in Grönland"
 date: 2025-08-30 08:00:00 +0200
 permalink: /2025/08/30/musiker-und-komponisten-in-grönland.html
 image: https://images.unsplash.com/photo-1590377894621-65093facaef0?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y29tcG9zZXIlMjBtdXNpY2lhbnxlbnwwfDB8fHwxNzg3NTMwMTc5fDA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Musiker und Komponisten in Grönland](https://images.unsplash.com/photo-1590377894621-65093facaef0?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y29tcG9zZXIlMjBtdXNpY2lhbnxlbnwwfDB8fHwxNzg3NTMwMTc5fDA&ixlib=rb-4.1.0)
 
 # Klänge des Nordens: Grönlands musikalische Reise
 
@@ -43,4 +43,3 @@ Eine musikalische Entdeckungsreise, die unter die Haut geht und zeigt: Musik ken
 
 *Foto: Eine Musikerin mit traditioneller Trommel vor der Kulisse von Nuuk*
 
-![Kulturelle Soundtracks](https://images.unsplash.com/photo-1543906965-f9520aa2ed8a?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y3VsdHVyZXxlbnwwfDB8fHwxNzg3NTMwMTc5fDA&ixlib=rb-4.1.0)

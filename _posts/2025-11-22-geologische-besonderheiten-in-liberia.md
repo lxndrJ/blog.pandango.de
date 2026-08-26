@@ -4,9 +4,9 @@ title: "Geologische Besonderheiten in Liberia"
 date: 2025-11-22 08:00:00 +0100
 permalink: /2025/11/22/geologische-besonderheiten-in-liberia.html
 image: https://images.unsplash.com/photo-1723593638247-0dfd1c759997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZW9sb2dpc2NoZSUyMEJlc29uZGVyaGVpdGVuJTIwTGliZXJpYXxlbnwwfDB8fHwxNzYzNzgyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Geologische Besonderheiten in Liberia](https://images.unsplash.com/photo-1723593638247-0dfd1c759997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxHZW9sb2dpc2NoZSUyMEJlc29uZGVyaGVpdGVuJTIwTGliZXJpYXxlbnwwfDB8fHwxNzYzNzgyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Geologische Wunder: Eine Entdeckungsreise durch Liberias verborgene Landschaften
 

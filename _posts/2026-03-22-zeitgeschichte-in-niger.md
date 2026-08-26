@@ -4,9 +4,9 @@ title: "Zeitgeschichte in Niger"
 date: 2026-03-22 08:00:00 +0100
 permalink: /2026/03/22/zeitgeschichte-in-niger.html
 image: https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Zeitgeschichte in Niger](https://upload.wikimedia.org/wikipedia/commons/c/c3/Bessen_van_een_Ophiopogon_planiscapus_%27Niger%27._28-02-2023._%28d.j.b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Niger: Zwischen Wüstensand und Weltgeschichte
 

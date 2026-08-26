@@ -4,8 +4,8 @@ title: "Käse- und Wurstsorten in Estland"
 date: 2026-06-18 08:00:00 +0200
 permalink: /2026/06/18/käse--und-wurstsorten-in-estland.html
 image: https://upload.wikimedia.org/wikipedia/commons/f/f1/Calle_Viru%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
-![Käse- und Wurstsorten in Estland](https://upload.wikimedia.org/wikipedia/commons/f/f1/Calle_Viru%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Tallinn kulinarisch: Estlands Käse und Wurst zwischen Mittelalter und Moderne
 
@@ -53,4 +53,3 @@ Wenn Sie das nächste Mal Tallinn besuchen, nehmen Sie sich Zeit für diese kuli
 
 Terviseks! – Zum Wohl!
 
-![Tallinns kulinarische Hotspots](https://upload.wikimedia.org/wikipedia/commons/1/12/Aeropuerto_Internacional_de_Tallinn%2C_Estonia%2C_2012-08-05%2C_DD_03.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)

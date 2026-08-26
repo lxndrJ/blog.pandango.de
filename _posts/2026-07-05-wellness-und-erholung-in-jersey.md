@@ -4,9 +4,9 @@ title: "Wellness und Erholung in Jersey"
 date: 2026-07-05 08:00:00 +0200
 permalink: /2026/07/05/wellness-und-erholung-in-jersey.html
 image: https://images.unsplash.com/photo-1605235186403-ce8d56630a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXZWxsbmVzcyUyMHVuZCUyMEVyaG9sdW5nJTIwSmVyc2V5fGVufDB8MHx8fDE3ODMyMzI4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Wellness und Erholung in Jersey](https://images.unsplash.com/photo-1605235186403-ce8d56630a6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxXZWxsbmVzcyUyMHVuZCUyMEVyaG9sdW5nJTIwSmVyc2V5fGVufDB8MHx8fDE3ODMyMzI4NjF8MA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Wellness auf Jersey: Wo der Stress die Klippen hinunterfällt
 

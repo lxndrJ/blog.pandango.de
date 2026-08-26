@@ -4,10 +4,10 @@ title: "Zukunftstechnologien in Togo"
 date: 2026-01-07 08:00:00 +0100
 permalink: /2026/01/07/zukunftstechnologien-in-togo.html
 image: https://upload.wikimedia.org/wikipedia/commons/b/bc/1913_3pfg_Togo_used_Mi7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
 
-![Zukunftstechnologien in Togo](https://upload.wikimedia.org/wikipedia/commons/b/bc/1913_3pfg_Togo_used_Mi7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Togo zwischen Tradition und digitaler Transformation
 

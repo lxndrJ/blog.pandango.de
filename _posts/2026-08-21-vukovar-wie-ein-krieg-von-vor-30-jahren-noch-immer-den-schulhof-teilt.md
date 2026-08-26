@@ -4,6 +4,7 @@ title: "Vukovar: Wie ein Krieg von vor 30 Jahren noch immer den Schulhof teilt"
 date: 2026-08-21 10:00:00 +0200
 permalink: /2026/08/21/vukovar-wie-ein-krieg-von-vor-30-jahren-noch-immer-den-schulhof-teilt.html
 image: https://upload.wikimedia.org/wikipedia/commons/5/57/Autobus_%C4%8Cazmatrans_Vukovar_na_prijelazu_%C5%BEeljezni%C4%8Dke_pruge_u_Borovo_naselju_%28Vukovar%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
@@ -19,7 +20,6 @@ sources:
   - https://www.turus.net/reise/vukovar
 ---
 
-![Vukovar: Wie ein Krieg von vor 30 Jahren noch immer den Schulhof teilt](https://upload.wikimedia.org/wikipedia/commons/5/57/Autobus_%C4%8Cazmatrans_Vukovar_na_prijelazu_%C5%BEeljezni%C4%8Dke_pruge_u_Borovo_naselju_%28Vukovar%29%2C_2019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Vukovar: Wie ein Krieg von vor 30 Jahren noch immer den Schulhof teilt
 

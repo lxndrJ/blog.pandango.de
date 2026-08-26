@@ -4,9 +4,9 @@ title: "Familienstrukturen in Nepal"
 date: 2025-09-12 08:00:00 +0200
 permalink: /2025/09/12/familienstrukturen-in-nepal.html
 image: https://images.unsplash.com/photo-1667184087086-ac955d1f300d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBOZXBhbHxlbnwwfDB8fHwxNzU3NjQ3MjEyfDA&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Familienstrukturen in Nepal](https://images.unsplash.com/photo-1667184087086-ac955d1f300d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxGYW1pbGllbnN0cnVrdHVyZW4lMjBOZXBhbHxlbnwwfDB8fHwxNzU3NjQ3MjEyfDA&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Familienleben in Nepal: Zwischen Tradition und Wandel
 

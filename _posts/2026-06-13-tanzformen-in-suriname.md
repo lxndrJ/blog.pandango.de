@@ -4,9 +4,9 @@ title: "Tanzformen in Suriname"
 date: 2026-06-13 08:00:00 +0200
 permalink: /2026/06/13/tanzformen-in-suriname.html
 image: https://images.unsplash.com/photo-1773249815795-99431b00b1c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwU3VyaW5hbWV8ZW58MHwwfHx8MTc4MTMzMzA1MHww&ixlib=rb-4.1.0&q=80&w=1080
+image_credit: "Foto: Unsplash"
 ---
 
-![Tanzformen in Suriname](https://images.unsplash.com/photo-1773249815795-99431b00b1c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3OTQ0MzZ8MHwxfHNlYXJjaHwxfHxUYW56Zm9ybWVuJTIwU3VyaW5hbWV8ZW58MHwwfHx8MTc4MTMzMzA1MHww&ixlib=rb-4.1.0&q=80&w=1080)
 
 # Rhythmus und Seele: Die Tanztraditionen Surinames
 

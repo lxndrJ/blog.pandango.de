@@ -4,12 +4,12 @@ title: "Volksfeste und Bräuche in Salomonen"
 date: 2025-08-31 08:00:00 +0200
 permalink: /2025/08/31/volksfeste-und-bräuche-in-salomonen.html
 image: https://images.unsplash.com/photo-1717185891319-6bf096fba62f?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y3VzdG9tcyUyMGZlc3RpdmFsfGVufDB8MHx8fDE3ODc1MzAxODF8MA&ixlib=rb-4.1.0
+image_credit: "Foto: Unsplash"
 ---
 
 
 
 
-![Volksfeste und Bräuche in Salomonen](https://images.unsplash.com/photo-1717185891319-6bf096fba62f?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Y3VzdG9tcyUyMGZlc3RpdmFsfGVufDB8MHx8fDE3ODc1MzAxODF8MA&ixlib=rb-4.1.0)
 
 # Festliche Vielfalt: Die Volksfeste der Salomonen
 

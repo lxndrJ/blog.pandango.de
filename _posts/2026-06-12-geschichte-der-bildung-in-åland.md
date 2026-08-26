@@ -4,9 +4,9 @@ title: "Geschichte der Bildung in Åland"
 date: 2026-06-12 08:00:00 +0200
 permalink: /2026/06/12/geschichte-der-bildung-in-åland.html
 image: https://upload.wikimedia.org/wikipedia/commons/2/24/Aaland_Archipelago%2C_Finland_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 ---
 
-![Geschichte der Bildung in Åland](https://upload.wikimedia.org/wikipedia/commons/2/24/Aaland_Archipelago%2C_Finland_%28ASTER%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 # Vom Schulmeister zum Smartphone: Bildungsgeschichte auf Åland
 
