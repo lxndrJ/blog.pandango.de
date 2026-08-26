@@ -18,6 +18,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         
+      - name: Loop guard
+        run: |
+          if git log -1 --pretty=%s | grep -q "Auto-generate sitemap"; then
+            echo "::warning::Sitemap-Commit detected – skipping to avoid loop"
+            exit 1
+          fi
+        
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
@@ -174,7 +181,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Auto-generate sitemap.xml and robots.txt"
+            git commit -m "Auto-generate sitemap"
             # Pull latest changes before pushing to avoid conflicts
             git pull --rebase origin main
             git push origin main

@@ -133,3 +133,10 @@
     color: #768390;
   }
 }
+
+/* Mobile: Hero-Bild kompakter */
+@media (max-width: 600px) {
+  .hero-image img {
+    max-height: 300px;
+  }
+}

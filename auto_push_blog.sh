@@ -1,21 +1,21 @@
-#!/bin/bash
+#!/usr/bin/env bash
+set -euo pipefail
 
-# Aktuelles Datum im Format YYYYMMDD und YYYY-MM-DD
-DATE=$(date +"%Y%m%d")
-DATE_HUMAN=$(date +"%Y-%m-%d")
+DATE=$(date +%Y%m%d)
+shopt -s nullglob
+files=("./_posts/${DATE}_"*.md)
+shopt -u nullglob
 
-# Finde die Markdown-Datei mit dem heutigen Datum
-FILE=$(ls ./_posts/${DATE}_*.md 2>/dev/null)
-
-# Prüfen, ob Datei existiert
-if [ -z "$FILE" ]; then
-  echo "Keine Markdown-Datei für heute gefunden."
+if [ ${#files[@]} -eq 0 ]; then
+  echo "Kein Post für $DATE gefunden"
   exit 1
 fi
 
-# Git-Befehle ausführen
-git add "$FILE"
-git commit -m "Automatischer Blogpost vom $DATE_HUMAN"
-git push
+for f in "${files[@]}"; do
+  git add -- "$f"
+done
 
-echo "Blogpost '$FILE' erfolgreich zu GitHub gepusht."
+git commit -m "Automatischer Blogpost vom $(date +%Y-%m-%d)"
+git pull --rebase --autostash origin HEAD
+git push --set-upstream origin HEAD
+echo "✅ Post gepusht"
