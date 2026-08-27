@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+<!-- Welcome Section -->
+<section class="home-welcome">
+  <h1 class="home-welcome-title">{{ page.title | default: site.title }}</h1>
+  <p class="home-welcome-text">
+    {{ page.welcome | default: "Willkommen auf meinem Blog! Hier teile ich Gedanken zu Reisen, Work-Life-Balance, Kochen und vielem mehr." }}
+  </p>
+</section>
+
+<!-- Collect unique categories -->
+{% assign cat_list = "" %}
+{% for post in site.posts %}
+  {% assign cat = post.categories | first | default: "Allgemein" %}
+  {% if cat_list == "" %}
+    {% assign cat_list = cat %}
+  {% elsif cat_list != cat %}
+    {% if cat_list contains cat %}
+    {% else %}
+      {% assign cat_list = cat_list | append: "|" | append: cat %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<!-- Category Filter (visible when >1 category exists) -->
+{% if cat_list contains "|" %}
+{% assign cat_array = cat_list | split: "|" %}
+<nav class="home-categories" aria-label="Kategorien">
+  <button class="cat-btn active" data-filter="all">Alle</button>
+  {% for cat in cat_array %}
+  <button class="cat-btn" data-filter="{{ cat | downcase }}">{{ cat }}</button>
+  {% endfor %}
+</nav>
+{% endif %}
+
+<!-- Post Grid -->
+<main class="home-posts">
+  {% assign posts = paginator.posts | default: site.posts %}
+  {% for post in posts %}
+    {% assign cat = post.categories | first | default: "Allgemein" %}
+    <article class="post-card" data-category="{{ cat | downcase }}">
+      {% if post.image %}
+      <a href="{{ post.url }}" class="post-card-image" tabindex="-1" aria-hidden="true">
+        <img src="{{ post.image }}"
+             alt=""
+             width="600" height="340"
+             loading="lazy"
+             style="object-fit:cover;width:100%;height:180px;" />
+      </a>
+      {% endif %}
+
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d. %B %Y" }}</time>
+          <span class="post-card-category">{{ cat }}</span>
+        </div>
+
+        <h2 class="post-card-title">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h2>
+
+        {% if post.excerpt %}
+        <p class="post-card-excerpt">
+          {{ post.excerpt | strip_html | truncatewords: 25 }}
+        </p>
+        {% endif %}
+
+        <a href="{{ post.url }}" class="post-card-link">Weiterlesen →</a>
+      </div>
+    </article>
+  {% endfor %}
+</main>
+
+<!-- Pagination -->
+{% if paginator and paginator.total_pages > 1 %}
+<nav class="home-pagination" aria-label="Seitennavigation">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="page-link">← Zurück</a>
+  {% endif %}
+
+  <span class="page-info">Seite {{ paginator.page }} von {{ paginator.total_pages }}</span>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="page-link">Weiter →</a>
+  {% endif %}
+</nav>
+{% endif %}
+
+<!-- Category filter script -->
+{% if cat_list contains "|" %}
+<script>
+(function() {
+  const buttons = document.querySelectorAll('.cat-btn');
+  const cards = document.querySelectorAll('.post-card');
+  buttons.forEach(btn => {
+    btn.addEventListener('click', () => {
+      buttons.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const filter = btn.dataset.filter;
+      cards.forEach(card => {
+        card.style.display = (filter === 'all' || card.dataset.category === filter) ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+{% endif %}

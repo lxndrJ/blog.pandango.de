@@ -134,6 +134,296 @@
   }
 }
 
+/* ============================================
+   Homepage – Welcome, Categories, Post Cards
+   ============================================ */
+
+.home-welcome {
+  text-align: center;
+  padding: 2.5rem 1rem 2rem;
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.home-welcome-title {
+  font-size: 2.4rem;
+  font-weight: 800;
+  line-height: 1.15;
+  margin-bottom: 0.75rem;
+  background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.home-welcome-text {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Category filter buttons */
+.home-categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0 1rem 1.5rem;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.cat-btn {
+  border: 1.5px solid #d0d7de;
+  background: #fff;
+  color: #444;
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 0.4rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.cat-btn:hover {
+  border-color: #3498db;
+  color: #3498db;
+}
+
+.cat-btn.active {
+  background: #3498db;
+  border-color: #3498db;
+  color: #fff;
+}
+
+/* Post card grid */
+.home-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  padding: 0 1.5rem 2rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.post-card {
+  background: #fff;
+  border: 1px solid #e1e4e8;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.1);
+}
+
+.post-card-image {
+  display: block;
+  line-height: 0;
+  overflow: hidden;
+}
+
+.post-card-image img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.post-card:hover .post-card-image img {
+  transform: scale(1.03);
+}
+
+.post-card-body {
+  padding: 1.2rem 1.4rem 1.4rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.6rem;
+  font-size: 0.8rem;
+  color: #6a737d;
+}
+
+.post-card-category {
+  background: #eef2f5;
+  color: #555;
+  padding: 0.15rem 0.6rem;
+  border-radius: 10px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.post-card-title {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.3;
+  margin-bottom: 0.5rem;
+}
+
+.post-card-title a {
+  color: #24292e;
+  text-decoration: none;
+}
+
+.post-card-title a:hover {
+  color: #3498db;
+}
+
+.post-card-excerpt {
+  font-size: 0.92rem;
+  color: #555;
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+  flex: 1;
+}
+
+.post-card-link {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #3498db;
+  text-decoration: none;
+  margin-top: auto;
+}
+
+.post-card-link:hover {
+  text-decoration: underline;
+}
+
+/* Pagination */
+.home-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 1.5rem 1rem 2.5rem;
+}
+
+.home-pagination .page-link {
+  color: #3498db;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: 1.5px solid #3498db;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.home-pagination .page-link:hover {
+  background: #3498db;
+  color: #fff;
+}
+
+.home-pagination .page-info {
+  color: #6a737d;
+  font-size: 0.9rem;
+}
+
+/* ============================================
+   Dark Mode – Homepage
+   ============================================ */
+@media (prefers-color-scheme: dark) {
+  .home-welcome-title {
+    background: linear-gradient(135deg, #e6edf3 0%, #58a6ff 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+
+  .home-welcome-text {
+    color: #adbac7;
+  }
+
+  .cat-btn {
+    background: #21262d;
+    border-color: #444c56;
+    color: #adbac7;
+  }
+
+  .cat-btn:hover {
+    border-color: #58a6ff;
+    color: #58a6ff;
+  }
+
+  .cat-btn.active {
+    background: #1f6feb;
+    border-color: #1f6feb;
+    color: #fff;
+  }
+
+  .post-card {
+    background: #161b22;
+    border-color: #30363d;
+  }
+
+  .post-card:hover {
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.4);
+  }
+
+  .post-card-category {
+    background: #2d333b;
+    color: #adbac7;
+  }
+
+  .post-card-title a {
+    color: #e6edf3;
+  }
+
+  .post-card-title a:hover {
+    color: #58a6ff;
+  }
+
+  .post-card-excerpt {
+    color: #8b949e;
+  }
+
+  .post-card-link {
+    color: #58a6ff;
+  }
+
+  .home-pagination .page-link {
+    color: #58a6ff;
+    border-color: #58a6ff;
+  }
+
+  .home-pagination .page-link:hover {
+    background: #1f6feb;
+  }
+
+  .home-pagination .page-info {
+    color: #768390;
+  }
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .home-welcome-title {
+    font-size: 1.8rem;
+  }
+
+  .home-posts {
+    grid-template-columns: 1fr;
+    padding: 0 1rem 1.5rem;
+  }
+
+  .post-card-image img {
+    height: 160px;
+  }
+}
+
+/* ============================================
+   (End of custom styles)
+   ============================================ */
+
 /* Mobile: Hero-Bild kompakter */
 @media (max-width: 600px) {
   .hero-image img {

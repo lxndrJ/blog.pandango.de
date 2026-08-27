@@ -1,12 +1,5 @@
 ---
 layout: home
-title: "Blog.pandango.de"
+title: "blog.pandango.de"
+welcome: "Willkommen auf meinem Blog! Hier teile ich Gedanken zu Reisen, Work-Life-Balance, Kochen und vielem mehr. Neue Themen kommen regelmäßig dazu – schau einfach mal vorbei."
 ---
-
-# Inhaltsverzeichnis
-
-Willkommen bei **blog.pandango.de**! Hier finden Sie alle verfügbaren Blogposts sortiert nach Veröffentlichungsdatum.
-
-## Alle Blogposts
-
-
