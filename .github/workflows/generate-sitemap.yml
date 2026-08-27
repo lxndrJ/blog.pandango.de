@@ -1,177 +1,200 @@
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v4
-    with:
-      fetch-depth: 0
-      persist-credentials: true
+name: Generate Sitemap and Robots.txt
 
-  - name: Loop guard
-    run: |
-      if git log -1 --pretty=%s | grep -q "Auto-generate sitemap"; then
-        echo "::warning::Sitemap-Commit detected – skipping to avoid loop"
-        exit 0
-      fi
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_posts/**'
+      - '.github/workflows/generate-sitemap.yml'
 
-  - name: Setup Ruby
-    uses: ruby/setup-ruby@v1
-    with:
-      ruby-version: '3.2'
-      bundler-cache: true
+jobs:
+  generate-sitemap:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-  - name: Install dependencies
-    run: |
-      bundle install
+      - name: Loop guard
+        id: loop_guard
+        run: |
+          if git log -1 --pretty=%s | grep -q "Auto-generate sitemap"; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "::warning::Sitemap-Commit detected – skipping to avoid loop"
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
 
-  - name: Generate sitemap.xml and robots.txt
-    run: |
-      # Create sitemap generation script
-      cat > generate_sitemap.rb << 'EOF'
-      #!/usr/bin/env ruby
-      require 'time'
-      require 'date'
-      require 'yaml'
-      require 'cgi'
+      - name: Setup Ruby
+        if: steps.loop_guard.outputs.skip == 'false'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
 
-      # Site configuration
-      base_url = "https://blog.pandango.de"
+      - name: Generate sitemap.xml and robots.txt
+        if: steps.loop_guard.outputs.skip == 'false'
+        run: |
+          # Create sitemap generation script
+          cat > generate_sitemap.rb << 'EOF'
+          #!/usr/bin/env ruby
+          require 'time'
+          require 'date'
+          require 'yaml'
+          require 'cgi'
 
-      # Start building sitemap XML
-      sitemap_content = <<~XML
-        <?xml version="1.0" encoding="UTF-8"?>
-        <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-      XML
+          # Site configuration
+          base_url = "https://blog.pandango.de"
 
-      # Add homepage
-      sitemap_content += <<~XML
-          <url>
-            <loc>#{base_url}/</loc>
-            <lastmod>#{Time.now.strftime('%Y-%m-%d')}</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>1.0</priority>
-          </url>
-      XML
+          # Start building sitemap XML
+          sitemap_content = <<~XML
+            <?xml version="1.0" encoding="UTF-8"?>
+            <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+          XML
 
-      # Process all markdown files in _posts (including subfolders and .markdown)
-      posts_dir = "_posts"
-      if Dir.exist?(posts_dir)
-        Dir.glob("#{posts_dir}/**/*.{md,markdown}").sort.each do |post_file|
-          begin
-            content = File.read(post_file)
+          # Add homepage
+          sitemap_content += <<~XML
+              <url>
+                <loc>#{base_url}/</loc>
+                <lastmod>#{Time.now.strftime('%Y-%m-%d')}</lastmod>
+                <changefreq>daily</changefreq>
+                <priority>1.0</priority>
+              </url>
+          XML
 
-            # Extract front matter using YAML
-            if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
-              metadata = YAML.safe_load($1) || {}
+          # Process all markdown files in _posts (including subfolders and .markdown)
+          posts_dir = "_posts"
+          if Dir.exist?(posts_dir)
+            Dir.glob("#{posts_dir}/**/*.{md,markdown}").sort.each do |post_file|
+              begin
+                content = File.read(post_file)
 
-              # Prefer date from front matter, fallback to git last commit date, then today
-              date_from_front = metadata['date']
-              lastmod_git = `git log -1 --format=%cI -- "#{post_file}"`.chomp
+                # Extract front matter using YAML
+                if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
+                  metadata = YAML.safe_load($1) || {}
 
-              lastmod = begin
-                if date_from_front
-                  Date.parse(date_from_front.to_s).strftime('%Y-%m-%d') rescue (lastmod_git.empty? ? Time.now.strftime('%Y-%m-%d') : Date.parse(lastmod_git).strftime('%Y-%m-%d') rescue Time.now.strftime('%Y-%m-%d'))
-                else
-                  lastmod_git.empty? ? Time.now.strftime('%Y-%m-%d') : Date.parse(lastmod_git).strftime('%Y-%m-%d') rescue Time.now.strftime('%Y-%m-%d')
+                  # Prefer date from front matter, fallback to git last commit date, then today
+                  date_from_front = metadata['date']
+                  lastmod_git = `git log -1 --format=%cI -- "#{post_file}"`.chomp
+
+                  lastmod = begin
+                    if date_from_front
+                      Date.parse(date_from_front.to_s).strftime('%Y-%m-%d') rescue (lastmod_git.empty? ? Time.now.strftime('%Y-%m-%d') : Date.parse(lastmod_git).strftime('%Y-%m-%d') rescue Time.now.strftime('%Y-%m-%d'))
+                    else
+                      lastmod_git.empty? ? Time.now.strftime('%Y-%m-%d') : Date.parse(lastmod_git).strftime('%Y-%m-%d') rescue Time.now.strftime('%Y-%m-%d')
+                    end
+                  rescue
+                    Time.now.strftime('%Y-%m-%d')
+                  end
+
+                  filename = File.basename(post_file, '.*')
+                  if filename.match(/(\d{4})-(\d{2})-(\d{2})-(.*?)$/)
+                    year = $1
+                    month = $2
+                    day = $3
+                    post_slug = $4
+                    post_url = "#{base_url}/#{year}/#{month}/#{day}/#{post_slug}.html"
+                  else
+                    # Fallback for files that don't follow date format
+                    post_url = "#{base_url}/#{filename}.html"
+                  end
+
+                  sitemap_content += <<~XML
+              <url>
+                <loc>#{CGI.escapeHTML(post_url)}</loc>
+                <lastmod>#{lastmod}</lastmod>
+                <changefreq>weekly</changefreq>
+                <priority>0.8</priority>
+              </url>
+                  XML
+
+                  puts "Added: #{post_url}"
                 end
-              rescue
-                Time.now.strftime('%Y-%m-%d')
+              rescue => e
+                puts "Error processing #{post_file}: #{e.message}"
               end
-
-              filename = File.basename(post_file, '.*')
-              if filename.match(/(\d{4})-(\d{2})-(\d{2})-(.*?)$/)
-                year = $1
-                month = $2
-                day = $3
-                post_slug = $4
-                post_url = "#{base_url}/#{year}/#{month}/#{day}/#{post_slug}.html"
-              else
-                # Fallback for files that don't follow date format
-                post_url = "#{base_url}/#{filename}.html"
-              end
-
-              sitemap_content += <<~XML
-          <url>
-            <loc>#{CGI.escapeHTML(post_url)}</loc>
-            <lastmod>#{lastmod}</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-          </url>
-              XML
-
-              puts "Added: #{post_url}"
             end
-          rescue => e
-            puts "Error processing #{post_file}: #{e.message}"
           end
-        end
-      end
 
-      # Process other markdown files in repository root (pages)
-      Dir.glob("*.{md,markdown}").each do |md_file|
-        next if md_file == "README.md"
+          # Process other markdown files in repository root (pages)
+          Dir.glob("*.{md,markdown}").each do |md_file|
+            next if md_file == "README.md"
 
-        begin
-          content = File.read(md_file)
+            begin
+              content = File.read(md_file)
 
-          if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
-            lastmod_git = `git log -1 --format=%cI -- "#{md_file}"`.chomp
-            lastmod = (lastmod_git.empty? ? Time.now.strftime('%Y-%m-%d') : (Date.parse(lastmod_git).strftime('%Y-%m-%d') rescue Time.now.strftime('%Y-%m-%d')))
+              if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
+                lastmod_git = `git log -1 --format=%cI -- "#{md_file}"`.chomp
+                lastmod = (lastmod_git.empty? ? Time.now.strftime('%Y-%m-%d') : (Date.parse(lastmod_git).strftime('%Y-%m-%d') rescue Time.now.strftime('%Y-%m-%d')))
 
-            filename = File.basename(md_file, '.*')
-            page_url = "#{base_url}/#{filename}.html"
+                filename = File.basename(md_file, '.*')
+                page_url = "#{base_url}/#{filename}.html"
 
-            sitemap_content += <<~XML
-          <url>
-            <loc>#{CGI.escapeHTML(page_url)}</loc>
-            <lastmod>#{lastmod}</lastmod>
-            <changefreq>monthly</changefreq>
-            <priority>0.6</priority>
-          </url>
-            XML
+                sitemap_content += <<~XML
+              <url>
+                <loc>#{CGI.escapeHTML(page_url)}</loc>
+                <lastmod>#{lastmod}</lastmod>
+                <changefreq>monthly</changefreq>
+                <priority>0.6</priority>
+              </url>
+                XML
 
-            puts "Added: #{page_url}"
+                puts "Added: #{page_url}"
+              end
+            rescue => e
+              puts "Error processing #{md_file}: #{e.message}"
+            end
           end
-        rescue => e
-          puts "Error processing #{md_file}: #{e.message}"
-        end
-      end
 
-      # Close sitemap XML
-      sitemap_content += "</urlset>\n"
+          # Close sitemap XML
+          sitemap_content += "</urlset>\n"
 
-      # Write sitemap.xml
-      File.write('sitemap.xml', sitemap_content)
-      puts "Generated sitemap.xml with #{sitemap_content.scan(/<url>/).length} URLs"
+          # Write sitemap.xml
+          File.write('sitemap.xml', sitemap_content)
+          puts "Generated sitemap.xml with #{sitemap_content.scan(/<url>/).length} URLs"
 
-      # Generate robots.txt
-      robots_content = <<~ROBOTS
-        User-agent: *
-        Allow: /
-        Disallow: /admin/
+          # Generate robots.txt
+          robots_content = <<~ROBOTS
+            User-agent: *
+            Allow: /
+            Disallow: /admin/
 
-        Sitemap: #{base_url}/sitemap.xml
-      ROBOTS
+            Sitemap: #{base_url}/sitemap.xml
+          ROBOTS
 
-      File.write('robots.txt', robots_content)
-      puts "Generated robots.txt"
-      EOF
+          File.write('robots.txt', robots_content)
+          puts "Generated robots.txt"
+          EOF
 
-      # Run the sitemap generation script
-      ruby generate_sitemap.rb
+          # Run the sitemap generation script
+          if ruby generate_sitemap.rb; then
+            echo "✓ Sitemap generation successful"
+          else
+            echo "✗ Sitemap generation failed"
+            exit 1
+          fi
 
-  - name: Commit and push changes
-    run: |
-      git config --local user.email "action@github.com"
-      git config --local user.name "GitHub Action"
+      - name: Commit and push changes
+        if: steps.loop_guard.outputs.skip == 'false'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
 
-      # Add generated files
-      git add sitemap.xml robots.txt
+          # Add generated files
+          git add sitemap.xml robots.txt
 
-      # Check if there are changes to commit
-      if git diff --staged --quiet; then
-        echo "No changes to commit"
-      else
-        git commit -m "Auto-generate sitemap [skip ci]"
-        # Pull latest changes before pushing to avoid conflicts
-        git pull --rebase origin main
-        git push origin main
-      fi
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generate sitemap [skip ci]"
+            # Pull latest changes before pushing to avoid conflicts
+            git pull --rebase origin main
+            git push origin main
+          fi
