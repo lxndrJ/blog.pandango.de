@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Reiserouten in Malta"
 date: 2025-12-11 08:00:00 +0100
 permalink: /2025/12/11/kulinarische-reiserouten-in-malta.html

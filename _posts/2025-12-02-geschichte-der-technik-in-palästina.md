@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geschichte der Technik in Palästina"
 date: 2025-12-02 08:00:00 +0100
 permalink: /2025/12/02/geschichte-der-technik-in-palästina.html

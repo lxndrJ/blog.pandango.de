@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienstrukturen in San Marino"
 date: 2026-02-16 08:00:00 +0100
 permalink: /2026/02/16/familienstrukturen-in-san-marino.html

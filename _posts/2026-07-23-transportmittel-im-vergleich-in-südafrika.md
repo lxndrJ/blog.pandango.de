@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Transportmittel im Vergleich in Südafrika"
 date: 2026-07-23 08:00:00 +0200
 permalink: /2026/07/23/transportmittel-im-vergleich-in-südafrika.html

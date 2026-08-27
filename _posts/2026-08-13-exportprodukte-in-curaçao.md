@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Exportprodukte in Curaçao"
 date: 2026-08-13 08:00:00 +0200
 permalink: /2026/08/13/exportprodukte-in-curaçao.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Theater und Oper in Italien"
 date: 2025-11-06 08:00:00 +0100
 permalink: /2025/11/06/theater-und-oper-in-italien.html

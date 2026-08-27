@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Architektur und Baukunst in Laos"
 date: 2026-06-24 08:00:00 +0200
 permalink: /2026/06/24/architektur-und-baukunst-in-laos.html

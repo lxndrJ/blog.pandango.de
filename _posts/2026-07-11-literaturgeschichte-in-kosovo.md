@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Literaturgeschichte in Kosovo"
 date: 2026-07-11 08:00:00 +0200
 permalink: /2026/07/11/literaturgeschichte-in-kosovo.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Schutzgebiete in Mongolei"
 date: 2025-12-24 08:00:00 +0100
 permalink: /2025/12/24/schutzgebiete-in-mongolei.html

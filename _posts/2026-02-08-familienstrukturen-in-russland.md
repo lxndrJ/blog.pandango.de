@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienstrukturen in Russland"
 date: 2026-02-08 08:00:00 +0100
 permalink: /2026/02/08/familienstrukturen-in-russland.html

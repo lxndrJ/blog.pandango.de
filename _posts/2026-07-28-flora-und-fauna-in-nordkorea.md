@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Flora und Fauna in Nordkorea"
 date: 2026-07-28 08:00:00 +0200
 permalink: /2026/07/28/flora-und-fauna-in-nordkorea.html

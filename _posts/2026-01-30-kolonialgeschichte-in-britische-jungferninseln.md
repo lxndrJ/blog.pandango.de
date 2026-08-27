@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kolonialgeschichte in Britische Jungferninseln"
 date: 2026-01-30 08:00:00 +0100
 permalink: /2026/01/30/kolonialgeschichte-in-britische-jungferninseln.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Regionale Gerichte in Salomonen"
 date: 2026-05-05 08:00:00 +0200
 permalink: /2026/05/05/regionale-gerichte-in-salomonen.html

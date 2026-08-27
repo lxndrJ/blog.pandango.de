@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Hochzeitsbräuche in Mauritius"
 date: 2026-01-22 08:00:00 +0100
 permalink: /2026/01/22/hochzeitsbräuche-in-mauritius.html

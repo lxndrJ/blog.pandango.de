@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Der Fischräucherer – ein Beruf, den es in Deutschland kaum noch gibt"
 date: 2026-08-23 08:00:00 +0200
 permalink: /2026/08/23/der-fischräucherer-ein-beruf-den-es-in-deutschland-kaum-noch-gibt.html
@@ -8,16 +9,16 @@ image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.ausbildung.de/berufe/fischwirt/
-  - https://www.ausbildung123.de/ausbildungsberuf/209-fischwirt-in-kleine-hochsee-und-kuestenfischerei/
-  - https://www.lksh.de/bildung/gruene-berufe/fischwirtin
-  - https://www.azubister.de/ausbildung/fischwirt-kleine-hochsee-und-kuestenfischerei
-  - https://www.aubi-plus.de/berufe/fischwirt-fischwirtin-1423/
-  - https://www.landwirtschaftskammer.de/Bildung/fischwirt/einsteiger/index.htm
-  - https://www.lwk-niedersachsen.de/lwk/news/12816_Ausbildung_Fischwirtin_-_Voraussetzung_und_Inhalte
-  - https://web.arbeitsagentur.de/berufenet/beruf/129348
-  - https://www.deutschesee.de/manufaktur/fisch-experten/unser-raeuchermeister/
-  - https://www.deutschesee.de/manufaktur/raeucherei/
+- <https://www.ausbildung.de/berufe/fischwirt/>
+- <https://www.ausbildung123.de/ausbildungsberuf/209-fischwirt-in-kleine-hochsee-und-kuestenfischerei/>
+- <https://www.lksh.de/bildung/gruene-berufe/fischwirtin>
+- <https://www.azubister.de/ausbildung/fischwirt-kleine-hochsee-und-kuestenfischerei>
+- <https://www.aubi-plus.de/berufe/fischwirt-fischwirtin-1423/>
+- <https://www.landwirtschaftskammer.de/Bildung/fischwirt/einsteiger/index.htm>
+- <https://www.lwk-niedersachsen.de/lwk/news/12816_Ausbildung_Fischwirtin_-_Voraussetzung_und_Inhalte>
+- <https://web.arbeitsagentur.de/berufenet/beruf/129348>
+- <https://www.deutschesee.de/manufaktur/fisch-experten/unser-raeuchermeister/>
+- <https://www.deutschesee.de/manufaktur/raeucherei/>
 ---
 
 
@@ -43,11 +44,11 @@ Hans-Joachim Fiedler sagt: „Räucherfisch ist eine Delikatesse und hat immer Z
 
 ## Quellen
 
-- https://www.deutschesee.de/manufaktur/fisch-experten/unser-raeuchermeister/
-- https://www.fisch-ehlers.de/
-- https://www.foeh.de/
-- https://friesenkrone-raeucherfischmanufaktur.de/
-- https://www.azubister.de/ausbildung/fischwirt-kleine-hochsee-und-kuestenfischerei
+- <https://www.deutschesee.de/manufaktur/fisch-experten/unser-raeuchermeister/>
+- <https://www.fisch-ehlers.de/>
+- <https://www.foeh.de/>
+- <https://friesenkrone-raeucherfischmanufaktur.de/>
+- <https://www.azubister.de/ausbildung/fischwirt-kleine-hochsee-und-kuestenfischerei>
 - taz.de (Fiedlers Räucherei)
 - Bremerhaven.de (Fischräucherei Franke)
 

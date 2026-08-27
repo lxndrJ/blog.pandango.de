@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Käse- und Wurstsorten in Nauru"
 date: 2026-03-26 08:00:00 +0100
 permalink: /2026/03/26/käse--und-wurstsorten-in-nauru.html

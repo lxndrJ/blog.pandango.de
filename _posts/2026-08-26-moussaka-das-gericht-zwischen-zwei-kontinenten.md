@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Moussaka: Das Gericht zwischen zwei Kontinenten"
+image: https://images.unsplash.com/photo-1777199311086-ec5ff230aefd?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8bW91c3Nha2ElMjBncmVlayUyMGRpc2h8ZW58MHwwfHx8MTc4Nzg2OTY5NXww&ixlib=rb-4.1.0
+image_credit: "Photo by Arne Buss on Unsplash"
 date: 2026-08-26 18:09:14 +0200
 permalink: /2026/08/26/moussaka-das-gericht-zwischen-zwei-kontinenten.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.greekgastronomyguide.gr/de/item/mousakas-syntagi-fagito-ellada/
-  - https://www.wissen.de/wortherkunft/moussaka
-  - https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche
-  - https://www.kretatipp.de/premium-inhalt-griechischer-moussaka/
-  - http://www.griechenland-insel.de/moussaka/
-  - https://www.beefbandits.de/blog/griechisches-moussaka-so-einfach-ist-das-originalrezept
-  - https://www.omas-haushaltstipps.com/was-ist-moussaka-aussehen-herkunft-und-geschmack-erklaert-161576.html
-  - https://www.arlafoods.de/rezepte/moussaka/
-  - https://www.rewe.de/ernaehrung/moussaka/
-  - https://www.essen-und-trinken.de/moussaka
+- <https://www.greekgastronomyguide.gr/de/item/mousakas-syntagi-fagito-ellada/>
+- <https://www.wissen.de/wortherkunft/moussaka>
+- <https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche>
+- <https://www.kretatipp.de/premium-inhalt-griechischer-moussaka/>
+- <http://www.griechenland-insel.de/moussaka/>
+- <https://www.beefbandits.de/blog/griechisches-moussaka-so-einfach-ist-das-originalrezept>
+- <https://www.omas-haushaltstipps.com/was-ist-moussaka-aussehen-herkunft-und-geschmack-erklaert-161576.html>
+- <https://www.arlafoods.de/rezepte/moussaka/>
+- <https://www.rewe.de/ernaehrung/moussaka/>
+- <https://www.essen-und-trinken.de/moussaka>
 ---
 # Moussaka: Das Gericht zwischen zwei Kontinenten
 
@@ -51,13 +54,13 @@ Moussaka zeigt, wie Migrationsgeschichte auf einem Teller aussieht: Es ist über
 
 ## Quellen
 
-- https://www.greekgastronomyguide.gr/de/item/mousakas-syntagi-fagito-ellada/
-- https://www.wissen.de/wortherkunft/moussaka
-- https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche
-- https://www.kretatipp.de/premium-inhalt-griechischer-moussaka/
-- https://griechenland-insel.de/moussaka/
-- https://www.rewe.de/ernaehrung/moussaka/
-- https://www.essen-und-trinken.de/moussaka
+- <https://www.greekgastronomyguide.gr/de/item/mousakas-syntagi-fagito-ellada/>
+- <https://www.wissen.de/wortherkunft/moussaka>
+- <https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche>
+- <https://www.kretatipp.de/premium-inhalt-griechischer-moussaka/>
+- <https://griechenland-insel.de/moussaka/>
+- <https://www.rewe.de/ernaehrung/moussaka/>
+- <https://www.essen-und-trinken.de/moussaka>
 
 ---
 

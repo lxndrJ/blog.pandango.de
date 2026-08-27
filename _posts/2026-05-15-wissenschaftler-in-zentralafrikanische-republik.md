@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wissenschaftler in Zentralafrikanische Republik"
 date: 2026-05-15 08:00:00 +0200
 permalink: /2026/05/15/wissenschaftler-in-zentralafrikanische-republik.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Küstenlandschaften in Mikronesien"
 date: 2026-03-13 08:00:00 +0100
 permalink: /2026/03/13/küstenlandschaften-in-mikronesien.html

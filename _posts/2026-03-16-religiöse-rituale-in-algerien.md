@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Religiöse Rituale in Algerien"
 date: 2026-03-16 08:00:00 +0100
 permalink: /2026/03/16/religiöse-rituale-in-algerien.html

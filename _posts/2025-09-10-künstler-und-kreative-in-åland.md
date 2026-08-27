@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Künstler und Kreative in Åland"
 date: 2025-09-10 08:00:00 +0200
 permalink: /2025/09/10/künstler-und-kreative-in-åland.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Rezepte in Westsahara"
 date: 2026-06-26 08:00:00 +0200
 permalink: /2026/06/26/historische-rezepte-in-westsahara.html

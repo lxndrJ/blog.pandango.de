@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Backpacking-Routen in Burkina Faso"
 date: 2026-04-11 08:00:00 +0200
 permalink: /2026/04/11/backpacking-routen-in-burkina-faso.html

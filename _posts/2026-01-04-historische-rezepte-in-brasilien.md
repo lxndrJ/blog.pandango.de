@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Rezepte in Brasilien"
 date: 2026-01-04 08:00:00 +0100
 permalink: /2026/01/04/historische-rezepte-in-brasilien.html

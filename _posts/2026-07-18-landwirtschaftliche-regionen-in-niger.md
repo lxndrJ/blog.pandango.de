@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Landwirtschaftliche Regionen in Niger"
 date: 2026-07-18 08:00:00 +0200
 permalink: /2026/07/18/landwirtschaftliche-regionen-in-niger.html

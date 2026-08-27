@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wissenschaftler in Ghana"
 date: 2025-09-19 08:00:00 +0200
 permalink: /2025/09/19/wissenschaftler-in-ghana.html

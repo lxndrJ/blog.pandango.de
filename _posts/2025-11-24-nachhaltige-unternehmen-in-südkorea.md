@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltige Unternehmen in Südkorea"
 date: 2025-11-24 08:00:00 +0100
 permalink: /2025/11/24/nachhaltige-unternehmen-in-südkorea.html

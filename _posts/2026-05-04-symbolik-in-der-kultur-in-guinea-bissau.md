@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Symbolik in der Kultur in Guinea-Bissau"
 date: 2026-05-04 08:00:00 +0200
 permalink: /2026/05/04/symbolik-in-der-kultur-in-guinea-bissau.html

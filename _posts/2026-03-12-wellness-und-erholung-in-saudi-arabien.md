@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wellness und Erholung in Saudi-Arabien"
 date: 2026-03-12 08:00:00 +0100
 permalink: /2026/03/12/wellness-und-erholung-in-saudi-arabien.html

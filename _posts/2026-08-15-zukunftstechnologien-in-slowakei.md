@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Zukunftstechnologien in Slowakei"
 date: 2026-08-15 08:00:00 +0200
 permalink: /2026/08/15/zukunftstechnologien-in-slowakei.html

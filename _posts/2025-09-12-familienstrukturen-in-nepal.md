@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienstrukturen in Nepal"
 date: 2025-09-12 08:00:00 +0200
 permalink: /2025/09/12/familienstrukturen-in-nepal.html

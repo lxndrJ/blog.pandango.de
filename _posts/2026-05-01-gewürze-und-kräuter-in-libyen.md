@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Gewürze und Kräuter in Libyen"
 date: 2026-05-01 08:00:00 +0200
 permalink: /2026/05/01/gewürze-und-kräuter-in-libyen.html

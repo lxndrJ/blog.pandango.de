@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geologische Besonderheiten in Niue"
 date: 2025-10-03 08:00:00 +0200
 permalink: /2025/10/03/geologische-besonderheiten-in-niue.html

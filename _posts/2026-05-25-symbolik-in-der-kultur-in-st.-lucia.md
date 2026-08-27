@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Symbolik in der Kultur in St. Lucia"
 date: 2026-05-25 08:00:00 +0200
 permalink: /2026/05/25/symbolik-in-der-kultur-in-st.-lucia.html

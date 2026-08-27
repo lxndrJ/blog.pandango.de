@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltiger Tourismus in Irland"
 date: 2026-05-31 08:00:00 +0200
 permalink: /2026/05/31/nachhaltiger-tourismus-in-irland.html

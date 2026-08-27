@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Politiker in St. Helena, Ascension und Tristan da Cunha"
 date: 2025-10-02 08:00:00 +0200
 permalink: /2025/10/02/politiker-in-st.-helena,-ascension-und-tristan-da-cunha.html

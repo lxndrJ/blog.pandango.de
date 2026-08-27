@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Brotvielfalt in Burundi"
 date: 2025-11-16 08:00:00 +0100
 permalink: /2025/11/16/brotvielfalt-in-burundi.html

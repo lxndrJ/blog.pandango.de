@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unterkunftsarten in Zentralafrikanische Republik"
 date: 2026-02-05 08:00:00 +0100
 permalink: /2026/02/05/unterkunftsarten-in-zentralafrikanische-republik.html

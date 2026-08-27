@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Antike Kulturen in Dominica"
 date: 2026-08-11 08:00:00 +0200
 permalink: /2026/08/11/antike-kulturen-in-dominica.html

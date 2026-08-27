@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Archäologische Funde in Vatikanstadt"
 date: 2026-01-28 08:00:00 +0100
 permalink: /2026/01/28/archäologische-funde-in-vatikanstadt.html

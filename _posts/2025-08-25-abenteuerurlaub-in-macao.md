@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Abenteuerurlaub in Macao"
 date: 2025-08-25 08:00:00 +0200
 permalink: /2025/08/25/abenteuerurlaub-in-macao.html

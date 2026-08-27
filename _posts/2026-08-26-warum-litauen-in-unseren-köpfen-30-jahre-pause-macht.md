@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Warum Litauen in unseren Köpfen 30 Jahre Pause macht"
+image: https://images.unsplash.com/photo-1600110306971-6e13c9d52341?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8bGl0aHVhbmlhJTIwYmFsdGljJTIwbGFuZHNjYXBlfGVufDB8MHx8fDE3ODc4Njk3NDd8MA&ixlib=rb-4.1.0
+image_credit: "Photo by Arvydas Venckus on Unsplash"
 date: 2026-08-26 17:28:10 +0200
 permalink: /2026/08/26/warum-litauen-in-unseren-köpfen-30-jahre-pause-macht.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.derstandard.de/consent/tcf/story/3000000214995/mit-diesem-lustigen-video-nimmt-litauen-osteuropaeische-klischees-ins-visier
-  - https://www.touristik-aktuell.de/nachrichten/destinationen/news/datum/2024/04/05/vilnius-kampagne-nimmt-stereotypen-aufs-korn/
-  - https://www.magdeburger-news.de/?c=20240418063856
-  - https://www.travelio.de/reise-news/europa/litauen/vilnius-kokettiert-in-kampagne-mit-osteuropaeischen-klischees/
-  - https://www.litauen-info.de/die-faszinierenden-mythen-und-legenden-litauens/
-  - https://www.360grad-travel.club/news/europa/item/litauen-vilnius
-  - https://www.planet-wissen.de/kultur/baltische_staaten/litauen/index.html
-  - https://www.wko.at/oe/aussenwirtschaft/litauen-wirtschaftsbericht.pdf
-  - https://europaservice.dsgv.de/laenderinfos/irland-luxemburg/litauen.html
-  - https://www.kooperation-international.de/aktuelles/links-institutionen/detail/info/litauen-ministerium-fuer-wirtschaft-und-innovation
+- <https://www.derstandard.de/consent/tcf/story/3000000214995/mit-diesem-lustigen-video-nimmt-litauen-osteuropaeische-klischees-ins-visier>
+- <https://www.touristik-aktuell.de/nachrichten/destinationen/news/datum/2024/04/05/vilnius-kampagne-nimmt-stereotypen-aufs-korn/>
+- <https://www.magdeburger-news.de/?c=20240418063856>
+- <https://www.travelio.de/reise-news/europa/litauen/vilnius-kokettiert-in-kampagne-mit-osteuropaeischen-klischees/>
+- <https://www.litauen-info.de/die-faszinierenden-mythen-und-legenden-litauens/>
+- <https://www.360grad-travel.club/news/europa/item/litauen-vilnius>
+- <https://www.planet-wissen.de/kultur/baltische_staaten/litauen/index.html>
+- <https://www.wko.at/oe/aussenwirtschaft/litauen-wirtschaftsbericht.pdf>
+- <https://europaservice.dsgv.de/laenderinfos/irland-luxemburg/litauen.html>
+- <https://www.kooperation-international.de/aktuelles/links-institutionen/detail/info/litauen-ministerium-fuer-wirtschaft-und-innovation>
 ---
 # Warum Litauen in unseren Köpfen 30 Jahre Pause macht
 
@@ -59,19 +62,13 @@ Vielleicht ist das das eigentliche Klischee: dass Litauen gar keins hat.
 
 ## Quellen
 
-- derStandard.at: „Mit diesem lustigen Video nimmt Litauen osteuropäische Klischees ins Visier" (2024)
-  https://www.derstandard.de/consent/tcf/story/3000000214995
-
-- touristik-aktuell.de: „Vilnius: Kampagne nimmt Stereotypen aufs Korn" (2024)
-  https://www.touristik-aktuell.de/nachrichten/destinationen/news/datum/2024/04/05/
-
+- [derStandard.at: „Mit diesem lustigen Video nimmt Litauen osteuropäische Klischees ins Visier" (2024)](https://www.derstandard.de/consent/tcf/story/3000000214995)
+- [touristik-aktuell.de: „Vilnius: Kampagne nimmt Stereotypen aufs Korn" (2024)](https://www.touristik-aktuell.de/nachrichten/destinationen/news/datum/2024/04/05/)
 - NZZ: „Litauen positioniert sich als Fintech-Hub" (2019)
 
 - Euronews: „What's the allure? Why does Lithuania attract so many fintech companies?" (2024)
 
-- Planet Wissen: „Baltische Staaten: Litauen" (2025)
-  https://www.planet-wissen.de/kultur/baltische_staaten/litauen/index.html
-
+- [Planet Wissen: „Baltische Staaten: Litauen" (2025)](https://www.planet-wissen.de/kultur/baltische_staaten/litauen/index.html)
 - SRF: „Literatur im Kleinstaat Litauen" (2017)
 
 ---

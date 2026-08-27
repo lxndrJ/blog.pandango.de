@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Gebirge und Wanderwege in Panama"
 date: 2026-05-14 08:00:00 +0200
 permalink: /2026/05/14/gebirge-und-wanderwege-in-panama.html

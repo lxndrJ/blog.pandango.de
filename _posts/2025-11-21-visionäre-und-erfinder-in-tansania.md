@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Visionäre und Erfinder in Tansania"
 date: 2025-11-21 08:00:00 +0100
 permalink: /2025/11/21/visionäre-und-erfinder-in-tansania.html

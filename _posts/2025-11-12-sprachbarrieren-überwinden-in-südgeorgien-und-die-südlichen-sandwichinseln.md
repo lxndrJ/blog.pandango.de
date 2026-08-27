@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sprachbarrieren überwinden in Südgeorgien und die Südlichen Sandwichinseln"
 date: 2025-11-12 08:00:00 +0100
 permalink: /2025/11/12/sprachbarrieren-überwinden-in-südgeorgien-und-die-südlichen-sandwichinseln.html

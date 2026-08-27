@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Arbeitsmarkttrends in Libyen"
 date: 2026-04-21 08:00:00 +0200
 permalink: /2026/04/21/arbeitsmarkttrends-in-libyen.html

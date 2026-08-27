@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sternenhimmel und Astronomie in Seychellen"
 date: 2025-11-08 08:00:00 +0100
 permalink: /2025/11/08/sternenhimmel-und-astronomie-in-seychellen.html

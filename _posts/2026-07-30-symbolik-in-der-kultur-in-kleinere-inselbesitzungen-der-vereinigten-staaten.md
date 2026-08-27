@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Symbolik in der Kultur in Kleinere Inselbesitzungen der Vereinigten Staaten"
 date: 2026-07-30 08:00:00 +0200
 permalink: /2026/07/30/symbolik-in-der-kultur-in-kleinere-inselbesitzungen-der-vereinigten-staaten.html

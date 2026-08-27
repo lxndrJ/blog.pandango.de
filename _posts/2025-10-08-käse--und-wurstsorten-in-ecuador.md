@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Käse- und Wurstsorten in Ecuador"
 date: 2025-10-08 08:00:00 +0200
 permalink: /2025/10/08/käse--und-wurstsorten-in-ecuador.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Handwerkskunst in Französisch-Polynesien"
 date: 2026-06-22 08:00:00 +0200
 permalink: /2026/06/22/handwerkskunst-in-französisch-polynesien.html

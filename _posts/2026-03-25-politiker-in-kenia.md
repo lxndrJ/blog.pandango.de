@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Politiker in Kenia"
 date: 2026-03-25 08:00:00 +0100
 permalink: /2026/03/25/politiker-in-kenia.html

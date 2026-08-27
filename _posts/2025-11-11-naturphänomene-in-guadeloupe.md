@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Naturphänomene in Guadeloupe"
 date: 2025-11-11 08:00:00 +0100
 permalink: /2025/11/11/naturphänomene-in-guadeloupe.html

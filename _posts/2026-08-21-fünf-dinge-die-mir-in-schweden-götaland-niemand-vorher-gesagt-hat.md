@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Fünf Dinge, die mir in Schweden (Götaland) niemand vorher gesagt hat"
 date: 2026-08-21 08:00:00 +0200
 permalink: /2026/08/21/fünf-dinge-die-mir-in-schweden-götaland-niemand-vorher-gesagt-hat.html
@@ -8,16 +9,16 @@ image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://schwedenstube.de/geo/schweden/goetaland/
-  - https://www.elchburger.de/schweden/provinzen/gotland
-  - https://www.schwedentor.de/reise-urlaub/urlaubsregionen/suedschweden/vaestra-goetaland
-  - https://www.schwedenhappen.ch/gotland-das-andere-schweden/
-  - https://www.skandinavientrips.de/reiseblog/gotland-was-kann-man-sehen/_700
-  - https://cleverreisen.club/2019/05/07/gotland-11-geheimnisse-ueber-die-schwedische-insel/
-  - https://schweden.pl7.de/schwedische-eigenarten-umgangsformen-und-verhaltensweisen/
-  - https://interessante-fakten.de/1304/Schwedische-Verhaltensregeln.html
-  - https://www.volvocars-partner.ch/blog/2020/03/03/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/
-  - https://www.volvocars-news.ch/scandic-life/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/
+- <https://schwedenstube.de/geo/schweden/goetaland/>
+- <https://www.elchburger.de/schweden/provinzen/gotland>
+- <https://www.schwedentor.de/reise-urlaub/urlaubsregionen/suedschweden/vaestra-goetaland>
+- <https://www.schwedenhappen.ch/gotland-das-andere-schweden/>
+- <https://www.skandinavientrips.de/reiseblog/gotland-was-kann-man-sehen/_700>
+- <https://cleverreisen.club/2019/05/07/gotland-11-geheimnisse-ueber-die-schwedische-insel/>
+- <https://schweden.pl7.de/schwedische-eigenarten-umgangsformen-und-verhaltensweisen/>
+- <https://interessante-fakten.de/1304/Schwedische-Verhaltensregeln.html>
+- <https://www.volvocars-partner.ch/blog/2020/03/03/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/>
+- <https://www.volvocars-news.ch/scandic-life/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/>
 ---
 
 
@@ -57,12 +58,12 @@ Ehrlich gesagt bin ich skeptisch, ob ich diese Regeln so schnell wieder vergesse
 
 ## Quellen
 
-- https://www.schwedenhappen.ch/jantelagen-alle-sind-gleich/
-- https://www.berlitz.com/de-de/blog/reiseknigge-schweden
-- https://www.goteborg.com/de/guiden/schwedische-traditionen-und-feiertage
-- https://www.elchburger.de/schweden/events/krebsfest-schweden
-- https://www.volvocars-news.ch/scandic-life/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/
-- https://schwedenstube.de/geo/schweden/goetaland/
+- <https://www.schwedenhappen.ch/jantelagen-alle-sind-gleich/>
+- <https://www.berlitz.com/de-de/blog/reiseknigge-schweden>
+- <https://www.goteborg.com/de/guiden/schwedische-traditionen-und-feiertage>
+- <https://www.elchburger.de/schweden/events/krebsfest-schweden>
+- <https://www.volvocars-news.ch/scandic-life/diese-5-verhaltensregeln-schaetzen-die-schwedinnen-und-schweden-besonders/>
+- <https://schwedenstube.de/geo/schweden/goetaland/>
 
 ---
 

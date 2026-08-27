@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Transportmittel im Vergleich in Schweiz"
 date: 2026-06-06 08:00:00 +0200
 permalink: /2026/06/06/transportmittel-im-vergleich-in-schweiz.html

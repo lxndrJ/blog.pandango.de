@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Rezepte in Montserrat"
 date: 2026-02-17 08:00:00 +0100
 permalink: /2026/02/17/historische-rezepte-in-montserrat.html

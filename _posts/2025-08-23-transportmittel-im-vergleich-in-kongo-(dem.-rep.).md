@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Transportmittel im Vergleich in Kongo (Dem. Rep.)"
 date: 2025-08-23 10:00:00 +0200
 permalink: /2025/08/23/transportmittel-im-vergleich-in-kongo-(dem.-rep.).html

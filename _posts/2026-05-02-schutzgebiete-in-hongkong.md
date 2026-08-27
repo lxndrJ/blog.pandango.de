@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Schutzgebiete in Hongkong"
 date: 2026-05-02 08:00:00 +0200
 permalink: /2026/05/02/schutzgebiete-in-hongkong.html

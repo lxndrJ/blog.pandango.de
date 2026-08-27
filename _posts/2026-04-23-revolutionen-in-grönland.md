@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Revolutionen in Grönland"
 date: 2026-04-23 08:00:00 +0200
 permalink: /2026/04/23/revolutionen-in-grönland.html

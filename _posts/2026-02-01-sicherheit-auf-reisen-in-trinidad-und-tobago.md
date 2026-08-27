@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sicherheit auf Reisen in Trinidad und Tobago"
 date: 2026-02-01 08:00:00 +0100
 permalink: /2026/02/01/sicherheit-auf-reisen-in-trinidad-und-tobago.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Mittelalterliche Städte in Vereinigtes Königreich"
 date: 2026-07-06 08:00:00 +0200
 permalink: /2026/07/06/mittelalterliche-städte-in-vereinigtes-königreich.html

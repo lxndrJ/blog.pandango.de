@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Feste in China"
 date: 2026-05-29 08:00:00 +0200
 permalink: /2026/05/29/kulinarische-feste-in-china.html

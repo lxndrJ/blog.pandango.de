@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Dialekte und Sprachvielfalt in Malta"
 date: 2025-09-27 08:00:00 +0200
 permalink: /2025/09/27/dialekte-und-sprachvielfalt-in-malta.html

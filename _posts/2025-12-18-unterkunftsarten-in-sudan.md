@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unterkunftsarten in Sudan"
 date: 2025-12-18 08:00:00 +0100
 permalink: /2025/12/18/unterkunftsarten-in-sudan.html

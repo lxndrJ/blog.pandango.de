@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Klimazonen in Kongo"
 date: 2025-09-11 08:00:00 +0200
 permalink: /2025/09/11/klimazonen-in-kongo.html

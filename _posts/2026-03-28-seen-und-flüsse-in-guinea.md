@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Seen und Flüsse in Guinea"
 date: 2026-03-28 08:00:00 +0100
 permalink: /2026/03/28/seen-und-flüsse-in-guinea.html

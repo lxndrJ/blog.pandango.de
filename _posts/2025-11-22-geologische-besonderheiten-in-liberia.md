@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geologische Besonderheiten in Liberia"
 date: 2025-11-22 08:00:00 +0100
 permalink: /2025/11/22/geologische-besonderheiten-in-liberia.html

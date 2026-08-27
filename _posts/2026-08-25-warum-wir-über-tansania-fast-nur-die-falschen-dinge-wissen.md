@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Warum wir über Tansania fast nur die falschen Dinge wissen"
 date: 2026-08-25 19:58:17 +0200
 image: https://images.unsplash.com/photo-1580684828779-ca1f1bbbc31e?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8V2FydW0lMjB3aXIlMjAlQzMlQkNiZXIlMjBUYW5zYW5pYSUyMGZhc3QlMjBudXIlMjBkaWUlMjBmYWxzY2hlbiUyMERpbmdlJTIwd2lzc2VufGVufDB8MHx8fDE3ODc3MjEwNjZ8MA&ixlib=rb-4.1.0
@@ -7,16 +8,16 @@ image_credit: "Photo by Magdalena Kula Manchee on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.lernhelfer.de/schuelerlexikon/geografie/artikel/wirtschafts-und-sozialraeumliche-struktur-der-vereinigten
-  - https://www.liportal.de/tansania/wirtschaft-entwicklung/
-  - https://www.gtai.de/de/trade/tansania-wirtschaft
-  - https://de.wikipedia.org/wiki/Wirtschaft_Tansanias
-  - https://www.gtai.de/de/trade/tansania-wirtschaft/wirtschaftsausblick
-  - https://www.africa-business-guide.de/de/maerkte/tansania
-  - https://tansania.de/land-leute/wirtschaft/
-  - https://www.tanzaniatourism.go.tz/conservation-areas-2/
-  - https://www.undp.org/tanzania/stories/waga-wildlife-management-area-conservation-success-story
-  - https://www.undp.org/tanzania/stories/poaching-protection-tanzanias-wildlife-thriving-again
+- <https://www.lernhelfer.de/schuelerlexikon/geografie/artikel/wirtschafts-und-sozialraeumliche-struktur-der-vereinigten>
+- <https://www.liportal.de/tansania/wirtschaft-entwicklung/>
+- <https://www.gtai.de/de/trade/tansania-wirtschaft>
+- <https://de.wikipedia.org/wiki/Wirtschaft_Tansanias>
+- <https://www.gtai.de/de/trade/tansania-wirtschaft/wirtschaftsausblick>
+- <https://www.africa-business-guide.de/de/maerkte/tansania>
+- <https://tansania.de/land-leute/wirtschaft/>
+- <https://www.tanzaniatourism.go.tz/conservation-areas-2/>
+- <https://www.undp.org/tanzania/stories/waga-wildlife-management-area-conservation-success-story>
+- <https://www.undp.org/tanzania/stories/poaching-protection-tanzanias-wildlife-thriving-again>
 ---
 # Warum wir über Tansania fast nur die falschen Dinge wissen
 
@@ -60,15 +61,15 @@ Das ist weniger spannend als ein Instagram-Foto von der Serengeti. Aber es ist d
 
 ## Quellen
 
-- https://www.gtai.de/de/trade/tansania-wirtschaft/wirtschaftsausblick
-- https://www.liportal.de/tansania/wirtschaft-entwicklung/
-- https://www.tanzaniatourism.go.tz/conservation-areas-2/
-- https://www.undp.org/tanzania/stories/poaching-protection-tanzanias-wildlife-thriving-again
-- https://www.oneearth.org/tanzanian-community-wildlife-management-areas-are-successfully-conserving-wildlife/
-- https://www.fsdt.or.tz/2024/11/29/digital-financial-services-and-financial-technology-in-tanzania/
-- https://www.thecitizen.co.tz/tanzania/news/national/dar-es-salaam-ranked-fourth-among-world-s-top-megacities-for-intelligent-infrastructure-5207752
-- https://africasustainabilitymatters.com/dar-es-salaam-brt-phase-ii-opens-new-chapter-for-sustainable-urban-mobility-and-economic-growth-in-tanzania/
-- https://www.daad.de/de/laenderinformationen/afrika/tansania/ueberblick-bildung-und-wissenschaft/
+- <https://www.gtai.de/de/trade/tansania-wirtschaft/wirtschaftsausblick>
+- <https://www.liportal.de/tansania/wirtschaft-entwicklung/>
+- <https://www.tanzaniatourism.go.tz/conservation-areas-2/>
+- <https://www.undp.org/tanzania/stories/poaching-protection-tanzanias-wildlife-thriving-again>
+- <https://www.oneearth.org/tanzanian-community-wildlife-management-areas-are-successfully-conserving-wildlife/>
+- <https://www.fsdt.or.tz/2024/11/29/digital-financial-services-and-financial-technology-in-tanzania/>
+- <https://www.thecitizen.co.tz/tanzania/news/national/dar-es-salaam-ranked-fourth-among-world-s-top-megacities-for-intelligent-infrastructure-5207752>
+- <https://africasustainabilitymatters.com/dar-es-salaam-brt-phase-ii-opens-new-chapter-for-sustainable-urban-mobility-and-economic-growth-in-tanzania/>
+- <https://www.daad.de/de/laenderinformationen/afrika/tansania/ueberblick-bildung-und-wissenschaft/>
 
 ---
 

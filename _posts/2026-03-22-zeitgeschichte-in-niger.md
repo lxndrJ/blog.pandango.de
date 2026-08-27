@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Zeitgeschichte in Niger"
 date: 2026-03-22 08:00:00 +0100
 permalink: /2026/03/22/zeitgeschichte-in-niger.html

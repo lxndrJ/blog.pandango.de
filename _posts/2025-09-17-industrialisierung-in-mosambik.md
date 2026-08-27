@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Mosambik"
 date: 2025-09-17 08:00:00 +0200
 permalink: /2025/09/17/industrialisierung-in-mosambik.html

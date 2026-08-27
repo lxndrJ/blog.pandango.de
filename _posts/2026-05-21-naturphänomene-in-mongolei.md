@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Naturphänomene in Mongolei"
 date: 2026-05-21 08:00:00 +0200
 permalink: /2026/05/21/naturphänomene-in-mongolei.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Budgetreisen in Tschad"
 date: 2026-08-03 08:00:00 +0200
 permalink: /2026/08/03/budgetreisen-in-tschad.html

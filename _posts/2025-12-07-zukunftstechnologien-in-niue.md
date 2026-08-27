@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Zukunftstechnologien in Niue"
 date: 2025-12-07 08:00:00 +0100
 permalink: /2025/12/07/zukunftstechnologien-in-niue.html

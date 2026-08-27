@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Migration und Diaspora in Tschechien"
 date: 2025-12-20 08:00:00 +0100
 permalink: /2025/12/20/migration-und-diaspora-in-tschechien.html

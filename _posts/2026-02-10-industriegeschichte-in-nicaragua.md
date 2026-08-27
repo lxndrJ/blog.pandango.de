@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industriegeschichte in Nicaragua"
 date: 2026-02-10 08:00:00 +0100
 permalink: /2026/02/10/industriegeschichte-in-nicaragua.html

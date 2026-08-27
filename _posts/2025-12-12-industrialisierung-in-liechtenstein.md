@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Liechtenstein"
 date: 2025-12-12 08:00:00 +0100
 permalink: /2025/12/12/industrialisierung-in-liechtenstein.html

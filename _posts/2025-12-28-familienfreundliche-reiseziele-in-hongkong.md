@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienfreundliche Reiseziele in Hongkong"
 date: 2025-12-28 08:00:00 +0100
 permalink: /2025/12/28/familienfreundliche-reiseziele-in-hongkong.html

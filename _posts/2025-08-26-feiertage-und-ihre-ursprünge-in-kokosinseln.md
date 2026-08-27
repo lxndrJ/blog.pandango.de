@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Feiertage und ihre Ursprünge in Kokosinseln"
 date: 2025-08-26 08:00:00 +0200
 permalink: /2025/08/26/feiertage-und-ihre-ursprünge-in-kokosinseln.html

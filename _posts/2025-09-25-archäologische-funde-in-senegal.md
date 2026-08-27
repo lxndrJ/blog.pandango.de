@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Archäologische Funde in Senegal"
 date: 2025-09-25 08:00:00 +0200
 permalink: /2025/09/25/archäologische-funde-in-senegal.html

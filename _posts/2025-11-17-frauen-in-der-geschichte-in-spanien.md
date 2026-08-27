@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Frauen in der Geschichte in Spanien"
 date: 2025-11-17 08:00:00 +0100
 permalink: /2025/11/17/frauen-in-der-geschichte-in-spanien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Küstenlandschaften in Afghanistan"
 date: 2026-01-06 08:00:00 +0100
 permalink: /2026/01/06/küstenlandschaften-in-afghanistan.html

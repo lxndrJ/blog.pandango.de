@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sportler in Martinique"
 date: 2026-01-02 08:00:00 +0100
 permalink: /2026/01/02/sportler-in-martinique.html

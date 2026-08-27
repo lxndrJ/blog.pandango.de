@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Süßspeisen und Backtraditionen in Katar"
 date: 2026-01-09 08:00:00 +0100
 permalink: /2026/01/09/süßspeisen-und-backtraditionen-in-katar.html

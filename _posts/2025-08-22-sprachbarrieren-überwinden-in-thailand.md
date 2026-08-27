@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sprachbarrieren überwinden in Thailand"
 date: 2025-08-22 11:00:00 +0200
 permalink: /2025/08/22/sprachbarrieren-überwinden-in-thailand.html

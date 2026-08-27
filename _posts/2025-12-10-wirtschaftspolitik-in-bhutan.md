@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wirtschaftspolitik in Bhutan"
 date: 2025-12-10 08:00:00 +0100
 permalink: /2025/12/10/wirtschaftspolitik-in-bhutan.html

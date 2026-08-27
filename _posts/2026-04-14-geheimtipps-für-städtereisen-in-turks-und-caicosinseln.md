@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geheimtipps für Städtereisen in Turks-und Caicosinseln"
 date: 2026-04-14 08:00:00 +0200
 permalink: /2026/04/14/geheimtipps-für-städtereisen-in-turks-und-caicosinseln.html

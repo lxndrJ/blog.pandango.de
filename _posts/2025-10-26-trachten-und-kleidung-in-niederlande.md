@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Trachten und Kleidung in Niederlande"
 date: 2025-10-26 08:00:00 +0100
 permalink: /2025/10/26/trachten-und-kleidung-in-niederlande.html

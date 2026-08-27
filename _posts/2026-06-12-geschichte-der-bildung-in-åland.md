@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geschichte der Bildung in Åland"
 date: 2026-06-12 08:00:00 +0200
 permalink: /2026/06/12/geschichte-der-bildung-in-åland.html

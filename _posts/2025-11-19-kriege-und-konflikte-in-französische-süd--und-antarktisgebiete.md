@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kriege und Konflikte in Französische Süd- und Antarktisgebiete"
 date: 2025-11-19 08:00:00 +0100
 permalink: /2025/11/19/kriege-und-konflikte-in-französische-süd--und-antarktisgebiete.html

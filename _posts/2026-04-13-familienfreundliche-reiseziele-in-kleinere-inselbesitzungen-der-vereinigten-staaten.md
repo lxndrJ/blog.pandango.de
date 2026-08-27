@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienfreundliche Reiseziele in Kleinere Inselbesitzungen der Vereinigten Staaten"
 date: 2026-04-13 08:00:00 +0200
 permalink: /2026/04/13/familienfreundliche-reiseziele-in-kleinere-inselbesitzungen-der-vereinigten-staaten.html

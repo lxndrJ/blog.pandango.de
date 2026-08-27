@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Fischgerichte in Äthiopien"
 date: 2026-01-11 08:00:00 +0100
 permalink: /2026/01/11/fischgerichte-in-äthiopien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wissenschaftler in Finnland"
 date: 2025-12-04 08:00:00 +0100
 permalink: /2025/12/04/wissenschaftler-in-finnland.html

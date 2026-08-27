@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Küstenlandschaften in Vatikanstadt"
 date: 2026-06-07 08:00:00 +0200
 permalink: /2026/06/07/küstenlandschaften-in-vatikanstadt.html

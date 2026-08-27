@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltige Unternehmen in Vereinigtes Königreich"
 date: 2026-05-24 08:00:00 +0200
 permalink: /2026/05/24/nachhaltige-unternehmen-in-vereinigtes-königreich.html

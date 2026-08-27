@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wellness und Erholung in Jersey"
 date: 2026-07-05 08:00:00 +0200
 permalink: /2026/07/05/wellness-und-erholung-in-jersey.html

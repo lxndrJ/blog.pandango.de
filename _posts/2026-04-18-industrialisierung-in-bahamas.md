@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Bahamas"
 date: 2026-04-18 08:00:00 +0200
 permalink: /2026/04/18/industrialisierung-in-bahamas.html

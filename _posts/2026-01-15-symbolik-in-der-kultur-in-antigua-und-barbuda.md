@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Symbolik in der Kultur in Antigua und Barbuda"
 date: 2026-01-15 08:00:00 +0100
 permalink: /2026/01/15/symbolik-in-der-kultur-in-antigua-und-barbuda.html

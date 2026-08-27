@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Vegetarische Spezialitäten in Togo"
 date: 2026-03-29 08:00:00 +0200
 permalink: /2026/03/29/vegetarische-spezialitäten-in-togo.html

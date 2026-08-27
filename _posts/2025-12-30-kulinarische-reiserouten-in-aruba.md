@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Reiserouten in Aruba"
 date: 2025-12-30 08:00:00 +0100
 permalink: /2025/12/30/kulinarische-reiserouten-in-aruba.html

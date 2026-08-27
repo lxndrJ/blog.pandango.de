@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Saisonale Küche in Wallis und Futuna"
 date: 2026-04-01 08:00:00 +0200
 permalink: /2026/04/01/saisonale-küche-in-wallis-und-futuna.html

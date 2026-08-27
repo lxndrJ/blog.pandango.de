@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in St. Vincent und die Grenadinen"
 date: 2025-10-28 08:00:00 +0100
 permalink: /2025/10/28/industrialisierung-in-st.-vincent-und-die-grenadinen.html

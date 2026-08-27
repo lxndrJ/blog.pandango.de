@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Handwerkskunst in Israel"
 date: 2025-09-16 08:00:00 +0200
 permalink: /2025/09/16/handwerkskunst-in-israel.html

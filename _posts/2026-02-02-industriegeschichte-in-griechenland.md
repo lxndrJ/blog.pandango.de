@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industriegeschichte in Griechenland"
 date: 2026-02-02 08:00:00 +0100
 permalink: /2026/02/02/industriegeschichte-in-griechenland.html

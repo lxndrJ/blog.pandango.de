@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Museen und Gedenkstätten in Tokelau"
 date: 2026-02-19 08:00:00 +0100
 permalink: /2026/02/19/museen-und-gedenkstätten-in-tokelau.html

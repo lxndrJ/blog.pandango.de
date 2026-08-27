@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Färöer-Inseln"
 date: 2026-04-22 08:00:00 +0200
 permalink: /2026/04/22/industrialisierung-in-färöer-inseln.html

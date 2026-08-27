@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Archäologische Funde in Jemen"
 date: 2025-11-23 08:00:00 +0100
 permalink: /2025/11/23/archäologische-funde-in-jemen.html

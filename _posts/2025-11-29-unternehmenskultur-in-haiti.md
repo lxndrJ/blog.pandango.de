@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unternehmenskultur in Haiti"
 date: 2025-11-29 08:00:00 +0100
 permalink: /2025/11/29/unternehmenskultur-in-haiti.html

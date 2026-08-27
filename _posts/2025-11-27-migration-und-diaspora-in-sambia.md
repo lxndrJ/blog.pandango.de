@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Migration und Diaspora in Sambia"
 date: 2025-11-27 08:00:00 +0100
 permalink: /2025/11/27/migration-und-diaspora-in-sambia.html

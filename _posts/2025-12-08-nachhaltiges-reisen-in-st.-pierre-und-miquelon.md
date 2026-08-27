@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltiges Reisen in St. Pierre und Miquelon"
 date: 2025-12-08 08:00:00 +0100
 permalink: /2025/12/08/nachhaltiges-reisen-in-st.-pierre-und-miquelon.html

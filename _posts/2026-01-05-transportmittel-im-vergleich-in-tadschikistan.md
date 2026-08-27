@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Transportmittel im Vergleich in Tadschikistan"
 date: 2026-01-05 08:00:00 +0100
 permalink: /2026/01/05/transportmittel-im-vergleich-in-tadschikistan.html

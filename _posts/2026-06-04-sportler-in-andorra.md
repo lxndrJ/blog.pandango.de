@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sportler in Andorra"
 date: 2026-06-04 08:00:00 +0200
 permalink: /2026/06/04/sportler-in-andorra.html

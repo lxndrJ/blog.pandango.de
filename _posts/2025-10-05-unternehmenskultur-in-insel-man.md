@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unternehmenskultur in Insel Man"
 date: 2025-10-05 08:00:00 +0200
 permalink: /2025/10/05/unternehmenskultur-in-insel-man.html

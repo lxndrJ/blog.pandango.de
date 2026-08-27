@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Reiserouten in Heard und die McDonaldinseln"
 date: 2025-12-17 08:00:00 +0100
 permalink: /2025/12/17/kulinarische-reiserouten-in-heard-und-die-mcdonaldinseln.html

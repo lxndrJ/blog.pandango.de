@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Finanzwesen in Mongolei"
 date: 2025-10-29 08:00:00 +0100
 permalink: /2025/10/29/finanzwesen-in-mongolei.html

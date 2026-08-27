@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geschichte der Religionen in Libanon"
 date: 2026-03-19 08:00:00 +0100
 permalink: /2026/03/19/geschichte-der-religionen-in-libanon.html

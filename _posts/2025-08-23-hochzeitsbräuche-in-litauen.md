@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Hochzeitsbräuche in Litauen"
 date: 2025-08-23 09:00:00 +0200
 permalink: /2025/08/23/hochzeitsbräuche-in-litauen.html

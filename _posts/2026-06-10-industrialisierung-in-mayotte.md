@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Mayotte"
 date: 2026-06-10 08:00:00 +0200
 permalink: /2026/06/10/industrialisierung-in-mayotte.html

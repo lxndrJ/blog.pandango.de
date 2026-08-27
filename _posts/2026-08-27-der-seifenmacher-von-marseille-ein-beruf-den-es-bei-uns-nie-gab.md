@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Der Seifenmacher von Marseille – ein Beruf, den es bei uns nie gab"
+image: https://images.unsplash.com/photo-1454873019514-eae2f086587a?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8c29hcCUyMG1ha2luZyUyMGhhbmRtYWRlJTIwY3JhZnR8ZW58MHwwfHx8MTc4Nzg2OTY5NXww&ixlib=rb-4.1.0
+image_credit: "Photo by Kristina Balić on Unsplash"
 date: 2026-08-27 19:30:37 +0200
 permalink: /2026/08/27/der-seifenmacher-von-marseille-ein-beruf-den-es-bei-uns-nie-gab.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.aubi-plus.de/ausbildung/ort/seifen-44142/
-  - https://berufe-dieser-welt.de/die-seifensieder/
-  - https://www.flickr.com/photos/eagle1effi/3556910401
-  - https://www.bablue.at/ausbildungen-fachbereiche/aromatherapie-aromapflege/456/seifensieden-grundausbildung/
-  - https://www.bablue.at/ausbildungen-fachbereiche/aromatherapie-aromapflege/457/zert-gewerblicher-seifensieder-in-praxis-seifenherstellung-inkl-eu-kosmetikverordnung/
-  - https://www.ebay.de/itm/201654873653
-  - https://www.marius-fabre.com/en/content/14-union-of-professionals-of-marseille-soap
-  - https://en.wikipedia.org/wiki/Marseille_soap
-  - https://www.marseille-tourisme.com/en/discover-marseille/traditions/marseille-soap/
-  - https://www.maitresavon.fr/en/histoire/
+- <https://www.aubi-plus.de/ausbildung/ort/seifen-44142/>
+- <https://berufe-dieser-welt.de/die-seifensieder/>
+- <https://www.flickr.com/photos/eagle1effi/3556910401>
+- <https://www.bablue.at/ausbildungen-fachbereiche/aromatherapie-aromapflege/456/seifensieden-grundausbildung/>
+- <https://www.bablue.at/ausbildungen-fachbereiche/aromatherapie-aromapflege/457/zert-gewerblicher-seifensieder-in-praxis-seifenherstellung-inkl-eu-kosmetikverordnung/>
+- <https://www.ebay.de/itm/201654873653>
+- <https://www.marius-fabre.com/en/content/14-union-of-professionals-of-marseille-soap>
+- <https://en.wikipedia.org/wiki/Marseille_soap>
+- <https://www.marseille-tourisme.com/en/discover-marseille/traditions/marseille-soap/>
+- <https://www.maitresavon.fr/en/histoire/>
 ---
 # Der Seifenmacher von Marseille – ein Beruf, den es bei uns nie gab
 

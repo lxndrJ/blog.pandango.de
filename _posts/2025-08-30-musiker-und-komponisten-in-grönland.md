@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiker und Komponisten in Grönland"
 date: 2025-08-30 08:00:00 +0200
 permalink: /2025/08/30/musiker-und-komponisten-in-grönland.html

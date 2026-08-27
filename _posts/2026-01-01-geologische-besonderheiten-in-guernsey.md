@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geologische Besonderheiten in Guernsey"
 date: 2026-01-01 08:00:00 +0100
 permalink: /2026/01/01/geologische-besonderheiten-in-guernsey.html

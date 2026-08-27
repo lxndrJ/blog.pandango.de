@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Museen und Gedenkstätten in Papua-Neuguinea"
 date: 2026-01-17 08:00:00 +0100
 permalink: /2026/01/17/museen-und-gedenkstätten-in-papua-neuguinea.html

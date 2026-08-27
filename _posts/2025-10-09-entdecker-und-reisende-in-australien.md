@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Entdecker und Reisende in Australien"
 date: 2025-10-09 08:00:00 +0200
 permalink: /2025/10/09/entdecker-und-reisende-in-australien.html

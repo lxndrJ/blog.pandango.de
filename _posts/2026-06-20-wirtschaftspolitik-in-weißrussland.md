@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wirtschaftspolitik in Weißrussland"
 date: 2026-06-20 08:00:00 +0200
 permalink: /2026/06/20/wirtschaftspolitik-in-weißrussland.html

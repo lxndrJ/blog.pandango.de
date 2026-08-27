@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Süßspeisen und Backtraditionen in Norfolkinsel"
 date: 2026-07-27 08:00:00 +0200
 permalink: /2026/07/27/süßspeisen-und-backtraditionen-in-norfolkinsel.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industriegeschichte in Malawi"
 date: 2026-05-27 08:00:00 +0200
 permalink: /2026/05/27/industriegeschichte-in-malawi.html

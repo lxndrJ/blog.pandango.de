@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Fischgerichte in Amerikanische Jungferninseln"
 date: 2026-03-31 08:00:00 +0200
 permalink: /2026/03/31/fischgerichte-in-amerikanische-jungferninseln.html

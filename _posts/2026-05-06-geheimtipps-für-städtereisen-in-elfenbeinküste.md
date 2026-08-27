@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geheimtipps für Städtereisen in Elfenbeinküste"
 date: 2026-05-06 08:00:00 +0200
 permalink: /2026/05/06/geheimtipps-für-städtereisen-in-elfenbeinküste.html

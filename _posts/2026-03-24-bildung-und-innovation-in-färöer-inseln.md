@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Bildung und Innovation in Färöer-Inseln"
 date: 2026-03-24 08:00:00 +0100
 permalink: /2026/03/24/bildung-und-innovation-in-färöer-inseln.html

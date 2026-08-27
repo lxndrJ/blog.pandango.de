@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Flora und Fauna in Burundi"
 date: 2026-01-23 08:00:00 +0100
 permalink: /2026/01/23/flora-und-fauna-in-burundi.html

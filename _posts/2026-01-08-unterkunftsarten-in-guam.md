@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unterkunftsarten in Guam"
 date: 2026-01-08 08:00:00 +0100
 permalink: /2026/01/08/unterkunftsarten-in-guam.html

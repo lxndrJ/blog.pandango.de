@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Esskulturen im Vergleich in Kanada"
 date: 2026-08-19 08:00:00 +0200
 permalink: /2026/08/19/esskulturen-im-vergleich-in-kanada.html

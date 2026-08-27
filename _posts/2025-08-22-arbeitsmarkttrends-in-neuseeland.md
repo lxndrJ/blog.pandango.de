@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Arbeitsmarkttrends in Neuseeland"
 date: 2025-08-22 08:00:00 +0200
 permalink: /2025/08/22/arbeitsmarkttrends-in-neuseeland.html

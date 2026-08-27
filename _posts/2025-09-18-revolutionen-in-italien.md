@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Revolutionen in Italien"
 date: 2025-09-18 08:00:00 +0200
 permalink: /2025/09/18/revolutionen-in-italien.html

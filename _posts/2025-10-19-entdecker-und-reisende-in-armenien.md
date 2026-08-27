@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Entdecker und Reisende in Armenien"
 date: 2025-10-19 08:00:00 +0200
 permalink: /2025/10/19/entdecker-und-reisende-in-armenien.html

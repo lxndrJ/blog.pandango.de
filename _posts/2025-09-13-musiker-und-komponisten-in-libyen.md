@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiker und Komponisten in Libyen"
 date: 2025-09-13 08:00:00 +0200
 permalink: /2025/09/13/musiker-und-komponisten-in-libyen.html

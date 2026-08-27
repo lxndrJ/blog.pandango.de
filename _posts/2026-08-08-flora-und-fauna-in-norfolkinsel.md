@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Flora und Fauna in Norfolkinsel"
 date: 2026-08-08 08:00:00 +0200
 permalink: /2026/08/08/flora-und-fauna-in-norfolkinsel.html

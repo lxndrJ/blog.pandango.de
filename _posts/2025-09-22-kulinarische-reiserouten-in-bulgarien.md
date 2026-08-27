@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Reiserouten in Bulgarien"
 date: 2025-09-22 08:00:00 +0200
 permalink: /2025/09/22/kulinarische-reiserouten-in-bulgarien.html

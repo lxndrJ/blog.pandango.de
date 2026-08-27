@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Essensetikette in Norwegen"
 date: 2026-06-28 08:00:00 +0200
 permalink: /2026/06/28/essensetikette-in-norwegen.html

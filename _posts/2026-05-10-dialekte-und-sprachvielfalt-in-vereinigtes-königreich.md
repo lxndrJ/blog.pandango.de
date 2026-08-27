@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Dialekte und Sprachvielfalt in Vereinigtes Königreich"
 date: 2026-05-10 08:00:00 +0200
 permalink: /2026/05/10/dialekte-und-sprachvielfalt-in-vereinigtes-königreich.html

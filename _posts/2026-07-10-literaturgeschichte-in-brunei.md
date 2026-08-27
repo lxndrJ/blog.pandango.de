@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Literaturgeschichte in Brunei"
 date: 2026-07-10 08:00:00 +0200
 permalink: /2026/07/10/literaturgeschichte-in-brunei.html

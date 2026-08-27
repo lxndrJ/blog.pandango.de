@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Street Food in Gabun"
 date: 2026-01-10 08:00:00 +0100
 permalink: /2026/01/10/street-food-in-gabun.html

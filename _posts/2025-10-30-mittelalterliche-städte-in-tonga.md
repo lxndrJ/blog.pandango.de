@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Mittelalterliche Städte in Tonga"
 date: 2025-10-30 08:00:00 +0100
 permalink: /2025/10/30/mittelalterliche-städte-in-tonga.html

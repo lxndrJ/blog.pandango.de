@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Religiöse Rituale in Monaco"
 date: 2025-11-03 08:00:00 +0100
 permalink: /2025/11/03/religiöse-rituale-in-monaco.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Fischgerichte in Bahamas"
 date: 2026-06-30 08:00:00 +0200
 permalink: /2026/06/30/fischgerichte-in-bahamas.html

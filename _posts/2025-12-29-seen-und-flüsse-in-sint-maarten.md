@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Seen und Flüsse in Sint Maarten"
 date: 2025-12-29 08:00:00 +0100
 permalink: /2025/12/29/seen-und-flüsse-in-sint-maarten.html

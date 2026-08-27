@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Feste in Kuwait"
 date: 2026-04-28 08:00:00 +0200
 permalink: /2026/04/28/kulinarische-feste-in-kuwait.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Budgetreisen in Aserbaidschan"
 date: 2025-12-19 08:00:00 +0100
 permalink: /2025/12/19/budgetreisen-in-aserbaidschan.html

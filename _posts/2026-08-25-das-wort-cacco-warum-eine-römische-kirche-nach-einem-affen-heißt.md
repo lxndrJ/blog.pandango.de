@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: 'Das Wort "Cacco" – Warum eine römische Kirche nach einem Affen heißt'
 date: 2026-08-25 14:55:06 +0200
 permalink: /2026/08/25/das-wort-cacco-warum-eine-römische-kirche-nach-einem-affen-heißt.html
@@ -8,16 +9,16 @@ image_credit: "Photo by Gabriella Clare Marino on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://de.wikipedia.org/wiki/R%C3%B6mischer_Dialekt
-  - https://m.dict.cc/deutsch-italienisch/Rom.html
-  - https://de.quora.com/Stammt-der-moderne-r%C3%B6mische-Dialekt-direkt-von-der-stadtr%C3%B6mischen-Variante-des-Vulg%C3%A4rlateins-ab
-  - https://www.enzyklo.de/Begriff/R%C3%B6mischer_Dialekt
-  - https://context.reverso.net/%C3%BCbersetzung/deutsch-italienisch/r%C3%B6mischer+Dialekt
-  - https://www.grin.com/document/99216
-  - https://dewiki.de/Lexikon/R%C3%B6mischer_Dialekt
-  - https://deutsch.wikibrief.org/wiki/Romanesco_dialect
-  - https://c.wgr.de/f/pdf/978-3-14-114142-9-2-l.pdf
-  - https://www.dh-lehre.gwi.uni-muenchen.de/?p=220780
+- <https://de.wikipedia.org/wiki/R%C3%B6mischer_Dialekt>
+- <https://m.dict.cc/deutsch-italienisch/Rom.html>
+- <https://de.quora.com/Stammt-der-moderne-r%C3%B6mische-Dialekt-direkt-von-der-stadtr%C3%B6mischen-Variante-des-Vulg%C3%A4rlateins-ab>
+- <https://www.enzyklo.de/Begriff/R%C3%B6mischer_Dialekt>
+- <https://context.reverso.net/%C3%BCbersetzung/deutsch-italienisch/r%C3%B6mischer+Dialekt>
+- <https://www.grin.com/document/99216>
+- <https://dewiki.de/Lexikon/R%C3%B6mischer_Dialekt>
+- <https://deutsch.wikibrief.org/wiki/Romanesco_dialect>
+- <https://c.wgr.de/f/pdf/978-3-14-114142-9-2-l.pdf>
+- <https://www.dh-lehre.gwi.uni-muenchen.de/?p=220780>
 ---
 # Das Wort "Cacco" – Warum eine römische Kirche nach einem Affen heißt
 
@@ -55,9 +56,9 @@ Santo Stefano del Cacco steht noch immer in der römischen Innenstadt. Für Tour
 
 ## Quellen
 
-- Wikipedia: Römischer Dialekt, https://de.wikipedia.org/wiki/Römischer_Dialekt
-- GRIN: La città eterna / Stadt und Sprache in Rom, https://www.grin.com/document/99216
-- Scuola Romit: Italian and Roman Dialect, https://scuolaromit.com
+- [Wikipedia: Römischer Dialekt](https://de.wikipedia.org/wiki/Römischer_Dialekt)
+- [GRIN: La città eterna / Stadt und Sprache in Rom](https://www.grin.com/document/99216)
+- [Scuola Romit: Italian and Roman Dialect](https://scuolaromit.com)
 
 ---
 

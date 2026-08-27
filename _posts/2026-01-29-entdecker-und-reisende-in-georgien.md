@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Entdecker und Reisende in Georgien"
 date: 2026-01-29 08:00:00 +0100
 permalink: /2026/01/29/entdecker-und-reisende-in-georgien.html

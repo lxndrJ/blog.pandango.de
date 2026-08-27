@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Archäologische Funde in Guyana"
 date: 2026-07-20 08:00:00 +0200
 permalink: /2026/07/20/archäologische-funde-in-guyana.html

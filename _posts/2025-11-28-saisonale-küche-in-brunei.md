@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Saisonale Küche in Brunei"
 date: 2025-11-28 08:00:00 +0100
 permalink: /2025/11/28/saisonale-küche-in-brunei.html

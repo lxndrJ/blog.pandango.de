@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Forschungseinrichtungen in Marshallinseln"
 date: 2026-04-17 08:00:00 +0200
 permalink: /2026/04/17/forschungseinrichtungen-in-marshallinseln.html

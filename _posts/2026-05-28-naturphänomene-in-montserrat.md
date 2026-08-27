@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Naturphänomene in Montserrat"
 date: 2026-05-28 08:00:00 +0200
 permalink: /2026/05/28/naturphänomene-in-montserrat.html

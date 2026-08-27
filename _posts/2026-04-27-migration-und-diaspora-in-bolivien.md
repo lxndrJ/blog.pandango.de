@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Migration und Diaspora in Bolivien"
 date: 2026-04-27 08:00:00 +0200
 permalink: /2026/04/27/migration-und-diaspora-in-bolivien.html

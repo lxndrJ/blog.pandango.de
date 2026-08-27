@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Energiequellen in St. Helena, Ascension und Tristan da Cunha"
 date: 2026-01-13 08:00:00 +0100
 permalink: /2026/01/13/energiequellen-in-st.-helena,-ascension-und-tristan-da-cunha.html

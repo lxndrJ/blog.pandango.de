@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Frauen in der Geschichte in Fidschi"
 date: 2025-08-23 08:00:00 +0200
 permalink: /2025/08/23/frauen-in-der-geschichte-in-fidschi.html

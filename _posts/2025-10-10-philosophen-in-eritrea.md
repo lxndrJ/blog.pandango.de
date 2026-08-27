@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Philosophen in Eritrea"
 date: 2025-10-10 08:00:00 +0200
 permalink: /2025/10/10/philosophen-in-eritrea.html

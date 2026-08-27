@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Trachten und Kleidung in Sint Maarten"
 date: 2026-03-09 09:00:00 +0100
 permalink: /2026/03/09/trachten-und-kleidung-in-sint-maarten.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiktraditionen in Ghana"
 date: 2026-03-11 08:00:00 +0100
 permalink: /2026/03/11/musiktraditionen-in-ghana.html

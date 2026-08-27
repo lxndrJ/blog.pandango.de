@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiker und Komponisten in Brasilien"
 date: 2025-10-04 08:00:00 +0200
 permalink: /2025/10/04/musiker-und-komponisten-in-brasilien.html

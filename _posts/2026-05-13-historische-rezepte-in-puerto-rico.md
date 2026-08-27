@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Rezepte in Puerto Rico"
 date: 2026-05-13 08:00:00 +0200
 permalink: /2026/05/13/historische-rezepte-in-puerto-rico.html

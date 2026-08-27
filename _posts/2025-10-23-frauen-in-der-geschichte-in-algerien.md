@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Frauen in der Geschichte in Algerien"
 date: 2025-10-23 08:00:00 +0200
 permalink: /2025/10/23/frauen-in-der-geschichte-in-algerien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wellness und Erholung in Französisch-Polynesien"
 date: 2026-07-29 08:00:00 +0200
 permalink: /2026/07/29/wellness-und-erholung-in-französisch-polynesien.html

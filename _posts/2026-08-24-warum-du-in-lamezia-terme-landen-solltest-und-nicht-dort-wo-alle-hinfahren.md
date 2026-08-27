@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Warum du in Lamezia Terme landen solltest – und nicht dort, wo alle hinfahren"
 date: 2026-08-24 10:00:00 +0200
 permalink: /2026/08/24/warum-du-in-lamezia-terme-landen-solltest-und-nicht-dort-wo-alle-hinfahren.html
@@ -8,16 +9,16 @@ image_credit: "Bild: Wikimedia Commons (CC-Lizenz)"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.swoodoo.com/de/flug/Deutschland-DE0/Lamezia-Terme-SUF
-  - https://www.fluege.de/flughafen/italien/lamezia-terme
-  - https://www.condor.com/de/fluege/italien/lamezia-terme/
-  - https://flug.check24.de/flughafen/italien/lamezia-terme
-  - https://www.billigfluege.de/flughafen/flughafen-lamezia-terme-lamezia-terme
-  - https://en.wikipedia.org/wiki/Lamezia_Terme
-  - https://www.luftlinie.org/Lamezia-Terme/Neapel
-  - https://www.edreams.de/flug/neapel-lamezia-terme/NAP/SUF/
-  - https://www.virail.de/flug-lamezia_terme-neapel
-  - https://www.luftlinie.org/Napoli/Lamezia-Terme
+- <https://www.swoodoo.com/de/flug/Deutschland-DE0/Lamezia-Terme-SUF>
+- <https://www.fluege.de/flughafen/italien/lamezia-terme>
+- <https://www.condor.com/de/fluege/italien/lamezia-terme/>
+- <https://flug.check24.de/flughafen/italien/lamezia-terme>
+- <https://www.billigfluege.de/flughafen/flughafen-lamezia-terme-lamezia-terme>
+- <https://en.wikipedia.org/wiki/Lamezia_Terme>
+- <https://www.luftlinie.org/Lamezia-Terme/Neapel>
+- <https://www.edreams.de/flug/neapel-lamezia-terme/NAP/SUF/>
+- <https://www.virail.de/flug-lamezia_terme-neapel>
+- <https://www.luftlinie.org/Napoli/Lamezia-Terme>
 ---
 
 # Warum du in Lamezia Terme landen solltest – und nicht dort, wo alle hinfahren
@@ -64,12 +65,12 @@ Kalabrien ist nicht Instagram. Es ist real. Lamezia Terme ist nur der clevere We
 
 ## Quellen
 
-- https://www.fluege.de/flughafen/italien/lamezia-terme
-- https://www.condor.com/de/fluege/italien/lamezia-terme/
-- https://flug.check24.de/flughafen/italien/lamezia-terme
-- https://www.billigfluege.de/flughafen/flughafen-lamezia-terme-lamezia-terme
-- https://en.wikipedia.org/wiki/Lamezia_Terme
-- https://www.edreams.de/flug/neapel-lamezia-terme/NAP/SUF/
+- <https://www.fluege.de/flughafen/italien/lamezia-terme>
+- <https://www.condor.com/de/fluege/italien/lamezia-terme/>
+- <https://flug.check24.de/flughafen/italien/lamezia-terme>
+- <https://www.billigfluege.de/flughafen/flughafen-lamezia-terme-lamezia-terme>
+- <https://en.wikipedia.org/wiki/Lamezia_Terme>
+- <https://www.edreams.de/flug/neapel-lamezia-terme/NAP/SUF/>
 
 ---
 

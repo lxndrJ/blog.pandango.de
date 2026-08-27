@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Frauen in der Geschichte in Palau"
 date: 2025-10-11 08:00:00 +0200
 permalink: /2025/10/11/frauen-in-der-geschichte-in-palau.html

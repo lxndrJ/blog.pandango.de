@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wirtschaftspolitik in Slowenien"
 date: 2025-10-16 08:00:00 +0200
 permalink: /2025/10/16/wirtschaftspolitik-in-slowenien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Politiker in Finnland"
 date: 2026-08-02 08:00:00 +0200
 permalink: /2026/08/02/politiker-in-finnland.html

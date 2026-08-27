@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Gekochte Kartoffeln statt geraspelt – warum Estlands Kartoffelpuffer bei uns nie heimisch werden"
+image: https://images.unsplash.com/photo-1595249809609-f86d579eaeac?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8cG90YXRvJTIwcGFuY2FrZXN8ZW58MHwwfHx8MTc4Nzg2OTc1OXww&ixlib=rb-4.1.0
+image_credit: "Photo by Jojo Yuen (sharemyfoodd) on Unsplash"
 date: 2026-08-26 08:57:33 +0200
 permalink: /2026/08/26/gekochte-kartoffeln-statt-geraspelt-warum-estlands-kartoffelpuffer-bei-uns-nie-h.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.ab-in-den-urlaub.de/magazin/service/estland-essen/
-  - https://de.wikipedia.org/wiki/Estnische_K%C3%BCche
-  - https://www.reisemeisterei.de/hauptgerichte-estland/
-  - https://wildeast.blog/estnische-kueche/
-  - https://www.kinderweltreise.de/kontinente/europa/estland/alltag-kinder/essen-in-estland/
-  - https://malsati.com/regionen/EE-estland
-  - https://www.nordisch.info/estland/rezepte-aus-estland/
-  - https://www.lieferando.de/foodwiki/deutsche-kueche/kartoffelpuffer/
-  - https://www.kochwiki.org/wiki/Kartoffelpuffer
-  - https://de.wikipedia.org/wiki/Kartoffelpuffer
+- <https://www.ab-in-den-urlaub.de/magazin/service/estland-essen/>
+- <https://de.wikipedia.org/wiki/Estnische_K%C3%BCche>
+- <https://www.reisemeisterei.de/hauptgerichte-estland/>
+- <https://wildeast.blog/estnische-kueche/>
+- <https://www.kinderweltreise.de/kontinente/europa/estland/alltag-kinder/essen-in-estland/>
+- <https://malsati.com/regionen/EE-estland>
+- <https://www.nordisch.info/estland/rezepte-aus-estland/>
+- <https://www.lieferando.de/foodwiki/deutsche-kueche/kartoffelpuffer/>
+- <https://www.kochwiki.org/wiki/Kartoffelpuffer>
+- <https://de.wikipedia.org/wiki/Kartoffelpuffer>
 ---
 # Gekochte Kartoffeln statt geraspelt – warum Estlands Kartoffelpuffer bei uns nie heimisch werden
 

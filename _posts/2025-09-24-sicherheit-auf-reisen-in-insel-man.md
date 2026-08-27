@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sicherheit auf Reisen in Insel Man"
 date: 2025-09-24 08:00:00 +0200
 permalink: /2025/09/24/sicherheit-auf-reisen-in-insel-man.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Märchen und Sagen in Britische Jungferninseln"
 date: 2026-03-21 08:00:00 +0100
 permalink: /2026/03/21/märchen-und-sagen-in-britische-jungferninseln.html

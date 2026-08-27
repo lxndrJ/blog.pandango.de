@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Persönlichkeiten in Rumänien"
 date: 2026-01-27 08:00:00 +0100
 permalink: /2026/01/27/historische-persönlichkeiten-in-rumänien.html

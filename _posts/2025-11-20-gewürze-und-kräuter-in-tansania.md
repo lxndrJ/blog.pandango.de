@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Gewürze und Kräuter in Tansania"
 date: 2025-11-20 08:00:00 +0100
 permalink: /2025/11/20/gewürze-und-kräuter-in-tansania.html

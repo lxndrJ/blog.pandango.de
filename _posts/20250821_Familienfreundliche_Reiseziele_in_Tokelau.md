@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienfreundliche Reiseziele in Tokelau"
 date: 2025-08-21 08:00:00 +0200
 permalink: /2025/08/21/familienfreundliche-reiseziele-in-tokelau.html

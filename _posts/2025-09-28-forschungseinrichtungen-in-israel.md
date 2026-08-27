@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Forschungseinrichtungen in Israel"
 date: 2025-09-28 08:00:00 +0200
 permalink: /2025/09/28/forschungseinrichtungen-in-israel.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geologische Besonderheiten in Weissrussland"
 date: 2025-08-21 09:00:00 +0200
 permalink: /2025/08/21/geologische-besonderheiten-in-weissrussland.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Forschungseinrichtungen in Karibische Niederlande"
 date: 2026-06-19 08:00:00 +0200
 permalink: /2026/06/19/forschungseinrichtungen-in-karibische-niederlande.html

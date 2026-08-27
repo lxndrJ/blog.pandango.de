@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Vegetarische Spezialitäten in Amerikanisch-Samoa"
 date: 2025-11-26 08:00:00 +0100
 permalink: /2025/11/26/vegetarische-spezialitäten-in-amerikanisch-samoa.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Gebirge und Wanderwege in Portugal"
 date: 2026-04-19 08:00:00 +0200
 permalink: /2026/04/19/gebirge-und-wanderwege-in-portugal.html

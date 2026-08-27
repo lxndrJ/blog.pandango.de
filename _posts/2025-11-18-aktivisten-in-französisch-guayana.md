@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Aktivisten in Französisch-Guayana"
 date: 2025-11-18 08:00:00 +0100
 permalink: /2025/11/18/aktivisten-in-französisch-guayana.html

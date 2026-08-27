@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geschichte der Religionen in Brasilien"
 date: 2026-04-20 08:00:00 +0200
 permalink: /2026/04/20/geschichte-der-religionen-in-brasilien.html

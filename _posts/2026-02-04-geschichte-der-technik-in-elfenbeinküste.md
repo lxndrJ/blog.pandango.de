@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geschichte der Technik in Elfenbeinküste"
 date: 2026-02-04 08:00:00 +0100
 permalink: /2026/02/04/geschichte-der-technik-in-elfenbeinküste.html

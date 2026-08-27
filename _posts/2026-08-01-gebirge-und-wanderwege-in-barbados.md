@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Gebirge und Wanderwege in Barbados"
 date: 2026-08-01 08:00:00 +0200
 permalink: /2026/08/01/gebirge-und-wanderwege-in-barbados.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Trachten und Kleidung in Kiribati"
 date: 2025-12-25 08:00:00 +0100
 permalink: /2025/12/25/trachten-und-kleidung-in-kiribati.html

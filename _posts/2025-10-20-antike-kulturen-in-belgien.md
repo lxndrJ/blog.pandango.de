@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Antike Kulturen in Belgien"
 date: 2025-10-20 08:00:00 +0200
 permalink: /2025/10/20/antike-kulturen-in-belgien.html

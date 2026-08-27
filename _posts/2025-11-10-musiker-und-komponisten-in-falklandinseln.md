@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiker und Komponisten in Falklandinseln"
 date: 2025-11-10 08:00:00 +0100
 permalink: /2025/11/10/musiker-und-komponisten-in-falklandinseln.html

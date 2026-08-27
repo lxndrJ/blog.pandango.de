@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltige Unternehmen in Aserbaidschan"
 date: 2025-11-13 08:00:00 +0100
 permalink: /2025/11/13/nachhaltige-unternehmen-in-aserbaidschan.html

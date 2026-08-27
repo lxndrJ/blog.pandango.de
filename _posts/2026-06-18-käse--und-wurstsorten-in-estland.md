@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Käse- und Wurstsorten in Estland"
 date: 2026-06-18 08:00:00 +0200
 permalink: /2026/06/18/käse--und-wurstsorten-in-estland.html

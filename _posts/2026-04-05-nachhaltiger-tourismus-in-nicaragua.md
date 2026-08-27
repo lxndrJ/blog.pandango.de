@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltiger Tourismus in Nicaragua"
 date: 2026-04-05 08:00:00 +0200
 permalink: /2026/04/05/nachhaltiger-tourismus-in-nicaragua.html

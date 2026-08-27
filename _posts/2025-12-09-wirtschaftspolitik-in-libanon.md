@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wirtschaftspolitik in Libanon"
 date: 2025-12-09 08:00:00 +0100
 permalink: /2025/12/09/wirtschaftspolitik-in-libanon.html

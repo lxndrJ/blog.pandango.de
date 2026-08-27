@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Symbolik in der Kultur in Ungarn"
 date: 2025-11-09 08:00:00 +0100
 permalink: /2025/11/09/symbolik-in-der-kultur-in-ungarn.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geologische Besonderheiten in Bahamas"
 date: 2025-10-12 08:00:00 +0200
 permalink: /2025/10/12/geologische-besonderheiten-in-bahamas.html

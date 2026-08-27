@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Persönlichkeiten in Komoren"
 date: 2025-11-07 08:00:00 +0100
 permalink: /2025/11/07/historische-persönlichkeiten-in-komoren.html

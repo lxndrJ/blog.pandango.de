@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Technologische Entwicklungen in Liechtenstein"
 date: 2026-04-30 08:00:00 +0200
 permalink: /2026/04/30/technologische-entwicklungen-in-liechtenstein.html

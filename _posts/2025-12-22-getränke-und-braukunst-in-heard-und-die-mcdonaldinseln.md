@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Getränke und Braukunst in Heard und die McDonaldinseln"
 date: 2025-12-22 08:00:00 +0100
 permalink: /2025/12/22/getränke-und-braukunst-in-heard-und-die-mcdonaldinseln.html

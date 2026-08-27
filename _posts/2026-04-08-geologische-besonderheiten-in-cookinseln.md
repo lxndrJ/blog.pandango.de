@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geologische Besonderheiten in Cookinseln"
 date: 2026-04-08 08:00:00 +0200
 permalink: /2026/04/08/geologische-besonderheiten-in-cookinseln.html

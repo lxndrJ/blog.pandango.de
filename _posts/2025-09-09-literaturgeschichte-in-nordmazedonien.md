@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Literaturgeschichte in Nordmazedonien"
 date: 2025-09-09 08:00:00 +0200
 permalink: /2025/09/09/literaturgeschichte-in-nordmazedonien.html

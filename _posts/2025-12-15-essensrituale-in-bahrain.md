@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Essensrituale in Bahrain"
 date: 2025-12-15 08:00:00 +0100
 permalink: /2025/12/15/essensrituale-in-bahrain.html

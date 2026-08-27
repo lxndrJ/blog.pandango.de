@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geschichte der Bildung in Nordkorea"
 date: 2025-10-25 08:00:00 +0200
 permalink: /2025/10/25/geschichte-der-bildung-in-nordkorea.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienstrukturen in Afghanistan"
 date: 2026-02-14 08:00:00 +0100
 permalink: /2026/02/14/familienstrukturen-in-afghanistan.html

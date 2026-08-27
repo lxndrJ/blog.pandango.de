@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Backpacking-Routen in Macao"
 date: 2026-08-05 08:00:00 +0200
 permalink: /2026/08/05/backpacking-routen-in-macao.html

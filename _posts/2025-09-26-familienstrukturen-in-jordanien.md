@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Familienstrukturen in Jordanien"
 date: 2025-09-26 08:00:00 +0200
 permalink: /2025/09/26/familienstrukturen-in-jordanien.html

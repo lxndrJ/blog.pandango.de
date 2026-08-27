@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wälder und Forstwirtschaft in Benin"
 date: 2026-07-17 08:00:00 +0200
 permalink: /2026/07/17/wälder-und-forstwirtschaft-in-benin.html

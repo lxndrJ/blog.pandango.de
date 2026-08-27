@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Infrastrukturprojekte in Indien"
 date: 2026-01-14 08:00:00 +0100
 permalink: /2026/01/14/infrastrukturprojekte-in-indien.html

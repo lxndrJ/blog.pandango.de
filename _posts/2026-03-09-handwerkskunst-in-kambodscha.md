@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Handwerkskunst in Kambodscha"
 date: 2026-03-09 08:00:00 +0100
 permalink: /2026/03/09/handwerkskunst-in-kambodscha.html

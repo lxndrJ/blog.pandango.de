@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Trachten und Kleidung in Färöer-Inseln"
 date: 2026-06-14 08:00:00 +0200
 permalink: /2026/06/14/trachten-und-kleidung-in-färöer-inseln.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nachhaltiger Tourismus in Singapur"
 date: 2026-07-03 08:00:00 +0200
 permalink: /2026/07/03/nachhaltiger-tourismus-in-singapur.html

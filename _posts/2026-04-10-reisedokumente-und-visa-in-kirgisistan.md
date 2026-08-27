@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Reisedokumente und Visa in Kirgisistan"
 date: 2026-04-10 08:00:00 +0200
 permalink: /2026/04/10/reisedokumente-und-visa-in-kirgisistan.html

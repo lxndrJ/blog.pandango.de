@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Bildung und Innovation in Saudi-Arabien"
 date: 2026-08-18 08:00:00 +0200
 permalink: /2026/08/18/bildung-und-innovation-in-saudi-arabien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Estland"
 date: 2026-08-16 08:00:00 +0200
 permalink: /2026/08/16/industrialisierung-in-estland.html

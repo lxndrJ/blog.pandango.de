@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Volksfeste und Bräuche in Portugal"
 date: 2026-05-20 08:00:00 +0200
 permalink: /2026/05/20/volksfeste-und-bräuche-in-portugal.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Reiserouten in Aruba"
 date: 2026-05-18 08:00:00 +0200
 permalink: /2026/05/18/kulinarische-reiserouten-in-aruba.html

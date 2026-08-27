@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Infrastrukturprojekte in Irland"
 date: 2026-08-12 08:00:00 +0200
 permalink: /2026/08/12/infrastrukturprojekte-in-irland.html

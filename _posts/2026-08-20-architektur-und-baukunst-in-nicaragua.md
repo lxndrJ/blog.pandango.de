@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Architektur und Baukunst in Nicaragua"
 date: 2026-08-20 08:00:00 +0200
 permalink: /2026/08/20/architektur-und-baukunst-in-nicaragua.html

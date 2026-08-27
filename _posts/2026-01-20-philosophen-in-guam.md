@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Philosophen in Guam"
 date: 2026-01-20 08:00:00 +0100
 permalink: /2026/01/20/philosophen-in-guam.html

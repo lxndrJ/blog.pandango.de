@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Volksfeste und Bräuche in Russland"
 date: 2026-01-16 08:00:00 +0100
 permalink: /2026/01/16/volksfeste-und-bräuche-in-russland.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kriege und Konflikte in Tuvalu"
 date: 2025-12-01 08:00:00 +0100
 permalink: /2025/12/01/kriege-und-konflikte-in-tuvalu.html

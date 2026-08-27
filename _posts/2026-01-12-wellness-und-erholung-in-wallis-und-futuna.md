@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wellness und Erholung in Wallis und Futuna"
 date: 2026-01-12 08:00:00 +0100
 permalink: /2026/01/12/wellness-und-erholung-in-wallis-und-futuna.html

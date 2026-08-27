@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Feiertage und ihre Ursprünge in St. Vincent und die Grenadinen"
 date: 2025-09-01 08:00:00 +0200
 permalink: /2025/09/01/feiertage-und-ihre-ursprünge-in-st.-vincent-und-die-grenadinen.html

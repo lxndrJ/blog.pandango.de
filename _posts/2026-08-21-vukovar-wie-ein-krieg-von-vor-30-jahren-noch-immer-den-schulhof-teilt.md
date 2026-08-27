@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Vukovar: Wie ein Krieg von vor 30 Jahren noch immer den Schulhof teilt"
 date: 2026-08-21 10:00:00 +0200
 permalink: /2026/08/21/vukovar-wie-ein-krieg-von-vor-30-jahren-noch-immer-den-schulhof-teilt.html
@@ -8,16 +9,16 @@ image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.eurozine.com/die-verlierer-der-balkankriege/
-  - https://www.boell.de/de/2020/07/06/chronologie-der-balkankriege
-  - https://de.wikipedia.org/wiki/Kroatienkrieg
-  - https://osteuropa.lpb-bw.de/jugoslawien-krieg
-  - https://de.wikipedia.org/wiki/Jugoslawienkriege
-  - https://www.zeitklicks.de/wiedervereinigung-bis-heute/weltgeschichte/osteuropa-und-russland/das-ende-von-jugoslawien-der-jugoslawienkrieg-balkankrieg
-  - https://thetvdb.com/series/bosnien-20-jahre-nach-dem-krieg/episodes/8447529
-  - https://www.bpb.de/themen/europaeische-geschichte/geschichte-im-fluss/159202/der-kroatische-kampf-um-vukovar/
-  - https://www.tagesspiegel.de/gesellschaft/vukovar-und-die-wahrheit-3568768.html
-  - https://www.turus.net/reise/vukovar
+- <https://www.eurozine.com/die-verlierer-der-balkankriege/>
+- <https://www.boell.de/de/2020/07/06/chronologie-der-balkankriege>
+- <https://de.wikipedia.org/wiki/Kroatienkrieg>
+- <https://osteuropa.lpb-bw.de/jugoslawien-krieg>
+- <https://de.wikipedia.org/wiki/Jugoslawienkriege>
+- <https://www.zeitklicks.de/wiedervereinigung-bis-heute/weltgeschichte/osteuropa-und-russland/das-ende-von-jugoslawien-der-jugoslawienkrieg-balkankrieg>
+- <https://thetvdb.com/series/bosnien-20-jahre-nach-dem-krieg/episodes/8447529>
+- <https://www.bpb.de/themen/europaeische-geschichte/geschichte-im-fluss/159202/der-kroatische-kampf-um-vukovar/>
+- <https://www.tagesspiegel.de/gesellschaft/vukovar-und-die-wahrheit-3568768.html>
+- <https://www.turus.net/reise/vukovar>
 ---
 
 
@@ -47,11 +48,11 @@ Das ist vielleicht die entscheidende Nachwirkung des Krieges: nicht die Ruinen, 
 
 ## Quellen
 
-- bpb.de: Der kroatische Kampf um Vukovar – https://www.bpb.de/themen/europaeische-geschichte/geschichte-im-fluss/159202/der-kroatische-kampf-um-vukovar/
-- SRF: 30 Jahre nach Kroatienkrieg – noch immer zieht sich ein Riss durch Vukovar – https://www.srf.ch/news/international/30-jahre-nach-kroatienkrieg-noch-immer-zieht-sich-ein-riss-durch-vukovar
-- NZZ: Vukovar – Noch immer gibt es zwei Parallelwelten – https://www.nzz.ch/international/vukovar-noch-immer-gibt-es-zwei-parallelwelten-ld.1542627
-- Euractiv: Multikulturelle Schule in Vukovar – https://euractiv.de/news/multikulturelle-schule-in-vukovar-ein-schlag-ins-wasser/
-- Wikipedia: Schlacht um Vukovar – https://de.wikipedia.org/wiki/Schlacht_um_Vukovar
+- [bpb.de: Der kroatische Kampf um Vukovar –](https://www.bpb.de/themen/europaeische-geschichte/geschichte-im-fluss/159202/der-kroatische-kampf-um-vukovar/)
+- [SRF: 30 Jahre nach Kroatienkrieg – noch immer zieht sich ein Riss durch Vukovar –](https://www.srf.ch/news/international/30-jahre-nach-kroatienkrieg-noch-immer-zieht-sich-ein-riss-durch-vukovar)
+- [NZZ: Vukovar – Noch immer gibt es zwei Parallelwelten –](https://www.nzz.ch/international/vukovar-noch-immer-gibt-es-zwei-parallelwelten-ld.1542627)
+- [Euractiv: Multikulturelle Schule in Vukovar –](https://euractiv.de/news/multikulturelle-schule-in-vukovar-ein-schlag-ins-wasser/)
+- [Wikipedia: Schlacht um Vukovar –](https://de.wikipedia.org/wiki/Schlacht_um_Vukovar)
 
 ---
 

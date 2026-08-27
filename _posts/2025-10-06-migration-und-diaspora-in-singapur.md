@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Migration und Diaspora in Singapur"
 date: 2025-10-06 08:00:00 +0200
 permalink: /2025/10/06/migration-und-diaspora-in-singapur.html

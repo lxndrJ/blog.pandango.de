@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Architektur und Baukunst in Marshallinseln"
 date: 2026-02-13 08:00:00 +0100
 permalink: /2026/02/13/architektur-und-baukunst-in-marshallinseln.html

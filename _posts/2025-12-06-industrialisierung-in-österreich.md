@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industrialisierung in Österreich"
 date: 2025-12-06 08:00:00 +0100
 permalink: /2025/12/06/industrialisierung-in-österreich.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Entdecker und Reisende in Vietnam"
 date: 2025-09-06 08:00:00 +0200
 permalink: /2025/09/06/entdecker-und-reisende-in-vietnam.html

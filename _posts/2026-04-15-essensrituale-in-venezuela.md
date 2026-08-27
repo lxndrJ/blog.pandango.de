@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Essensrituale in Venezuela"
 date: 2026-04-15 08:00:00 +0200
 permalink: /2026/04/15/essensrituale-in-venezuela.html

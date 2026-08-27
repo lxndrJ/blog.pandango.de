@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wellness und Erholung in Osttimor"
 date: 2025-09-08 08:00:00 +0200
 permalink: /2025/09/08/wellness-und-erholung-in-osttimor.html

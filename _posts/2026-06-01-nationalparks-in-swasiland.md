@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Nationalparks in Swasiland"
 date: 2026-06-01 08:00:00 +0200
 permalink: /2026/06/01/nationalparks-in-swasiland.html

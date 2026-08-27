@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Esskulturen im Vergleich in Ägypten"
 date: 2026-04-09 08:00:00 +0200
 permalink: /2026/04/09/esskulturen-im-vergleich-in-ägypten.html

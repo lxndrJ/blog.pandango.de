@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Vogelbeobachtung in Aserbaidschan"
 date: 2026-02-18 08:00:00 +0100
 permalink: /2026/02/18/vogelbeobachtung-in-aserbaidschan.html

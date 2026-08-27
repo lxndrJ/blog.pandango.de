@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Arbeitsmarkttrends in Aruba"
 date: 2026-04-02 08:00:00 +0200
 permalink: /2026/04/02/arbeitsmarkttrends-in-aruba.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Theater und Oper in Armenien"
 date: 2026-04-26 08:00:00 +0200
 permalink: /2026/04/26/theater-und-oper-in-armenien.html

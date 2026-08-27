@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiktraditionen in Äquatorialguinea"
 date: 2026-07-19 08:00:00 +0200
 permalink: /2026/07/19/musiktraditionen-in-äquatorialguinea.html

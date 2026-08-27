@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sicherheit auf Reisen in Indien"
 date: 2026-06-16 08:00:00 +0200
 permalink: /2026/06/16/sicherheit-auf-reisen-in-indien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Revolutionen in Neuseeland"
 date: 2026-02-15 08:00:00 +0100
 permalink: /2026/02/15/revolutionen-in-neuseeland.html

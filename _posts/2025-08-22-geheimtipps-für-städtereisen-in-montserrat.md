@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geheimtipps für Städtereisen in Montserrat"
 date: 2025-08-22 10:00:00 +0200
 permalink: /2025/08/22/geheimtipps-für-städtereisen-in-montserrat.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Hochzeitsbräuche in Lettland"
 date: 2026-03-17 08:00:00 +0100
 permalink: /2026/03/17/hochzeitsbräuche-in-lettland.html

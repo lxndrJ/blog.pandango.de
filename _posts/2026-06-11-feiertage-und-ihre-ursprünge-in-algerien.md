@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Feiertage und ihre Ursprünge in Algerien"
 date: 2026-06-11 08:00:00 +0200
 permalink: /2026/06/11/feiertage-und-ihre-ursprünge-in-algerien.html

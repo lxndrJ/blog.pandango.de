@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Künstler und Kreative in Norwegen"
 date: 2025-08-29 08:00:00 +0200
 permalink: /2025/08/29/künstler-und-kreative-in-norwegen.html

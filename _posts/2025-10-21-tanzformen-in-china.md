@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Tanzformen in China"
 date: 2025-10-21 08:00:00 +0200
 permalink: /2025/10/21/tanzformen-in-china.html

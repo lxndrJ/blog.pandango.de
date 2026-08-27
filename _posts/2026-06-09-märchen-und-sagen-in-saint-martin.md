@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Märchen und Sagen in Saint-Martin"
 date: 2026-06-09 08:00:00 +0200
 permalink: /2026/06/09/märchen-und-sagen-in-saint-martin.html

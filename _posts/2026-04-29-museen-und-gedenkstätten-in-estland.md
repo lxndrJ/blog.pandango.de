@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Museen und Gedenkstätten in Estland"
 date: 2026-04-29 08:00:00 +0200
 permalink: /2026/04/29/museen-und-gedenkstätten-in-estland.html

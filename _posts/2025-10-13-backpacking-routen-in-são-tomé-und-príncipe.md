@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Backpacking-Routen in São Tomé und Príncipe"
 date: 2025-10-13 08:00:00 +0200
 permalink: /2025/10/13/backpacking-routen-in-são-tomé-und-príncipe.html

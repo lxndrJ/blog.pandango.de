@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Arancini und Supplì: Warum Italiens beste Reiskroketten bei uns nicht heimisch werden"
+image: https://images.unsplash.com/photo-1751199393301-1fcbd21bd34d?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8YXJhbmNpbmklMjByaWNlJTIwYmFsbHMlMjBpdGFsaWFuJTIwZm9vZHxlbnwwfDB8fHwxNzg3ODY5NjkzfDA&ixlib=rb-4.1.0
+image_credit: "Photo by Zoshua Colah on Unsplash"
 date: 2026-08-26 19:40:03 +0200
 permalink: /2026/08/26/arancini-und-suppl-warum-italiens-beste-reiskroketten-bei-uns-nicht-heimisch-wer.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://authentisch-italienisch-kochen.de/ganzjahres-gerichte/
-  - https://centro-italia.de/gazzetta/rezepte/
-  - https://de.wikipedia.org/wiki/Italienische_K%C3%BCche
-  - https://www.sanpellegrino.com/de/sparkling-drinks/italienische-rezepte
-  - https://www.gustini.de/blog/rezept-italien/antipasti/carpaccio-original-rezept-aus-venedig/
-  - https://www.wajos.de/blogs/wissenswertes/typisch-italienische-kueche
-  - https://de.wikipedia.org/wiki/Sizilianische_K%C3%BCche
-  - https://de.wikipedia.org/wiki/Kategorie:K%C3%BCche_(Sizilien)
-  - https://authentisch-italienisch-kochen.de/rezepte-aus-sizilien/
-  - https://www.hagengrote.de/genussmagazin/die-kueche-siziliens-ein-paradies-fuer-gourmets/
+- <https://authentisch-italienisch-kochen.de/ganzjahres-gerichte/>
+- <https://centro-italia.de/gazzetta/rezepte/>
+- <https://de.wikipedia.org/wiki/Italienische_K%C3%BCche>
+- <https://www.sanpellegrino.com/de/sparkling-drinks/italienische-rezepte>
+- <https://www.gustini.de/blog/rezept-italien/antipasti/carpaccio-original-rezept-aus-venedig/>
+- <https://www.wajos.de/blogs/wissenswertes/typisch-italienische-kueche>
+- <https://de.wikipedia.org/wiki/Sizilianische_K%C3%BCche>
+- <https://de.wikipedia.org/wiki/Kategorie:K%C3%BCche_(Sizilien)>
+- <https://authentisch-italienisch-kochen.de/rezepte-aus-sizilien/>
+- <https://www.hagengrote.de/genussmagazin/die-kueche-siziliens-ein-paradies-fuer-gourmets/>
 ---
 # Arancini und Supplì: Warum Italiens beste Reiskroketten bei uns nicht heimisch werden
 
@@ -47,10 +50,10 @@ Dabei wären sie objektiv perfekt: klein genug, dass man drei, vier essen kann, 
 
 ## Quellen
 
-- https://authentisch-italienisch-kochen.de/rezepte-aus-sizilien/
-- https://de.wikipedia.org/wiki/Italienische_Küche
-- https://de.wikipedia.org/wiki/Sizilianische_Küche
-- https://de.wikipedia.org/wiki/Kategorie:Küche_(Sizilien)
+- <https://authentisch-italienisch-kochen.de/rezepte-aus-sizilien/>
+- <https://de.wikipedia.org/wiki/Italienische_Küche>
+- <https://de.wikipedia.org/wiki/Sizilianische_Küche>
+- <https://de.wikipedia.org/wiki/Kategorie:Küche_(Sizilien)>
 
 ---
 

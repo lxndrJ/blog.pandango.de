@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Finanzwesen in Nauru"
 date: 2026-06-15 08:00:00 +0200
 permalink: /2026/06/15/finanzwesen-in-nauru.html

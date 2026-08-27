@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiktraditionen in Mexiko"
 date: 2025-10-18 08:00:00 +0200
 permalink: /2025/10/18/musiktraditionen-in-mexiko.html

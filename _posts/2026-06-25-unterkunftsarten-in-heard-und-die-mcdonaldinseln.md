@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unterkunftsarten in Heard und die McDonaldinseln"
 date: 2026-06-25 08:00:00 +0200
 permalink: /2026/06/25/unterkunftsarten-in-heard-und-die-mcdonaldinseln.html

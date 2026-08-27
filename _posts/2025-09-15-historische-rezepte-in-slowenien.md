@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Rezepte in Slowenien"
 date: 2025-09-15 08:00:00 +0200
 permalink: /2025/09/15/historische-rezepte-in-slowenien.html

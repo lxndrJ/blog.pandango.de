@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Architektur und Baukunst in San Marino"
 date: 2026-03-20 08:00:00 +0100
 permalink: /2026/03/20/architektur-und-baukunst-in-san-marino.html

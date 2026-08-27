@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Bildung und Innovation in Australien"
 date: 2026-07-02 08:00:00 +0200
 permalink: /2026/07/02/bildung-und-innovation-in-australien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Politiker in Dominikanische Republik"
 date: 2026-05-19 08:00:00 +0200
 permalink: /2026/05/19/politiker-in-dominikanische-republik.html

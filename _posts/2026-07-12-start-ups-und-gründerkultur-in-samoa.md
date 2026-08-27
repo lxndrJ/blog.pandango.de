@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Start-ups und Gründerkultur in Samoa"
 date: 2026-07-12 08:00:00 +0200
 permalink: /2026/07/12/start-ups-und-gründerkultur-in-samoa.html

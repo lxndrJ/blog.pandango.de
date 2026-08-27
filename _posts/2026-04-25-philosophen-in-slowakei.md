@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Philosophen in Slowakei"
 date: 2026-04-25 08:00:00 +0200
 permalink: /2026/04/25/philosophen-in-slowakei.html

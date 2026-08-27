@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kolonialgeschichte in Bermuda"
 date: 2026-03-10 08:00:00 +0100
 permalink: /2026/03/10/kolonialgeschichte-in-bermuda.html

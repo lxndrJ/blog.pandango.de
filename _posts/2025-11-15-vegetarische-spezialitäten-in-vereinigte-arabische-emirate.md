@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Vegetarische Spezialitäten in Vereinigte Arabische Emirate"
 date: 2025-11-15 08:00:00 +0100
 permalink: /2025/11/15/vegetarische-spezialitäten-in-vereinigte-arabische-emirate.html

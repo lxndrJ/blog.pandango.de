@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Architektur und Baukunst in Kongo"
 date: 2026-01-18 08:00:00 +0100
 permalink: /2026/01/18/architektur-und-baukunst-in-kongo.html

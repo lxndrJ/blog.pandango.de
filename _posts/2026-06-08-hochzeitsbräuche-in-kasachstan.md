@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Hochzeitsbräuche in Kasachstan"
 date: 2026-06-08 08:00:00 +0200
 permalink: /2026/06/08/hochzeitsbräuche-in-kasachstan.html

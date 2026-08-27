@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Moussaka: Das Gericht, das in Griechenland zuhause ist – und bei uns Heimweh hat"
 date: 2026-08-22 08:00:00 +0200
 permalink: /2026/08/22/moussaka-das-gericht-das-in-griechenland-zuhause-ist-und-bei-uns-heimweh-hat.html
@@ -8,16 +9,16 @@ image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche
-  - https://www.greekgastronomyguide.gr/de/item/mousakas-syntagi-fagito-ellada/
-  - https://www.wissen.de/wortherkunft/moussaka
-  - http://www.griechenland-insel.de/moussaka/
-  - https://www.kretatipp.de/premium-inhalt-griechischer-moussaka/
-  - https://www.beefbandits.de/blog/griechisches-moussaka-so-einfach-ist-das-originalrezept
-  - https://www.fuudtaim.de/food-blog/moussaka-griechenlands-kulinarisches-herzstueck
-  - https://www.omas-haushaltstipps.com/was-ist-moussaka-aussehen-herkunft-und-geschmack-erklaert-161576.html
-  - https://emmikochteinfach.de/moussaka-rezept/
-  - https://www.familienkost.de/rezept_einfaches_moussaka.html
+- <https://www.beefbandits.de/blog/moussaka-ein-klassiker-der-griechischen-kueche>
+- <https://www.greekgastronomyguide.gr/de/item/mousakas-syntagi-fagito-ellada/>
+- <https://www.wissen.de/wortherkunft/moussaka>
+- <http://www.griechenland-insel.de/moussaka/>
+- <https://www.kretatipp.de/premium-inhalt-griechischer-moussaka/>
+- <https://www.beefbandits.de/blog/griechisches-moussaka-so-einfach-ist-das-originalrezept>
+- <https://www.fuudtaim.de/food-blog/moussaka-griechenlands-kulinarisches-herzstueck>
+- <https://www.omas-haushaltstipps.com/was-ist-moussaka-aussehen-herkunft-und-geschmack-erklaert-161576.html>
+- <https://emmikochteinfach.de/moussaka-rezept/>
+- <https://www.familienkost.de/rezept_einfaches_moussaka.html>
 ---
 
 

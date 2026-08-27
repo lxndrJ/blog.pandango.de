@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Frauen in der Geschichte in Slowakei"
 date: 2026-04-06 08:00:00 +0200
 permalink: /2026/04/06/frauen-in-der-geschichte-in-slowakei.html

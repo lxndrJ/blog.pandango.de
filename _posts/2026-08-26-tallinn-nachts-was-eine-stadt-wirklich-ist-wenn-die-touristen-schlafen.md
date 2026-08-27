@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Tallinn nachts: Was eine Stadt wirklich ist, wenn die Touristen schlafen"
+image: https://images.unsplash.com/photo-1729268696719-e0f270af3ec3?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8dGFsbGlubiUyMG9sZCUyMHRvd24lMjBuaWdodHxlbnwwfDB8fHwxNzg3ODY5NzYwfDA&ixlib=rb-4.1.0
+image_credit: "Photo by Jan Ledermann on Unsplash"
 date: 2026-08-26 07:26:30 +0200
 permalink: /2026/08/26/tallinn-nachts-was-eine-stadt-wirklich-ist-wenn-die-touristen-schlafen.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.visittallinn.ee/eng/visitor/ideas-tips/tips-and-guides/nightlife-in-tallinn
-  - https://all.accor.com/a/en/limitless/thematics/entertainment/tallinn-by-night.html
-  - https://www.tripadvisor.com/Attractions-g274958-Activities-c20-Tallinn_Harju_County.html
-  - https://www.tallinn-trip.com/guides/tallinn-nightlife-guide/
-  - https://thingstodointallinn.com/nightlife/
-  - https://www.gammapeople.com/blog/best-clubs-pubs-and-bars-in-tallinn-estonia-nightlife-2025
-  - https://destinationtallinn.com/see-do-tallinn/tallinn-night-activities/
-  - https://balticguide.ee/en/all-prisma-supermarkets-to-be-open-24-7-before-midsummer/
-  - https://www.tripadvisor.com/ShowTopic-g274958-i996-k6567167-Shopping_Hours_in_Tallinn-Tallinn_Harju_County.html
-  - https://www.livetheworld.com/post/spend-your-day-shopping-in-tallinn-j4zz
+- <https://www.visittallinn.ee/eng/visitor/ideas-tips/tips-and-guides/nightlife-in-tallinn>
+- <https://all.accor.com/a/en/limitless/thematics/entertainment/tallinn-by-night.html>
+- <https://www.tripadvisor.com/Attractions-g274958-Activities-c20-Tallinn_Harju_County.html>
+- <https://www.tallinn-trip.com/guides/tallinn-nightlife-guide/>
+- <https://thingstodointallinn.com/nightlife/>
+- <https://www.gammapeople.com/blog/best-clubs-pubs-and-bars-in-tallinn-estonia-nightlife-2025>
+- <https://destinationtallinn.com/see-do-tallinn/tallinn-night-activities/>
+- <https://balticguide.ee/en/all-prisma-supermarkets-to-be-open-24-7-before-midsummer/>
+- <https://www.tripadvisor.com/ShowTopic-g274958-i996-k6567167-Shopping_Hours_in_Tallinn-Tallinn_Harju_County.html>
+- <https://www.livetheworld.com/post/spend-your-day-shopping-in-tallinn-j4zz>
 ---
 # Tallinn nachts: Was eine Stadt wirklich ist, wenn die Touristen schlafen
 
@@ -59,14 +62,14 @@ Tallinn nachts ist nicht weniger als Tallinn tagsüber. Es ist nur kleiner und r
 
 ## Quellen
 
-- https://www.tallinn.ee/en/nighttime-in-tallinn
-- https://www.tallinn.ee/en/news/tallinn-develop-nightlife-strategy-through-2035
-- https://urban-mobility-observatory.transport.ec.europa.eu/news-events/news/evolution-247-public-transport-tallinn-2024-03-11_en
-- https://www.visittallinn.ee/eng/visitor/plan/transport/public-transport
-- https://www.tallinn.ee/en/news/night-bus-usage-data-shows-stable-demand
-- https://balticguide.ee/en/all-prisma-supermarkets-to-be-open-24-7-before-midsummer/
-- https://www.visittallinn.ee/eng/visitor/see-do/neighbourhoods/kadriorg
-- https://www.visittallinn.ee/eng/visitor/ideas-tips/tips-and-guides/nightlife-in-tallinn
+- <https://www.tallinn.ee/en/nighttime-in-tallinn>
+- <https://www.tallinn.ee/en/news/tallinn-develop-nightlife-strategy-through-2035>
+- <https://urban-mobility-observatory.transport.ec.europa.eu/news-events/news/evolution-247-public-transport-tallinn-2024-03-11_en>
+- <https://www.visittallinn.ee/eng/visitor/plan/transport/public-transport>
+- <https://www.tallinn.ee/en/news/night-bus-usage-data-shows-stable-demand>
+- <https://balticguide.ee/en/all-prisma-supermarkets-to-be-open-24-7-before-midsummer/>
+- <https://www.visittallinn.ee/eng/visitor/see-do/neighbourhoods/kadriorg>
+- <https://www.visittallinn.ee/eng/visitor/ideas-tips/tips-and-guides/nightlife-in-tallinn>
 
 ---
 

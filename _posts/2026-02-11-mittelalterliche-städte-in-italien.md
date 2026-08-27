@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Mittelalterliche Städte in Italien"
 date: 2026-02-11 08:00:00 +0100
 permalink: /2026/02/11/mittelalterliche-städte-in-italien.html

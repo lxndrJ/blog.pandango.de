@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Tallinn nachts: Eine Stadt zwischen Dunkelheit und Alltag"
 date: 2026-08-23 09:00:00 +0200
 permalink: /2026/08/23/tallinn-nachts-eine-stadt-zwischen-dunkelheit-und-alltag.html
@@ -8,16 +9,16 @@ image_credit: "Bild: Wikimedia Commons"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.arrivalguides.com/de/Travelguides/Europe/Estonia/Tallinn/barsandnightlife
-  - https://visitestonia.com/de/aktivitaeten/geniessen-sie-das-nachtleben-in-tallinn
-  - https://www.nightlife-cityguide.com/de/f%C3%BChren-Nachtleben/Tallinn-Nachtleben-Nachtclubs-Nachtleben-Standorte/
-  - https://visitestonia.com/de/was-man-in-estland-waehrend-der-dunklen-naechte-erleben-kann
-  - https://www.derreisefuehrer.com/guides/europa/estland/tallinn/nightlife/
-  - https://visittallinn.ee/eng
-  - https://www.pissup.de/junggesellenabschied-tallinn/nachtleben/
-  - https://visitestonia.com/de/aktivitaeten/estlands-wei%C3%9Fe-nachte
-  - https://steffistraumzeit.de/fast-24-stunden-in-tallinn-tipps/
-  - https://www.laenderdaten.info/Europa/Estland/sonnenuntergang.php
+- <https://www.arrivalguides.com/de/Travelguides/Europe/Estonia/Tallinn/barsandnightlife>
+- <https://visitestonia.com/de/aktivitaeten/geniessen-sie-das-nachtleben-in-tallinn>
+- <https://www.nightlife-cityguide.com/de/f%C3%BChren-Nachtleben/Tallinn-Nachtleben-Nachtclubs-Nachtleben-Standorte/>
+- <https://visitestonia.com/de/was-man-in-estland-waehrend-der-dunklen-naechte-erleben-kann>
+- <https://www.derreisefuehrer.com/guides/europa/estland/tallinn/nightlife/>
+- <https://visittallinn.ee/eng>
+- <https://www.pissup.de/junggesellenabschied-tallinn/nachtleben/>
+- <https://visitestonia.com/de/aktivitaeten/estlands-wei%C3%9Fe-nachte>
+- <https://steffistraumzeit.de/fast-24-stunden-in-tallinn-tipps/>
+- <https://www.laenderdaten.info/Europa/Estland/sonnenuntergang.php>
 ---
 
 
@@ -58,13 +59,13 @@ Ehrlich gesagt finde ich diese Ehrlichkeit überraschend. Tallinn macht aus der 
 
 ## Quellen
 
-- https://visitestonia.com/de/aktivitaeten/geniessen-sie-das-nachtleben-in-tallinn
-- https://visitestonia.com/de/was-man-in-estland-waehrend-der-dunklen-naechte-erleben-kann
-- https://visitestonia.com/de/aktivitaeten/estlands-wei%C3%9Fe-nachte
-- https://visittallinn.ee/eng
-- https://www.arrivalguides.com/de/Travelguides/Europe/Estonia/Tallinn/barsandnightlife
-- https://www.laenderdaten.info/Europa/Estland/sonnenuntergang.php
-- https://www.nightlife-cityguide.com/de/führen-Nachtleben/Tallinn-Nachtleben-Nachtclubs-Nachtleben-Standorte/
+- <https://visitestonia.com/de/aktivitaeten/geniessen-sie-das-nachtleben-in-tallinn>
+- <https://visitestonia.com/de/was-man-in-estland-waehrend-der-dunklen-naechte-erleben-kann>
+- <https://visitestonia.com/de/aktivitaeten/estlands-wei%C3%9Fe-nachte>
+- <https://visittallinn.ee/eng>
+- <https://www.arrivalguides.com/de/Travelguides/Europe/Estonia/Tallinn/barsandnightlife>
+- <https://www.laenderdaten.info/Europa/Estland/sonnenuntergang.php>
+- <https://www.nightlife-cityguide.com/de/führen-Nachtleben/Tallinn-Nachtleben-Nachtclubs-Nachtleben-Standorte/>
 
 ---
 

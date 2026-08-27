@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiker und Komponisten in Mayotte"
 date: 2026-08-17 08:00:00 +0200
 permalink: /2026/08/17/musiker-und-komponisten-in-mayotte.html

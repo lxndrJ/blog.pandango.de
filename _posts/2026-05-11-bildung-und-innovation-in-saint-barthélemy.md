@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Bildung und Innovation in Saint-Barthélemy"
 date: 2026-05-11 08:00:00 +0200
 permalink: /2026/05/11/bildung-und-innovation-in-saint-barthélemy.html

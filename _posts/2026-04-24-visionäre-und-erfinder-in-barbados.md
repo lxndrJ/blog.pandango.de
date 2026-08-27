@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Visionäre und Erfinder in Barbados"
 date: 2026-04-24 08:00:00 +0200
 permalink: /2026/04/24/visionäre-und-erfinder-in-barbados.html

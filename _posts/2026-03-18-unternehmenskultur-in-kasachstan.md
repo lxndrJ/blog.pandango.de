@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unternehmenskultur in Kasachstan"
 date: 2026-03-18 08:00:00 +0100
 permalink: /2026/03/18/unternehmenskultur-in-kasachstan.html

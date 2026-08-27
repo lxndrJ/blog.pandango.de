@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Saisonale Küche in Gabun"
 date: 2025-12-23 08:00:00 +0100
 permalink: /2025/12/23/saisonale-küche-in-gabun.html

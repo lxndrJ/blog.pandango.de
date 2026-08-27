@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Digitalisierung in Barbados"
 date: 2026-07-08 08:00:00 +0200
 permalink: /2026/07/08/digitalisierung-in-barbados.html

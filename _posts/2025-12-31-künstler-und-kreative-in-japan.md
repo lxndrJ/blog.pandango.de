@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Künstler und Kreative in Japan"
 date: 2025-12-31 08:00:00 +0100
 permalink: /2025/12/31/künstler-und-kreative-in-japan.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Museen und Gedenkstätten in Kuba"
 date: 2026-05-30 08:00:00 +0200
 permalink: /2026/05/30/museen-und-gedenkstätten-in-kuba.html

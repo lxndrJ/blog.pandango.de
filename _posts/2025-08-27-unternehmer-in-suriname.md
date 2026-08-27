@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Unternehmer in Suriname"
 date: 2025-08-27 08:00:00 +0200
 permalink: /2025/08/27/unternehmer-in-suriname.html

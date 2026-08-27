@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Bildung und Innovation in Guinea"
 date: 2025-12-16 08:00:00 +0100
 permalink: /2025/12/16/bildung-und-innovation-in-guinea.html

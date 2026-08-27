@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Wälder und Forstwirtschaft in Guadeloupe"
 date: 2026-06-05 08:00:00 +0200
 permalink: /2026/06/05/wälder-und-forstwirtschaft-in-guadeloupe.html

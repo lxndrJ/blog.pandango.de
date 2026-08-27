@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Theater und Oper in Litauen"
 date: 2025-10-31 08:00:00 +0100
 permalink: /2025/10/31/theater-und-oper-in-litauen.html

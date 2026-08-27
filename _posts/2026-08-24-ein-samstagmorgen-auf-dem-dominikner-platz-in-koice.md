@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Ein Samstagmorgen auf dem Dominikáner-Platz in Košice"
 date: 2026-08-24 08:00:00 +0200
 permalink: /2026/08/24/ein-samstagmorgen-auf-dem-dominikner-platz-in-koice.html
@@ -8,16 +9,16 @@ image_credit: "Photo by Vladyslav Yerofeiev on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://en.wikipedia.org/wiki/Kosice_(disambiguation)
-  - https://www.britannica.com/place/Kosice
-  - https://en.wikipedia.org/wiki/Ko%C5%A1ice_railway_station
-  - https://en.wikipedia.org/wiki/Ko%C5%A1ice_Self-governing_Region
-  - https://slovakia.travel/de/reiseziele/das-beste-aus-der-slowakei/kosice
-  - https://en.wikipedia.org/wiki/Ko%C5%A1ice
-  - https://www.kosice.sk/en
-  - https://www.besteuropeanchristmasmarkets.com/slovakia/kosice
-  - https://www.besteuropeanchristmasmarkets.com/slovakia/kosice/kosice-fairytale-christmas-kosice
-  - https://www.kupi.com/en/explore/greece/kos/kos-municipal-market
+- <https://en.wikipedia.org/wiki/Kosice_(disambiguation)>
+- <https://www.britannica.com/place/Kosice>
+- <https://en.wikipedia.org/wiki/Ko%C5%A1ice_railway_station>
+- <https://en.wikipedia.org/wiki/Ko%C5%A1ice_Self-governing_Region>
+- <https://slovakia.travel/de/reiseziele/das-beste-aus-der-slowakei/kosice>
+- <https://en.wikipedia.org/wiki/Ko%C5%A1ice>
+- <https://www.kosice.sk/en>
+- <https://www.besteuropeanchristmasmarkets.com/slovakia/kosice>
+- <https://www.besteuropeanchristmasmarkets.com/slovakia/kosice/kosice-fairytale-christmas-kosice>
+- <https://www.kupi.com/en/explore/greece/kos/kos-municipal-market>
 ---
 
 # Ein Samstagmorgen auf dem Dominikáner-Platz in Košice

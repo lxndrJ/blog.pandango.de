@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Flora und Fauna in Ukraine"
 date: 2026-04-07 08:00:00 +0200
 permalink: /2026/04/07/flora-und-fauna-in-ukraine.html

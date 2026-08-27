@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Persönlichkeiten in Island"
 date: 2026-07-04 08:00:00 +0200
 permalink: /2026/07/04/historische-persönlichkeiten-in-island.html

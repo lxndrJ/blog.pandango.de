@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Philosophen in Bermuda"
 date: 2026-05-03 08:00:00 +0200
 permalink: /2026/05/03/philosophen-in-bermuda.html

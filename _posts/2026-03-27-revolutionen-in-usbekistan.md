@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Revolutionen in Usbekistan"
 date: 2026-03-27 08:00:00 +0100
 permalink: /2026/03/27/revolutionen-in-usbekistan.html

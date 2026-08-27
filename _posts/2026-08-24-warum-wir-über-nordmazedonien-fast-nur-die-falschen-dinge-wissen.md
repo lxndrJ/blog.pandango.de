@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Warum wir über Nordmazedonien fast nur die falschen Dinge wissen"
 date: 2026-08-24 11:00:00 +0200
 permalink: /2026/08/24/warum-wir-über-nordmazedonien-fast-nur-die-falschen-dinge-wissen.html
@@ -8,16 +9,16 @@ image_credit: "Photo by Fisnik Murtezi on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.kinderweltreise.de/kontinente/europa/nordmazedonien/daten-fakten/
-  - https://www.derstandard.at/consent/tcf/story/2000016535917/mazedonien-falsche-helden-wenig-wahrheitsfindung
-  - https://100-facts.com/interesting-facts-about-north-macedonia/
-  - https://sarahkolumna.de/10-dinge-die-du-bestimmt-noch-nicht-ueber-nordmazedonien-wusstest/
-  - https://www.tiktok.com/@geofacts2go/video/7488434921778777366
-  - https://etichotels.com/journal/10-surprising-facts-about-north-macedonia/
-  - https://www.freedomtravel.se/en/2021/12/fakta-om-nordmakedonien/
-  - https://en.wikipedia.org/wiki/Aromanians_in_North_Macedonia
-  - https://en.wikipedia.org/wiki/Bulgaria%E2%80%93North_Macedonia_relations
-  - https://www.ebay.de/p/13042166338
+- <https://www.kinderweltreise.de/kontinente/europa/nordmazedonien/daten-fakten/>
+- <https://www.derstandard.at/consent/tcf/story/2000016535917/mazedonien-falsche-helden-wenig-wahrheitsfindung>
+- <https://100-facts.com/interesting-facts-about-north-macedonia/>
+- <https://sarahkolumna.de/10-dinge-die-du-bestimmt-noch-nicht-ueber-nordmazedonien-wusstest/>
+- <https://www.tiktok.com/@geofacts2go/video/7488434921778777366>
+- <https://etichotels.com/journal/10-surprising-facts-about-north-macedonia/>
+- <https://www.freedomtravel.se/en/2021/12/fakta-om-nordmakedonien/>
+- <https://en.wikipedia.org/wiki/Aromanians_in_North_Macedonia>
+- <https://en.wikipedia.org/wiki/Bulgaria%E2%80%93North_Macedonia_relations>
+- <https://www.ebay.de/p/13042166338>
 ---
 
 # Warum wir über Nordmazedonien fast nur die falschen Dinge wissen
@@ -50,10 +51,10 @@ Wer Nordmazedonien besucht, findet: byzantinische Kirchenkunst mit echtem Rang, 
 
 ## Quellen
 
-- https://www.bpb.de/themen/europa/suedosteuropa/322810/nordmazedonien/
-- https://de.wikipedia.org/wiki/Natur-_und_Kulturerbe_der_Ohrid-Region
-- https://de.wikipedia.org/wiki/Film_in_Nordmazedonien
-- https://www.kinderweltreise.de/kontinente/europa/nordmazedonien/daten-fakten/
+- <https://www.bpb.de/themen/europa/suedosteuropa/322810/nordmazedonien/>
+- <https://de.wikipedia.org/wiki/Natur-_und_Kulturerbe_der_Ohrid-Region>
+- <https://de.wikipedia.org/wiki/Film_in_Nordmazedonien>
+- <https://www.kinderweltreise.de/kontinente/europa/nordmazedonien/daten-fakten/>
 
 ---
 

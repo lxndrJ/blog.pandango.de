@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sternenhimmel und Astronomie in Swasiland"
 date: 2026-02-09 08:00:00 +0100
 permalink: /2026/02/09/sternenhimmel-und-astronomie-in-swasiland.html

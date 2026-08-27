@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Warschau nach Lwiw über die Grenze – Was die Fahrzeit wirklich ist"
 date: 2026-08-24 09:00:00 +0200
 permalink: /2026/08/24/warschau-nach-lwiw-über-die-grenze-was-die-fahrzeit-wirklich-ist.html
@@ -8,16 +9,16 @@ image_credit: "Photo by Michał Turkiewicz on Unsplash"
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://rail.cc/de/zug/warschau-nach-lwiw-lemberg
-  - https://rail.cc/de/zug/berlin-nach-lwiw-lemberg
-  - https://www.rome2rio.com/de/s/Lwiw/Warschau
-  - https://rail.cc/de/zug/lwiw-lemberg-nach-warschau
-  - https://www.rome2rio.com/de/s/Warschau/Bahnhof-Lwiw
-  - https://www.rome2rio.com/de/s/Lwiw/Polen
-  - https://www.dieweltentdecken.org/nachtzug-warschau-lemberg/
-  - https://meinwarschau.com/warschau-kiew-express-zug/
-  - https://notesfrompoland.com/2023/10/06/warsaw-lviv-train-route-returns-after-18-years/
-  - https://rail.cc/train/warsaw-to-lviv
+- <https://rail.cc/de/zug/warschau-nach-lwiw-lemberg>
+- <https://rail.cc/de/zug/berlin-nach-lwiw-lemberg>
+- <https://www.rome2rio.com/de/s/Lwiw/Warschau>
+- <https://rail.cc/de/zug/lwiw-lemberg-nach-warschau>
+- <https://www.rome2rio.com/de/s/Warschau/Bahnhof-Lwiw>
+- <https://www.rome2rio.com/de/s/Lwiw/Polen>
+- <https://www.dieweltentdecken.org/nachtzug-warschau-lemberg/>
+- <https://meinwarschau.com/warschau-kiew-express-zug/>
+- <https://notesfrompoland.com/2023/10/06/warsaw-lviv-train-route-returns-after-18-years/>
+- <https://rail.cc/train/warsaw-to-lviv>
 ---
 
 # Warschau nach Lwiw über die Grenze – Was die Fahrzeit wirklich ist
@@ -52,11 +53,11 @@ Die Rava-Ruska-Route ist für die meisten Reisenden die sinnvollste Wahl: Sie is
 
 ## Quellen
 
-- https://rail.cc/de/zug/warschau-nach-lwiw-lemberg
-- https://notesfrompoland.com/2023/10/06/warsaw-lviv-train-route-returns-after-18-years/
-- https://www.dieweltentdecken.org/nachtzug-warschau-lemberg/
-- https://www.flixbus.com/bus-routes/bus-warsaw-lviv
-- https://www.rome2rio.com/de/s/Warschau/Bahnhof-Lwiw
+- <https://rail.cc/de/zug/warschau-nach-lwiw-lemberg>
+- <https://notesfrompoland.com/2023/10/06/warsaw-lviv-train-route-returns-after-18-years/>
+- <https://www.dieweltentdecken.org/nachtzug-warschau-lemberg/>
+- <https://www.flixbus.com/bus-routes/bus-warsaw-lviv>
+- <https://www.rome2rio.com/de/s/Warschau/Bahnhof-Lwiw>
 
 ---
 

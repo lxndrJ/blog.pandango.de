@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Regionale Gerichte in Guinea"
 date: 2025-12-14 08:00:00 +0100
 permalink: /2025/12/14/regionale-gerichte-in-guinea.html

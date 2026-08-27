@@ -1,21 +1,24 @@
 ---
 layout: post
+categories: [Reise]
 title: "Fünf Dinge, die mich an Götaland überrascht haben – und warum sie niemand im Reiseführer findet"
+image: https://images.unsplash.com/photo-1455577625686-e8e5578a4c19?ixid=M3wxMDM5NDc3fDB8MXxzZWFyY2h8MXx8Z290bGFuZCUyMHN3ZWRlbiUyMGxhbmRzY2FwZXxlbnwwfDB8fHwxNzg3ODY5NzQ4fDA&ixlib=rb-4.1.0
+image_credit: "Photo by Jon Flobrant on Unsplash"
 date: 2026-08-27 11:59:28 +0200
 permalink: /2026/08/27/fünf-dinge-die-mich-an-götaland-überrascht-haben-und-warum-sie-niemand-im-reisef.html
 author: lxndrJ
 ai_assisted: true
 sources:
-  - https://www.pincamp.de/magazin/inspiration/routen-touren/roadtrip-goetaland-schweden-suedost
-  - https://www.schwedentor.de/reise-urlaub/urlaubsregionen/suedschweden/vaestra-goetaland
-  - https://visitsweden.de/regionen/sudschweden/gotland/
-  - https://schwedenstube.de/geo/schweden/goetaland/
-  - https://einfachschweden.de/goetaland/
-  - https://cleverreisen.club/2019/05/07/gotland-11-geheimnisse-ueber-die-schwedische-insel/
-  - https://www.vgregion.se/en/culture/
-  - https://de.wikipedia.org/wiki/G%C3%B6teborg
-  - https://visitsweden.de/regionen/sudschweden/westschweden/
-  - http://www.bjoerklunda.de/index.cfm/de/schweden/vastra-gotaland/
+- <https://www.pincamp.de/magazin/inspiration/routen-touren/roadtrip-goetaland-schweden-suedost>
+- <https://www.schwedentor.de/reise-urlaub/urlaubsregionen/suedschweden/vaestra-goetaland>
+- <https://visitsweden.de/regionen/sudschweden/gotland/>
+- <https://schwedenstube.de/geo/schweden/goetaland/>
+- <https://einfachschweden.de/goetaland/>
+- <https://cleverreisen.club/2019/05/07/gotland-11-geheimnisse-ueber-die-schwedische-insel/>
+- <https://www.vgregion.se/en/culture/>
+- <https://de.wikipedia.org/wiki/G%C3%B6teborg>
+- <https://visitsweden.de/regionen/sudschweden/westschweden/>
+- <http://www.bjoerklunda.de/index.cfm/de/schweden/vastra-gotaland/>
 ---
 # Fünf Dinge, die mich an Götaland überrascht haben – und warum sie niemand im Reiseführer findet
 
@@ -57,13 +60,13 @@ Alle diese Dinge hätte ich in einem Reiseführer nicht gefunden. Sie sind zu al
 
 ## Quellen
 
-- Visit Sweden: „Gotland Wikingererbe", https://visitsweden.de/regionen/sudschweden/gotland/
-- Visit Sweden: „Ostern in Schweden", https://visitsweden.de/aktivitaten/kultur-geschichte-und-kunst/schwedische-traditionen/ostern-in-schweden/
-- Visit Sweden: „Fika Kultur", https://visitsweden.de/aktivitaten/kultur-geschichte-und-kunst/kultur/lebensstil/fika-mach-es-wie-die-schweden/
-- Visit Sweden: „Westschweden Meeresfrüchte", https://visitsweden.de/regionen/sudschweden/westschweden/
-- Schwedentipps: „Alingsås – Fika-Hauptstadt", https://www.schwedentipps.se/vaestergoetland/alingsas/
-- Schwedentor: „Västra Götaland Reise-Tipps", https://www.schwedentor.de/reise-urlaub/urlaubsregionen/suedschweden/vaestra-goetaland
-- CleverReisen: „Gotland Geheimnisse", https://cleverreisen.club/2019/05/07/gotland-11-geheimnisse-ueber-die-schwedische-insel/
+- [Visit Sweden: „Gotland Wikingererbe"](https://visitsweden.de/regionen/sudschweden/gotland/)
+- [Visit Sweden: „Ostern in Schweden"](https://visitsweden.de/aktivitaten/kultur-geschichte-und-kunst/schwedische-traditionen/ostern-in-schweden/)
+- [Visit Sweden: „Fika Kultur"](https://visitsweden.de/aktivitaten/kultur-geschichte-und-kunst/kultur/lebensstil/fika-mach-es-wie-die-schweden/)
+- [Visit Sweden: „Westschweden Meeresfrüchte"](https://visitsweden.de/regionen/sudschweden/westschweden/)
+- [Schwedentipps: „Alingsås – Fika-Hauptstadt"](https://www.schwedentipps.se/vaestergoetland/alingsas/)
+- [Schwedentor: „Västra Götaland Reise-Tipps"](https://www.schwedentor.de/reise-urlaub/urlaubsregionen/suedschweden/vaestra-goetaland)
+- [CleverReisen: „Gotland Geheimnisse"](https://cleverreisen.club/2019/05/07/gotland-11-geheimnisse-ueber-die-schwedische-insel/)
 
 ---
 

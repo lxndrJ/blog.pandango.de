@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Flora und Fauna in Haiti"
 date: 2026-02-12 08:00:00 +0100
 permalink: /2026/02/12/flora-und-fauna-in-haiti.html

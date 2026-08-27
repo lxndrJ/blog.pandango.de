@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Antike Kulturen in Komoren"
 date: 2026-05-23 08:00:00 +0200
 permalink: /2026/05/23/antike-kulturen-in-komoren.html

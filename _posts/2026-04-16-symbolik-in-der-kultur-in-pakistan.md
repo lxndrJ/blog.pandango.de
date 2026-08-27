@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Symbolik in der Kultur in Pakistan"
 date: 2026-04-16 08:00:00 +0200
 permalink: /2026/04/16/symbolik-in-der-kultur-in-pakistan.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Revolutionen in Frankreich"
 date: 2026-08-06 08:00:00 +0200
 permalink: /2026/08/06/revolutionen-in-frankreich.html

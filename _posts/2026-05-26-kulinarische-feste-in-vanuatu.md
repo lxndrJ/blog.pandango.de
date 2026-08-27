@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kulinarische Feste in Vanuatu"
 date: 2026-05-26 08:00:00 +0200
 permalink: /2026/05/26/kulinarische-feste-in-vanuatu.html

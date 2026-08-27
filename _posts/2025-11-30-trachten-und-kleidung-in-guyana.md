@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Trachten und Kleidung in Guyana"
 date: 2025-11-30 08:00:00 +0100
 permalink: /2025/11/30/trachten-und-kleidung-in-guyana.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Tanzformen in Weihnachtsinsel"
 date: 2025-11-04 08:00:00 +0100
 permalink: /2025/11/04/tanzformen-in-weihnachtsinsel.html

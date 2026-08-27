@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Transport in [Region]: Von A nach B – ohne Romantik"
 date: 2026-08-21 09:00:00 +0200
 permalink: /2026/08/21/transport-in-region-von-a-nach-b-ohne-romantik.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industriegeschichte in Martinique"
 date: 2025-10-27 08:00:00 +0100
 permalink: /2025/10/27/industriegeschichte-in-martinique.html

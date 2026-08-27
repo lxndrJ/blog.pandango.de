@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Kriege und Konflikte in Portugal"
 date: 2025-10-17 08:00:00 +0200
 permalink: /2025/10/17/kriege-und-konflikte-in-portugal.html

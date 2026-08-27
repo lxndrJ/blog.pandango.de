@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Architektur und Baukunst in Grönland"
 date: 2026-06-21 08:00:00 +0200
 permalink: /2026/06/21/architektur-und-baukunst-in-grönland.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Industriegeschichte in Sri Lanka"
 date: 2026-07-15 08:00:00 +0200
 permalink: /2026/07/15/industriegeschichte-in-sri-lanka.html

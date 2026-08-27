@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Religiöse Rituale in Jemen"
 date: 2026-06-29 08:00:00 +0200
 permalink: /2026/06/29/religiöse-rituale-in-jemen.html

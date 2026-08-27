@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Regionale Gerichte in Bhutan"
 date: 2026-08-14 08:00:00 +0200
 permalink: /2026/08/14/regionale-gerichte-in-bhutan.html

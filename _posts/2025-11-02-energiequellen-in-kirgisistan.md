@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Energiequellen in Kirgisistan"
 date: 2025-11-02 08:00:00 +0100
 permalink: /2025/11/02/energiequellen-in-kirgisistan.html

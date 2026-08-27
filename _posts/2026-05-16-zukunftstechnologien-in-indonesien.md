@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Zukunftstechnologien in Indonesien"
 date: 2026-05-16 08:00:00 +0200
 permalink: /2026/05/16/zukunftstechnologien-in-indonesien.html

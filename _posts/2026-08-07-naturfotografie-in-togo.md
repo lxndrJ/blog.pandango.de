@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Naturfotografie in Togo"
 date: 2026-08-07 08:00:00 +0200
 permalink: /2026/08/07/naturfotografie-in-togo.html

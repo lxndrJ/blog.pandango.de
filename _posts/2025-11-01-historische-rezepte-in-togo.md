@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Historische Rezepte in Togo"
 date: 2025-11-01 08:00:00 +0100
 permalink: /2025/11/01/historische-rezepte-in-togo.html

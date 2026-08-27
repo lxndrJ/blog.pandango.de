@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Esskulturen im Vergleich in Brasilien"
 date: 2026-01-26 08:00:00 +0100
 permalink: /2026/01/26/esskulturen-im-vergleich-in-brasilien.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Flora und Fauna in Dominica"
 date: 2026-05-07 08:00:00 +0200
 permalink: /2026/05/07/flora-und-fauna-in-dominica.html

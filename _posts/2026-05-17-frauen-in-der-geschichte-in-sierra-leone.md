@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Frauen in der Geschichte in Sierra Leone"
 date: 2026-05-17 08:00:00 +0200
 permalink: /2026/05/17/frauen-in-der-geschichte-in-sierra-leone.html

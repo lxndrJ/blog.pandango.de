@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sternenhimmel und Astronomie in Jemen"
 date: 2025-10-01 08:00:00 +0200
 permalink: /2025/10/01/sternenhimmel-und-astronomie-in-jemen.html

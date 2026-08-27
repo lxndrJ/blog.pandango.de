@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Zeitgeschichte in Vietnam"
 date: 2026-03-23 08:00:00 +0100
 permalink: /2026/03/23/zeitgeschichte-in-vietnam.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Fischgerichte in Saudi-Arabien"
 date: 2025-08-28 08:00:00 +0200
 permalink: /2025/08/28/fischgerichte-in-saudi-arabien.html

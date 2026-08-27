@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Volksfeste und Bräuche in Salomonen"
 date: 2025-08-31 08:00:00 +0200
 permalink: /2025/08/31/volksfeste-und-bräuche-in-salomonen.html

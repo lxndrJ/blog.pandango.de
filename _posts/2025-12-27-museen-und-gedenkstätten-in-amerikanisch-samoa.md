@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Museen und Gedenkstätten in Amerikanisch-Samoa"
 date: 2025-12-27 08:00:00 +0100
 permalink: /2025/12/27/museen-und-gedenkstätten-in-amerikanisch-samoa.html

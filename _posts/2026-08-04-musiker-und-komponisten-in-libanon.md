@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Musiker und Komponisten in Libanon"
 date: 2026-08-04 08:00:00 +0200
 permalink: /2026/08/04/musiker-und-komponisten-in-libanon.html

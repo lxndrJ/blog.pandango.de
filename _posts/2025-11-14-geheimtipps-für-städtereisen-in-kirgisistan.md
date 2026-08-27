@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Geheimtipps für Städtereisen in Kirgisistan"
 date: 2025-11-14 08:00:00 +0100
 permalink: /2025/11/14/geheimtipps-für-städtereisen-in-kirgisistan.html

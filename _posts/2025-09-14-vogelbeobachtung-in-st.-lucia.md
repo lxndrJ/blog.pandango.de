@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Vogelbeobachtung in St. Lucia"
 date: 2025-09-14 08:00:00 +0200
 permalink: /2025/09/14/vogelbeobachtung-in-st.-lucia.html

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Reise]
 title: "Sicherheit auf Reisen in Italien"
 date: 2026-07-16 08:00:00 +0200
 permalink: /2026/07/16/sicherheit-auf-reisen-in-italien.html
