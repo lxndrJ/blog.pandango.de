@@ -36,7 +36,6 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-          bundler-cache: true
 
       - name: Generate sitemap.xml and robots.txt
         if: steps.loop_guard.outputs.skip == 'false'
